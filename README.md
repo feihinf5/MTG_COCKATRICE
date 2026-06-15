@@ -24,6 +24,7 @@ CSP 2006年7月 Ice Age Block<br>
 8ED 2003年7月<br>
 7ED 2001年4月<br>
 6ED 1999年4月<br>
+WTH 1997年6月 Mirrage block<br>
 5ED 1997年4月<br>
 VIS 1997年3月 Mirrage block<br>
 MIR 1996年10月 Mirrage block<br>
