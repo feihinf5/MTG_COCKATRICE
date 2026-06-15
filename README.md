@@ -23,7 +23,10 @@ CSP 2006年7月  Ice Age block
 9ED 2005年7月
 8ED 2003年7月
 7ED 2001年4月
+UDS 1999年6月  Urza block
 6ED 1999年4月
+ULG 1999年2月  Urza block
+USG 1998年10月 Urza block
 EXO 1998年6月  Tempest block
 STH 1998年2月  Tempest block
 TMP 1997年10月 Tempest block
