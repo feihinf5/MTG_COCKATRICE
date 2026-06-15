@@ -5,6 +5,8 @@ https://cockatrice.github.io/
 
 # MTG card sets Release date:
 
+4ED 1995年4月
+
 3ED 1994年4月
 
 2ED 1993年11月
