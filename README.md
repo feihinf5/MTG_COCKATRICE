@@ -25,7 +25,7 @@ M10 2009年7月<br>
 6ED 1999年4月<br>
 5ED 1997年4月<br>
 HML 1995年10月<br>
-ICE 1995年6月<br>
+ICE 1995年6月 Ice Age Block<br>
 CHR 1995年7月<br>
 4ED 1995年4月<br>
 FEM 1994年11月<br>
