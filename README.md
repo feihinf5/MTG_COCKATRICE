@@ -14,6 +14,9 @@ M19 2018年7月
 ORI 2015年7月
 M15 2014年7月
 M14 2013年7月
+DGM 2013年5月  Return to Ravnica block
+GTC 2013年2月  Return to Ravnica block
+RTR 2012年10月 Return to Ravnica block
 M13 2012年7月
 AVR 2012年5月  Innistrad Block  ---Card sets from this set and below are illegal for Pioneer format---
 DKA 2012年2月  Innistrad Block
