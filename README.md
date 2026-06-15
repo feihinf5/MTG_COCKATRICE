@@ -25,6 +25,7 @@ CSP 2006年7月 Ice Age Block<br>
 7ED 2001年4月<br>
 6ED 1999年4月<br>
 5ED 1997年4月<br>
+VIS 1997年3月 Mirrage block<br>
 MIR 1996年10月 Mirrage block<br>
 ALL 1996年6月 Ice Age Block<br>
 HML 1995年10月<br>
