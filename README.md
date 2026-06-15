@@ -11,6 +11,9 @@ FDN 2024年11月
 M21 2020年7月
 M20 2019年7月
 M19 2018年7月
+DOM 2018年4月
+RIX 2018年1月  Ixalan block
+XLN 2017年9月  Ixalan block
 HOU 2017年7月  Amonkhet block  ---Card sets from this set and below are illegal for Historic format---
 AKH 2017年4月  Amonkhet block
 AER 2017年1月  Kaladesh block
