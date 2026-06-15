@@ -20,6 +20,8 @@ M11 2010年7月
 M10 2009年7月
 10E 2007年7月
 CSP 2006年7月  Ice Age block
+GPT 2006年2月  Ravnica Block
+RAV 2005年10月 Ravnica Block
 9ED 2005年7月
 SOK 2005年6月  Kamigawa Block
 BOK 2005年2月  Kamigawa Block
