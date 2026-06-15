@@ -11,7 +11,18 @@ FDN 2024年11月
 M21 2020年7月
 M20 2019年7月
 M19 2018年7月
+HOU 2017年7月  Amonkhet block  ---Card sets from this set and below are illegal for Historic format---
+AKH 2017年4月  Amonkhet block
+AER 2017年1月  Kaladesh block
+KLD 2016年9月  Kaladesh block
+EMN 2016年7月  Shadows over Innistrad block
+SOI 2016年4月  Shadows over Innistrad block
+OGW 2016年1月  Battle for Zendikar block
+BFZ 2015年10月 Battle for Zendikar block
 ORI 2015年7月
+DTK 2015年3月  Khans of Tarkir Block
+FRF 2015年1月  Khans of Tarkir Block
+KTK 2014年9月  Khans of Tarkir Block
 M15 2014年7月
 JOU 2014年5月  Theros Block
 BNG 2014年2月  Theros Block
