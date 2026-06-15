@@ -30,7 +30,7 @@ VIS 1997年3月  Mirrage block
 MIR 1996年10月 Mirrage block
 ALL 1996年6月  Ice Age Block
 HML 1995年10月
-ICE 1995年6月 Ice Age Block
+ICE 1995年6月  Ice Age Block
 CHR 1995年7月
 4ED 1995年4月
 FEM 1994年11月
