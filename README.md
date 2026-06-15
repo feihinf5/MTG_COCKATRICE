@@ -19,18 +19,21 @@ M12 2011年7月
 M11 2010年7月
 M10 2009年7月
 10E 2007年7月
-CSP 2006年7月  Ice Age Block
+CSP 2006年7月  Ice Age block
 9ED 2005年7月
 8ED 2003年7月
 7ED 2001年4月
 6ED 1999年4月
+EXO 1998年6月  Tempest block
+STH 1998年2月  Tempest block
+TMP 1997年10月 Tempest block
 WTH 1997年6月  Mirrage block
 5ED 1997年4月
 VIS 1997年3月  Mirrage block
 MIR 1996年10月 Mirrage block
-ALL 1996年6月  Ice Age Block
+ALL 1996年6月  Ice Age block
 HML 1995年10月
-ICE 1995年6月  Ice Age Block
+ICE 1995年6月  Ice Age block
 CHR 1995年7月
 4ED 1995年4月
 FEM 1994年11月
