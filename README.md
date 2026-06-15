@@ -23,20 +23,23 @@ CSP 2006年7月  Ice Age block
 9ED 2005年7月
 8ED 2003年7月
 7ED 2001年4月
-UDS 1999年6月  Urza block
+PCY 2000年6月  Masques Block
+NEM 2000年2月  Masques Block
+MMQ 1999年10月 Masques Block
+UDS 1999年6月  Urza Block
 6ED 1999年4月
-ULG 1999年2月  Urza block
-USG 1998年10月 Urza block
-EXO 1998年6月  Tempest block
-STH 1998年2月  Tempest block
-TMP 1997年10月 Tempest block
-WTH 1997年6月  Mirrage block
+ULG 1999年2月  Urza Block
+USG 1998年10月 Urza Block
+EXO 1998年6月  Tempest Block
+STH 1998年2月  Tempest Block
+TMP 1997年10月 Tempest Block
+WTH 1997年6月  Mirrage Block
 5ED 1997年4月
-VIS 1997年3月  Mirrage block
-MIR 1996年10月 Mirrage block
-ALL 1996年6月  Ice Age block
+VIS 1997年3月  Mirrage Block
+MIR 1996年10月 Mirrage Block
+ALL 1996年6月  Ice Age Block
 HML 1995年10月
-ICE 1995年6月  Ice Age block
+ICE 1995年6月  Ice Age Block
 CHR 1995年7月
 4ED 1995年4月
 FEM 1994年11月
