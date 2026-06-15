@@ -3,7 +3,7 @@ MTG deck list for Cockatrice platform
 
 https://cockatrice.github.io/
 
-# MTG card sets Release date:
+## MTG card sets Release date:
 
 http://mtgwiki.com/wiki/%E3%82%AB%E3%83%BC%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7
 <pre>
