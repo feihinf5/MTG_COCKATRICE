@@ -13,6 +13,9 @@ M20 2019年7月
 M19 2018年7月
 ORI 2015年7月
 M15 2014年7月
+JOU 2014年5月  Theros Block
+BNG 2014年2月  Theros Block
+THS 2013年9月  Theros Block
 M14 2013年7月
 DGM 2013年5月  Return to Ravnica block
 GTC 2013年2月  Return to Ravnica block
