@@ -21,8 +21,14 @@ M10 2009年7月
 10E 2007年7月
 CSP 2006年7月  Ice Age block
 9ED 2005年7月
+SOK 2005年6月  Kamigawa Block
+BOK 2005年2月  Kamigawa Block
+CHK 2004年10月 Kamigawa Block
+5DN 2004年6月  Mirrodin Block
+DST 2004年2月  Mirrodin Block
+MRD 2003年10月 Mirrodin Block
 8ED 2003年7月
-SCG 2003年5月  Onslaught Block ---Card sets below are illegal for Modern format---
+SCG 2003年5月  Onslaught Block  ---Card sets below are illegal for Modern format---
 LGN 2003年2月  Onslaught Block
 ONS 2002年10月 Onslaught Block
 JUD 2002年5月  Odyssey Block
