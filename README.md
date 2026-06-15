@@ -15,7 +15,7 @@ ORI 2015年7月
 M15 2014年7月
 M14 2013年7月
 M13 2012年7月
-AVR 2012年5月  Innistrad Block
+AVR 2012年5月  Innistrad Block  ---Card sets from this set and below are illegal for Pioneer format---
 DKA 2012年2月  Innistrad Block
 ISD 2011年9月  Innistrad Block
 M12 2011年7月
