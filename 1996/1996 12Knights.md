@@ -1,6 +1,14 @@
 Reference:
 http://mtgwiki.com/wiki/12Knights#.E3.82.B9.E3.82.BF.E3.83.B3.E3.83.80.E3.83.BC.E3.83.89.E7.89.88
 
+Standard format
+- FEM
+- 4ED
+- CHR
+- ICE
+- HML
+- ALL
+
 The inclusion of **Divine Offering** in the sideboard is part of the strategy against Necro decks. 
 
 It provides a reliable way to deal with **Nevinyrral's Disk**, as well as restricted cards like **Ivory Tower** and **Zuran Orb**.
