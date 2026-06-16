@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1996 12Knights</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships winning deck by Tom Chanpheng</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Kjeldoran Outpost" setShortName="ALL" collectorNumber="139" uuid="e0769fc7-50b5-4b49-8aff-af04536288fb"/>
+        <card number="4" name="Mishra's Factory" setShortName="4ED" collectorNumber="361" uuid="aff8d4f1-eaad-4afb-9097-2afab133f707"/>
+        <card number="3" name="Plains" setShortName="4ED" collectorNumber="366" uuid="ad1317da-9e81-4aff-8c04-9155d14be90c"/>
+        <card number="3" name="Plains" setShortName="4ED" collectorNumber="365" uuid="d17f8abd-c087-4039-8dfd-c6168f7db0a6"/>
+        <card number="3" name="Plains" setShortName="4ED" collectorNumber="364" uuid="639e47dc-c90f-4f55-9b3a-721240ec04ed"/>
+        <card number="2" name="Plains" setShortName="ICE" collectorNumber="366" uuid="27ac1fc7-0698-4a94-8353-cc4c13bd6ffa"/>
+        <card number="2" name="Plains" setShortName="ICE" collectorNumber="365" uuid="df3e94f7-9f97-4652-a1f1-381feb15f688"/>
+        <card number="2" name="Plains" setShortName="ICE" collectorNumber="364" uuid="7b68bdb0-41cc-48f6-905e-7da1ff4ba5e0"/>
+        <card number="4" name="Strip Mine" setShortName="4ED" collectorNumber="363" uuid="a5899b46-226b-4be6-8e80-d2396f54210d"/>
+        <card number="1" name="Lodestone Bauble" setShortName="ALL" collectorNumber="122" uuid="84d88a33-3990-4044-a5fe-4123d5781f18"/>
+        <card number="1" name="Zuran Orb" setShortName="ICE" collectorNumber="350" uuid="3a9d1082-a862-45d4-9e5e-392e879fead6"/>
+        <card number="1" name="Land Tax" setShortName="4ED" collectorNumber="34" uuid="1301e203-7d9a-4735-8db3-7882ad70d343"/>
+        <card number="1" name="Armageddon" setShortName="4ED" collectorNumber="5" uuid="0794bc35-a8e1-4268-87b2-af5483ca6e5e"/>
+        <card number="1" name="Balance" setShortName="4ED" collectorNumber="6" uuid="db3e219d-8e5e-44c7-97b3-2d489e2808b9"/>
+        <card number="2" name="Disenchant" setShortName="4ED" collectorNumber="22" uuid="a915f261-2cdc-499c-9163-da5b628b0127"/>
+        <card number="2" name="Disenchant" setShortName="ICE" collectorNumber="20" uuid="b6085d0c-ab2b-445d-bf9d-0fa0a19183a2"/>
+        <card number="1" name="Reinforcements" setShortName="ALL" collectorNumber="12a" uuid="d734086b-a0fb-4504-96e5-89842aa587b3"/>
+        <card number="1" name="Reprisal" setShortName="ALL" collectorNumber="13a" uuid="179f50be-6658-42f4-b9b9-c97c7d3f239a"/>
+        <card number="1" name="Sleight of Mind" setShortName="4ED" collectorNumber="102" uuid="cd21dc3d-c9e6-4592-a655-1a20ee13ae73"/>
+        <card number="2" name="Swords to Plowshares" setShortName="ICE" collectorNumber="54" uuid="375fd2cb-443b-4be4-ad60-6d1a8e74f510"/>
+        <card number="2" name="Swords to Plowshares" setShortName="4ED" collectorNumber="52" uuid="8bd501ae-5814-4336-a45b-2b88cb85d29e"/>
+        <card number="2" name="Order of Leitbur" setShortName="FEM" collectorNumber="16a" uuid="ebd6e51e-f042-4673-a898-291607105829"/>
+        <card number="1" name="Order of Leitbur" setShortName="FEM" collectorNumber="16c" uuid="1373dea4-3565-4612-8505-ab8fba3ddb67"/>
+        <card number="1" name="Order of Leitbur" setShortName="FEM" collectorNumber="16b" uuid="fb537b5a-d725-420d-bc15-0d54ba23331c"/>
+        <card number="4" name="Order of the White Shield" setShortName="ICE" collectorNumber="46" uuid="92e55b10-375f-4b4f-b676-3b9b8085fdd2"/>
+        <card number="1" name="Phyrexian War Beast" setShortName="ALL" collectorNumber="127a" uuid="e7a83384-8762-4028-8cab-b690593790a6"/>
+        <card number="1" name="Phyrexian War Beast" setShortName="ALL" collectorNumber="127b" uuid="e7d651f6-50be-4df9-80f8-4c62bb860e71"/>
+        <card number="4" name="Savannah Lions" setShortName="4ED" collectorNumber="48" uuid="a2ee9127-d007-48e8-b797-88ef72bc7c8b"/>
+        <card number="2" name="Serra Angel" setShortName="4ED" collectorNumber="50" uuid="8072d00a-82ff-4406-bdf8-1af20cd3a170"/>
+        <card number="4" name="White Knight" setShortName="4ED" collectorNumber="56" uuid="2e8f8a10-6984-46a7-a641-5f712dab5c57"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Kjeldoran Outpost" setShortName="ALL" collectorNumber="139" uuid="e0769fc7-50b5-4b49-8aff-af04536288fb"/>
+        <card number="1" name="Black Vise" setShortName="4ED" collectorNumber="299" uuid="196b83a1-2a25-498d-83b8-8faacd79909d"/>
+        <card number="2" name="Serrated Arrows" setShortName="HML" collectorNumber="110" uuid="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2"/>
+        <card number="2" name="Arenson's Aura" setShortName="ICE" collectorNumber="3" uuid="f94f3e87-1b39-49a8-ad0d-f18c854e298a"/>
+        <card number="4" name="Divine Offering" setShortName="CHR" collectorNumber="6" uuid="9371c4aa-424f-4b89-9f73-239a9e4f8a9d"/>
+        <card number="1" name="Energy Storm" setShortName="ICE" collectorNumber="24" uuid="3955e358-4285-44e2-9e24-9804346a6e58"/>
+        <card number="1" name="Spirit Link" setShortName="4ED" collectorNumber="51" uuid="58838b77-3bac-41b7-8055-5737c07df12e"/>
+        <card number="1" name="Exile" setShortName="ALL" collectorNumber="3" uuid="108b85ff-ed03-4b3e-872f-1cad1a27b930"/>
+        <card number="1" name="Reprisal" setShortName="ALL" collectorNumber="13b" uuid="839df85a-1aca-4d4b-b327-2778caa6d289"/>
+        <card number="1" name="Sleight of Mind" setShortName="4ED" collectorNumber="102" uuid="cd21dc3d-c9e6-4592-a655-1a20ee13ae73"/>
+    </zone>
+</cockatrice_deck>
