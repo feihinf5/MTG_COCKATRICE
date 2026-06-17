@@ -1,5 +1,6 @@
 Reference
 - https://www.magic.gg/news/metagame-mentor-how-leyline-of-the-guildpact-transformed-modern
+- http://mtgwiki.com/wiki/%E9%BB%92%E3%81%8D%E6%8B%B7%E5%95%8F%E5%8F%B0
 
 Deck list
 - 3 Adarkar Wastes
@@ -38,3 +39,6 @@ Sideboard
 - 1 Prismatic Ward
 - 1 Sleight of Mind
 - 2 Stromgald Cabal
+- 2	Circle of Protection: Red
+- 1	Circle of Protection: Artifacts
+- 1	Circle of Protection: Black
