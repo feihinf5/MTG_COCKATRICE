@@ -3,6 +3,12 @@ Reference
 
 Note
 - 1994 United States National Championship winning deck by Bo Bell
+- Blue-Black (UB) Control strategy, heavily focusing on Black's discard spells with Blue providing support
+- The basic setup relies on a long list of restricted cards to control the game through hand disruption
+- The centerpiece is **Mind Twist**, which was not yet restricted at the time
+- After stripping the opponent's hand with **Mind Twist**, the deck establishes a lock using repeatable discard effects
+- Aside from **Mind Twist**, the deck only runs a combined total of three copies of **Hypnotic Specter** and **Disrupting Scepter** for hand disruption, a testament to just how incredibly powerful **Mind Twist** was on its own
+- **Mind Twist** would go on to be restricted just the following month
 
 Deck list
 - 1	Hypnotic Specter
