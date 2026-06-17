@@ -12,7 +12,6 @@ Format:
 - ATQ
 - 3ED
 - LEG
-- DRK
 
 Deck  
 1 Library of Alexandria  
