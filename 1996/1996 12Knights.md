@@ -1,6 +1,8 @@
 Reference:
 http://mtgwiki.com/wiki/12Knights#.E3.82.B9.E3.82.BF.E3.83.B3.E3.83.80.E3.83.BC.E3.83.89.E7.89.88
 
+World Championships 1996 winning deck by Tom Chanpheng
+
 Standard format
 - FEM
 - 4ED
