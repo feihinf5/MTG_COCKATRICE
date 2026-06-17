@@ -38,16 +38,19 @@ Deck list
 - 1 Land Tax
 - 1 Reinforcements
 - 1 Sleight of Mind
-4 《解呪》
-1 《天秤》
-1 《復仇》
-1 《ハルマゲドン》 -呪文（16）- 	1 《黒の万力》
-1 《臨機応変》
-1 《魂の絆》
-4 《神への捧げ物》
-1 《Energy Storm》
-1 《復仇》
-2 《アレンスンのオーラ》
-1 《流刑》
-2 《鋸刃の矢》
-1 《Kjeldoran Outpost》 -サイドボード（15）-
+- 4 Disenchant
+- 1 Balance
+- 1 Reprisal
+- 1 Armageddon
+
+Sideboard
+- 1 Black Vise
+- 1 《臨機応変》
+- 1 《魂の絆》
+- 4 《神への捧げ物》
+- 1 Energy Storm
+- 1 《復仇》
+- 2 《アレンスンのオーラ》
+- 1 《流刑》
+- 2 《鋸刃の矢》
+- 1 Kjeldoran Outpost
