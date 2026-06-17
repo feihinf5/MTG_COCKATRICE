@@ -24,19 +24,23 @@ but also about just how dominant Necro decks were in the meta.
 Land 24  
 15 Plains
 1 Kjeldoran Outpost  
-4 《ミシュラの工廠》
-4 《露天鉱床
+4 Mishra's Factory  
+4 Strip Mine  
 
-4 《サバンナ・ライオン》
-4 《白騎士》
-4 《白き盾の騎士団》
-4 《Order of Leitbur》
-2 《Phyrexian War Beast》
-2 《セラの天使》 -クリーチャー（20）- 	1 《Lodestone Bauble》
-1 《Zuran Orb》
-4 《剣を鍬に》
-1 《土地税》
-1 《増援》
+Creature 20  
+4 Savannah Lions  
+4 White Knight  
+4 Order of the White Shield  
+4 Order of Leitbur  
+2 Phyrexian War Beast  
+2 Serra Angel  
+
+Spell 16
+1 Lodestone Bauble  
+1 Zuran Orb  
+4 Swords to Plowshares  
+1 Land Tax  
+1 Reinforcements  
 1 《臨機応変》
 4 《解呪》
 1 《天秤》
