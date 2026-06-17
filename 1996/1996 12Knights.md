@@ -21,27 +21,23 @@ Note
 - As a result, he was forced to play through the World Championship with a completely mono-white version of the deck
 - The fact that he still managed to win the championship speaks volumes not only about his immense skill but also about just how dominant Necro decks were in the meta
 
-Land 24  
-15 Plains
-1 Kjeldoran Outpost  
-4 Mishra's Factory  
-4 Strip Mine  
-
-Creature 20  
-4 Savannah Lions  
-4 White Knight  
-4 Order of the White Shield  
-4 Order of Leitbur  
-2 Phyrexian War Beast  
-2 Serra Angel  
-
-Spell 16
-1 Lodestone Bauble  
-1 Zuran Orb  
-4 Swords to Plowshares  
-1 Land Tax  
-1 Reinforcements  
-1 《臨機応変》
+Deck list
+- 15 Plains
+- 1 Kjeldoran Outpost
+- 4 Mishra's Factory
+- 4 Strip Mine
+- 4 Savannah Lions
+- 4 White Knight
+- 4 Order of the White Shield
+- 4 Order of Leitbur
+- 2 Phyrexian War Beast
+- 2 Serra Angel
+- 1 Lodestone Bauble
+- 1 Zuran Orb
+- 4 Swords to Plowshares
+- 1 Land Tax
+- 1 Reinforcements
+- 1 Sleight of Mind
 4 《解呪》
 1 《天秤》
 1 《復仇》
