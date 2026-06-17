@@ -45,12 +45,12 @@ Deck list
 
 Sideboard
 - 1 Black Vise
-- 1 《臨機応変》
-- 1 《魂の絆》
-- 4 《神への捧げ物》
+- 1 Sleight of Mind
+- 1 Spirit Link
+- 4 Divine Offering
 - 1 Energy Storm
-- 1 《復仇》
-- 2 《アレンスンのオーラ》
-- 1 《流刑》
-- 2 《鋸刃の矢》
+- 1 Reprisal
+- 2 Arenson's Aura
+- 1 Exile
+- 2 Serrated Arrows
 - 1 Kjeldoran Outpost
