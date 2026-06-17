@@ -13,7 +13,7 @@ Format:
 - DRK
 
 Deck
-1 Library of Alexandria..
+1 Library of Alexandria  
 4 Savannah
 2 Strip Mine
 4 Tropical Island
