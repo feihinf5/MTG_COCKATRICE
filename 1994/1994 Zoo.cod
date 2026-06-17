@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jun 5 14:01:48 2026</lastLoadedTimestamp>
+    <deckname>1994 Zoo</deckname>
+    <format>vintage</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1994 by Bertrand Lestree</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Bayou" setShortName="LEA" collectorNumber="278" uuid="412ceddd-2b9a-4551-a6bf-ae2830a2010a"/>
+        <card number="1" name="Bayou" setShortName="LEB" collectorNumber="279" uuid="17db2b6a-eaa8-4a08-9e86-370bbd058574"/>
+        <card number="2" name="City of Brass" setShortName="ARN" collectorNumber="71" uuid="f4e32327-380d-471e-813b-4c27477787ce"/>
+        <card number="1" name="Lightning Bolt" setShortName="LEB" collectorNumber="162" uuid="b5d3dcab-2260-479d-9ef6-dfb92d4f6061"/>
+        <card number="1" name="Fireball" setShortName="LEB" collectorNumber="150" uuid="a285ab2e-836e-45b0-894e-574f733cf3db"/>
+        <card number="1" name="Fireball" setShortName="3ED" collectorNumber="150" uuid="dafb512f-536f-4f96-8440-03f1d20d8a5a"/>
+        <card number="1" name="Fireball" setShortName="2ED" collectorNumber="150" uuid="39e05c2d-b4a1-4f59-8743-f1694c803164"/>
+        <card number="1" name="Mishra's Factory" setShortName="ATQ" collectorNumber="80d" uuid="ac09a506-427f-4636-bcfd-b40f8d511905"/>
+        <card number="1" name="Mishra's Factory" setShortName="ATQ" collectorNumber="80c" uuid="c44669b2-bf9a-41c3-91c7-d845b0061fbf"/>
+        <card number="1" name="Mishra's Factory" setShortName="ATQ" collectorNumber="80b" uuid="4047df9c-335c-4c1a-968d-00f40e2e7386"/>
+        <card number="1" name="Lightning Bolt" setShortName="2ED" collectorNumber="162" uuid="ff1b8fc5-604a-4449-a73d-861e53642a70"/>
+        <card number="1" name="Taiga" setShortName="3ED" collectorNumber="287" uuid="54c5c65a-a444-4e0f-ae44-a3722cdd32a1"/>
+        <card number="1" name="Taiga" setShortName="2ED" collectorNumber="283" uuid="01006833-6007-4c16-9ebb-20d31c60a57a"/>
+        <card number="1" name="Taiga" setShortName="LEB" collectorNumber="283" uuid="30ce1bf0-7561-418f-a217-3ce10f28be82"/>
+        <card number="1" name="Lightning Bolt" setShortName="3ED" collectorNumber="162" uuid="cb9b9a9d-ae4c-4e04-bf9d-cae48f01292c"/>
+        <card number="1" name="Tropical Island" setShortName="3ED" collectorNumber="288" uuid="a0f5c6bc-65dc-42a1-a62d-a0b101310a1f"/>
+        <card number="1" name="Tropical Island" setShortName="2ED" collectorNumber="284" uuid="856bf0ba-e5a5-47eb-9a6a-111935088c31"/>
+        <card number="1" name="Tropical Island" setShortName="LEB" collectorNumber="284" uuid="ac19c5a1-ca13-4443-920b-83b567167ed4"/>
+        <card number="1" name="Birds of Paradise" setShortName="LEB" collectorNumber="187" uuid="852d7a68-8682-4073-a44b-f10f5613879c"/>
+        <card number="1" name="Volcanic Island" setShortName="3ED" collectorNumber="291" uuid="b12e5430-0e80-47dd-80ac-85728b656a24"/>
+        <card number="1" name="Volcanic Island" setShortName="2ED" collectorNumber="287" uuid="9dc7ab05-a5f5-4a02-87e7-3c47be35b5cb"/>
+        <card number="1" name="Psionic Blast" setShortName="LEB" collectorNumber="75" uuid="73b6b789-00c5-4d72-8fb3-6808bfbf0144"/>
+        <card number="1" name="Birds of Paradise" setShortName="2ED" collectorNumber="187" uuid="4e50454c-3927-4e7e-b4f6-7f5d5fd9b913"/>
+        <card number="1" name="Mishra's Factory" setShortName="ATQ" collectorNumber="80a" uuid="a696c5b6-f216-454d-8029-74e84bbd1428"/>
+        <card number="2" name="Kird Ape" setShortName="3ED" collectorNumber="161" uuid="967a26e0-8dca-4215-9935-b77a7dd4dde0"/>
+        <card number="1" name="Taiga" setShortName="LEA" collectorNumber="282" uuid="60df6592-0b3b-4b87-aeb2-8fa94b4fb7be"/>
+        <card number="1" name="Tropical Island" setShortName="LEA" collectorNumber="283" uuid="a9c6c759-aabf-44e7-ba8c-33c5df232b56"/>
+        <card number="2" name="Volcanic Island" setShortName="LEB" collectorNumber="287" uuid="0324641d-af55-4c53-b4dc-c8262e967da5"/>
+        <card number="1" name="Black Lotus" setShortName="LEA" collectorNumber="232" uuid="b0faa7f2-b547-42c4-a810-839da50dadfe"/>
+        <card number="1" name="Chaos Orb" setShortName="LEA" collectorNumber="235" uuid="92274971-7c4a-4326-b0fe-75e2d124f718"/>
+        <card number="1" name="Icy Manipulator" setShortName="LEA" collectorNumber="248" uuid="29dc1596-a2e7-4d60-9f99-89babaef8a06"/>
+        <card number="1" name="Mox Emerald" setShortName="LEA" collectorNumber="261" uuid="b0e1427c-05cd-465b-be59-97ed6e39f7ba"/>
+        <card number="1" name="Mox Jet" setShortName="LEA" collectorNumber="262" uuid="92bcd1ce-19b1-4d78-8b09-95242ca08d76"/>
+        <card number="1" name="Mox Ruby" setShortName="LEA" collectorNumber="264" uuid="8945585f-4773-493d-a0fe-d707db910b38"/>
+        <card number="1" name="Mox Sapphire" setShortName="LEA" collectorNumber="265" uuid="82da0972-b17b-4600-9efd-e9430a0db04b"/>
+        <card number="1" name="Control Magic" setShortName="LEA" collectorNumber="52" uuid="7b52f459-c703-4a0b-9114-ff69eec61287"/>
+        <card number="1" name="Sylvan Library" setShortName="LEG" collectorNumber="207" uuid="f486df00-7c4a-4ff0-bb0b-c8b5432ac742"/>
+        <card number="1" name="Ancestral Recall" setShortName="LEA" collectorNumber="47" uuid="70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b"/>
+        <card number="1" name="Lightning Bolt" setShortName="LEA" collectorNumber="161" uuid="d573ef03-4730-45aa-93dd-e45ac1dbaf4a"/>
+        <card number="1" name="Psionic Blast" setShortName="LEA" collectorNumber="74" uuid="a6a86e6e-bfff-46af-9d36-c912901fea92"/>
+        <card number="4" name="Chain Lightning" setShortName="LEG" collectorNumber="137" uuid="b5883762-ca0a-4932-8d2a-41a45796a5f8"/>
+        <card number="1" name="Demonic Tutor" setShortName="LEA" collectorNumber="104" uuid="711d4d54-5520-4de8-9b93-79902ed8e562"/>
+        <card number="1" name="Fireball" setShortName="LEA" collectorNumber="149" uuid="b7623c00-144b-4a8f-9c6c-f5e9e4f65ece"/>
+        <card number="1" name="Time Walk" setShortName="LEA" collectorNumber="83" uuid="e0139f60-d48e-46fb-9f5a-1e3d7558c834"/>
+        <card number="1" name="Mind Twist" setShortName="LEA" collectorNumber="115" uuid="eee9e106-a248-49d2-b8c8-6bbcd56ce739"/>
+        <card number="1" name="Channel" setShortName="LEA" collectorNumber="188" uuid="c1862c47-71cc-45a3-8805-a5ddc62e55ea"/>
+        <card number="1" name="Regrowth" setShortName="LEA" collectorNumber="214" uuid="badc73ec-3728-4246-90c7-5f4eb7051ed5"/>
+        <card number="3" name="Argothian Pixies" setShortName="ATQ" collectorNumber="29" uuid="5712e87a-2381-4f5b-a853-6973841f9bf1"/>
+        <card number="1" name="Birds of Paradise" setShortName="LEA" collectorNumber="186" uuid="55fe6449-1f23-43dc-adee-d144cd505b5c"/>
+        <card number="2" name="Kird Ape" setShortName="ARN" collectorNumber="40" uuid="ebe8845e-df1c-481c-949c-aab84af99a05"/>
+        <card number="2" name="Whirling Dervish" setShortName="LEG" collectorNumber="211" uuid="eba294e7-7097-4bc3-b396-72e85dd4f441"/>
+    </zone>
+</cockatrice_deck>
