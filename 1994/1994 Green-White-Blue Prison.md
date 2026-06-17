@@ -12,59 +12,59 @@ Format:
 - LEG
 - DRK
 
-Deck
+Deck  
 1 Library of Alexandria  
-4 Savannah
-2 Strip Mine
-4 Tropical Island
-4 Tundra
-1 Birds of Paradise
-1 Clone
-1 Ley Druid
-2 Old Man of the Sea
-4 Serra Angel
-1 Time Elemental
-1 Vesuvan Doppelganger
-1 Ancestral Recall
-1 Armageddon
-1 Black Lotus
-1 Black Vise
-1 Control Magic
-2 Disenchant
-1 Howling Mine
-1 Icy Manipulator
-1 Ivory Tower
-1 Kismet
-1 Mana Drain
-1 Mana Vault
-2 Meekstone
-1 Mox Emerald
-1 Mox Jet
-1 Mox Pearl
-1 Mox Ruby
-1 Mox Sapphire
-1 Recall
-1 Regrowth
-1 Siren's Call
-1 Sol Ring
-2 Stasis
-4 Swords to Plowshares
-1 Time Walk
-1 Timetwister
-1 Winter Orb
-1 Wrath of God
+4 Savannah  
+2 Strip Mine  
+4 Tropical Island  
+4 Tundra  
+1 Birds of Paradise  
+1 Clone  
+1 Ley Druid  
+2 Old Man of the Sea  
+4 Serra Angel  
+1 Time Elemental  
+1 Vesuvan Doppelganger  
+1 Ancestral Recall  
+1 Armageddon  
+1 Black Lotus  
+1 Black Vise  
+1 Control Magic  
+2 Disenchant  
+1 Howling Mine  
+1 Icy Manipulator  
+1 Ivory Tower  
+1 Kismet  
+1 Mana Drain  
+1 Mana Vault  
+2 Meekstone  
+1 Mox Emerald  
+1 Mox Jet  
+1 Mox Pearl  
+1 Mox Ruby  
+1 Mox Sapphire  
+1 Recall  
+1 Regrowth  
+1 Siren's Call  
+1 Sol Ring  
+2 Stasis  
+4 Swords to Plowshares  
+1 Time Walk  
+1 Timetwister  
+1 Winter Orb  
+1 Wrath of God  
 
-Sideboard
-1 Chaos Orb
-1 Copy Artifact
-1 Diamond Valley
-1 Floral Spuzzem
-1 In the Eye of Chaos
-2 Karma
-1 Kismet
-1 Magical Hack
-1 Power Sink
-1 Presence of the Master
-1 Reverse Damage
-1 Sleight of Mind
-1 Winter Blast
+Sideboard  
+1 Chaos Orb  
+1 Copy Artifact  
+1 Diamond Valley  
+1 Floral Spuzzem  
+1 In the Eye of Chaos  
+2 Karma  
+1 Kismet  
+1 Magical Hack  
+1 Power Sink  
+1 Presence of the Master  
+1 Reverse Damage  
+1 Sleight of Mind  
+1 Winter Blast  
