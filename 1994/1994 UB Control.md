@@ -9,6 +9,7 @@ Note
 - After stripping the opponent's hand with **Mind Twist**, the deck establishes a lock using repeatable discard effects
 - Aside from **Mind Twist**, the deck only runs a combined total of three copies of **Hypnotic Specter** and **Disrupting Scepter** for hand disruption, a testament to just how incredibly powerful **Mind Twist** was on its own
 - **Mind Twist** would go on to be restricted just the following month
+- Base set only, no sideboard (Limited Edition to Revised Edition).
 
 Deck list
 - 1	Hypnotic Specter
