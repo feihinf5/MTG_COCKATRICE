@@ -12,7 +12,8 @@ Standard format
 
 Note
 - World Championships 1996 winning deck by Tom Chanpheng
-- The inclusion of **Divine Offering** in the sideboard is part of the strategy against Necro decks
+- Necro Summer or Black Summer is the nickname for the 1996 World Championship, which was heavily dominated by Necropotence decks
+- The inclusion of **Divine Offering** in the sideboard is part of the strategy against Necropotence decks
 - It provides a reliable way to deal with **Nevinyrral's Disk**, as well as restricted cards like **Ivory Tower** and **Zuran Orb**
 - The deck splashes blue to utilize **Sleight of Mind**
 - However, when registering his decklist, Tom Chanpheng forgot to write down the four copies of **Adarkar Wastes** resulting in them being replaced with four **Plains**
