@@ -17,7 +17,7 @@ Note
 - The inclusion of **Divine Offering** in the sideboard is part of the strategy against Necropotence decks to deal with **Nevinyrral's Disk**, **Ivory Tower** and **Zuran Orb**
 - The deck splashes blue to utilize **Sleight of Mind** however, when registering his decklist, Tom Chanpheng forgot to write down the four copies of **Adarkar Wastes** resulting in them being replaced with four **Plains**
 - As a result, he was forced to play through the World Championship with a completely mono-white version of the deck
-- The fact that he still managed to win the championship speaks volumes not only about his immense skill but also about just how dominant Necro decks were in the meta
+- The fact that he still managed to win the championship not only about his immense skill but also about just how dominant Necro decks were in the meta
 
 Deck list
 - 15 Plains
