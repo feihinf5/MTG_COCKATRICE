@@ -1,1 +1,59 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Mon Jun 1 16:26:57 2026</lastLoadedTimestamp>
+    <deckname>1995 White-Black Discard</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1995 winning deck by Alexander Blumke</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Adarkar Wastes" setShortName="ICE" collectorNumber="351" uuid="09dd9023-f7ee-4e99-8821-7059deb83730"/>
+        <card number="1" name="Bottomless Vault" setShortName="FEM" collectorNumber="92" uuid="639ae988-d1d1-4ead-b0f8-47fc39eb64a0"/>
+        <card number="4" name="Mishra's Factory" setShortName="4ED" collectorNumber="361" uuid="aff8d4f1-eaad-4afb-9097-2afab133f707"/>
+        <card number="1" name="Plains" setShortName="4ED" collectorNumber="366" uuid="ad1317da-9e81-4aff-8c04-9155d14be90c"/>
+        <card number="1" name="Plains" setShortName="4ED" collectorNumber="365" uuid="d17f8abd-c087-4039-8dfd-c6168f7db0a6"/>
+        <card number="1" name="Plains" setShortName="4ED" collectorNumber="364" uuid="639e47dc-c90f-4f55-9b3a-721240ec04ed"/>
+        <card number="1" name="Strip Mine" setShortName="4ED" collectorNumber="363" uuid="a5899b46-226b-4be6-8e80-d2396f54210d"/>
+        <card number="2" name="Swamp" setShortName="4ED" collectorNumber="370" uuid="84634023-5c94-4dcc-9449-abf73ecea542"/>
+        <card number="2" name="Swamp" setShortName="4ED" collectorNumber="372" uuid="7ac4979a-5b2f-4db1-b665-9d8ccc15ba82"/>
+        <card number="2" name="Swamp" setShortName="4ED" collectorNumber="371" uuid="ddaa0be1-7358-4ea2-8c40-be6d699a6631"/>
+        <card number="2" name="Swamp" setShortName="ICE" collectorNumber="375" uuid="ddca7e2e-bb0a-47ed-ade3-31900da992dc"/>
+        <card number="2" name="Swamp" setShortName="ICE" collectorNumber="374" uuid="6a90b49f-53b3-4ce0-92c1-bcd76d6981ea"/>
+        <card number="2" name="Swamp" setShortName="ICE" collectorNumber="373" uuid="4695653a-5c4c-4ff3-b80c-f4b6c685f370"/>
+        <card number="1" name="Underground River" setShortName="ICE" collectorNumber="362" uuid="92369d7e-5e5a-46f9-bb31-c57d62410283"/>
+        <card number="1" name="Dark Banishing" setShortName="ICE" collectorNumber="119" uuid="f7dc2716-ed62-4797-ad2b-227eca5408d0"/>
+        <card number="1" name="Pestilence" setShortName="4ED" collectorNumber="152" uuid="90886a02-4c1f-48ea-8563-6d80c97d9f58"/>
+        <card number="1" name="Balance" setShortName="4ED" collectorNumber="6" uuid="db3e219d-8e5e-44c7-97b3-2d489e2808b9"/>
+        <card number="1" name="Power Sink" setShortName="4ED" collectorNumber="93" uuid="e91c51ab-c8b1-47be-8169-7f842712771c"/>
+        <card number="1" name="Land Tax" setShortName="4ED" collectorNumber="34" uuid="1301e203-7d9a-4735-8db3-7882ad70d343"/>
+        <card number="1" name="Swords to Plowshares" setShortName="4ED" collectorNumber="52" uuid="8bd501ae-5814-4336-a45b-2b88cb85d29e"/>
+        <card number="1" name="Mind Twist" setShortName="4ED" collectorNumber="147" uuid="bbb6765c-a052-46dc-a589-200b8ba8c99f"/>
+        <card number="1" name="Spirit Link" setShortName="4ED" collectorNumber="51" uuid="58838b77-3bac-41b7-8055-5737c07df12e"/>
+        <card number="1" name="Disrupting Scepter" setShortName="4ED" collectorNumber="316" uuid="fb9b9085-6dd7-44fc-b3a5-7f797c34f8dc"/>
+        <card number="2" name="Icy Manipulator" setShortName="ICE" collectorNumber="322" uuid="1eda936f-7691-4440-9b83-eb0c6035b109"/>
+        <card number="3" name="Dance of the Dead" setShortName="ICE" collectorNumber="118" uuid="e7c53ba4-9956-4cd6-85ca-2d6b61a5127c"/>
+        <card number="2" name="Zuran Orb" setShortName="ICE" collectorNumber="350" uuid="3a9d1082-a862-45d4-9e5e-392e879fead6"/>
+        <card number="3" name="The Rack" setShortName="4ED" collectorNumber="352" uuid="1e19104f-55d5-40e5-a61d-ddba2cf5a527"/>
+        <card number="3" name="Disenchant" setShortName="4ED" collectorNumber="22" uuid="a915f261-2cdc-499c-9163-da5b628b0127"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38a" uuid="eb9273ea-9a41-42e3-8c9c-0d50b127a818"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38d" uuid="5bc50e08-dd6f-4ea7-87f8-cce72bafb928"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38c" uuid="58e125c6-81dc-4907-aad2-2ccd1cb166f0"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38b" uuid="8601f082-7e43-44ef-97d0-dead272b7eb4"/>
+        <card number="4" name="Dark Ritual" setShortName="4ED" collectorNumber="129" uuid="3477f601-5374-4316-a74e-b5e198af482b"/>
+        <card number="3" name="Hypnotic Specter" setShortName="4ED" collectorNumber="142" uuid="b5900350-be08-4904-8f1b-cc180ed08485"/>
+        <card number="1" name="Royal Assassin" setShortName="4ED" collectorNumber="157" uuid="b2d51bdf-f118-4a1e-9060-bdf3c78697f2"/>
+        <card number="2" name="Sengir Vampire" setShortName="4ED" collectorNumber="160" uuid="2e29882a-c194-48b8-ba18-439b0bda395e"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Blue Elemental Blast" setShortName="4ED" collectorNumber="63" uuid="988f7b31-24b2-45c2-89e4-ff6bd9e0c8c7"/>
+        <card number="1" name="Magical Hack" setShortName="4ED" collectorNumber="83" uuid="41c57f8a-6592-49b4-acb1-9b30500d1e8c"/>
+        <card number="1" name="Sleight of Mind" setShortName="4ED" collectorNumber="102" uuid="cd21dc3d-c9e6-4592-a655-1a20ee13ae73"/>
+        <card number="1" name="Circle of Protection: Artifacts" setShortName="4ED" collectorNumber="13" uuid="6bfddcee-704f-4189-8cb0-6025fe98d7e9"/>
+        <card number="1" name="Circle of Protection: Black" setShortName="4ED" collectorNumber="14" uuid="9971cbae-3f08-48c6-955a-76ce8ed41c6c"/>
+        <card number="2" name="Circle of Protection: Red" setShortName="4ED" collectorNumber="17" uuid="f3575259-b019-47d0-a6d3-3fe4963294ae"/>
+        <card number="2" name="Stromgald Cabal" setShortName="ICE" collectorNumber="166" uuid="6ac6fa0c-753e-4fbc-8a70-0f956503cf4e"/>
+        <card number="1" name="Land Tax" setShortName="4ED" collectorNumber="34" uuid="1301e203-7d9a-4735-8db3-7882ad70d343"/>
+        <card number="1" name="Prismatic Ward" setShortName="ICE" collectorNumber="47" uuid="6f8b50fd-3d1d-4ea8-a3c7-98ca7a8a455e"/>
+        <card number="4" name="Gloom" setShortName="4ED" collectorNumber="139" uuid="f5a8573d-0e2d-4a7f-a47f-7e1bc472d4fa"/>
+    </zone>
+</cockatrice_deck>
