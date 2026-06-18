@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Jun 18 20:14:25 2026</lastLoadedTimestamp>
+    <deckname>1994 UB Control</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>1994 United States National Championship winning deck by Bo Bell</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Badlands" setShortName="LEA" collectorNumber="277" uuid="717f6d10-9144-4ade-9ac6-a481cc66b875"/>
+        <card number="1" name="Badlands" setShortName="LEB" collectorNumber="278" uuid="a3393436-3426-4903-8f41-7abcbf6c18c2"/>
+        <card number="1" name="Badlands" setShortName="2ED" collectorNumber="278" uuid="5804dcd3-d41d-4cbd-9f8f-9736f2d37a64"/>
+        <card number="1" name="Bayou" setShortName="LEA" collectorNumber="278" uuid="412ceddd-2b9a-4551-a6bf-ae2830a2010a"/>
+        <card number="1" name="Bayou" setShortName="LEB" collectorNumber="279" uuid="17db2b6a-eaa8-4a08-9e86-370bbd058574"/>
+        <card number="1" name="Island" setShortName="LEA" collectorNumber="289" uuid="bc6ea08d-7991-4a57-a1e3-abd508426970"/>
+        <card number="1" name="Island" setShortName="LEA" collectorNumber="288" uuid="90a57c0e-fa61-45ef-955d-d296403967d5"/>
+        <card number="1" name="Island" setShortName="LEB" collectorNumber="293" uuid="c0a612c4-b4ac-4dd2-a06e-92516599fafd"/>
+        <card number="1" name="Swamp" setShortName="LEA" collectorNumber="291" uuid="edeba4e1-9012-4962-8797-3a1f6a660952"/>
+        <card number="1" name="Swamp" setShortName="LEA" collectorNumber="290" uuid="6176936d-72e2-4205-8871-4c5a4f1cb2d8"/>
+        <card number="1" name="Swamp" setShortName="LEB" collectorNumber="296" uuid="a3544148-49b2-4320-8e3a-5bab81e0f7fd"/>
+        <card number="1" name="Tropical Island" setShortName="LEA" collectorNumber="283" uuid="a9c6c759-aabf-44e7-ba8c-33c5df232b56"/>
+        <card number="1" name="Tropical Island" setShortName="LEB" collectorNumber="284" uuid="ac19c5a1-ca13-4443-920b-83b567167ed4"/>
+        <card number="1" name="Underground Sea" setShortName="LEA" collectorNumber="285" uuid="ff76ac86-8a8a-47fe-9388-8950ca3e26c3"/>
+        <card number="1" name="Underground Sea" setShortName="LEB" collectorNumber="286" uuid="5e91ce41-053e-4203-8860-49cbf854cc18"/>
+        <card number="1" name="Underground Sea" setShortName="2ED" collectorNumber="286" uuid="bc98d888-4af3-43a3-b035-40c651057b6e"/>
+        <card number="1" name="Underground Sea" setShortName="3ED" collectorNumber="290" uuid="1f35877c-e66c-4ef0-842a-f68cd233ae4b"/>
+        <card number="1" name="Volcanic Island" setShortName="LEB" collectorNumber="287" uuid="0324641d-af55-4c53-b4dc-c8262e967da5"/>
+        <card number="1" name="Volcanic Island" setShortName="2ED" collectorNumber="287" uuid="9dc7ab05-a5f5-4a02-87e7-3c47be35b5cb"/>
+        <card number="1" name="Volcanic Island" setShortName="3ED" collectorNumber="291" uuid="b12e5430-0e80-47dd-80ac-85728b656a24"/>
+        <card number="1" name="Control Magic" setShortName="LEA" collectorNumber="52" uuid="7b52f459-c703-4a0b-9114-ff69eec61287"/>
+        <card number="1" name="Control Magic" setShortName="LEB" collectorNumber="53" uuid="133315bd-3c46-4eff-938e-4dba63631c1b"/>
+        <card number="1" name="Black Lotus" setShortName="LEA" collectorNumber="232" uuid="b0faa7f2-b547-42c4-a810-839da50dadfe"/>
+        <card number="1" name="Disrupting Scepter" setShortName="LEA" collectorNumber="242" uuid="ca571ee8-07a2-43b8-9acf-89cbfd3cf7c9"/>
+        <card number="1" name="Disrupting Scepter" setShortName="LEB" collectorNumber="243" uuid="ae91e07c-ad6d-41d9-bd65-184f92761334"/>
+        <card number="1" name="Forcefield" setShortName="LEA" collectorNumber="243" uuid="3f2004c1-8efe-407f-bf48-27b807422eea"/>
+        <card number="1" name="Mox Emerald" setShortName="LEA" collectorNumber="261" uuid="b0e1427c-05cd-465b-be59-97ed6e39f7ba"/>
+        <card number="1" name="Mox Jet" setShortName="LEA" collectorNumber="262" uuid="92bcd1ce-19b1-4d78-8b09-95242ca08d76"/>
+        <card number="1" name="Mox Pearl" setShortName="LEA" collectorNumber="263" uuid="8ebe4be7-e12a-4596-a899-fbd5b152e879"/>
+        <card number="1" name="Mox Ruby" setShortName="LEA" collectorNumber="264" uuid="8945585f-4773-493d-a0fe-d707db910b38"/>
+        <card number="1" name="Mox Sapphire" setShortName="LEA" collectorNumber="265" uuid="82da0972-b17b-4600-9efd-e9430a0db04b"/>
+        <card number="1" name="Sol Ring" setShortName="LEA" collectorNumber="269" uuid="c4300d24-1cae-4dd5-be7e-38cc677cf5bd"/>
+        <card number="3" name="The Rack" setShortName="3ED" collectorNumber="278" uuid="2a600805-dd79-419d-9866-f8c29643f0f8"/>
+        <card number="1" name="Braingeyser" setShortName="LEA" collectorNumber="50" uuid="62b19a12-6914-430e-81ce-dcfca47884df"/>
+        <card number="1" name="Demonic Tutor" setShortName="LEA" collectorNumber="104" uuid="711d4d54-5520-4de8-9b93-79902ed8e562"/>
+        <card number="1" name="Disintegrate" setShortName="LEA" collectorNumber="140" uuid="8712c49e-f171-4669-bed9-87575a37af11"/>
+        <card number="1" name="Fireball" setShortName="LEA" collectorNumber="149" uuid="b7623c00-144b-4a8f-9c6c-f5e9e4f65ece"/>
+        <card number="1" name="Ancestral Recall" setShortName="LEA" collectorNumber="47" uuid="70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b"/>
+        <card number="1" name="Counterspell" setShortName="LEA" collectorNumber="54" uuid="0df55e3f-14de-46ef-b6b1-616618724d9e"/>
+        <card number="1" name="Counterspell" setShortName="LEB" collectorNumber="55" uuid="9e11bf7c-f439-4529-b29a-d711359807ef"/>
+        <card number="1" name="Counterspell" setShortName="2ED" collectorNumber="55" uuid="7c666b4b-c4ff-40ca-9d16-c76aafebaa83"/>
+        <card number="1" name="Regrowth" setShortName="LEA" collectorNumber="214" uuid="badc73ec-3728-4246-90c7-5f4eb7051ed5"/>
+        <card number="1" name="Time Walk" setShortName="LEA" collectorNumber="83" uuid="e0139f60-d48e-46fb-9f5a-1e3d7558c834"/>
+        <card number="1" name="Timetwister" setShortName="LEA" collectorNumber="84" uuid="9a49dc44-616e-4bdd-8220-0bb71eccc512"/>
+        <card number="1" name="Wheel of Fortune" setShortName="LEA" collectorNumber="183" uuid="67b369c4-faa8-45c8-a1b9-98f228b69682"/>
+        <card number="1" name="Counterspell" setShortName="3ED" collectorNumber="54" uuid="0a1b4e2e-5459-4fae-81d9-1e882647daac"/>
+        <card number="1" name="Mind Twist" setShortName="LEA" collectorNumber="115" uuid="eee9e106-a248-49d2-b8c8-6bbcd56ce739"/>
+        <card number="1" name="Mind Twist" setShortName="LEB" collectorNumber="116" uuid="0cb6cbbe-c3e9-4d14-a6b8-fb74e6a02b33"/>
+        <card number="1" name="Mind Twist" setShortName="2ED" collectorNumber="116" uuid="f3d7381b-9075-4c9b-adf5-a0d1c26fab67"/>
+        <card number="1" name="Mind Twist" setShortName="3ED" collectorNumber="117" uuid="3230ac66-cb75-43cc-b652-b28e2962d163"/>
+        <card number="1" name="Hypnotic Specter" setShortName="LEA" collectorNumber="112" uuid="b43b900f-2d9b-442b-9699-058483604ec9"/>
+        <card number="1" name="Mahamoti Djinn" setShortName="LEA" collectorNumber="64" uuid="36204ddd-ddf7-4b44-ae3c-b4a5a41ac9cb"/>
+        <card number="1" name="Mahamoti Djinn" setShortName="LEB" collectorNumber="65" uuid="083f76c8-3e6d-4de5-b408-2f2394faed5c"/>
+        <card number="1" name="Phantom Monster" setShortName="LEA" collectorNumber="69" uuid="e46d2cf5-e8d0-4fb2-b950-252d52084b63"/>
+        <card number="1" name="Royal Assassin" setShortName="LEA" collectorNumber="123" uuid="59590768-fa96-4869-8763-9d5ab6ac22ad"/>
+        <card number="1" name="Royal Assassin" setShortName="LEB" collectorNumber="124" uuid="b6e33c5e-6d99-4e7e-b611-4b271a47b4d2"/>
+        <card number="2" name="Sorceress Queen" setShortName="3ED" collectorNumber="131" uuid="b83d7331-e573-4dea-901a-de9150d4b5c0"/>
+    </zone>
+</cockatrice_deck>
