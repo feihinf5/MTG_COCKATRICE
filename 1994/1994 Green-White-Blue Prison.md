@@ -31,7 +31,7 @@ Deck list
 - 1 Vesuvan Doppelganger  
 - 1 Ancestral Recall  
 - 1 Armageddon  
-- 1 [Black Lotus](https://api.scryfall.com/cards/b0faa7f2-b547-42c4-a810-839da50dadfe?format=image)  
+- 1 Black Lotus
 - 1 Black Vise  
 - 1 Control Magic  
 - 2 Disenchant  
