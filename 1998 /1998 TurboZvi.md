@@ -18,6 +18,7 @@ Note
 - Under the effect of **Dream Halls**, discarding one card to cast a spell that draws two or more cards allows you to dig through your library while continuously increasing your hand size
 - Normally, this process would cause you to run out of cards, but you can prevent this by using **Ancestral Memories** or **Intuition** to put **Gaea's Blessing** from your library into your graveyard, which shuffles your graveyard back into your library.
 - By repeating 2 steps above, you can use your massively increased hand size to repeatedly cast Inspiration on your opponent, ultimately winning the game by forcing them to draw from an empty library (deck out)
+- **Dream Halls** banned during March 1999 https://www.mtggoldfish.com/articles/evolution-of-magic-banned-and-restricted-combo-winter
 
 Deck list
 - 4 Dream Halls
