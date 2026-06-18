@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Jun 18 18:39:44 2026</lastLoadedTimestamp>
+    <deckname>2025 Izzet Cauldron</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Magic Spotlight: Spider-Man in Liverpool 2025 winning deck by Alexey Paulot</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Duelist of the Mind" setShortName="OTJ" collectorNumber="318" uuid="4126ae45-00b3-419c-8f07-d1286ac6b121"/>
+        <card number="1" name="Proft's Eidetic Memory" setShortName="MKM" collectorNumber="67" uuid="af5b29b3-974c-4200-8df8-b072c11e1600"/>
+        <card number="3" name="Proft's Eidetic Memory" setShortName="MKM" collectorNumber="396" uuid="a3472756-0305-4567-b425-f7dbf9b3cc7f"/>
+        <card number="4" name="Quantum Riddler" setShortName="EOE" collectorNumber="72" uuid="120be808-ff3b-4fca-96a1-4db6b9825856"/>
+        <card number="4" name="Fear of Missing Out" setShortName="DSK" collectorNumber="136" uuid="9d48aaff-46ab-411b-9456-171d4709f951"/>
+        <card number="1" name="Winternight Stories" setShortName="TDM" collectorNumber="67" uuid="64d9367c-f50c-4568-aa63-6760c44ecaeb"/>
+        <card number="3" name="Into the Flood Maw" setShortName="BLB" collectorNumber="52" uuid="50b9575a-53d9-4df7-b86c-cda021107d3f"/>
+        <card number="2" name="Winternight Stories" setShortName="TDM" collectorNumber="336" uuid="c94538c3-320c-4903-a689-bb8e9f4ae40f"/>
+        <card number="1" name="Vivi Ornitier" setShortName="FIN" collectorNumber="248" uuid="ecc1027a-8c07-44a0-bdde-fa2844cff694"/>
+        <card number="1" name="Vivi Ornitier" setShortName="FIN" collectorNumber="321" uuid="ada6aeb6-8c9f-4498-9326-b4da0fcb19a3"/>
+        <card number="1" name="Vivi Ornitier" setShortName="FIN" collectorNumber="514" uuid="0cfc4614-f6c1-4247-ab96-5bd41006ad85"/>
+        <card number="1" name="Vivi Ornitier" setShortName="FIN" collectorNumber="570" uuid="25ef2d44-c261-4511-b96f-85e7a291e318"/>
+        <card number="1" name="Mountain" setShortName="WOE" collectorNumber="265" uuid="8822db23-34dc-452a-92bc-a3ceee4db375"/>
+        <card number="1" name="Mountain" setShortName="LCI" collectorNumber="290" uuid="7cb82fdb-5090-45c0-ae67-4846667c8625"/>
+        <card number="4" name="Riverpyre Verge" setShortName="DFT" collectorNumber="260" uuid="57a93a71-d77c-417f-85d0-cd420f573331"/>
+        <card number="4" name="Spirebluff Canal" setShortName="OTJ" collectorNumber="270" uuid="59a04e16-a767-4112-ab01-6ca1b09c286c"/>
+        <card number="1" name="Mountain" setShortName="PSS4" collectorNumber="4" uuid="f6d36bf6-a1fb-4a2b-a1ee-18cc7e1a6e1a"/>
+        <card number="3" name="Multiversal Passage" setShortName="SPM" collectorNumber="180" uuid="f5fb426a-5618-4dd4-9c51-0cc847be8c1d"/>
+        <card number="1" name="Abrade" setShortName="LCI" collectorNumber="131" uuid="47f39b5e-2e85-4f31-bbab-0b0bf58f701d"/>
+        <card number="1" name="Agatha's Soul Cauldron" setShortName="WOE" collectorNumber="242" uuid="019b51b0-e5c6-4208-922b-7736686dddcd"/>
+        <card number="1" name="Torch the Tower" setShortName="WOE" collectorNumber="153" uuid="b3d6027c-813f-46df-95b4-e2e305a67620"/>
+        <card number="3" name="Torch the Tower" setShortName="WOE" collectorNumber="378" uuid="f603675e-84df-4dd2-b45b-47349341f64c"/>
+        <card number="2" name="Agatha's Soul Cauldron" setShortName="WOE" collectorNumber="366" uuid="dec5fc59-73d8-4735-88f1-3dbd1f15a546"/>
+        <card number="3" name="Stormchaser's Talent" setShortName="BLB" collectorNumber="75" uuid="a36e682d-b43d-4e08-bf5b-70d7e924dbe5"/>
+        <card number="4" name="Opt" setShortName="FDN" collectorNumber="512" uuid="58d26b54-0093-4e90-a2b1-b57c64340f9c"/>
+        <card number="1" name="Island" setShortName="WOE" collectorNumber="263" uuid="bd4b4da4-83f6-4280-880b-b6033308f2a2"/>
+        <card number="1" name="Island" setShortName="LCI" collectorNumber="288" uuid="338e5b63-1fee-4a7c-af9b-483d383f79b7"/>
+        <card number="1" name="Island" setShortName="MKM" collectorNumber="273" uuid="fe5f01e9-f85f-41e8-9527-88f76e7bfc02"/>
+        <card number="1" name="Island" setShortName="OTJ" collectorNumber="273" uuid="a624d656-207d-4e73-b615-59e7cf64ad64"/>
+        <card number="1" name="Island" setShortName="BLB" collectorNumber="266" uuid="106a5332-0104-4ec9-9e1f-806381ae4cad"/>
+        <card number="1" name="Island" setShortName="BLB" collectorNumber="268" uuid="408eb23f-13fa-4f98-b316-18e3057f9136"/>
+        <card number="1" name="Island" setShortName="BLB" collectorNumber="269" uuid="2a9db98e-9f1d-4139-95c5-49f9d17a2107"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ral, Crackling Wit" setShortName="BLB" collectorNumber="353" uuid="af6c496c-c70e-46f0-b161-661620767de5"/>
+        <card number="1" name="Soul-Guide Lantern" setShortName="WOE" collectorNumber="251" uuid="13571173-29e7-4915-af5f-05f13b463061"/>
+        <card number="1" name="Abrade" setShortName="FDN" collectorNumber="327" uuid="aa74ab7c-b9de-47ab-83ea-2b98738838c7"/>
+        <card number="1" name="Pyroclasm" setShortName="DSK" collectorNumber="413" uuid="f4005974-fac5-465f-b742-bcb41eb8ba74"/>
+        <card number="1" name="Annul" setShortName="EOE" collectorNumber="394" uuid="26dd02c4-569b-437f-b9dd-bd2f1d86a968"/>
+        <card number="1" name="Annul" setShortName="EOE" collectorNumber="46" uuid="4feeebea-aa55-4599-ab5a-4e41a54d0dfd"/>
+        <card number="1" name="Obliterating Bolt" setShortName="FDN" collectorNumber="629" uuid="d59e836b-1c7b-43ac-889b-5f94e1638c42"/>
+        <card number="2" name="Unable to Scream" setShortName="DSK" collectorNumber="78" uuid="7c59e0cd-10a8-4a32-9c0a-a2c6ef1ed9a6"/>
+        <card number="1" name="Duelist of the Mind" setShortName="OTJ" collectorNumber="45" uuid="2b58e47b-c165-4a58-aa2a-033a35645adc"/>
+        <card number="2" name="Spell Pierce" setShortName="DFT" collectorNumber="64" uuid="8dd4374f-0301-4b2e-bc99-2cd19568cb3b"/>
+        <card number="2" name="Get Out" setShortName="DSK" collectorNumber="60" uuid="5d9471c8-2db9-4ce3-a1e5-42b85134cb8e"/>
+        <card number="1" name="Fresh Start" setShortName="TDM" collectorNumber="46" uuid="96f7af08-ac05-45d0-979f-282943130c61"/>
+    </zone>
+</cockatrice_deck>
