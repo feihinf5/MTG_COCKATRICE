@@ -17,7 +17,7 @@ Format
 
 Note
 - Magic Spotlight: Spider-Man in Liverpool 2025 winning deck by Alexey Paulot
-- Vivi Ornitier banned during November 2025 https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025
+- **Vivi Ornitier** banned during November 2025 https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025
 
 Deck list
 - 7 Island
