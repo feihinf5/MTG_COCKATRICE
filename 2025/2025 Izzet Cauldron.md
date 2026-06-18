@@ -2,7 +2,18 @@ Reference
 - https://magic.gg/decklists/magic-spotlight-spider-man-liverpool-2025-top-8-standard-decklists
 
 Format
-- 
+- SPM
+- EOE
+- FIN
+- TDM
+- DFT
+- FDN
+- DSK
+- BLB
+- OTJ
+- MKM
+- LCI
+- WOE
 
 Note
 - Magic Spotlight: Spider-Man in Liverpool 2025 winning deck by Alexey Paulot
