@@ -13,20 +13,26 @@ Note
 - Faceless Haven banned during Jan 2022 https://magic.wizards.com/en/news/announcements/january-25-2022-banned-and-restricted-announcement
 
 Deck list
-
-    19 Snow-Covered Forest
-    1 Snakeskin Veil
-    4 Old-Growth Troll
-    1 Primal Adversary
-    4 Esika's Chariot
-    4 Blizzard Brawl
-    2 Tangled Florahedron
-    4 Werewolf Pack Leader
-    4 Faceless Haven
-    4 Sculptor of Winter
-    2 Wrenn and Seven
-    4 Ranger Class
-    4 Kazandu Mammoth
-    3 Inscription of Abundance
+- 4 Elite Spellbinder
+- 2 Portable Hole
+- 1 Cave of the Frost Dragon
+- 3 Fateful Absence
+- 3 Stonebinder's Familiar
+- 3 Reidane, God of the Worthy
+- 4 Luminarch Aspirant
+- 4 Faceless Haven
+- 4 Usher of the Fallen
+- 4 Intrepid Adversary
+- 4 Sungold Sentinel
+- 3 Adeline, Resplendent Cathar
+- 19 Snow-Covered Plains
+- 2 Maul of the Skyclaves
 
 Sideboard
+- 1 Portable Hole
+- 1 Fateful Absence
+- 2 You're Ambushed on the Road
+- 2 Brutal Cathar
+- 2 Curse of Silence
+- 4 Skyclave Apparition
+- 3 Guardian of Faith
