@@ -13,7 +13,7 @@ Format
 Note
 - Deck designed by Zvi Mowshowitz
 - First, play **Dream Halls** and use **Mana Severance** to remove all land cards from your library
-- This ensures that whenever you draw two cards from your library, both will almost certainly be blue cards
+- This ensures that whenever you draw card from your library, both will almost certainly be blue cards
 - Once the setup is complete, cast spells like **Sift**, **Ancestral Memories**, or **Meditate**
 - Under the effect of **Dream Halls**, discarding one card to cast a spell that draws two or more cards allows you to dig through your library while continuously increasing your hand size
 - Normally, this process would cause you to run out of cards, but you can prevent this by using **Ancestral Memories** or **Intuition** to put **Gaea's Blessing** from your library into your graveyard, which shuffles your graveyard back into your library.
