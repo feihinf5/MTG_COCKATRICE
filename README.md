@@ -143,3 +143,19 @@ ARN 1993年12月
 LEB 1993年8月
 LEA 1993年8月
 </pre>
+
+## Template
+Reference 
+- URL_LINKS
+
+Format
+- CARD_SET
+
+Note
+- INFO
+
+Deck list
+- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+
+Sideboard
+- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
