@@ -32,7 +32,7 @@ Deck list
 - 1 Impulse
 - 1 Lobotomy
 - 1 Inspiration
-- 3 Gaea’s Blessing
+- 3 Gaea's Blessing
 - 4 Lotus Petal
 - 4 Crystal Vein
 - 4 Svyelunite Temple
