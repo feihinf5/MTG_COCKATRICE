@@ -10,7 +10,7 @@ Format
 
 Note
 - World Champion XXVII deck by Yoshihiko Ikawa
-- Faceless Haven banned during Jan 2022 https://magic.wizards.com/en/news/announcements/january-25-2022-banned-and-restricted-announcement
+- **Faceless Haven** banned during Jan 2022 https://magic.wizards.com/en/news/announcements/january-25-2022-banned-and-restricted-announcement
 
 Deck list
 - 4 Elite Spellbinder
