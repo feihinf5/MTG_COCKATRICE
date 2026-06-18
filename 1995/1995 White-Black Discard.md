@@ -3,7 +3,10 @@ Reference
 - http://mtgwiki.com/wiki/%E9%BB%92%E3%81%8D%E6%8B%B7%E5%95%8F%E5%8F%B0
 
 Format
-- 
+- ICE
+- CHR
+- 4ED
+- FEM
 
 Note
 - World Championships 1995 winning deck by Alexander Blumke
