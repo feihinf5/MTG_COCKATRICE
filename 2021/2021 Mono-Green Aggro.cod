@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Jun 18 22:10:16 2026</lastLoadedTimestamp>
+    <deckname>2021 Mono-Green Aggro</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Champion XXVII deck by Sam Pardee</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Inscription of Abundance" setShortName="ZNR" collectorNumber="360" uuid="e14c74a8-be66-4268-93fa-b32765fd82e2"/>
+        <card number="1" name="Kazandu Mammoth" setShortName="ZNR" collectorNumber="189" uuid="2f632537-63bf-4490-86e6-e6067b9c1a3b"/>
+        <card number="3" name="Kazandu Mammoth" setShortName="ZNR" collectorNumber="305" uuid="09c8c150-a0d8-4254-9169-7697e9c540da"/>
+        <card number="4" name="Ranger Class" setShortName="AFR" collectorNumber="202" uuid="7ca392ca-3219-4694-9a74-aa079c76b91e"/>
+        <card number="2" name="Wrenn and Seven" setShortName="MID" collectorNumber="278" uuid="3628a023-3f69-4b7f-a6cc-42e4293ecfdd"/>
+        <card number="1" name="Faceless Haven" setShortName="KHM" collectorNumber="255" uuid="e3cd82e5-6072-4334-a493-01ca4ad6b4eb"/>
+        <card number="3" name="Faceless Haven" setShortName="KHM" collectorNumber="371" uuid="21481b68-2396-4c94-956d-55d7427eeeb6"/>
+        <card number="4" name="Blizzard Brawl" setShortName="KHM" collectorNumber="162" uuid="6318918f-34e4-4bbf-9816-8e88f21ae324"/>
+        <card number="4" name="Sculptor of Winter" setShortName="KHM" collectorNumber="193" uuid="9dab2ca2-0039-4eac-a7dc-68756362737d"/>
+        <card number="1" name="Esika's Chariot" setShortName="KHM" collectorNumber="169" uuid="a87606cc-fbf0-4e2c-9798-f1c935d0573d"/>
+        <card number="3" name="Esika's Chariot" setShortName="KHM" collectorNumber="315" uuid="57a7d7e5-428d-4f42-8f13-9908fc65dcb4"/>
+        <card number="2" name="Tangled Florahedron" setShortName="ZNR" collectorNumber="211" uuid="235d1ffc-72aa-40a2-95dc-3f6a8d495061"/>
+        <card number="1" name="Werewolf Pack Leader" setShortName="AFR" collectorNumber="211" uuid="e88e6b39-bb4d-4d69-8007-d42f31bcbc29"/>
+        <card number="3" name="Werewolf Pack Leader" setShortName="AFR" collectorNumber="387" uuid="d212a090-a9dc-4fd4-b138-34f3d8f1f563"/>
+        <card number="1" name="Old-Growth Troll" setShortName="KHM" collectorNumber="185" uuid="b759b0f6-342c-4bba-89f1-8451835d8c45"/>
+        <card number="3" name="Old-Growth Troll" setShortName="KHM" collectorNumber="365" uuid="125915dd-0499-4690-8897-4c8906e9817c"/>
+        <card number="1" name="Primal Adversary" setShortName="MID" collectorNumber="363" uuid="5e39fdb5-a4cd-49fb-843f-30136ce54b34"/>
+        <card number="1" name="Snakeskin Veil" setShortName="KHM" collectorNumber="194" uuid="e692c208-c171-4964-9207-43c2cbc62845"/>
+        <card number="10" name="Snow-Covered Forest" setShortName="KHM" collectorNumber="284" uuid="ca17acea-f079-4e53-8176-a2f5c5c408a1"/>
+        <card number="9" name="Snow-Covered Forest" setShortName="KHM" collectorNumber="285" uuid="fe241460-f7c1-4ba8-a156-6720b494ac97"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Choose Your Weapon" setShortName="AFR" collectorNumber="175" uuid="213726e4-e2f5-4e52-b05a-21c4bab9927c"/>
+        <card number="1" name="Devouring Tendrils" setShortName="STX" collectorNumber="126" uuid="f7444555-da19-4d2d-ad81-233c54fbb78e"/>
+        <card number="1" name="Wrenn and Seven" setShortName="MID" collectorNumber="208" uuid="a7757e99-8d51-4b92-b346-6961845def24"/>
+        <card number="1" name="Outland Liberator" setShortName="MID" collectorNumber="190" uuid="60e53d61-fcc3-4def-8206-052b46f62deb"/>
+        <card number="1" name="Outland Liberator" setShortName="MID" collectorNumber="303" uuid="f86b7c7e-825a-4634-8a85-3b56f112188c"/>
+        <card number="1" name="Froghemoth" setShortName="AFR" collectorNumber="184" uuid="728e9567-2585-4c03-99a5-3e84fd8044d2"/>
+        <card number="3" name="Snakeskin Veil" setShortName="KHM" collectorNumber="194" uuid="e692c208-c171-4964-9207-43c2cbc62845"/>
+        <card number="2" name="Froghemoth" setShortName="AFR" collectorNumber="384" uuid="f2064ba7-a03e-4beb-b251-9383154dbfaa"/>
+        <card number="2" name="Tajuru Blightblade" setShortName="ZNR" collectorNumber="208" uuid="7f3d6020-6767-406c-bf28-6b3e9ae72f50"/>
+        <card number="1" name="Inscription of Abundance" setShortName="ZNR" collectorNumber="186" uuid="fcd2e01e-a143-4b62-8b01-d253fb35c590"/>
+        <card number="1" name="Tovolar's Huntmaster" setShortName="MID" collectorNumber="306" uuid="86e3848f-ee6a-4f9f-a231-4a22335a6808"/>
+    </zone>
+</cockatrice_deck>
