@@ -161,4 +161,4 @@ Sideboard
 - NUMBER_OF_CARD SIDEBOARD_DECK_LIST
 
 ## Image URL link
-https://cards.scryfall.io/large/front/b/0/REPLACE_WITH_APPROPRIATE_UUID.jpg
+- https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
