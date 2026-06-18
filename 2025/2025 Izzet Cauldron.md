@@ -20,6 +20,7 @@ Note
 - When you use the **Agatha's Soul Cauldron** to exile **Vivi Ornitier** from a graveyard, any creature you control that has a +1/+1 counter on it gains **Vivi Ornitier**’s activated ability.
 - Therefore, when your random creature (let's say a 4/4 token with a +1/+1 counter on it) inherits the ability, the text functionally reads: "{0}: Add X mana in any combination of blue and/or red, where X is this creature’s power. Activate only once each turn."
 - **Vivi Ornitier** and **Proft's Eidetic Memory** banned during November 2025 https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025
+- **Proft's Eidetic Memory** had the capacity to be exceedingly powerful alongside creatures that draw cards and cheap spells that draw multiple cards
 
 Deck list
 - 7 Island
