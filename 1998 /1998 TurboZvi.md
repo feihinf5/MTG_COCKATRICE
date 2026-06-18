@@ -12,7 +12,7 @@ Format
 
 Note
 - Deck designed by Zvi Mowshowitz
-- First, play [**Dream Halls**](https://api.scryfall.com/cards/f4a22d9-007b-4eb7-af9e-b5c2cae36238"?format=image) and use [**Mana Severance**](https://api.scryfall.com/cards/54dc5e6-63f7-4c8b-83e5-a364f41c9a15"?format=image) to remove all land cards from your library
+- First, play [**Dream Halls**](https://api.scryfall.com/cards/f4a22d9-007b-4eb7-af9e-b5c2cae36238?format=image) and use [**Mana Severance**](https://api.scryfall.com/cards/54dc5e6-63f7-4c8b-83e5-a364f41c9a15?format=image) to remove all land cards from your library
 - This ensures that whenever you draw card from your library, both will almost certainly be blue cards
 - Once the setup is complete, cast spells like [**Sift**](https://cards.scryfall.io/large/front/b/f/bf5b23da-9ba8-4b43-a5c9-51e1fc253913.jpg?1587857357), [**Ancestral Memories**](https://api.scryfall.com/cards/b1d1298b-9f56-4540-8d6b-7eecfe38cf62?format=image), or [**Meditate**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - Under the effect of [**Dream Halls**](https://api.scryfall.com/cards/f4a22d9-007b-4eb7-af9e-b5c2cae36238"?format=image), discarding one card to cast a spell that draws two or more cards allows you to dig through your library while continuously increasing your hand size
