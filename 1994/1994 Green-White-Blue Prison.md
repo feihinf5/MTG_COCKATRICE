@@ -5,13 +5,13 @@ Reference
 - https://articles.starcitygames.com/articles/untold-legends-early-days/
 
 Format
-- LEA
-- LEB
-- 2ED
-- ARN
-- ATQ
-- 3ED
 - LEG
+- 3ED
+- ATQ
+- ARN
+- 2ED
+- LEB
+- LEA
 
 Note
 - World Championship 1994 winning deck by Zak Dolan
