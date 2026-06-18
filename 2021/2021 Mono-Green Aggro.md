@@ -2,7 +2,11 @@ Reference
 - https://magic.gg/events/magic-world-championship-xxvii
 
 Format
--
+- ZNR
+- KHM
+- STX
+- AFR
+- MID
 
 Note
 - World Champion XXVII deck by Sam Pardee
