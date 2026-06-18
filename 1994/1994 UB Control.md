@@ -15,7 +15,7 @@ Note
 - The centerpiece is **Mind Twist**, which was not yet restricted at the time
 - After stripping the opponent's hand with **Mind Twist**, the deck establishes a lock using repeatable discard effects
 - Aside from **Mind Twist**, the deck only runs a combined total of three copies of **Hypnotic Specter** and **Disrupting Scepter** for hand disruption, a testament to just how incredibly powerful **Mind Twist** was on its own
-- **Mind Twist** would go on to be restricted just the following month
+- **Mind Twist** restricted during Jan 1995 https://groups.google.com/g/rec.games.deckmaster/c/MymOFRYudwU/m/0FuCZ_bXMnIJ
 - Base/core set only (Limited Edition to Revised Edition), no sideboard
 
 Deck list
