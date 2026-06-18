@@ -1,1 +1,61 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Jun 18 19:23:22 2026</lastLoadedTimestamp>
+    <deckname>2025 Mono-Red Aggro</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Magic Spotlight: Spider-Man in Liverpool 2025 deck by Liam Tiller-Collins</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Mountain" setShortName="WOE" collectorNumber="265" uuid="8822db23-34dc-452a-92bc-a3ceee4db375"/>
+        <card number="1" name="Mountain" setShortName="LCI" collectorNumber="290" uuid="7cb82fdb-5090-45c0-ae67-4846667c8625"/>
+        <card number="1" name="Mountain" setShortName="MKM" collectorNumber="275" uuid="5383b66e-e559-47d2-9967-9c2d5f898653"/>
+        <card number="3" name="Witchstalker Frenzy" setShortName="WOE" collectorNumber="159" uuid="649025a7-79d1-4d7c-b1db-d46bcf5a1ae2"/>
+        <card number="1" name="Mountain" setShortName="OTJ" collectorNumber="275" uuid="0a7dbfd2-cda7-4fc9-9677-e442fb5f5f6f"/>
+        <card number="1" name="Mountain" setShortName="BLB" collectorNumber="277" uuid="8a38bea4-2d1b-442b-aad5-ab1a0ae67aac"/>
+        <card number="1" name="Hired Claw" setShortName="BLB" collectorNumber="140" uuid="1ae41080-0d67-4719-adb2-49bf2a268b6c"/>
+        <card number="3" name="Hired Claw" setShortName="BLB" collectorNumber="317" uuid="fda3d3ef-c858-4707-9c3f-be1b775eb8c1"/>
+        <card number="1" name="Nova Hellkite" setShortName="EOE" collectorNumber="148" uuid="424af0d0-398c-4d78-9ad5-2171bf1bcbd1"/>
+        <card number="3" name="Nova Hellkite" setShortName="EOE" collectorNumber="309" uuid="c627d558-98e8-459e-860b-7ac4dfac44de"/>
+        <card number="1" name="Mountain" setShortName="BLB" collectorNumber="276" uuid="0b384d24-8771-4860-8fc1-1b74217f1c4c"/>
+        <card number="1" name="Mountain" setShortName="BLB" collectorNumber="275" uuid="02244055-cbeb-4074-9482-42ec20721312"/>
+        <card number="1" name="Screaming Nemesis" setShortName="DSK" collectorNumber="157" uuid="ce35e6fb-ff54-44c4-a216-7ddd37f46882"/>
+        <card number="3" name="Screaming Nemesis" setShortName="DSK" collectorNumber="348" uuid="ad3f4c72-ff6e-4d7f-8eb8-45a0a9605fc0"/>
+        <card number="1" name="Mountain" setShortName="BLB" collectorNumber="274" uuid="c1bba8fb-d763-4efa-8db1-e5e81994b5f9"/>
+        <card number="1" name="Mountain" setShortName="DSK" collectorNumber="275" uuid="8c8841b2-9b4e-4f65-8e30-1e9423cb8fbc"/>
+        <card number="1" name="Mountain" setShortName="FDN" collectorNumber="289" uuid="042b04b4-f7f4-4c1a-86ad-b50d788aa99e"/>
+        <card number="1" name="Mountain" setShortName="FDN" collectorNumber="288" uuid="3a3afd00-da06-4a9f-8cd1-7133728e0fdd"/>
+        <card number="1" name="Mountain" setShortName="DFT" collectorNumber="515" uuid="5e4952a8-4e1f-4a74-8a06-c9d633b25dcd"/>
+        <card number="1" name="Mountain" setShortName="DFT" collectorNumber="510" uuid="c7533cbb-ab73-4a0c-9ea0-baa97c4665b8"/>
+        <card number="1" name="Mountain" setShortName="DFT" collectorNumber="275" uuid="50748a4c-43a0-4274-9a84-046d76027166"/>
+        <card number="1" name="Mountain" setShortName="TDM" collectorNumber="290" uuid="a4db1b7a-93f2-40a5-b649-80a099ddeb62"/>
+        <card number="1" name="Mountain" setShortName="TDM" collectorNumber="275" uuid="fe0865ba-47c0-40bc-b0c6-e1ea5ae08a98"/>
+        <card number="1" name="Soulstone Sanctuary" setShortName="FDN" collectorNumber="356" uuid="98f4cc78-c25f-494c-b57e-c185d37605e8"/>
+        <card number="1" name="Soulstone Sanctuary" setShortName="FDN" collectorNumber="416" uuid="ab27d7a8-de69-4939-a35b-760b1b42e070"/>
+        <card number="1" name="Mountain" setShortName="FIN" collectorNumber="575" uuid="0cef98b7-d54a-456e-8240-1c5af3a72a04"/>
+        <card number="1" name="Mountain" setShortName="FIN" collectorNumber="305" uuid="ea1735b9-fd10-4c9c-b9d3-046d8c22b852"/>
+        <card number="4" name="Rockface Village" setShortName="BLB" collectorNumber="259" uuid="62799d24-39a6-4e66-8ac3-7cafa99e6e6d"/>
+        <card number="4" name="Burst Lightning" setShortName="FDN" collectorNumber="192" uuid="aec5d380-d354-4750-931a-6c91853e2edc"/>
+        <card number="1" name="Burnout Bashtronaut" setShortName="DFT" collectorNumber="115" uuid="4db66e7b-cb7a-4d86-a563-d570946aeb0d"/>
+        <card number="1" name="Burnout Bashtronaut" setShortName="DFT" collectorNumber="340" uuid="eb1ffa8e-2794-4f11-8351-42f1a0f26831"/>
+        <card number="1" name="Burnout Bashtronaut" setShortName="DFT" collectorNumber="455" uuid="60c9b613-1494-4df0-9a38-cc0a69fd3945"/>
+        <card number="1" name="Burnout Bashtronaut" setShortName="DFT" collectorNumber="539" uuid="b2151639-5621-4ffa-9374-3a1c48a635d9"/>
+        <card number="1" name="Emberheart Challenger" setShortName="BLB" collectorNumber="133" uuid="0035082e-bb86-4f95-be48-ffc87fe5286d"/>
+        <card number="3" name="Emberheart Challenger" setShortName="BLB" collectorNumber="315" uuid="8fde5980-ad2c-4ddf-8244-f9688a6225f2"/>
+        <card number="1" name="Razorkin Needlehead" setShortName="DSK" collectorNumber="153" uuid="bc73b963-23c0-46d2-853a-34a8b463994e"/>
+        <card number="1" name="Shock" setShortName="MKM" collectorNumber="144" uuid="298747bb-eb40-4b58-bb22-4ac2bc1d795c"/>
+        <card number="3" name="Razorkin Needlehead" setShortName="DSK" collectorNumber="347" uuid="25c34cb6-c8cb-4814-a647-9c63b10f02c4"/>
+        <card number="4" name="Lightning Strike" setShortName="DFT" collectorNumber="136" uuid="30077b49-b825-4dbb-a0c7-f3992f647df0"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Fire Magic" setShortName="FIN" collectorNumber="136" uuid="415ff6a5-61ef-4b37-ae08-e44476300d4a"/>
+        <card number="3" name="Magebane Lizard" setShortName="OTJ" collectorNumber="134" uuid="62e12566-375f-4f31-aa91-1b13a96d9ece"/>
+        <card number="1" name="Twisted Fealty" setShortName="WOE" collectorNumber="154" uuid="382d6085-79b9-48f7-8949-9f44dde2c753"/>
+        <card number="3" name="Obliterating Bolt" setShortName="FDN" collectorNumber="629" uuid="d59e836b-1c7b-43ac-889b-5f94e1638c42"/>
+        <card number="1" name="Vengeful Possession" setShortName="DSK" collectorNumber="162" uuid="d6918d50-a4c3-40d8-9480-343f14773a69"/>
+        <card number="2" name="Sunspine Lynx" setShortName="BLB" collectorNumber="292" uuid="f1c414b4-3374-44e4-98b4-03193e701eb1"/>
+        <card number="1" name="Sunspine Lynx" setShortName="BLB" collectorNumber="155" uuid="8995ceaf-b7e0-423c-8f3e-25212d522502"/>
+        <card number="1" name="Stingerback Terror" setShortName="OTJ" collectorNumber="336" uuid="2e9fa00b-bc34-4be8-a21f-11ae695f166d"/>
+        <card number="1" name="Stingerback Terror" setShortName="OTJ" collectorNumber="147" uuid="d84d6e52-5c35-47bc-b160-876a3b0fcbe1"/>
+    </zone>
+</cockatrice_deck>
