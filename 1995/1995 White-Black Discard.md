@@ -2,6 +2,9 @@ Reference
 - https://www.magic.gg/news/metagame-mentor-how-leyline-of-the-guildpact-transformed-modern
 - http://mtgwiki.com/wiki/%E9%BB%92%E3%81%8D%E6%8B%B7%E5%95%8F%E5%8F%B0
 
+Format
+- 
+
 Note
 - World Championships 1995 winning deck by Alexander Blumke
 
