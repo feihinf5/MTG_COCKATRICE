@@ -14,7 +14,7 @@ Note
 - Deck designed by Zvi Mowshowitz
 - First, play **Dream Halls** and use **Mana Severance** to remove all land cards from your library
 - This ensures that whenever you draw card from your library, both will almost certainly be blue cards
-- Once the setup is complete, cast spells like **Sift**, **Ancestral Memories**, or **Meditate**
+- Once the setup is complete, cast spells like [**Sift**](https://cards.scryfall.io/large/front/b/0/REPLACE_WITH_APPROPRIATE_UUID.jpg), **Ancestral Memories**, or **Meditate**
 - Under the effect of **Dream Halls**, discarding one card to cast a spell that draws two or more cards allows you to dig through your library while continuously increasing your hand size
 - Normally, this process would cause you to run out of cards, but you can prevent this by using **Ancestral Memories** or **Intuition** to put **Gaea's Blessing** from your library into your graveyard, which shuffles your graveyard back into your library.
 - By repeating 2 steps above, you can use your massively increased hand size to repeatedly cast Inspiration on your opponent, ultimately winning the game by forcing them to draw from an empty library (deck out)
