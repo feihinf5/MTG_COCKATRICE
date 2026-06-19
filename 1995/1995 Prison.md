@@ -9,7 +9,7 @@ Format
 - FEM
 
 Note
-- World Championships 1995 deck by Marc Hernandez
+- World Championships 1995 top 4 deck by Marc Hernandez
 - The lock elements rely on the combination of Winter Orb and Icy Manipulator
 - Each player can only untap one land per turn, and use the Manipulator to tap down that single untapped land during the opponent's upkeep
 - This forces the opponent into a tight spot, unable to do much during their main phase since they can only spend mana on instant-speed spells
