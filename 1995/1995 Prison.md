@@ -18,7 +18,7 @@ Note
 - Deploy Black Vise to deal massive, repeated damage to opponents with bloated hands
 - Synergy with Armageddon and Balance, players would sacrifice all their lands to Zuran Orb before casting Balance for a total board wipe
 
-Deck list
+Deck
 - 2 Earthquake
 - 3 Wrath of God
 - 3 Armageddon
