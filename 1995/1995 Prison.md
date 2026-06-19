@@ -13,7 +13,7 @@ Note
 - Core lock with combine Winter Orb and Icy Manipulator
 - Tap the opponent’s single untapped land during their upkeep, locking them out of main phase mana and restricting them to instant speed spells
 - In early MTG, tapping an artifact shut off its continuous ability, so tap your own Winter Orb at the opponent's end step to fully untap your lands
-- Though that rule is obsolete, errata to Winter Orb ensures the trick still works today if it is tapped
+- Though that rule is obsolete, errata to [**Winter Orb**](https://api.scryfall.com/cards/838f66d8-4f2d-4418-958c-e79aee0ce8aa?format=image) ensures the trick still works today if it is tapped
 - The lock renders the extra cards opponents draw from Howling Mine useless, creating a massive resource gap
 - Deploy Black Vise to deal massive, repeated damage to opponents with bloated hands
 - Synergy with Armageddon and Balance, players would sacrifice all their lands to Zuran Orb before casting Balance for a total board wipe
