@@ -19,7 +19,7 @@ Note
 - Prison lock is to combines [**Winter Orb**](https://api.scryfall.com/cards/9359f60c-9a27-4e53-b35b-964a121a6fba?format=image) and [**Icy Manipulator**](https://api.scryfall.com/cards/29dc1596-a2e7-4d60-9f99-89babaef8a06?format=image)
 - Stasis lock is to pairs [**Stasis**](https://api.scryfall.com/cards/73c76f5d-d866-4eb7-b2d2-fc6ecf982f8e?format=image) with either [**Howling Mine**](https://api.scryfall.com/cards/51f8f6e1-a451-4262-90d3-5107caf54175?format=image) or [**Time Elemental**](https://api.scryfall.com/cards/61510e88-97d0-410a-9431-ebf12990e33d?format=image)
 - Secure the win using [**Serra Angel**](https://api.scryfall.com/cards/f8ac5006-91bd-4803-93da-f87cf196dd2f?format=image) or [**Black Vise**](https://api.scryfall.com/cards/76ac72f8-5b1e-4d67-a796-ef69cde27424?format=image) while the opponent is locked down
-- Utilizes [**Clone**](https://api.scryfall.com/cards/f00d33dd-4eb2-4446-9813-1923d8e2d2f3?format=image) and [**Vesuvan Doppelganger**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to copy the primary finisher [**Serra Angel**](https://api.scryfall.com/cards/f8ac5006-91bd-4803-93da-f87cf196dd2f?format=image)
+- Utilizes [**Clone**](https://api.scryfall.com/cards/f00d33dd-4eb2-4446-9813-1923d8e2d2f3?format=image) and [**Vesuvan Doppelganger**](https://api.scryfall.com/cards/768f3a05-bd06-4a23-b9f2-94f6e618fd9f?format=image) to copy the primary finisher [**Serra Angel**](https://api.scryfall.com/cards/f8ac5006-91bd-4803-93da-f87cf196dd2f?format=image)
   
 Deck list
 - 1 Library of Alexandria
