@@ -9,7 +9,7 @@ Format
 - ZNR
 
 Note
-- World Champion XXVII deck by Sam Pardee
+- World Champion XXVII top 8 deck by Sam Pardee
 - [**Faceless Haven**](https://api.scryfall.com/cards/e3cd82e5-6072-4334-a493-01ca4ad6b4eb?format=image) banned during Jan 2022 https://magic.wizards.com/en/news/announcements/january-25-2022-banned-and-restricted-announcement
 
 Deck list
