@@ -19,7 +19,7 @@ Note
 - As a result, he was forced to play through the World Championship with a completely mono-white version of the deck
 - The fact that he still managed to win the championship not only about his immense skill but also about just how dominant Necro decks were in the meta
 
-Deck list
+Deck
 - 15 Plains
 - 1 Kjeldoran Outpost
 - 4 Mishra's Factory
