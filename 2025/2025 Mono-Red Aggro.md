@@ -18,7 +18,7 @@ Format
 Note
 - Magic Spotlight: Spider-Man in Liverpool 2025 deck by Liam Tiller-Collins
 - **Screaming Nemesis** banned during November 2025 https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025
-- [**Screaming Nemesis**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) singlehandedly removes most counterplay against Mono-Red by giving the Mono-Red deck a great game plan against two of Mono-Red's natural predators: life gain and large blockers
+- [**Screaming Nemesis**](https://api.scryfall.com/cards/ce35e6fb-ff54-44c4-a216-7ddd37f46882?format=image) singlehandedly removes most counterplay against Mono-Red by giving the Mono-Red deck a great game plan against two of Mono-Red's natural predators: life gain and large blockers
 
 Deck list
 - 4 Lightning Strike
