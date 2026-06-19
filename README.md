@@ -155,7 +155,7 @@ Format
 Note
 - INFO
 
-Deck list
+Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
 
 Sideboard
