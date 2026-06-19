@@ -15,6 +15,11 @@ Format
 
 Note
 - World Championship 1994 winning deck by Zak Dolan
+- Heavy lock deck to restrict the opponent's actions before closing out the game
+- "Prison" Lock is to combines Winter Orb and Icy Manipulator
+- "Stasis" Lock is to pairs Stasis with either Howling Mine or Time Elemental
+- Secure the win using Serra Angel or Black Vise while the opponent is locked down
+- Utilizes Clone and Vesuvan Doppelganger to copy the primary finisher Serra Angel
   
 Deck list
 - 1 Library of Alexandria
