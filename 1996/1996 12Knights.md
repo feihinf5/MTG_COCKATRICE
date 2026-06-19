@@ -14,8 +14,8 @@ Standard format
 Note
 - World Championships 1996 winning deck by Tom Chanpheng
 - Necro Summer or Black Summer is the nickname for the 1996 World Championship, which was heavily dominated by Necropotence decks
-- The inclusion of **Divine Offering** in the sideboard is part of the strategy against Necropotence decks to deal with **Nevinyrral's Disk**, **Ivory Tower** and **Zuran Orb**
-- The deck splashes blue to utilize **Sleight of Mind** however, when registering his decklist, Tom Chanpheng forgot to write down the four copies of **Adarkar Wastes** resulting in them being replaced with four **Plains**
+- The inclusion of [**Divine Offering**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) in the sideboard is part of the strategy against Necropotence decks to deal with [**Nevinyrral's Disk**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Ivory Tower**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Zuran Orb**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- The deck splashes blue to utilize [**Sleight of Mind**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) however, when registering his decklist, Tom Chanpheng forgot to write down the four copies of [**Adarkar Wastes**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) resulting in them being replaced with four [**Plains**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - As a result, he was forced to play through the World Championship with a completely mono-white version of the deck
 - The fact that he still managed to win the championship not only about his immense skill but also about just how dominant Necro decks were in the meta
 
