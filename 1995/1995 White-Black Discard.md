@@ -11,7 +11,7 @@ Format
 Note
 - World Championships 1995 winning deck by Alexander Blumke
 
-Deck list
+Deck
 - 3 Adarkar Wastes
 - 1 Bottomless Vault
 - 4 Mishra's Factory
