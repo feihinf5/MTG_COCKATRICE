@@ -14,7 +14,7 @@ Note
 - Generate explosive mana using Orcish Lumberjack
 - Leverage that mana acceleration to cast Jokulhaups to clear the board, then deploy Black Vise to seal the lock
 - Run Channel and Fireball alongside multiple other burn spells
-- Declined in popularity after Black Vise became restricted
+- Declined in popularity after Black Vise became restricted https://www.mtggoldfish.com/articles/evolution-of-magic-banned-and-restricted-list
 
 Deck list
 - 2 Llanowar Elves
