@@ -16,7 +16,7 @@ Note
 - Run Channel and Fireball alongside multiple other burn spells
 - Declined in popularity after Black Vise became restricted https://www.mtggoldfish.com/articles/evolution-of-magic-banned-and-restricted-list
 
-Deck list
+Deck
 - 2 Llanowar Elves
 - 3 Orcish Lumberjack 	
 - 2 Whirling Dervish
