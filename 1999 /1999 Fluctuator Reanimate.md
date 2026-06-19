@@ -10,8 +10,9 @@ Format
 - 5ED
 
 Note
-- Send a large number of creatures with "Cycling" to the graveyard using Fluctuator, while simultaneously drawing into key cards
-- Cast Living Death to put all the creatures from the graveyard onto the battlefield
+- Send a large number of creatures with "Cycling" to the graveyard using **Fluctuator**, while simultaneously drawing into key cards
+- Cast **Living Death** to put all the creatures from the graveyard onto the battlefield
+- **Fluctuator** banned during April 1999 https://groups.google.com/g/rec.games.trading-cards.magic.rules/c/OVOGe2lz2SU
 
 Deck list
 - 2 Cloud of Faeries
