@@ -22,7 +22,7 @@ Note
 - **Vivi Ornitier** and **Proft's Eidetic Memory** banned during November 2025 https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025
 - [**Proft's Eidetic Memory**](https://api.scryfall.com/cards/af5b29b3-974c-4200-8df8-b072c11e1600?format=image) had the capacity to be exceedingly powerful alongside creatures that draw cards and cheap spells that draw multiple cards
 
-Deck list
+Deck
 - 7 Island
 - 4 Opt
 - 3 Stormchaser's Talent
