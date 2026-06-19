@@ -11,7 +11,7 @@ Format
 - MIR
 
 Note
-- Deck designed by Zvi Mowshowitz
+- Designed by Zvi Mowshowitz
 - First, play [**Dream Halls**](https://api.scryfall.com/cards/ff4a22d9-007b-4eb7-af9e-b5c2cae36238?format=image) and use [**Mana Severance**](https://api.scryfall.com/cards/854dc5e6-63f7-4c8b-83e5-a364f41c9a15?format=image) to remove all land cards from your library
 - This ensures that whenever you draw card from your library, both will almost certainly be blue cards
 - Once the setup is complete, cast spells like [**Sift**](https://cards.scryfall.io/large/front/b/f/bf5b23da-9ba8-4b43-a5c9-51e1fc253913.jpg?1587857357), [**Ancestral Memories**](https://api.scryfall.com/cards/b1d1298b-9f56-4540-8d6b-7eecfe38cf62?format=image), or [**Meditate**](https://api.scryfall.com/cards/edb79a97-c1fc-4aa3-bb13-3d24a6dabeea?format=image)
@@ -20,7 +20,7 @@ Note
 - By repeating 2 steps above, you can use your massively increased hand size to repeatedly cast Inspiration on your opponent, ultimately winning the game by forcing them to draw from an empty library (deck out)
 - [**Dream Halls**](https://api.scryfall.com/cards/ff4a22d9-007b-4eb7-af9e-b5c2cae36238?format=image) banned during March 1999 https://www.mtggoldfish.com/articles/evolution-of-magic-banned-and-restricted-combo-winter
 
-Deck list
+Deck
 - 4 Dream Halls
 - 4 Intuition
 - 4 Meditate
