@@ -14,7 +14,7 @@ Note
 - The basic setup relies on a long list of restricted cards to control the game through hand disruption
 - The centerpiece is [**Mind Twist**](https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739?format=image), which was not yet restricted at the time
 - After stripping the opponent's hand with [**Mind Twist**](https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739?format=image), the deck establishes a lock using repeatable discard effects
-- Aside from [**Mind Twist**](https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739?format=image), the deck only runs a combined total of three copies of [**Hypnotic Specter**](https://api.scryfall.com/cards/b43b900f-2d9b-442b-9699-058483604ec9?format=image) and [**Disrupting Scepter**](https://api.scryfall.com/cards/ca571ee8-07a2-43b8-9acf-89cbfd3cf7c9?format=image) for hand disruption, a testament to just how incredibly powerful **Mind Twist** was on its own
+- The deck only runs a combined total of three copies of [**Hypnotic Specter**](https://api.scryfall.com/cards/b43b900f-2d9b-442b-9699-058483604ec9?format=image) and [**Disrupting Scepter**](https://api.scryfall.com/cards/ca571ee8-07a2-43b8-9acf-89cbfd3cf7c9?format=image) for hand disruption, a testament to just how incredibly powerful [**Mind Twist**](https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739?format=image) was on its own
 - [**Mind Twist**](https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739?format=image) restricted during Jan 1995 https://groups.google.com/g/rec.games.deckmaster/c/MymOFRYudwU/m/0FuCZ_bXMnIJ
 - Base/core set only (LEA to 3ED), no sideboard
 
