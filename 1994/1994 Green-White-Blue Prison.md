@@ -16,10 +16,10 @@ Format
 Note
 - World Championship 1994 winning deck by Zak Dolan
 - Heavy lock deck to restrict the opponent's actions before closing out the game
-- "Prison" Lock is to combines Winter Orb and Icy Manipulator
-- "Stasis" Lock is to pairs Stasis with either Howling Mine or Time Elemental
-- Secure the win using Serra Angel or Black Vise while the opponent is locked down
-- Utilizes Clone and Vesuvan Doppelganger to copy the primary finisher Serra Angel
+- Prison lock is to combines [**Winter Orb**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Icy Manipulator**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Stasis lock is to pairs [**Stasis**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) with either [**Howling Mine**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Time Elemental**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Secure the win using [**Serra Angel**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Black Vise**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) while the opponent is locked down
+- Utilizes [**Clone**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Vesuvan Doppelganger**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to copy the primary finisher [**Serra Angel**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
   
 Deck list
 - 1 Library of Alexandria
