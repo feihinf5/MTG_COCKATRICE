@@ -16,7 +16,7 @@ Format
 Note
 - World Championship 1994 winning deck by Zak Dolan
 - Heavy lock deck to restrict the opponent's actions before closing out the game
-- Prison lock is to combines [**Winter Orb**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Icy Manipulator**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Prison lock is to combines [**Winter Orb**](https://api.scryfall.com/cards/9359f60c-9a27-4e53-b35b-964a121a6fba?format=image) and [**Icy Manipulator**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - Stasis lock is to pairs [**Stasis**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) with either [**Howling Mine**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Time Elemental**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - Secure the win using [**Serra Angel**](https://api.scryfall.com/cards/f8ac5006-91bd-4803-93da-f87cf196dd2f?format=image) or [**Black Vise**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) while the opponent is locked down
 - Utilizes [**Clone**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Vesuvan Doppelganger**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to copy the primary finisher [**Serra Angel**](https://api.scryfall.com/cards/f8ac5006-91bd-4803-93da-f87cf196dd2f?format=image)
