@@ -17,7 +17,7 @@ Format
 Note
 - Designed by Brian Weissman
 
-Deck list
+Deck
 - 2 Serra Angel
 - 4 Mana Drain
 - 2 Counterspell
