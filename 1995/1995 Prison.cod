@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Mon Jun 1 16:25:52 2026</lastLoadedTimestamp>
+    <deckname>1995 Prison</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1995 top 4 deck by Marc Hernandez</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Adarkar Wastes" setShortName="ICE" collectorNumber="351" uuid="09dd9023-f7ee-4e99-8821-7059deb83730"/>
+        <card number="1" name="Mountain" setShortName="4ED" collectorNumber="373" uuid="0c5c9379-b686-4823-b85a-eaf2c4b63205"/>
+        <card number="1" name="Mountain" setShortName="4ED" collectorNumber="375" uuid="50352268-88a6-4575-a5e1-cd8bef7f8286"/>
+        <card number="1" name="Mountain" setShortName="4ED" collectorNumber="374" uuid="10478e22-d1dd-4e02-81a7-d93ce71ed81d"/>
+        <card number="1" name="Mountain" setShortName="ICE" collectorNumber="378" uuid="17ac61e4-b543-4c37-9bfa-43f0c928152d"/>
+        <card number="2" name="Plains" setShortName="4ED" collectorNumber="366" uuid="ad1317da-9e81-4aff-8c04-9155d14be90c"/>
+        <card number="2" name="Plains" setShortName="4ED" collectorNumber="365" uuid="d17f8abd-c087-4039-8dfd-c6168f7db0a6"/>
+        <card number="2" name="Plains" setShortName="4ED" collectorNumber="364" uuid="639e47dc-c90f-4f55-9b3a-721240ec04ed"/>
+        <card number="1" name="Plains" setShortName="ICE" collectorNumber="364" uuid="7b68bdb0-41cc-48f6-905e-7da1ff4ba5e0"/>
+        <card number="1" name="Plains" setShortName="ICE" collectorNumber="366" uuid="27ac1fc7-0698-4a94-8353-cc4c13bd6ffa"/>
+        <card number="1" name="Plains" setShortName="ICE" collectorNumber="365" uuid="df3e94f7-9f97-4652-a1f1-381feb15f688"/>
+        <card number="1" name="Ruins of Trokair" setShortName="FEM" collectorNumber="100" uuid="4ce2e734-8cff-4bfe-85f8-17b3e1903f18"/>
+        <card number="4" name="Strip Mine" setShortName="4ED" collectorNumber="363" uuid="a5899b46-226b-4be6-8e80-d2396f54210d"/>
+        <card number="1" name="Circle of Protection: Red" setShortName="4ED" collectorNumber="17" uuid="f3575259-b019-47d0-a6d3-3fe4963294ae"/>
+        <card number="1" name="Circle of Protection: Red" setShortName="ICE" collectorNumber="15" uuid="5790ce22-a94f-402e-bcc7-b98f71af9fe5"/>
+        <card number="2" name="Island Sanctuary" setShortName="4ED" collectorNumber="31" uuid="c0eff4d1-4ce6-48b1-84ae-a95bd1d04d16"/>
+        <card number="4" name="Black Vise" setShortName="4ED" collectorNumber="299" uuid="196b83a1-2a25-498d-83b8-8faacd79909d"/>
+        <card number="3" name="Fellwar Stone" setShortName="4ED" collectorNumber="319" uuid="6f7a41cc-277a-4d95-a30c-91bf5aa7ac11"/>
+        <card number="4" name="Howling Mine" setShortName="4ED" collectorNumber="325" uuid="a4df1be4-364e-4582-929a-05f2905f8ce6"/>
+        <card number="3" name="Icy Manipulator" setShortName="ICE" collectorNumber="322" uuid="1eda936f-7691-4440-9b83-eb0c6035b109"/>
+        <card number="1" name="Ivory Tower" setShortName="4ED" collectorNumber="328" uuid="eff5624d-fffa-48c1-91f3-f03585e45c69"/>
+        <card number="3" name="Winter Orb" setShortName="4ED" collectorNumber="358" uuid="d60ee90d-5f7b-4294-8d52-9744fada8d36"/>
+        <card number="3" name="Zuran Orb" setShortName="ICE" collectorNumber="350" uuid="3a9d1082-a862-45d4-9e5e-392e879fead6"/>
+        <card number="2" name="Disenchant" setShortName="4ED" collectorNumber="22" uuid="a915f261-2cdc-499c-9163-da5b628b0127"/>
+        <card number="1" name="Disenchant" setShortName="ICE" collectorNumber="20" uuid="b6085d0c-ab2b-445d-bf9d-0fa0a19183a2"/>
+        <card number="1" name="Swords to Plowshares" setShortName="ICE" collectorNumber="54" uuid="375fd2cb-443b-4be4-ad60-6d1a8e74f510"/>
+        <card number="2" name="Swords to Plowshares" setShortName="4ED" collectorNumber="52" uuid="8bd501ae-5814-4336-a45b-2b88cb85d29e"/>
+        <card number="3" name="Armageddon" setShortName="4ED" collectorNumber="5" uuid="0794bc35-a8e1-4268-87b2-af5483ca6e5e"/>
+        <card number="1" name="Balance" setShortName="4ED" collectorNumber="6" uuid="db3e219d-8e5e-44c7-97b3-2d489e2808b9"/>
+        <card number="2" name="Earthquake" setShortName="4ED" collectorNumber="189" uuid="19ec03ce-a8a3-42c3-a895-21cce1657411"/>
+        <card number="3" name="Wrath of God" setShortName="4ED" collectorNumber="58" uuid="4566f6a3-4d25-4df0-84be-fe4201138955"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Lightning Bolt" setShortName="4ED" collectorNumber="208" uuid="9521375e-0bc1-45ef-b513-6d332a25f9d2"/>
+        <card number="1" name="Sleight of Mind" setShortName="4ED" collectorNumber="102" uuid="cd21dc3d-c9e6-4592-a655-1a20ee13ae73"/>
+        <card number="2" name="Earthquake" setShortName="4ED" collectorNumber="189" uuid="19ec03ce-a8a3-42c3-a895-21cce1657411"/>
+        <card number="2" name="Fireball" setShortName="4ED" collectorNumber="192" uuid="afe078d7-cdde-44bb-942e-417123ebeccb"/>
+        <card number="3" name="Pyroclasm" setShortName="ICE" collectorNumber="214" uuid="88040748-ad76-4b9a-bd4e-87e5980e9816"/>
+        <card number="2" name="Mountain" setShortName="ICE" collectorNumber="376" uuid="4ecf39c3-3b5f-4263-a7b5-9881bded3494"/>
+        <card number="2" name="Mountain" setShortName="ICE" collectorNumber="377" uuid="2eb15b42-be2a-4663-b064-aad6c7cb2714"/>
+    </zone>
+</cockatrice_deck>
