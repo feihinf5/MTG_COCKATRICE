@@ -1,7 +1,21 @@
-ULG 1999年2月  Urza Block
-USG 1998年10月 Urza Block
-EXO 1998年6月  Tempest Block
-STH 1998年2月  Tempest Block
-TMP 1997年10月 Tempest Block
-WTH 1997年6月  Mirrage Block
-5ED 1997年4月
+Reference 
+- http://mtgwiki.com/wiki/%E6%B3%A2%E5%8B%95%E6%A9%9F%E3%83%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A4%E3%83%88
+
+Format
+- ULG
+- USG
+- EXO
+- STH
+- TMP
+- 5ED
+
+Note
+- INFO
+
+Deck list
+- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+
+Sideboard
+- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+
+
