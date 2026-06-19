@@ -4,12 +4,12 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%8D%E3%82%AF%E3%83%AD%E3%81%AE%E5%A4%8F
 
 Standard format
-- FEM
-- 4ED
-- CHR
-- ICE
-- HML
 - ALL
+- HML
+- ICE
+- CHR
+- 4ED
+- FEM
 
 Note
 - World Championships 1996 winning deck by Tom Chanpheng
