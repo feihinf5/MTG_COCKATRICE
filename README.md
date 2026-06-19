@@ -163,4 +163,6 @@ Sideboard
 </pre>
 
 ## Image URL link
-- https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+<pre>
+https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+</pre>
