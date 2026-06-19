@@ -17,7 +17,7 @@ Note
 - [**Mind Twist**](https://api.scryfall.com/cards/eee9e106-a248-49d2-b8c8-6bbcd56ce739?format=image) restricted during Jan 1995 https://groups.google.com/g/rec.games.deckmaster/c/MymOFRYudwU/m/0FuCZ_bXMnIJ
 - Base/core set only (LEA to 3ED), no sideboard
 
-Deck list
+Deck
 - 1	Hypnotic Specter
 - 2	Royal Assassin
 - 2	Sorceress Queen
