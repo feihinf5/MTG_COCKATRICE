@@ -12,7 +12,7 @@ Note
 - World Champion XXVII top 8 deck by Yoshihiko Ikawa
 - [**Faceless Haven**](https://api.scryfall.com/cards/e3cd82e5-6072-4334-a493-01ca4ad6b4eb?format=image) banned during Jan 2022 https://magic.wizards.com/en/news/announcements/january-25-2022-banned-and-restricted-announcement
 
-Deck list
+Deck
 - 4 Elite Spellbinder
 - 2 Portable Hole
 - 1 Cave of the Frost Dragon
