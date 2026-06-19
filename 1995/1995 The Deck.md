@@ -3,39 +3,63 @@ Reference
 - https://magic.wizards.com/en/news/making-magic/deck-2014-02-17
 
 Format
-- 
+- 4ED
+- FEM
+- DRK
+- LEG
+- 3ED
+- ATQ
+- ARN
+- 2ED
+- LEB
+- LEA
 
 Note
-
-    World Championships 1995 top 4 deck by Henry Stern
-    Deal damage primarily through the Black Vise and Howling Mine combo
-    Use Sylvan Library for extra card draw, then discard the bloated hand to Stormbind for direct damage
-    Generate explosive mana using Orcish Lumberjack
-    Leverage that mana acceleration to cast Jokulhaups to clear the board, then deploy Black Vise to seal the lock
-    Run Channel and Fireball alongside multiple other burn spells
-    Declined in popularity after Black Vise became restricted https://www.mtggoldfish.com/articles/evolution-of-magic-banned-and-restricted-list
+- Designed by Brian Weissman
 
 Deck list
-
-    2 Llanowar Elves
-    3 Orcish Lumberjack
-    2 Whirling Dervish
-    2 Orgg
-    1 Shivan Dragon
-    3 Zuran Orb
-    4 Black Vise
-    4 Howling Mine
-    3 Stormbind
-    1 Channel
-    4 Fireball
-    2 Jokulhaups
-    1 Crumble
-    4 Lightning Bolt
-    3 Incinerate
-    7 Mountain
-    7 Forest
-    4 Strip Mine
-    2 Dwarven Ruins
-    4 Karplusan Forest
+- 2 Serra Angel
+- 4 Mana Drain
+- 2 Counterspell
+- 2 Red Elemental Blast
+- 1 Time Walk
+- 1 Timetwister
+- 1 Ancestral Recall
+- 1 Braingeyser
+- 1 Recall
+- 4 Disenchant
+- 4 Swords to Plowshares
+- 2 Moat
+- 1 Demonic Tutor
+- 1 Mind Twist
+- 1 Regrowth
+- 1 Chaos Orb
+- 2 Disrupting Scepter
+- 1 Jayemdae Tome
+- 1 Ivory Tower
+- 1 Black Lotus
+- 1 Mox Emerald
+- 1 Mox Jet
+- 1 Mox Pearl
+- 1 Mox Ruby
+- 1 Mox Sapphire
+- 1 Sol Ring
+- 2 Strip Mine
+- 1 Library of Alexandria
+- 4 City of Brass
+- 2 Volcanic Island
+- 4 Tundra
+- 3 Plains
+- 4 Island
 
 Sideboard
+- 1 Plains
+- 1 Disrupting Scepter
+- 1 Jayemdae Tome
+- 1 Tormod’s Crypt
+- 2 Control Magic
+- 1 Counterspell
+- 2 Blood Moon
+- 3 Circle of Protection: Red
+- 2 Divine Offering
+- 1 Moat
