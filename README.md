@@ -145,6 +145,7 @@ LEA 1993年8月
 </pre>
 
 ## Template
+<pre>
 Reference 
 - URL_LINKS
 
@@ -159,6 +160,7 @@ Deck list
 
 Sideboard
 - NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+</pre>
 
 ## Image URL link
 - https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
