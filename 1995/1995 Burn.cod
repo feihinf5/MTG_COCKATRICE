@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Wed Jun 17 20:44:18 2026</lastLoadedTimestamp>
+    <deckname>1995 Burn</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1995 top 8 deck by Andrea Redi</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Dwarven Ruins" setShortName="FEM" collectorNumber="94" uuid="0dfe1352-27be-4c99-a58f-b961f911f270"/>
+        <card number="3" name="Mountain" setShortName="4ED" collectorNumber="375" uuid="50352268-88a6-4575-a5e1-cd8bef7f8286"/>
+        <card number="3" name="Mountain" setShortName="4ED" collectorNumber="374" uuid="10478e22-d1dd-4e02-81a7-d93ce71ed81d"/>
+        <card number="3" name="Mountain" setShortName="4ED" collectorNumber="373" uuid="0c5c9379-b686-4823-b85a-eaf2c4b63205"/>
+        <card number="3" name="Mountain" setShortName="ICE" collectorNumber="378" uuid="17ac61e4-b543-4c37-9bfa-43f0c928152d"/>
+        <card number="3" name="Mountain" setShortName="ICE" collectorNumber="377" uuid="2eb15b42-be2a-4663-b064-aad6c7cb2714"/>
+        <card number="2" name="Mountain" setShortName="ICE" collectorNumber="376" uuid="4ecf39c3-3b5f-4263-a7b5-9881bded3494"/>
+        <card number="4" name="Strip Mine" setShortName="4ED" collectorNumber="363" uuid="a5899b46-226b-4be6-8e80-d2396f54210d"/>
+        <card number="4" name="Black Vise" setShortName="4ED" collectorNumber="299" uuid="196b83a1-2a25-498d-83b8-8faacd79909d"/>
+        <card number="1" name="Detonate" setShortName="4ED" collectorNumber="184" uuid="26e23d23-92ca-4d74-88e8-e1137d7faaf1"/>
+        <card number="2" name="Disintegrate" setShortName="4ED" collectorNumber="185" uuid="5f41f868-454e-4075-9ef4-bcf3754d421c"/>
+        <card number="1" name="Fireball" setShortName="4ED" collectorNumber="192" uuid="afe078d7-cdde-44bb-942e-417123ebeccb"/>
+        <card number="4" name="Incinerate" setShortName="ICE" collectorNumber="194" uuid="9c3f00af-010d-4485-b8b7-47400d99c496"/>
+        <card number="1" name="Icy Manipulator" setShortName="ICE" collectorNumber="322" uuid="1eda936f-7691-4440-9b83-eb0c6035b109"/>
+        <card number="1" name="Jayemdae Tome" setShortName="4ED" collectorNumber="331" uuid="4009fceb-9140-457b-b980-875f6a2f70fd"/>
+        <card number="1" name="Jester's Cap" setShortName="ICE" collectorNumber="324" uuid="47ac44d0-8090-4e7b-ac47-c567294f185e"/>
+        <card number="1" name="Millstone" setShortName="4ED" collectorNumber="336" uuid="f16f7d28-1bc2-44b6-973b-c60d966101a6"/>
+        <card number="3" name="Nevinyrral's Disk" setShortName="4ED" collectorNumber="338" uuid="d427396c-f1ef-46ac-b130-ed1e51e826a3"/>
+        <card number="2" name="Stone Rain" setShortName="4ED" collectorNumber="224" uuid="b9029bfb-fcff-4f80-a423-c2cfdc881c61"/>
+        <card number="2" name="Stone Rain" setShortName="ICE" collectorNumber="217" uuid="5a002e6d-ea59-4694-b3e5-075d6020b0d9"/>
+        <card number="4" name="Lightning Bolt" setShortName="4ED" collectorNumber="208" uuid="9521375e-0bc1-45ef-b513-6d332a25f9d2"/>
+        <card number="2" name="Goblin Balloon Brigade" setShortName="4ED" collectorNumber="197" uuid="866df71c-856c-451d-a11b-c2086c265868"/>
+        <card number="1" name="Goblin Mutant" setShortName="ICE" collectorNumber="188" uuid="6db54f95-6652-45a3-b960-c2fc118beca1"/>
+        <card number="1" name="Orcish Spy" setShortName="FEM" collectorNumber="61a" uuid="cd3890d1-563d-4519-ab8c-913031d71918"/>
+        <card number="1" name="Orcish Spy" setShortName="FEM" collectorNumber="61b" uuid="8b931cfd-b952-416c-ab2c-271ecaee8e0c"/>
+        <card number="2" name="Orgg" setShortName="FEM" collectorNumber="63" uuid="5af19ab0-4bd0-4d5f-8d2e-507e4fe87c18"/>
+        <card number="4" name="Uthden Troll" setShortName="4ED" collectorNumber="228" uuid="28dea433-2dee-4faf-a868-6af664c6af4a"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Red Elemental Blast" setShortName="4ED" collectorNumber="218" uuid="a54246c9-5e5c-484e-a546-ae1f9fd020f3"/>
+        <card number="1" name="Zuran Orb" setShortName="ICE" collectorNumber="350" uuid="3a9d1082-a862-45d4-9e5e-392e879fead6"/>
+        <card number="1" name="Shatter" setShortName="4ED" collectorNumber="219" uuid="bbd44196-aa28-4143-872d-592c6fc175a9"/>
+        <card number="1" name="Shatter" setShortName="ICE" collectorNumber="216" uuid="7eb18d53-20de-43d7-86f7-97a6d14d54b8"/>
+        <card number="2" name="Anarchy" setShortName="ICE" collectorNumber="170" uuid="28d941da-b5cb-4b7e-84f2-ece883f89af3"/>
+        <card number="2" name="Flashfires" setShortName="4ED" collectorNumber="195" uuid="ed0de18a-1dad-49f1-8127-09aa07b69eb0"/>
+        <card number="1" name="Pyroclasm" setShortName="ICE" collectorNumber="214" uuid="88040748-ad76-4b9a-bd4e-87e5980e9816"/>
+        <card number="2" name="Iron Star" setShortName="4ED" collectorNumber="326" uuid="b8846e66-fd42-4e74-80fe-858944108d40"/>
+        <card number="1" name="Dwarven Hold" setShortName="FEM" collectorNumber="93" uuid="a3142ded-ff62-4817-aa54-75a7ea4498a6"/>
+    </zone>
+</cockatrice_deck>
