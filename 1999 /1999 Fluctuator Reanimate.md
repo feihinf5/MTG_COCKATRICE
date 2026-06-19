@@ -14,7 +14,7 @@ Note
 - Cast **Living Death** to put all the creatures from the graveyard onto the battlefield
 - **Fluctuator** banned during April 1999 https://groups.google.com/g/rec.games.trading-cards.magic.rules/c/OVOGe2lz2SU
 
-Deck list
+Deck
 - 2 Cloud of Faeries
 - 3 Disciple of Law
 - 4 Bloated Toad
