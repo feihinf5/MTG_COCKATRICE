@@ -9,6 +9,12 @@ Format
 
 Note
 - World Championships 1995 top 4 deck by Henry Stern
+- Deal damage primarily through the Black Vise and Howling Mine combo
+- Use Sylvan Library for extra card draw, then discard the bloated hand to Stormbind for direct damage.
+- Generate explosive mana using Orcish Lumberjack
+- Leverage that mana acceleration to cast Jokulhaups to clear the board, then deploy Black Vise to seal the lock
+- Run Channel and Fireball alongside multiple other burn spells
+- Declined in popularity after Black Vise became restricted
 
 Deck list
 - 2 Llanowar Elves
