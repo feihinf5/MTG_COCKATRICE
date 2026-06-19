@@ -10,12 +10,35 @@ Format
 - 5ED
 
 Note
-- INFO
+- Send a large number of creatures with "Cycling" to the graveyard using Fluctuator, while simultaneously drawing into key cards
+- Cast Living Death to put all the creatures from the graveyard onto the battlefield
 
 Deck list
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 2 Cloud of Faeries
+- 3 Disciple of Law
+- 4 Bloated Toad
+- 4 Darkwatch Elves
+- 4 Pendrell Drake
+- 4 Sandbar Serpent
+- 2 Lotus Petal 		
+- 4 Fluctuator 		
+- 2 Living Death 		
+- 3 Dark Ritual 		
+- 2 Clear 		
+- 2 Scrap 		
+- 4 Drifting Meadow 		
+- 4 Remote Isle 		
+- 4 Polluted Mire 		
+- 4 Slippery Karst 		
+- 4 Smoldering Crater 		
+- 4 Blasted Landscape
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
-
-
+- 2 Cloud of Faeries
+- 1 Disciple of Grace
+- 1 Disciple of Law
+- 4 Defense Grid
+- 2 Repopulate
+- 2 Clear
+- 1 Scrap
+- 2 Boil
