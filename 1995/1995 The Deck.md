@@ -17,6 +17,9 @@ Format
 Note
 - Designed by Brian Weissman
 - Simply not die, played a number of cards that would blunt the opponent's attack, like Ivory Tower (to gain life) and all manner of creature defense, from the fast Swords to Plowshares to the more expensive but infinitely effective Moat
+- Mind Twist hammering the opponent's hand
+- Empty the opponent's hand and soft-lock him or her with Disrupting Scepter
+- Principal way to win is by attacking with Serra Angel
 
 Deck
 - 2 Serra Angel
