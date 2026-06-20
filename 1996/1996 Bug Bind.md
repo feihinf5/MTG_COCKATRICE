@@ -8,6 +8,7 @@ Format
 - ICE
 
 Note
+- Pro Tour-Columbus 1996 Ice Age Block Constructed winning deck by Olle Råde
 - Uses Stormbind as repeatable burn to clear blockers, offsetting the low toughness of Deadly Insect
 - Deadly Insect cannot be targeted by spot removal like Swords to Plowshares or Incinerate
 - Inclusion of 8 toughness spiders (Giant Trap Door Spider and Woolly Spider) allowed the creature lineup to survive Pyroclasm
