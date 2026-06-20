@@ -19,7 +19,7 @@ Note
 - Simply not die, played a number of cards that would blunt the opponent's attack, like [**Ivory Tower**](https://api.scryfall.com/cards/eff5624d-fffa-48c1-91f3-f03585e45c69?format=image) (to gain life) and all manner of creature defense, from the fast [**Swords to Plowshares**](https://api.scryfall.com/cards/386ea9eb-abc1-4862-aa2d-8fb808d79490?format=image) to the more expensive but infinitely effective [**Moat**](https://api.scryfall.com/cards/bbb6765c-a052-46dc-a589-200b8ba8c99f?format=image)
 - [**Mind Twist**](https://api.scryfall.com/cards/bbb6765c-a052-46dc-a589-200b8ba8c99f?format=image) hammering the opponent's hand
 - Empty the opponent's hand and soft-lock him or her with [**Disrupting Scepter**](https://api.scryfall.com/cards/ca571ee8-07a2-43b8-9acf-89cbfd3cf7c9?format=image)
-- Principal way to win is by attacking with [**Serra Angel**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Principal way to win is by attacking with [**Serra Angel**](https://api.scryfall.com/cards/f8ac5006-91bd-4803-93da-f87cf196dd2f?format=image)
 
 Deck
 - 2 Serra Angel
