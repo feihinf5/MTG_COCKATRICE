@@ -9,12 +9,12 @@ Format
 
 Note
 - World Championships 1995 top 4 deck by Henry Stern
-- Deal damage primarily through the Black Vise and Howling Mine combo
-- Use Sylvan Library for extra card draw, then discard the bloated hand to Stormbind for direct damage
-- Generate explosive mana using Orcish Lumberjack
-- Leverage that mana acceleration to cast Jokulhaups to clear the board, then deploy Black Vise to seal the lock
-- Run Channel and Fireball alongside multiple other burn spells
-- Declined in popularity after Black Vise became restricted https://www.mtggoldfish.com/articles/evolution-of-magic-banned-and-restricted-list
+- Deal damage primarily through the [**Black Vise**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Howling Mine**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) combo
+- Use [**Sylvan Library**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for extra card draw, then discard the bloated hand to [**Stormbind**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for direct damage
+- Generate explosive mana using [**Orcish Lumberjack**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Leverage that mana acceleration to cast [**Jokulhaups**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to clear the board, then deploy [**Black Vise**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to seal the lock
+- Run [**Channel**] and [**Fireball**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) alongside multiple other burn spells
+- Declined in popularity after [**Black Vise**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) became restricted https://www.mtggoldfish.com/articles/evolution-of-magic-banned-and-restricted-list
 
 Deck
 - 2 Llanowar Elves
