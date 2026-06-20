@@ -2,7 +2,11 @@ Reference
 - http://mtgwiki.com/wiki/ProTour_NewYork_Decks_1996
 
 Format
-- CARD_SET
+- HML
+- ICE
+- CHR
+- 4ED
+- FEM
 
 Note
 - INFO
