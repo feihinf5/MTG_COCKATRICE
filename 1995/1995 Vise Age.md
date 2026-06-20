@@ -1,4 +1,5 @@
 Reference
+- https://mtg-jp.com/reading/variety/0004497/
 - http://mtgwiki.com/wiki/%E3%83%B4%E3%82%A1%E3%82%A4%E3%82%B9%E3%82%A8%E3%82%A4%E3%82%B8
 
 Format
