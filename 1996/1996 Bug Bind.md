@@ -3,13 +3,46 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%90%E3%82%B0%E3%83%90%E3%82%A4%E3%83%B3%E3%83%89
 
 Format
-- CARD_SET
+- ALL
+- HML
+- ICE
 
 Note
-- INFO
+- Uses Stormbind as repeatable burn to clear blockers, offsetting the low toughness of Deadly Insect
+- Deadly Insect cannot be targeted by spot removal like Swords to Plowshares or Incinerate
+- Inclusion of 8 toughness spiders (Giant Trap Door Spider and Woolly Spider) allowed the creature lineup to survive Pyroclasm
+- Pillage serves as a direct answer to powerful non-basic lands, such as Thawing Glaciers
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4	Fyndhorn Elves
+- 4	Giant Trap Door Spider
+- 4	Deadly Insect
+- 4	Woolly Spider
+- 1	Gorilla Shaman
+- 2	Orcish Cannoneers
+- 2	Storm Shaman
+- 4	Incinerate
+- 2	Giant Growth
+- 1	Jokulhaups
+- 2	Lava Burst
+- 2	Lodestone Bauble
+- 3	Pillage
+- 1	Pyroclasm
+- 2	Stormbind
+- 4	Urza's Bauble
+- 4	Karplusan Forest
+- 7	Mountain
+- 7	Forest
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1	Anarchy
+- 2	Essence Filter
+- 1	Icy Manipulator
+- 1	Jester's Cap
+- 1	Jokulhaups
+- 1	Monsoon
+- 1	Primitive Justice
+- 2	Pyroblast
+- 2	Pyroclasm
+- 2	Vexing Arcanix
+- 1	Zuran Orb
