@@ -10,7 +10,7 @@ Format
 
 Note
 - World Championships 1995 winning deck by Alexander Blumke
-- Discard the opponent's hand using [**Hymn to Tourach**](https://api.scryfall.com/cards/8601f082-7e43-44ef-97d0-dead272b7eb4?format=image), [**Hypnotic Specter**](https://api.scryfall.com/cards/b5900350-be08-4904-8f1b-cc180ed08485?format=image), and [**Mind Twist**](https://api.scryfall.com/cards/bbb6765c-a052-46dc-a589-200b8ba8c99f?format=image), then win by dealing damage with [**The Rack**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Discard the opponent's hand using [**Hymn to Tourach**](https://api.scryfall.com/cards/8601f082-7e43-44ef-97d0-dead272b7eb4?format=image), [**Hypnotic Specter**](https://api.scryfall.com/cards/b5900350-be08-4904-8f1b-cc180ed08485?format=image), and [**Mind Twist**](https://api.scryfall.com/cards/bbb6765c-a052-46dc-a589-200b8ba8c99f?format=image), then win by dealing damage with [**The Rack**](https://api.scryfall.com/cards/1e19104f-55d5-40e5-a61d-ddba2cf5a527?format=image)
 - Incorporating powerful removal like [**Swords to Plowshares**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Disenchant**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - Utilizes the devastating synergy between [**Zuran Orb**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Balance**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
