@@ -12,7 +12,7 @@ Note
 - World Championships 1995 top 4 deck by Henry Stern
 - Deal damage primarily through the [**Black Vise**](https://api.scryfall.com/cards/196b83a1-2a25-498d-83b8-8faacd79909d?format=image) and [**Howling Mine**](https://api.scryfall.com/cards/a4df1be4-364e-4582-929a-05f2905f8ce6?format=image) combo
 - Generate explosive mana using [**Orcish Lumberjack**](https://api.scryfall.com/cards/21ef13e3-658c-43a3-a290-4c5dde8e8b55?format=image)
-- Leverage that mana acceleration to cast [**Jokulhaups**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to clear the board, then deploy [**Black Vise**](https://api.scryfall.com/cards/196b83a1-2a25-498d-83b8-8faacd79909d?format=image) to seal the lock
+- Leverage that mana acceleration to cast [**Jokulhaups**](https://api.scryfall.com/cards/3bf0d325-5928-4593-8faa-64ffa414cb48?format=image) to clear the board, then deploy [**Black Vise**](https://api.scryfall.com/cards/196b83a1-2a25-498d-83b8-8faacd79909d?format=image) to seal the lock
 - Run [**Channel**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Fireball**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) alongside multiple other burn spells
 - Declined in popularity after [**Black Vise**](https://api.scryfall.com/cards/196b83a1-2a25-498d-83b8-8faacd79909d?format=image) became restricted https://www.mtggoldfish.com/articles/evolution-of-magic-banned-and-restricted-list
 
