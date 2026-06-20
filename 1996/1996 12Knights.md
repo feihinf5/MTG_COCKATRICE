@@ -1,5 +1,6 @@
 Reference  
-- https://mtg-jp.com/reading/iwashowdeck/0030469/  
+- https://mtg-jp.com/reading/iwashowdeck/0030469/
+- https://mtg-jp.com/reading/variety/0004528/
 - http://mtgwiki.com/wiki/12Knights#.E3.82.B9.E3.82.BF.E3.83.B3.E3.83.80.E3.83.BC.E3.83.89.E7.89.88
 - http://mtgwiki.com/wiki/%E3%83%8D%E3%82%AF%E3%83%AD%E3%81%AE%E5%A4%8F
 
