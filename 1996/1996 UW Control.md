@@ -13,7 +13,6 @@ Note
 
 Deck
 - 2	Blinking Spirit
-- 2	Serrated Arrows
 - 1	Feldon's Cane
 - 2	Fountain of Youth
 - 2	Icy Manipulator
@@ -41,6 +40,7 @@ Deck
 - 1	Wizards' School		
 
 Sideboard
+- 2	Serrated Arrows
 - 2	Aeolipile
 - 1	Jester's Cap
 - 2	Circle of Protection: Red
