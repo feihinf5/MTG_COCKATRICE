@@ -10,7 +10,7 @@ Format
 
 Note
 - Pro Tour-New York 1996 winning deck by Michael Loconto
-- [**Hallowed Ground**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) used to protect against [**Armageddon**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), to activate [**Land Tax**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and to save [**Mishra's Factories**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) from destruction
+- [**Hallowed Ground**](https://api.scryfall.com/cards/4b35c0f4-5633-4ea9-9bda-daaf787aebdd?format=image) used to protect against [**Armageddon**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), to activate [**Land Tax**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and to save [**Mishra's Factories**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) from destruction
 
 Deck
 - 2	Blinking Spirit
