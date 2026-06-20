@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1996 UW Control</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-New York 1996 winning deck by Michael Loconto</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Adarkar Wastes" setShortName="ICE" collectorNumber="351" uuid="09dd9023-f7ee-4e99-8821-7059deb83730"/>
+        <card number="1" name="Island" setShortName="4ED" collectorNumber="367" uuid="b06bbd6e-eb0d-45fc-88ef-0e085d6505ef"/>
+        <card number="1" name="Island" setShortName="4ED" collectorNumber="368" uuid="6e5e3819-3d75-40d4-9a93-1147834dfd69"/>
+        <card number="1" name="Island" setShortName="4ED" collectorNumber="369" uuid="33a05f9a-1285-4d14-b827-8b81968e09df"/>
+        <card number="1" name="Island" setShortName="ICE" collectorNumber="368" uuid="ef2d6fc9-ddad-4dd2-b218-afa1a5449b7e"/>
+        <card number="4" name="Mishra's Factory" setShortName="4ED" collectorNumber="361" uuid="aff8d4f1-eaad-4afb-9097-2afab133f707"/>
+        <card number="2" name="Plains" setShortName="4ED" collectorNumber="364" uuid="639e47dc-c90f-4f55-9b3a-721240ec04ed"/>
+        <card number="1" name="Plains" setShortName="4ED" collectorNumber="365" uuid="d17f8abd-c087-4039-8dfd-c6168f7db0a6"/>
+        <card number="1" name="Plains" setShortName="4ED" collectorNumber="366" uuid="ad1317da-9e81-4aff-8c04-9155d14be90c"/>
+        <card number="1" name="Plains" setShortName="ICE" collectorNumber="364" uuid="7b68bdb0-41cc-48f6-905e-7da1ff4ba5e0"/>
+        <card number="1" name="Plains" setShortName="ICE" collectorNumber="365" uuid="df3e94f7-9f97-4652-a1f1-381feb15f688"/>
+        <card number="1" name="Plains" setShortName="ICE" collectorNumber="366" uuid="27ac1fc7-0698-4a94-8353-cc4c13bd6ffa"/>
+        <card number="1" name="Ruins of Trokair" setShortName="FEM" collectorNumber="100" uuid="4ce2e734-8cff-4bfe-85f8-17b3e1903f18"/>
+        <card number="1" name="Strip Mine" setShortName="4ED" collectorNumber="363" uuid="a5899b46-226b-4be6-8e80-d2396f54210d"/>
+        <card number="2" name="Svyelunite Temple" setShortName="FEM" collectorNumber="102" uuid="8b3fde62-ab21-459b-9c5d-01aa6fe1d08e"/>
+        <card number="1" name="Wizards' School" setShortName="HML" collectorNumber="115" uuid="cd736532-8e98-4f4a-b48f-a66c57efcbfd"/>
+        <card number="2" name="Counterspell" setShortName="4ED" collectorNumber="65" uuid="e8493631-6c9c-40a8-b7de-ecf26ba6bf7d"/>
+        <card number="1" name="Recall" setShortName="CHR" collectorNumber="24" uuid="84b8de7a-c055-4031-a359-24526b6e6354"/>
+        <card number="2" name="Counterspell" setShortName="ICE" collectorNumber="64" uuid="aedbcbaa-40f0-485f-8427-778edc2d2ec0"/>
+        <card number="1" name="Deflection" setShortName="ICE" collectorNumber="65" uuid="1005a00a-6a0e-44cb-abea-37e2e53125e2"/>
+        <card number="2" name="Control Magic" setShortName="4ED" collectorNumber="64" uuid="1bb371e5-424e-42dd-9966-732c22e8ece8"/>
+        <card number="2" name="Hallowed Ground" setShortName="ICE" collectorNumber="29" uuid="4b35c0f4-5633-4ea9-9bda-daaf787aebdd"/>
+        <card number="4" name="Wrath of God" setShortName="4ED" collectorNumber="58" uuid="4566f6a3-4d25-4df0-84be-fe4201138955"/>
+        <card number="2" name="Land Tax" setShortName="4ED" collectorNumber="34" uuid="1301e203-7d9a-4735-8db3-7882ad70d343"/>
+        <card number="2" name="Swords to Plowshares" setShortName="ICE" collectorNumber="54" uuid="375fd2cb-443b-4be4-ad60-6d1a8e74f510"/>
+        <card number="2" name="Swords to Plowshares" setShortName="4ED" collectorNumber="52" uuid="8bd501ae-5814-4336-a45b-2b88cb85d29e"/>
+        <card number="2" name="Disenchant" setShortName="4ED" collectorNumber="22" uuid="a915f261-2cdc-499c-9163-da5b628b0127"/>
+        <card number="2" name="Disenchant" setShortName="ICE" collectorNumber="20" uuid="b6085d0c-ab2b-445d-bf9d-0fa0a19183a2"/>
+        <card number="1" name="Balance" setShortName="4ED" collectorNumber="6" uuid="db3e219d-8e5e-44c7-97b3-2d489e2808b9"/>
+        <card number="1" name="Feldon's Cane" setShortName="ATQ" collectorNumber="50" uuid="bb6af436-bcfd-4d47-a1aa-e84b587a725a"/>
+        <card number="2" name="Fountain of Youth" setShortName="CHR" collectorNumber="98" uuid="813df533-934f-416d-b99b-4951431a8e1d"/>
+        <card number="2" name="Icy Manipulator" setShortName="ICE" collectorNumber="322" uuid="1eda936f-7691-4440-9b83-eb0c6035b109"/>
+        <card number="1" name="Ivory Tower" setShortName="4ED" collectorNumber="328" uuid="eff5624d-fffa-48c1-91f3-f03585e45c69"/>
+        <card number="1" name="Jayemdae Tome" setShortName="4ED" collectorNumber="331" uuid="4009fceb-9140-457b-b980-875f6a2f70fd"/>
+        <card number="3" name="Millstone" setShortName="4ED" collectorNumber="336" uuid="f16f7d28-1bc2-44b6-973b-c60d966101a6"/>
+        <card number="1" name="Zuran Orb" setShortName="ICE" collectorNumber="350" uuid="3a9d1082-a862-45d4-9e5e-392e879fead6"/>
+        <card number="2" name="Blinking Spirit" setShortName="ICE" collectorNumber="8" uuid="14fc0683-9cfa-4439-a533-8773e7747ec4"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Sea Sprite" setShortName="HML" collectorNumber="38" uuid="88fb001b-3afb-44f5-ab78-af2bf9a4e63a"/>
+        <card number="1" name="Divine Offering" setShortName="CHR" collectorNumber="6" uuid="9371c4aa-424f-4b89-9f73-239a9e4f8a9d"/>
+        <card number="2" name="Hydroblast" setShortName="ICE" collectorNumber="72" uuid="f62716f0-fde2-49ef-b8a4-c1b03f451194"/>
+        <card number="2" name="Steal Artifact" setShortName="4ED" collectorNumber="105" uuid="dcd9ee1d-d1c5-4725-98fc-f6cff3a79512"/>
+        <card number="1" name="Circle of Protection: Red" setShortName="4ED" collectorNumber="17" uuid="f3575259-b019-47d0-a6d3-3fe4963294ae"/>
+        <card number="1" name="Control Magic" setShortName="4ED" collectorNumber="64" uuid="1bb371e5-424e-42dd-9966-732c22e8ece8"/>
+        <card number="1" name="Circle of Protection: Red" setShortName="ICE" collectorNumber="15" uuid="5790ce22-a94f-402e-bcc7-b98f71af9fe5"/>
+        <card number="2" name="Aeolipile" setShortName="FEM" collectorNumber="81" uuid="a09030ee-415c-45af-bf08-7623197a314f"/>
+        <card number="1" name="Jester's Cap" setShortName="ICE" collectorNumber="324" uuid="47ac44d0-8090-4e7b-ac47-c567294f185e"/>
+        <card number="2" name="Serrated Arrows" setShortName="HML" collectorNumber="110" uuid="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2"/>
+    </zone>
+</cockatrice_deck>
