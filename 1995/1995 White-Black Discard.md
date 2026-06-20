@@ -10,9 +10,9 @@ Format
 
 Note
 - World Championships 1995 winning deck by Alexander Blumke
-- Discard the opponent's hand using Hymn to Tourach, Hypnotic Specter, and Mind Twist, then win by dealing damage with The Rack
-- Incorporating powerful removal like Swords to Plowshares (creature) and Disenchant (artifact/enchantment)
-- Utilizes the devastating synergy between Zuran Orb and Balance
+- Discard the opponent's hand using [**Hymn to Tourach**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Hypnotic Specter**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), and [**Mind Twist**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), then win by dealing damage with [**The Rack**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Incorporating powerful removal like [**Swords to Plowshares**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Disenchant**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Utilizes the devastating synergy between [**Zuran Orb**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Balance**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
 Deck
 - 3 Adarkar Wastes
