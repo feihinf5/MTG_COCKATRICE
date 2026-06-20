@@ -19,7 +19,7 @@ Note
 - Magic Spotlight: Spider-Man in Liverpool 2025 winning deck by Alexey Paulot
 - When you use the [**Agatha's Soul Cauldron**](https://api.scryfall.com/cards/019b51b0-e5c6-4208-922b-7736686dddcd?format=image) to exile [**Vivi Ornitier**](https://api.scryfall.com/cards/ecc1027a-8c07-44a0-bdde-fa2844cff694?format=image) from a graveyard, any creature you control that has a +1/+1 counter on it gains [**Vivi Ornitier**](https://api.scryfall.com/cards/ecc1027a-8c07-44a0-bdde-fa2844cff694?format=image)’s activated ability.
 - Therefore, when your random creature (let's say a 4/4 token with a +1/+1 counter on it) inherits the ability, the text functionally reads: "{0}: Add X mana in any combination of blue and/or red, where X is this creature’s power. Activate only once each turn."
-- **Vivi Ornitier** and **Proft's Eidetic Memory** banned during November 2025 https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025
+- [**Vivi Ornitier**](https://api.scryfall.com/cards/ecc1027a-8c07-44a0-bdde-fa2844cff694?format=image) and [**Proft's Eidetic Memory**](https://api.scryfall.com/cards/af5b29b3-974c-4200-8df8-b072c11e1600?format=image) banned during November 2025 https://magic.wizards.com/en/news/announcements/banned-and-restricted-november-10-2025
 - [**Proft's Eidetic Memory**](https://api.scryfall.com/cards/af5b29b3-974c-4200-8df8-b072c11e1600?format=image) had the capacity to be exceedingly powerful alongside creatures that draw cards and cheap spells that draw multiple cards
 
 Deck
