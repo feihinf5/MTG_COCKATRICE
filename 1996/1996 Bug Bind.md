@@ -9,10 +9,10 @@ Format
 
 Note
 - Pro Tour-Columbus 1996 Ice Age Block Constructed winning deck by Olle Råde
-- Uses Stormbind as repeatable burn to clear blockers, offsetting the low toughness of Deadly Insect
-- Deadly Insect cannot be targeted by spot removal like Swords to Plowshares or Incinerate
-- Inclusion of 8 toughness spiders (Giant Trap Door Spider and Woolly Spider) allowed the creature lineup to survive Pyroclasm
-- Pillage serves as a direct answer to powerful non-basic lands, such as Thawing Glaciers
+- Uses [**Stormbind**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as repeatable burn to clear blockers, offsetting the low toughness of [**Deadly Insect**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Deadly Insect**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) cannot be targeted by spot removal like [**Swords to Plowshares**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Incinerate**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Inclusion of 8 toughness spiders ([**Giant Trap Door Spider**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Woolly Spider**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) allowed the creature lineup to survive [**Pyroclasm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Pillage serves**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as a direct answer to powerful non-basic lands, such as [**Thawing Glaciers**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
 Deck
 - 4	Fyndhorn Elves
