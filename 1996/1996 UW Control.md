@@ -10,6 +10,7 @@ Format
 
 Note
 - Pro Tour-New York 1996 winning deck by Michael Loconto
+- Hallowed Ground used to protect against Armageddon, to activate Land Tax and to save Mishra's Factories from destruction
 
 Deck
 - 2	Blinking Spirit
