@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 7 16:12:11 2026</lastLoadedTimestamp>
+    <deckname>1996 Erhnamgeddon</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1996 top 4 deck by Olle Råde</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Brushland" setShortName="ICE" collectorNumber="352" uuid="170e5ccd-54bf-4c6d-86b4-0359ca8f36e8"/>
+        <card number="4" name="City of Brass" setShortName="CHR" collectorNumber="112" uuid="61e9c770-f05b-40df-a01f-82b734db1733"/>
+        <card number="2" name="Forest" setShortName="4ED" collectorNumber="378" uuid="b794073f-4188-45c9-9e65-c9d7f2ecc24b"/>
+        <card number="1" name="Forest" setShortName="4ED" collectorNumber="377" uuid="ddb35995-0298-4281-88d1-2531c93a4916"/>
+        <card number="1" name="Forest" setShortName="4ED" collectorNumber="376" uuid="119c4d73-5b71-446a-a739-25d494591aa1"/>
+        <card number="1" name="Forest" setShortName="ICE" collectorNumber="381" uuid="b346b784-7bde-49d0-bfa9-56236cbe19d9"/>
+        <card number="1" name="Forest" setShortName="ICE" collectorNumber="380" uuid="fbdcbd97-90a9-45ea-94f6-2a1c6faaf965"/>
+        <card number="1" name="Forest" setShortName="ICE" collectorNumber="382" uuid="768c4d8f-5700-4f0a-9ff2-58422aeb1dac"/>
+        <card number="1" name="Plains" setShortName="4ED" collectorNumber="366" uuid="ad1317da-9e81-4aff-8c04-9155d14be90c"/>
+        <card number="1" name="Plains" setShortName="4ED" collectorNumber="365" uuid="d17f8abd-c087-4039-8dfd-c6168f7db0a6"/>
+        <card number="4" name="Strip Mine" setShortName="4ED" collectorNumber="363" uuid="a5899b46-226b-4be6-8e80-d2396f54210d"/>
+        <card number="1" name="Zuran Orb" setShortName="ICE" collectorNumber="350" uuid="3a9d1082-a862-45d4-9e5e-392e879fead6"/>
+        <card number="1" name="Land Tax" setShortName="4ED" collectorNumber="34" uuid="1301e203-7d9a-4735-8db3-7882ad70d343"/>
+        <card number="2" name="Disenchant" setShortName="4ED" collectorNumber="22" uuid="a915f261-2cdc-499c-9163-da5b628b0127"/>
+        <card number="2" name="Disenchant" setShortName="ICE" collectorNumber="20" uuid="b6085d0c-ab2b-445d-bf9d-0fa0a19183a2"/>
+        <card number="1" name="Divine Offering" setShortName="CHR" collectorNumber="6" uuid="9371c4aa-424f-4b89-9f73-239a9e4f8a9d"/>
+        <card number="2" name="Giant Growth" setShortName="ICE" collectorNumber="246" uuid="431c9749-fd7b-4960-a910-8d41d3704e6c"/>
+        <card number="2" name="Swords to Plowshares" setShortName="ICE" collectorNumber="54" uuid="375fd2cb-443b-4be4-ad60-6d1a8e74f510"/>
+        <card number="2" name="Swords to Plowshares" setShortName="4ED" collectorNumber="52" uuid="8bd501ae-5814-4336-a45b-2b88cb85d29e"/>
+        <card number="2" name="Giant Growth" setShortName="4ED" collectorNumber="248" uuid="c6ce96a5-76f1-48ca-854d-a37fb6a023a0"/>
+        <card number="2" name="Armageddon" setShortName="4ED" collectorNumber="5" uuid="0794bc35-a8e1-4268-87b2-af5483ca6e5e"/>
+        <card number="1" name="Balance" setShortName="4ED" collectorNumber="6" uuid="db3e219d-8e5e-44c7-97b3-2d489e2808b9"/>
+        <card number="4" name="Elvish Archers" setShortName="4ED" collectorNumber="243" uuid="efd21750-856f-4017-a728-dcbf3f506f20"/>
+        <card number="4" name="Erhnam Djinn" setShortName="CHR" collectorNumber="64" uuid="d2d5bfa6-243f-4178-871b-f5a19b4024c1"/>
+        <card number="2" name="Fyndhorn Elves" setShortName="ICE" collectorNumber="244" uuid="3ba95ffa-990a-4013-98b7-5d8c0b34e9c4"/>
+        <card number="2" name="Llanowar Elves" setShortName="4ED" collectorNumber="261" uuid="75d972d7-5ed9-49c1-8d27-ec162771284d"/>
+        <card number="4" name="Savannah Lions" setShortName="4ED" collectorNumber="48" uuid="a2ee9127-d007-48e8-b797-88ef72bc7c8b"/>
+        <card number="2" name="Spectral Bears" setShortName="HML" collectorNumber="98" uuid="7e13875f-f745-4afd-a830-33df9576dce8"/>
+        <card number="4" name="Whirling Dervish" setShortName="4ED" collectorNumber="288" uuid="b0f4724e-f22e-4156-97fd-1adfccc47be3"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Essence Filter" setShortName="ICE" collectorNumber="233" uuid="9b610103-dafd-4248-9d79-ce57f84b9e03"/>
+        <card number="1" name="Circle of Protection: Black" setShortName="ICE" collectorNumber="12" uuid="d528045d-3b80-48fd-b606-c132da052685"/>
+        <card number="2" name="Winter Orb" setShortName="4ED" collectorNumber="358" uuid="d60ee90d-5f7b-4294-8d52-9744fada8d36"/>
+        <card number="1" name="Circle of Protection: Black" setShortName="4ED" collectorNumber="14" uuid="9971cbae-3f08-48c6-955a-76ce8ed41c6c"/>
+        <card number="2" name="Wrath of God" setShortName="4ED" collectorNumber="58" uuid="4566f6a3-4d25-4df0-84be-fe4201138955"/>
+        <card number="2" name="Serrated Arrows" setShortName="HML" collectorNumber="110" uuid="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2"/>
+        <card number="2" name="Lhurgoyf" setShortName="ICE" collectorNumber="252" uuid="fee6d385-d44b-4f1a-beb1-13aeebde063e"/>
+        <card number="1" name="Energy Storm" setShortName="ICE" collectorNumber="24" uuid="3955e358-4285-44e2-9e24-9804346a6e58"/>
+        <card number="1" name="Karma" setShortName="4ED" collectorNumber="32" uuid="2acd8dd7-f561-487f-abae-4ad910db9d27"/>
+        <card number="2" name="Divine Offering" setShortName="CHR" collectorNumber="6" uuid="9371c4aa-424f-4b89-9f73-239a9e4f8a9d"/>
+    </zone>
+</cockatrice_deck>
