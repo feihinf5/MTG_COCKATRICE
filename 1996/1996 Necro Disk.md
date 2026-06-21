@@ -12,7 +12,7 @@ Format
 
 Note
 - Pro Tour-Dallas 1996 winning deck by Paul McCabe
-- [**Hymn to Tourach**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Strip Mine**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) were restricted
+- [**Hymn to Tourach**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Strip Mine**](https://api.scryfall.com/cards/aff8d4f1-eaad-4afb-9097-2afab133f707?format=image) were restricted
 - Evolving into a hand-destruction (discard) and life-drain control type
 - [**Mind Warp**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for hand destruction, which synergizes well with [**Lake of the Dead**](https://api.scryfall.com/cards/aee806ce-effa-4244-9659-43246e944d80?format=image)
 
