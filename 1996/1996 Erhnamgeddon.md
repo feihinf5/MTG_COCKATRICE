@@ -1,5 +1,6 @@
 Reference 
 - http://mtgwiki.com/wiki/%E3%82%A2%E3%83%BC%E3%83%8B%E3%83%BC%E3%82%B2%E3%83%89%E3%83%B3
+- https://www.mtggoldfish.com/articles/erhnam-geddon-1996-vs-domain-2024-best-standard-deck-ever-top-64
 
 Format
 - ALL
