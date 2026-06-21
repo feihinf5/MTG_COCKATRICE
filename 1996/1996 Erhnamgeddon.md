@@ -11,8 +11,8 @@ Format
 
 Note
 - World Championships 1996 top 4 deck by Olle Råde
-- Disrupts the opponent's mana base, uniquely counters [**Ernham Djinn**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)'s drawback by preventing opponent's creatures from gaining forestwalk
-- Enables a turn 3 [**Ernham Djinn**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) followed by a turn 4 [**Armageddon**](https://api.scryfall.com/cards/0794bc35-a8e1-4268-87b2-af5483ca6e5e?format=image) using green mana generated creatures
+- Disrupts the opponent's mana base, uniquely counters [**Ernham Djinn**](https://api.scryfall.com/cards/0794bc35-a8e1-4268-87b2-af5483ca6e5e?format=image)'s drawback by preventing opponent's creatures from gaining forestwalk
+- Enables a turn 3 [**Ernham Djinn**](https://api.scryfall.com/cards/0794bc35-a8e1-4268-87b2-af5483ca6e5e?format=image) followed by a turn 4 [**Armageddon**](https://api.scryfall.com/cards/0794bc35-a8e1-4268-87b2-af5483ca6e5e?format=image) using green mana generated creatures
 
 Deck
 - 4	Elvish Archers
