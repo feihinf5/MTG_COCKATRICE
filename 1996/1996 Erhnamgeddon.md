@@ -2,7 +2,12 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%A2%E3%83%BC%E3%83%8B%E3%83%BC%E3%82%B2%E3%83%89%E3%83%B3
 
 Format
-- CARD_SET
+- ALL
+- HML
+- ICE
+- CHR
+- 4ED
+- FEM
 
 Note
 - World Championships 1996 top 4 deck by Olle Råde
