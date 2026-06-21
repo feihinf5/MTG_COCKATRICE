@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 7 16:22:07 2026</lastLoadedTimestamp>
+    <deckname>1996 Necro Lake Drain</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Dallas 1996 winning deck by Paul McCabe</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Lake of the Dead" setShortName="ALL" collectorNumber="140" uuid="aee806ce-effa-4244-9659-43246e944d80"/>
+        <card number="2" name="Mishra's Factory" setShortName="4ED" collectorNumber="361" uuid="aff8d4f1-eaad-4afb-9097-2afab133f707"/>
+        <card number="1" name="Strip Mine" setShortName="4ED" collectorNumber="363" uuid="a5899b46-226b-4be6-8e80-d2396f54210d"/>
+        <card number="2" name="Swamp" setShortName="4ED" collectorNumber="372" uuid="7ac4979a-5b2f-4db1-b665-9d8ccc15ba82"/>
+        <card number="2" name="Swamp" setShortName="4ED" collectorNumber="371" uuid="ddaa0be1-7358-4ea2-8c40-be6d699a6631"/>
+        <card number="2" name="Swamp" setShortName="4ED" collectorNumber="370" uuid="84634023-5c94-4dcc-9449-abf73ecea542"/>
+        <card number="2" name="Swamp" setShortName="ICE" collectorNumber="375" uuid="ddca7e2e-bb0a-47ed-ade3-31900da992dc"/>
+        <card number="2" name="Swamp" setShortName="ICE" collectorNumber="374" uuid="6a90b49f-53b3-4ce0-92c1-bcd76d6981ea"/>
+        <card number="2" name="Swamp" setShortName="ICE" collectorNumber="373" uuid="4695653a-5c4c-4ff3-b80c-f4b6c685f370"/>
+        <card number="2" name="Swamp" setShortName="MIR" collectorNumber="339" uuid="f2d28477-8be1-4caf-8185-64f47905ccb1"/>
+        <card number="2" name="Swamp" setShortName="MIR" collectorNumber="341" uuid="65181db5-3fc5-497b-ba61-385efdf740ed"/>
+        <card number="1" name="Swamp" setShortName="MIR" collectorNumber="342" uuid="5083de34-d127-45df-9252-ff09b5cf8b47"/>
+        <card number="1" name="Swamp" setShortName="MIR" collectorNumber="340" uuid="2c4be2d6-d168-4e67-8d75-a04f637b56dd"/>
+        <card number="4" name="Necropotence" setShortName="ICE" collectorNumber="154" uuid="54d7a0c1-efb4-4a8d-ad92-a96d43835052"/>
+        <card number="4" name="Drain Life" setShortName="4ED" collectorNumber="132" uuid="b9d10677-36f0-4339-a2c3-213e8ee1c51d"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38b" uuid="8601f082-7e43-44ef-97d0-dead272b7eb4"/>
+        <card number="3" name="Stupor" setShortName="MIR" collectorNumber="147" uuid="0fed2498-20ce-48ad-a56e-2c7e297c0c66"/>
+        <card number="2" name="Mind Warp" setShortName="ICE" collectorNumber="148" uuid="de150cd6-0bbc-47f7-a781-cd1aa10eabc6"/>
+        <card number="3" name="Contagion" setShortName="ALL" collectorNumber="45" uuid="00c8f94a-7690-47f5-b664-61411a32ab74"/>
+        <card number="2" name="Dark Ritual" setShortName="4ED" collectorNumber="129" uuid="3477f601-5374-4316-a74e-b5e198af482b"/>
+        <card number="2" name="Dark Ritual" setShortName="ICE" collectorNumber="120" uuid="4ebcd681-1871-4914-bcd7-6bd95829f6e0"/>
+        <card number="2" name="Demonic Consultation" setShortName="ICE" collectorNumber="121" uuid="8d727b9b-6114-414d-9172-16b6e1db41cc"/>
+        <card number="1" name="Ivory Tower" setShortName="4ED" collectorNumber="328" uuid="eff5624d-fffa-48c1-91f3-f03585e45c69"/>
+        <card number="4" name="Nevinyrral's Disk" setShortName="4ED" collectorNumber="338" uuid="d427396c-f1ef-46ac-b130-ed1e51e826a3"/>
+        <card number="1" name="Serrated Arrows" setShortName="HML" collectorNumber="110" uuid="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2"/>
+        <card number="1" name="Zuran Orb" setShortName="ICE" collectorNumber="350" uuid="3a9d1082-a862-45d4-9e5e-392e879fead6"/>
+        <card number="4" name="Hypnotic Specter" setShortName="4ED" collectorNumber="142" uuid="b5900350-be08-4904-8f1b-cc180ed08485"/>
+        <card number="1" name="Ihsan's Shade" setShortName="HML" collectorNumber="53" uuid="82351724-2814-4d9e-b065-bb72c761b2e7"/>
+        <card number="2" name="Sengir Vampire" setShortName="4ED" collectorNumber="160" uuid="2e29882a-c194-48b8-ba18-439b0bda395e"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Lodestone Bauble" setShortName="ALL" collectorNumber="122" uuid="84d88a33-3990-4044-a5fe-4123d5781f18"/>
+        <card number="1" name="Serrated Arrows" setShortName="HML" collectorNumber="110" uuid="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2"/>
+        <card number="1" name="Soul Burn" setShortName="ICE" collectorNumber="161" uuid="eb8e00d2-2381-4d45-bed8-c9bf738a9419"/>
+        <card number="1" name="Stupor" setShortName="MIR" collectorNumber="147" uuid="0fed2498-20ce-48ad-a56e-2c7e297c0c66"/>
+        <card number="2" name="Stench of Decay" setShortName="ALL" collectorNumber="61a" uuid="f9a45644-549a-4eaa-8367-b170027bd5a2"/>
+        <card number="1" name="Stench of Decay" setShortName="ALL" collectorNumber="61b" uuid="b4b93845-f17a-4892-a1ce-a4630dced218"/>
+        <card number="4" name="Dystopia" setShortName="ALL" collectorNumber="47" uuid="5f8bb451-706d-44ff-bbad-9ddc6f9f786a"/>
+        <card number="3" name="Infernal Darkness" setShortName="ICE" collectorNumber="135" uuid="f3475eb3-909d-450b-9597-b241b259b425"/>
+        <card number="1" name="Contagion" setShortName="ALL" collectorNumber="45" uuid="00c8f94a-7690-47f5-b664-61411a32ab74"/>
+    </zone>
+</cockatrice_deck>
