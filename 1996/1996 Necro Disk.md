@@ -13,7 +13,7 @@ Format
 Note
 - Pro Tour-Dallas 1996 winning deck by Paul McCabe
 - [**Hymn to Tourach**](https://api.scryfall.com/cards/8601f082-7e43-44ef-97d0-dead272b7eb4?format=image) and [**Strip Mine**](https://api.scryfall.com/cards/aff8d4f1-eaad-4afb-9097-2afab133f707?format=image) were restricted
-- [**Lake of the Dead**](https://api.scryfall.com/cards/aee806ce-effa-4244-9659-43246e944d80?format=image) and [**Drain Life**](https://api.scryfall.com/cards/aee806ce-effa-4244-9659-43246e944d80?format=image) Combo
+- [**Lake of the Dead**](https://api.scryfall.com/cards/aee806ce-effa-4244-9659-43246e944d80?format=image) and [**Drain Life**](https://api.scryfall.com/cards/b9d10677-36f0-4339-a2c3-213e8ee1c51d?format=image) Combo
 - [**Mind Warp**](https://api.scryfall.com/cards/de150cd6-0bbc-47f7-a781-cd1aa10eabc6?format=image) for hand destruction, which synergizes well with [**Lake of the Dead**](https://api.scryfall.com/cards/aee806ce-effa-4244-9659-43246e944d80?format=image)
 
 Deck
