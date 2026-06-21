@@ -13,6 +13,7 @@ Note
 - World Championships 1996 top 4 deck by Olle Råde
 - Disrupts the opponent's mana base, uniquely counters [**Ernham Djinn**](https://api.scryfall.com/cards/d2d5bfa6-243f-4178-871b-f5a19b4024c1?format=image)'s drawback by preventing opponent's creatures from gaining forestwalk
 - Enables a turn 3 [**Ernham Djinn**](https://api.scryfall.com/cards/d2d5bfa6-243f-4178-871b-f5a19b4024c1?format=image) followed by a turn 4 [**Armageddon**](https://api.scryfall.com/cards/0794bc35-a8e1-4268-87b2-af5483ca6e5e?format=image) using green mana generated creatures
+- [**Armageddon**](https://api.scryfall.com/cards/0794bc35-a8e1-4268-87b2-af5483ca6e5e?format=image) itself is highly effective against Necro-Disk deck
 
 Deck
 - 4	Elvish Archers
