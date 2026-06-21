@@ -11,6 +11,8 @@ Format
 
 Note
 - World Championships 1996 top 4 deck by Olle Råde
+- Disrupts the opponent's mana base, uniquely counters Ernham Djinn's drawback by preventing opponent's creatures from gaining forestwalk
+- Enables a turn 3 Ernham Djinn followed by a turn 4 Armageddon using green mana generated creatures
 
 Deck
 - 4	Elvish Archers
