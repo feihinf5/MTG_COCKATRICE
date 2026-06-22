@@ -18,7 +18,7 @@ Note
 - [**Spectral Bears**](https://api.scryfall.com/cards/7e13875f-f745-4afd-a830-33df9576dce8?format=image) against black-based strategies, like the popular [**Necropotence**](https://api.scryfall.com/cards/54d7a0c1-efb4-4a8d-ad92-a96d43835052?format=image) decks of the 1997 era
 - [**Quirion Ranger**](https://api.scryfall.com/cards/56efe72c-6d7f-44f6-ac74-01af9305c4b6?format=image) to bounce and replay land while able to untap [**Spectral Bears**](https://api.scryfall.com/cards/7e13875f-f745-4afd-a830-33df9576dce8?format=image)
 - Operating on an incredibly low mana curve allowed to break the symmetry of [**Winter Orb**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), locking down opponents' high-cost answers
-- [**Lhurgoyf**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) acted as a insurance if opponents managed to survive the initial wave of smaller attackers and it also synergy with pitch spell [**Bounty of the Hunt**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Lhurgoyf**](https://api.scryfall.com/cards/fee6d385-d44b-4f1a-beb1-13aeebde063e?format=image) acted as a insurance if opponents managed to survive the initial wave of smaller attackers and it also synergy with pitch spell [**Bounty of the Hunt**](https://api.scryfall.com/cards/21ed522a-cf5a-41e1-9677-1226f689ec9c?format=image)
 
 Deck
 - 16 Forest 		
