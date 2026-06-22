@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1997 Counter Burn</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1997 by Paul McCabe</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Abduction" setShortName="WTH" collectorNumber="30" uuid="ac81264d-0e03-44ac-8ff5-049b9aaebcca"/>
+        <card number="3" name="Mind Stone" setShortName="WTH" collectorNumber="153" uuid="162e81d3-6cd4-4cb8-8ed8-cfbd8d34ca71"/>
+        <card number="2" name="Disrupt" setShortName="INV" collectorNumber="51" uuid="c000a02f-6b7e-4925-a938-59e645e980d7"/>
+        <card number="2" name="Counterspell" setShortName="5ED" collectorNumber="77" uuid="b975289d-d8b8-46b4-8c60-d6ed4b594519"/>
+        <card number="2" name="Counterspell" setShortName="ICE" collectorNumber="64" uuid="aedbcbaa-40f0-485f-8427-778edc2d2ec0"/>
+        <card number="4" name="Force of Will" setShortName="ALL" collectorNumber="28" uuid="9a879b60-4381-447d-8a5a-8e0b6a1d49ca"/>
+        <card number="1" name="Incinerate" setShortName="5ED" collectorNumber="242" uuid="aa0f7e1f-bcb5-414f-a2e9-6a158fec2ff5"/>
+        <card number="2" name="Incinerate" setShortName="MIR" collectorNumber="184" uuid="409b2be8-5bb6-45e0-ab87-ca73b4e3a396"/>
+        <card number="1" name="Incinerate" setShortName="ICE" collectorNumber="194" uuid="9c3f00af-010d-4485-b8b7-47400d99c496"/>
+        <card number="2" name="Pyrokinesis" setShortName="ALL" collectorNumber="78" uuid="db2a5e85-6cbc-43c1-9362-4056ad017ef0"/>
+        <card number="1" name="Disintegrate" setShortName="5ED" collectorNumber="219" uuid="2e1dce58-c0e5-472e-a575-b8d4b5958b3a"/>
+        <card number="4" name="Cloud Elemental" setShortName="VIS" collectorNumber="29" uuid="4f2a5146-cf2e-40c0-b498-06e611343196"/>
+        <card number="2" name="Frenetic Efreet" setShortName="MIR" collectorNumber="264" uuid="50d4468b-f7de-44fe-898a-4125d26d242f"/>
+        <card number="4" name="Man-o'-War" setShortName="VIS" collectorNumber="37" uuid="4dbf9bf9-75cd-4b25-a3a1-43b7e029700b"/>
+        <card number="4" name="Ophidian" setShortName="WTH" collectorNumber="45" uuid="0de0a010-76a7-460f-bb4e-a152c10c3bb7"/>
+        <card number="3" name="Suq'Ata Lancer" setShortName="VIS" collectorNumber="96" uuid="2884d8df-7fd5-4247-9da5-38c31333ff5d"/>
+        <card number="1" name="Wildfire Emissary" setShortName="MIR" collectorNumber="203" uuid="6d99204c-b42d-48bc-9a93-fae5660665c7"/>
+        <card number="2" name="City of Brass" setShortName="5ED" collectorNumber="413" uuid="56816a2d-4faa-4fbd-bf1a-35fa3e90ccf6"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="437" uuid="da1218e0-8c75-4f8e-b317-051ce84949a5"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="436" uuid="09376cac-44bd-42c4-9c07-9e4d6c972a64"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="435" uuid="6fbf2762-1e9c-4d7c-84d0-8561d9a41735"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="434" uuid="c8820e22-44ee-4ccf-a1fb-f93d98b8b494"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="338" uuid="a39fc1e0-caf0-4cfa-bbf2-fea7ca32c00d"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="337" uuid="1e571f07-167f-4a7d-8f98-0c98d7d15e81"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="336" uuid="776912e7-fa16-4d71-b830-0a5d35f38297"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="335" uuid="df84bf1b-8698-4c3e-baa9-926f0efc6a12"/>
+        <card number="1" name="Island" setShortName="ICE" collectorNumber="368" uuid="ef2d6fc9-ddad-4dd2-b218-afa1a5449b7e"/>
+        <card number="1" name="Island" setShortName="ICE" collectorNumber="370" uuid="82f11c42-9d67-4833-9519-e165e6a7e9c4"/>
+        <card number="1" name="Mountain" setShortName="5ED" collectorNumber="445" uuid="e1dfeb23-204c-4e48-8a23-c69daf92340f"/>
+        <card number="1" name="Mountain" setShortName="5ED" collectorNumber="444" uuid="cdf5d88e-1699-4ce3-a4aa-3e8d1ef2bc39"/>
+        <card number="1" name="Mountain" setShortName="5ED" collectorNumber="443" uuid="7c0916a2-e2f1-42b5-9f2c-b6a18a605138"/>
+        <card number="1" name="Mountain" setShortName="5ED" collectorNumber="442" uuid="44b08a29-8b53-44c9-82a0-ac689c9feeb5"/>
+        <card number="1" name="Mountain" setShortName="MIR" collectorNumber="343" uuid="97004cdc-0baf-415d-8e87-7f36667c4628"/>
+        <card number="1" name="Mountain" setShortName="MIR" collectorNumber="344" uuid="207a468f-79c3-486e-ac5a-4516361b7b4d"/>
+        <card number="2" name="Undiscovered Paradise" setShortName="VIS" collectorNumber="167" uuid="5f6e8830-5e62-4945-8b73-60f0628d38e7"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Pillage" setShortName="ALL" collectorNumber="76" uuid="389ecb50-b007-4086-89fb-ec2daa5afdcf"/>
+        <card number="1" name="Dissipate" setShortName="MIR" collectorNumber="61" uuid="36d9271d-6dbf-4640-9222-721a7a3ccc08"/>
+        <card number="1" name="Hydroblast" setShortName="5ED" collectorNumber="94" uuid="89a30b8f-6594-42ea-8e60-13ccb1e7efc0"/>
+        <card number="1" name="Pyroblast" setShortName="5ED" collectorNumber="262" uuid="15d2d7cd-d29d-4f19-8490-88bd526ff1c5"/>
+        <card number="1" name="Pyroblast" setShortName="ICE" collectorNumber="213" uuid="c342cac5-08ae-4428-9c2c-f6c5904e54d2"/>
+        <card number="4" name="Knight of the Mists" setShortName="VIS" collectorNumber="36" uuid="37924cbc-fb9d-4906-9ad2-9b6d4ccfff0f"/>
+        <card number="1" name="Nevinyrral's Disk" setShortName="5ED" collectorNumber="391" uuid="9652c405-17fb-4505-8470-8a2969c73b6b"/>
+        <card number="1" name="Phyrexian Furnace" setShortName="WTH" collectorNumber="155" uuid="e98bca31-8c05-430b-b5d7-331bdc55710a"/>
+        <card number="1" name="Serrated Arrows" setShortName="HML" collectorNumber="110" uuid="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2"/>
+        <card number="1" name="Pyrokinesis" setShortName="ALL" collectorNumber="78" uuid="db2a5e85-6cbc-43c1-9362-4056ad017ef0"/>
+    </zone>
+</cockatrice_deck>
