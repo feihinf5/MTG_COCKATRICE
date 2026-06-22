@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1997 Black Weenie</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Asia Pacific Championship 1997 winning deck by Nathan Russell</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Lake of the Dead" setShortName="ALL" collectorNumber="140" uuid="aee806ce-effa-4244-9659-43246e944d80"/>
+        <card number="4" name="Mishra's Factory" setShortName="4ED" collectorNumber="361" uuid="aff8d4f1-eaad-4afb-9097-2afab133f707"/>
+        <card number="3" name="Swamp" setShortName="4ED" collectorNumber="370" uuid="84634023-5c94-4dcc-9449-abf73ecea542"/>
+        <card number="3" name="Swamp" setShortName="4ED" collectorNumber="371" uuid="ddaa0be1-7358-4ea2-8c40-be6d699a6631"/>
+        <card number="3" name="Swamp" setShortName="4ED" collectorNumber="372" uuid="7ac4979a-5b2f-4db1-b665-9d8ccc15ba82"/>
+        <card number="3" name="Swamp" setShortName="MIR" collectorNumber="339" uuid="f2d28477-8be1-4caf-8185-64f47905ccb1"/>
+        <card number="2" name="Swamp" setShortName="MIR" collectorNumber="340" uuid="2c4be2d6-d168-4e67-8d75-a04f637b56dd"/>
+        <card number="2" name="Swamp" setShortName="MIR" collectorNumber="341" uuid="65181db5-3fc5-497b-ba61-385efdf740ed"/>
+        <card number="2" name="Swamp" setShortName="MIR" collectorNumber="342" uuid="5083de34-d127-45df-9252-ff09b5cf8b47"/>
+        <card number="2" name="Thawing Glaciers" setShortName="ALL" collectorNumber="144" uuid="6411a8c6-010f-4863-a0fa-bbebe09d5c34"/>
+        <card number="2" name="Nevinyrral's Disk" setShortName="4ED" collectorNumber="338" uuid="d427396c-f1ef-46ac-b130-ed1e51e826a3"/>
+        <card number="2" name="Drain Life" setShortName="4ED" collectorNumber="132" uuid="b9d10677-36f0-4339-a2c3-213e8ee1c51d"/>
+        <card number="1" name="Drain Life" setShortName="MIR" collectorNumber="118" uuid="e8f030a5-62c6-439d-93b6-43f2cf927a7f"/>
+        <card number="1" name="Tombstone Stairwell" setShortName="MIR" collectorNumber="149" uuid="f8fe2f99-7ec2-490c-8ec3-aa2fb4680826"/>
+        <card number="1" name="Bone Harvest" setShortName="MIR" collectorNumber="108" uuid="1cfde1ca-52f9-477d-a36e-6e4f7ca2e4d8"/>
+        <card number="1" name="Ritual of the Machine" setShortName="ALL" collectorNumber="59" uuid="537b4109-ae7c-451a-8576-97f817a70d75"/>
+        <card number="4" name="Contagion" setShortName="ALL" collectorNumber="45" uuid="00c8f94a-7690-47f5-b664-61411a32ab74"/>
+        <card number="4" name="Black Knight" setShortName="4ED" collectorNumber="121" uuid="47716cf4-f35c-4613-9686-4e00b5063408"/>
+        <card number="4" name="Erg Raiders" setShortName="4ED" collectorNumber="135" uuid="472c83ff-66aa-485b-9ca7-aef8731de20a"/>
+        <card number="4" name="Hypnotic Specter" setShortName="4ED" collectorNumber="142" uuid="b5900350-be08-4904-8f1b-cc180ed08485"/>
+        <card number="3" name="Krovikan Horror" setShortName="ALL" collectorNumber="53" uuid="e1f3cb1c-6bde-4b55-b5bc-5b64b56930f2"/>
+        <card number="4" name="Sewer Rats" setShortName="MIR" collectorNumber="139" uuid="42fe08c3-5024-486c-ba03-19d371ceccb0"/>
+        <card number="4" name="Skulking Ghost" setShortName="MIR" collectorNumber="143" uuid="f8ca7e96-0545-4f36-85c0-944d5c0b760a"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Dystopia" setShortName="ALL" collectorNumber="47" uuid="5f8bb451-706d-44ff-bbad-9ddc6f9f786a"/>
+        <card number="3" name="Gloom" setShortName="4ED" collectorNumber="139" uuid="f5a8573d-0e2d-4a7f-a47f-7e1bc472d4fa"/>
+        <card number="2" name="Tombstone Stairwell" setShortName="MIR" collectorNumber="149" uuid="f8fe2f99-7ec2-490c-8ec3-aa2fb4680826"/>
+        <card number="3" name="Winter Orb" setShortName="4ED" collectorNumber="358" uuid="d60ee90d-5f7b-4294-8d52-9744fada8d36"/>
+        <card number="1" name="Nevinyrral's Disk" setShortName="4ED" collectorNumber="338" uuid="d427396c-f1ef-46ac-b130-ed1e51e826a3"/>
+        <card number="1" name="Serrated Arrows" setShortName="HML" collectorNumber="110" uuid="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2"/>
+        <card number="2" name="Ritual of the Machine" setShortName="ALL" collectorNumber="59" uuid="537b4109-ae7c-451a-8576-97f817a70d75"/>
+    </zone>
+</cockatrice_deck>
