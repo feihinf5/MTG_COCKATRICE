@@ -15,7 +15,30 @@ Note
 - Deploys Cadaverous Bloom to exile those drawn cards from hand, converting them directly into even more mana
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Squandered Resources
+- 4 Cadaverous Bloom
+- 4 Natural Balance
+- 1 Elven Cache
+- 1 Emerald Charm
+- 4 Prosperity
+- 4 Impulse
+- 4 Infernal Contract
+- 4 Vampiric Tutor
+- 1 Three Wishes
+- 2 Memory Lapse
+- 1 Power Sink
+- 1 Drain Life
+- 5 Island
+- 6 Swamp
+- 7 Forest
+- 3 Bad River
+- 4 Undiscovered Paradise
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Wall of Roots
+- 4 Elephant Grass
+- 3 City of Solitude
+- 1 Elven Cache
+- 3 Emerald Charm
+- 1 Memory Lapse
+- 1 Power Sink
