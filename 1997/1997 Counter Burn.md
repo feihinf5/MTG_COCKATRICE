@@ -12,6 +12,7 @@ Format
 
 Note
 - World Championships 1997 top 4 deck by Paul McCabe
+- Deployed quick, efficient attackers early—like Suq'Ata Lancer and Cloud Elemental
 
 Deck
 - 10 Island
