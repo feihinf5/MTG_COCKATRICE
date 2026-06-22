@@ -5,7 +5,7 @@ Format
 - CARD_SET
 
 Note
-- INFO
+- World Championships 1997 undefeated deck in the Extended format by Gabriel Tsang
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
