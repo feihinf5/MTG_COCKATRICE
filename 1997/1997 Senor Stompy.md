@@ -13,8 +13,10 @@ Format
 
 Note
 - World Championships 1997 top 4 deck by Svend Geertsen
-- Relied on aggressive 1-drops creatures like Rogue Elephant and Ghazbán Ogre
+- Relied on aggressive 1-drops creatures like Rogue Elephant (Perfect Synergies with Harvest Wurm) and Ghazbán Ogre
 - Giant Growth and Bounty of the Hunt to push damage and protect its creatures
+- Spectral Bears against black-based strategies, like the incredibly popular Necropotence decks of the 1997 era
+- Quirion Ranger to bounce and replay land while able to untap Spectral Bears
 - Operating on an incredibly low mana curve allowed to break the symmetry of Winter Orb, locking down opponents' high-cost answers
 
 Deck
