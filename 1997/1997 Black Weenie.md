@@ -1,11 +1,10 @@
 Reference 
-- URL_LINKS
+- http://mtgwiki.com/wiki/%E3%82%A2%E3%82%B8%E3%82%A2%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%81%B8%E6%89%8B%E6%A8%A997
 
 Format
 - MIR
 - ALL
 - HML
-- ICE
 - CHR
 - 4ED
 
