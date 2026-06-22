@@ -7,7 +7,8 @@ Format
 - MIR
 
 Note
-- Aims to generate an overwhelming amount of mana to end the game with a massive, lethal Drain Life.
+- Pro Tour-Paris 1997 winning deck by Mike Long
+- Aims to generate an overwhelming amount of mana to end the game with a massive, lethal Drain Life
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
