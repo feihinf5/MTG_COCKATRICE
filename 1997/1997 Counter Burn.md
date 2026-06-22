@@ -12,10 +12,10 @@ Format
 
 Note
 - World Championships 1997 top 4 deck by Paul McCabe
-- Deployed quick, efficient attackers early—like Suq'Ata Lancer and Cloud Elemental
-- Relied on Ophidian for card advantage engine
-- Used Force of Will and Pyrokinesis to protect himself or wipe out opposing blockers
-- Used Man-o'-War to bounce enemy creatures, slowed down the opponent's development
+- Deployed quick, efficient attackers early like [**Suq'Ata Lancer**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Cloud Elemental**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Relied on [**Ophidian**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for card advantage engine
+- Used [**Force of Will**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Pyrokinesis**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to protect himself or wipe out opposing blockers
+- Used [**Man-o'-War**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to bounce enemy creatures, slowed down the opponent's development
 
 Deck
 - 10 Island
