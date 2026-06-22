@@ -8,7 +8,28 @@ Note
 - World Championships 1997 undefeated deck in the Extended format by Gabriel Tsang
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Counterspell
+- 4 Dissipate
+- 3 Force of Will
+- 4 Impulse
+- 4 Abeyance
+- 4 Swords to Plowshares
+- 3 Wrath of God
+- 4 Disenchant
+- 2 Gerrard's Wisdom
+- 2 Serrated Arrows
+- 8 Island
+- 5 Plains
+- 4 Tundra
+- 3 Kjeldoran Outpost
+- 3 Thawing Glaciers
+- 3 Quicksand
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Amnesia
+- 2 Circle of Protection: Black
+- 2 Circle of Protection: Red
+- 2 Karma
+- 2 Mangara's Blessing
+- 4 Sand Golem
+- 2 Disrupting Scepter
