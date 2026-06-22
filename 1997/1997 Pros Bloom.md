@@ -3,7 +3,8 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%97%E3%83%AD%E3%82%B9%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A0
 
 Format
-- CARD_SET
+- VIS
+- MIR
 
 Note
 - INFO
