@@ -11,7 +11,7 @@ Format
 
 Note
 - Asia Pacific Championship 1997 winning deck by Nathan Russell
-- Roughly 30 creatures, including [**Mishra's Factory88](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), engineered to defeat the dominant Blue-White counterpost deck
+- Roughly 30 creatures, including [**Mishra's Factory**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), engineered to defeat the dominant Blue-White counterpost deck
 - [**Black Knight**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Knight of Stromgald**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), their Protection from White made them immune to [**Swords to Plowshares**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and unblockable by [**Kjeldoran Outpost**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) soldier tokens
 - [**Vampire Bats**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Skulking Ghost**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), allowing them to easily sail over ground-based tokens
 - [**Tombstone Stairwell**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to maintain late-game, the zombie tokens it generated at instant speed effectively bypassed [**Wrath of God**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
