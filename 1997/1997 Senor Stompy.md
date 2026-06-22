@@ -13,12 +13,12 @@ Format
 
 Note
 - World Championships 1997 top 4 deck by Svend Geertsen
-- Relied on aggressive 1-drops creatures like Rogue Elephant (Perfect Synergies with Harvest Wurm) and Ghazbán Ogre
-- Giant Growth and Bounty of the Hunt to push damage and protect its creatures
-- Spectral Bears against black-based strategies, like the incredibly popular Necropotence decks of the 1997 era
-- Quirion Ranger to bounce and replay land while able to untap Spectral Bears
-- Operating on an incredibly low mana curve allowed to break the symmetry of Winter Orb, locking down opponents' high-cost answers
-- Lhurgoyf acted as a crucial insurance policy if opponents managed to wipe out or block the initial wave of smaller attackers and synergy with pitch spells Bounty of the Hunt
+- Relied on aggressive 1-drops creatures like [**Rogue Elephant**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) (perfect synergies with [**Harvest Wurm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)) and [**Ghazbán Ogre**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Giant Growth**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Bounty of the Hunt**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to push damage and protect its creatures
+- [**Spectral Bears**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) against black-based strategies, like the incredibly popular [**Necropotence**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) decks of the 1997 era
+- [**Quirion Ranger**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to bounce and replay land while able to untap [**Spectral Bears**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Operating on an incredibly low mana curve allowed to break the symmetry of [**Winter Orb**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), locking down opponents' high-cost answers
+- [**Lhurgoyf**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) acted as a insurance if opponents managed to survive the initial wave of smaller attackers and it also synergy with pitch spell [**Bounty of the Hunt**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
 Deck
 - 16 Forest 		
