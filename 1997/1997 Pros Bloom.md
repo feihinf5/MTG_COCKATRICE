@@ -7,8 +7,12 @@ Format
 - MIR
 
 Note
-- Pro Tour-Paris 1997 winning deck by Mike Long
+- Pro Tour-Paris 1997 Mirage Block Constructed winning deck by Mike Long
 - Aims to generate an overwhelming amount of mana to end the game with a massive, lethal Drain Life
+- Uses Squandered Resources to float mana by tapping lands, then sacrificing them for a second injection of mana
+- Once lands drop to zero, casts Natural Balance to instantly refill the battlefield with fresh lands
+- Spends the accumulated mana on a massive Prosperity to draw a huge chunk of the deck into the hand
+- Deploys Cadaverous Bloom to exile those drawn cards from hand, converting them directly into even more mana
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
