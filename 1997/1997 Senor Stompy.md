@@ -13,9 +13,32 @@ Format
 
 Note
 - World Championships 1997 top 4 deck by Svend Geertsen
+- Relied on aggressive 1-drops creatures like Rogue Elephant and Ghazbán Ogre
+- Giant Growth and Bounty of the Hunt to push damage and protect its creatures
+- Operating on an incredibly low mana curve allowed to break the symmetry of Winter Orb, locking down opponents' high-cost answers
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 16 Forest 		
+- 2 Heart of Yavimaya 		
+- 2 Whirling Dervish 		
+- 4 Fyndhorn Elves 		
+- 3 Lhurgoyf 		
+- 4 Spectral Bears 		
+- 2 Jolrael's Centaur 		
+- 4 Quirion Ranger 			
+- 2 Uktabi Orangutan 			
+- 4 Ghazbán Ogre 			
+- 3 Harvest Wurm 			
+- 4 Rogue Elephant 			
+- 4 Winter Orb 			
+- 4 Giant Growth 			
+- 2 Bounty of the Hunt
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Whirling Dervish
+- 1 Uktabi Orangutan
+- 1 Bounty of the Hunt
+- 2 River Boa
+- 2 Crumble
+- 4 Emerald Charm
+- 3 City of Solitude
