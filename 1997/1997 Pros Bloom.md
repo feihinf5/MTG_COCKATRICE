@@ -8,7 +8,7 @@ Format
 
 Note
 - Pro Tour-Paris 1997 Mirage Block Constructed winning deck by Mike Long
-- Aims to generate an overwhelming amount of mana to end the game with a lethal [**Drain Life**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Aims to generate an overwhelming amount of mana to end the game with a lethal [**Drain Life**](https://api.scryfall.com/cards/e8f030a5-62c6-439d-93b6-43f2cf927a7f?format=image)
 - Uses [**Squandered Resources**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to float mana by tapping lands, then sacrificing them for a second injection of mana
 - Once lands drop to zero, casts [**Natural Balance**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to instantly refill the battlefield with fresh lands
 - Spends the accumulated mana on a massive [**Prosperity**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to draw a huge chunk of the deck into the hand
