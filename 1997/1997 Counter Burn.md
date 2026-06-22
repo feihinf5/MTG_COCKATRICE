@@ -1,8 +1,14 @@
 Reference 
-- URL_LINKS
+- http://mtgwiki.com/wiki/World_Championship_Decks_1997
 
 Format
-- CARD_SET
+- WTH
+- 5ED
+- VIS
+- MIR
+- ALL
+- HML
+- ICE
 
 Note
 - INFO
