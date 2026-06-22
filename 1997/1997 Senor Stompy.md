@@ -13,7 +13,7 @@ Format
 
 Note
 - World Championships 1997 top 4 deck by Svend Geertsen
-- Relied on aggressive 1-drops creatures like [**Rogue Elephant**](https://api.scryfall.com/cards/1b622b2f-84ad-4203-97fa-35af09e1c370?format=image) (perfect synergies with [**Harvest Wurm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)) and [**Ghazbán Ogre**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Relied on aggressive 1-drops creatures like [**Rogue Elephant**](https://api.scryfall.com/cards/1b622b2f-84ad-4203-97fa-35af09e1c370?format=image) (perfect synergies with [**Harvest Wurm**](https://api.scryfall.com/cards/9d21139d-edfc-4140-aa43-d4165331d7f3?format=image)) and [**Ghazbán Ogre**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - [**Giant Growth**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Bounty of the Hunt**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to push damage and protect its creatures
 - [**Spectral Bears**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) against black-based strategies, like the popular [**Necropotence**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) decks of the 1997 era
 - [**Quirion Ranger**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to bounce and replay land while able to untap [**Spectral Bears**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
