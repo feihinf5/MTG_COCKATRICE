@@ -11,7 +11,7 @@ Note
 - Aims to generate an overwhelming amount of mana to end the game with a lethal [**Drain Life**](https://api.scryfall.com/cards/e8f030a5-62c6-439d-93b6-43f2cf927a7f?format=image)
 - Uses [**Squandered Resources**](https://api.scryfall.com/cards/fcddbea7-3025-47b1-a597-2d2b2711fb81?format=image) to float mana by tapping lands, then sacrificing them for a second injection of mana
 - Once lands drop to zero, casts [**Natural Balance**](https://api.scryfall.com/cards/b0f7c47c-416e-4f73-89ec-024a29dfb5e9?format=image) to instantly refill the battlefield with fresh lands
-- Spends the accumulated mana on a massive [**Prosperity**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to draw a huge chunk of the deck into the hand
+- Spends the accumulated mana on a massive [**Prosperity**](https://api.scryfall.com/cards/3fa5e806-3cf2-4241-b45d-a05d2b715efd?format=image) to draw a huge chunk of the deck into the hand
 - Deploys [**Cadaverous Bloom**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to exile those drawn cards from hand, converting them directly into even more mana
 
 Deck
