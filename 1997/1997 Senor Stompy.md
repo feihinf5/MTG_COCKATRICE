@@ -18,6 +18,7 @@ Note
 - Spectral Bears against black-based strategies, like the incredibly popular Necropotence decks of the 1997 era
 - Quirion Ranger to bounce and replay land while able to untap Spectral Bears
 - Operating on an incredibly low mana curve allowed to break the symmetry of Winter Orb, locking down opponents' high-cost answers
+- Lhurgoyf acted as a crucial insurance policy if opponents managed to wipe out or block the initial wave of smaller attackers and synergy with pitch spells Bounty of the Hunt
 
 Deck
 - 16 Forest 		
