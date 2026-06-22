@@ -13,6 +13,9 @@ Format
 Note
 - World Championships 1997 top 4 deck by Paul McCabe
 - Deployed quick, efficient attackers early—like Suq'Ata Lancer and Cloud Elemental
+- Relied on Ophidian for card advantage engine
+- Used Force of Will and Pyrokinesis to protect himself or wipe out opposing blockers
+- Used Man-o'-War to bounce enemy creatures, slowed down the opponent's development
 
 Deck
 - 10 Island
