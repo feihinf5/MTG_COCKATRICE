@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Wed Jun 3 21:19:17 2026</lastLoadedTimestamp>
+    <deckname>1997 Senor Stompy</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1997 by Svend Geertsen</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Bounty of the Hunt" setShortName="ALL" collectorNumber="85" uuid="21ed522a-cf5a-41e1-9677-1226f689ec9c"/>
+        <card number="2" name="Giant Growth" setShortName="ICE" collectorNumber="246" uuid="431c9749-fd7b-4960-a910-8d41d3704e6c"/>
+        <card number="2" name="Giant Growth" setShortName="5ED" collectorNumber="299" uuid="07aee96b-1cf3-4cd9-9998-39ab16170c6b"/>
+        <card number="4" name="Winter Orb" setShortName="5ED" collectorNumber="408" uuid="3a674ec8-5531-4d06-aa57-929c6ac29238"/>
+        <card number="4" name="Fyndhorn Elves" setShortName="ICE" collectorNumber="244" uuid="3ba95ffa-990a-4013-98b7-5d8c0b34e9c4"/>
+        <card number="4" name="Ghazbán Ogre" setShortName="5ED" collectorNumber="298" uuid="4fa6c0d6-aa18-4c32-a641-1ec8e50a26f3"/>
+        <card number="3" name="Harvest Wurm" setShortName="WTH" collectorNumber="130" uuid="9d21139d-edfc-4140-aa43-d4165331d7f3"/>
+        <card number="2" name="Jolrael's Centaur" setShortName="MIR" collectorNumber="222" uuid="31588ea3-31d2-4118-9b9f-4ce820c16a15"/>
+        <card number="1" name="Lhurgoyf" setShortName="ICE" collectorNumber="252" uuid="fee6d385-d44b-4f1a-beb1-13aeebde063e"/>
+        <card number="2" name="Lhurgoyf" setShortName="5ED" collectorNumber="309" uuid="fadc2d27-0c6c-4f68-bee0-0af6688f304d"/>
+        <card number="4" name="Quirion Ranger" setShortName="VIS" collectorNumber="117" uuid="56efe72c-6d7f-44f6-ac74-01af9305c4b6"/>
+        <card number="4" name="Rogue Elephant" setShortName="WTH" collectorNumber="139" uuid="1b622b2f-84ad-4203-97fa-35af09e1c370"/>
+        <card number="4" name="Spectral Bears" setShortName="HML" collectorNumber="98" uuid="7e13875f-f745-4afd-a830-33df9576dce8"/>
+        <card number="2" name="Uktabi Orangutan" setShortName="VIS" collectorNumber="123" uuid="101c7d58-43cc-4ebd-87f1-2016fbff56dd"/>
+        <card number="2" name="Whirling Dervish" setShortName="5ED" collectorNumber="341" uuid="e51bfbd4-2319-41eb-b694-72874c24b31a"/>
+        <card number="2" name="Forest" setShortName="5ED" collectorNumber="449" uuid="0cdbb450-4b80-4f81-9992-ee8fbeeb1857"/>
+        <card number="2" name="Forest" setShortName="5ED" collectorNumber="448" uuid="925e07e8-a897-443f-8962-ef11fc41002a"/>
+        <card number="2" name="Forest" setShortName="5ED" collectorNumber="447" uuid="13635ba7-0635-4c16-9e14-444470e06287"/>
+        <card number="2" name="Forest" setShortName="5ED" collectorNumber="446" uuid="04eb20ea-1784-475e-a612-48057e5578c1"/>
+        <card number="2" name="Forest" setShortName="MIR" collectorNumber="350" uuid="95dfef30-acca-4b15-a05e-d33289055218"/>
+        <card number="1" name="Forest" setShortName="MIR" collectorNumber="349" uuid="d8a67bf6-818b-4afe-af15-3d955dc5e884"/>
+        <card number="1" name="Forest" setShortName="MIR" collectorNumber="348" uuid="bb6b3f80-20bf-4693-b106-cfb31a3d7f83"/>
+        <card number="1" name="Forest" setShortName="MIR" collectorNumber="347" uuid="a0ae7a81-9a61-4112-af22-369c525b2eb1"/>
+        <card number="1" name="Forest" setShortName="ICE" collectorNumber="380" uuid="fbdcbd97-90a9-45ea-94f6-2a1c6faaf965"/>
+        <card number="1" name="Forest" setShortName="ICE" collectorNumber="382" uuid="768c4d8f-5700-4f0a-9ff2-58422aeb1dac"/>
+        <card number="1" name="Forest" setShortName="ICE" collectorNumber="381" uuid="b346b784-7bde-49d0-bfa9-56236cbe19d9"/>
+        <card number="2" name="Heart of Yavimaya" setShortName="ALL" collectorNumber="138" uuid="40c59cb9-559b-4716-9bd7-c818b3f46f1d"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="City of Solitude" setShortName="VIS" collectorNumber="102" uuid="be499b81-bb2d-4f1d-9deb-c8bfcdca8e13"/>
+        <card number="2" name="River Boa" setShortName="VIS" collectorNumber="118" uuid="2e9d5aaf-b7e8-4676-aec8-7d29a0169a2c"/>
+        <card number="2" name="Crumble" setShortName="5ED" collectorNumber="287" uuid="45c781ee-7ffb-4dd3-ac84-4d6fe4649591"/>
+        <card number="4" name="Emerald Charm" setShortName="VIS" collectorNumber="106" uuid="e9c9199b-61b3-4794-878b-f065058f50f3"/>
+        <card number="1" name="Bounty of the Hunt" setShortName="ALL" collectorNumber="85" uuid="21ed522a-cf5a-41e1-9677-1226f689ec9c"/>
+        <card number="1" name="Uktabi Orangutan" setShortName="VIS" collectorNumber="123" uuid="101c7d58-43cc-4ebd-87f1-2016fbff56dd"/>
+        <card number="2" name="Whirling Dervish" setShortName="5ED" collectorNumber="341" uuid="e51bfbd4-2319-41eb-b694-72874c24b31a"/>
+    </zone>
+</cockatrice_deck>
