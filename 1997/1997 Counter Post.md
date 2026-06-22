@@ -20,7 +20,7 @@ Note
 - Rise to dominance was triggered by the restriction of [**Strip Mine**](https://api.scryfall.com/cards/a5899b46-226b-4be6-8e80-d2396f54210d?format=image) and infamously slow deck
 - Delays the opponent using removal and counterspells while utilizing [**Thawing Glaciers**](https://api.scryfall.com/cards/6411a8c6-010f-4863-a0fa-bbebe09d5c34?format=image) to rapidly deploy mana base
 - Overwhelming the opponent with soldier tokens generated from [**Kjeldoran Outpost**](https://api.scryfall.com/cards/e0769fc7-50b5-4b49-8aff-af04536288fb?format=image)
-- Post-sideboard mirror matches were absolute time consuming that players slowly accumulated massive grips of counterspells solely to fight over stealing or protecting each other's [**Kjeldoran Outpost**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) using [**Political Trickery**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Post-sideboard mirror matches were absolute time consuming that players slowly accumulated massive grips of counterspells solely to fight over stealing or protecting each other's [**Kjeldoran Outpost**](https://api.scryfall.com/cards/e0769fc7-50b5-4b49-8aff-af04536288fb?format=image) using [**Political Trickery**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
 Deck
 - 4 Counterspell
