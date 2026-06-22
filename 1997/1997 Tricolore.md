@@ -13,12 +13,11 @@ Format
 Note
 - World Championships 1997 top 4 deck by Janosch Kuhn
 - Speed and control deck
-- Used powerful removal like Swords to Plowshares and Incinerate to handle early threats, alongside countermagic like Force of Will and Counterspell
-- Relied on Thawing Glaciers to continually fetch lands and Impulse to dig through the deck for answers
-- Recursive damage from Hammer of Bogardan and the burn spell Disintegrate
-- Wildfire Emissary's Protection from white ability prevents it from being targeted by white removal and its 4 toughness keeps it safe from 3-damage spells
-- Thawing Glaciers to fetch massive amounts of land as the game went on, to pump up Wildfire Emissary's power
-- Frenetic Efreet was used as an evasive, nearly un-killable chip-damage threat
+- Used powerful removal like Swords to [**Plowshares**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Incinerate**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to handle early threats, alongside countermagic like [**Force of Will**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Counterspell**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Relied on [**Thawing Glaciers**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to continually fetch lands and [**Impulse**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to dig through the deck for answers
+- Recursive damage from [**Hammer of Bogardan**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and the burn spell [**Disintegrate**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Wildfire Emissary**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)'s Protection from white ability prevents it from being targeted by white removal and its 4 toughness keeps it safe from 3-damage spells
+- [**Frenetic Efreet**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) was used as an evasive, nearly un-killable chip-damage threat
 
 Deck
 - 6 Mountain
