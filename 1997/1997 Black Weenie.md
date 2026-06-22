@@ -11,13 +11,13 @@ Format
 
 Note
 - Asia Pacific Championship 1997 winning deck by Nathan Russell
-- Roughly 30 creatures, including Mishra's Factory, engineered to defeat the dominant Blue-White counterpost deck
-- Black Knight and Knight of Stromgald, their Protection from White made them immune to Swords to Plowshares and unblockable by Kjeldoran Outpost soldier tokens
-- Vampire Bats and Skulking Ghost, allowing them to easily sail over ground-based tokens
-- Tombstone Stairwell to maintain late-game, the zombie tokens it generated at instant speed effectively bypassed Wrath of God
-- Utilized Krovikan Horror to sacrifice its own creatures in response to Swords to Plowshares, ensuring they fueled the graveyard for Tombstone Stairwell rather than being exiled
-- Ritual of the Machine has excellent synergy with Krovikan Horror and Tombstone Stairwell by sacrificing expiring zombie tokens or recurring creatures to permanently steal an opponent's creature
-- Nevinyrral's Disk can blow up the entire board to dump creatures into the graveyard, instantly fueling a massive army of tokens for Tombstone Stairwell and maximizing Krovikan Horror's return value
+- Roughly 30 creatures, including [**Mishra's Factory88](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), engineered to defeat the dominant Blue-White counterpost deck
+- [**Black Knight**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Knight of Stromgald**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), their Protection from White made them immune to [**Swords to Plowshares**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and unblockable by [**Kjeldoran Outpost**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) soldier tokens
+- [**Vampire Bats**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Skulking Ghost**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), allowing them to easily sail over ground-based tokens
+- [**Tombstone Stairwell**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to maintain late-game, the zombie tokens it generated at instant speed effectively bypassed [**Wrath of God**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Utilized [**Krovikan Horror**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to sacrifice its own creatures in response to [**Swords to Plowshares**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), ensuring they fueled the graveyard for [**Tombstone Stairwell**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) rather than being exiled
+- [**Ritual of the Machine**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) has excellent synergy with [**Krovikan Horror**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Tombstone Stairwell**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) by sacrificing expiring zombie tokens or recurring creatures to permanently steal an opponent's creature
+- [**Nevinyrral's Disk**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) can blow up the entire board to dump creatures into the graveyard, instantly fueling a massive army of tokens for [**Tombstone Stairwell**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and maximizing [**Krovikan Horror**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)'s return value
 
 Deck
 - 4 Sewer Rats
