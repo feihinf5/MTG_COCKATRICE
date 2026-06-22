@@ -1,1 +1,64 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jun 5 15:41:12 2026</lastLoadedTimestamp>
+    <deckname>1997 Counter Post</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1997 undefeated deck in the Extended format by Gabriel Tsang</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Island" setShortName="LEA" collectorNumber="289" uuid="bc6ea08d-7991-4a57-a1e3-abd508426970"/>
+        <card number="1" name="Island" setShortName="LEA" collectorNumber="288" uuid="90a57c0e-fa61-45ef-955d-d296403967d5"/>
+        <card number="1" name="Island" setShortName="LEB" collectorNumber="293" uuid="c0a612c4-b4ac-4dd2-a06e-92516599fafd"/>
+        <card number="1" name="Island" setShortName="LEB" collectorNumber="292" uuid="d0c5cf64-9844-4b5b-8e6b-b97c50cce053"/>
+        <card number="1" name="Island" setShortName="LEB" collectorNumber="291" uuid="bff33e91-8e52-43f2-b8ae-603b456b08fc"/>
+        <card number="1" name="Island" setShortName="2ED" collectorNumber="291" uuid="68271f76-eaf9-44cc-bb3d-5c56f36e9af9"/>
+        <card number="1" name="Island" setShortName="2ED" collectorNumber="292" uuid="069b4d6c-7542-4a42-8822-031f02131033"/>
+        <card number="1" name="Island" setShortName="2ED" collectorNumber="293" uuid="712dc7d6-5543-49fd-bafa-5ffb6c2bb0ce"/>
+        <card number="3" name="Kjeldoran Outpost" setShortName="ALL" collectorNumber="139" uuid="e0769fc7-50b5-4b49-8aff-af04536288fb"/>
+        <card number="1" name="Plains" setShortName="LEA" collectorNumber="287" uuid="51662253-789f-4a02-9937-688e36775024"/>
+        <card number="1" name="Plains" setShortName="LEA" collectorNumber="286" uuid="b1623d57-4729-4796-b3f7-f1837a05c6ed"/>
+        <card number="1" name="Plains" setShortName="LEB" collectorNumber="288" uuid="b7331b03-be66-419c-94bc-ed494c042ea3"/>
+        <card number="1" name="Plains" setShortName="LEB" collectorNumber="289" uuid="52ff493a-6336-416e-af5e-1eb6d10c080e"/>
+        <card number="1" name="Plains" setShortName="LEB" collectorNumber="290" uuid="38e2b0ff-8fdf-4db0-85c0-c1010bacd36b"/>
+        <card number="3" name="Quicksand" setShortName="VIS" collectorNumber="166" uuid="11370658-8d80-4d2f-afa5-ec6df6dee369"/>
+        <card number="3" name="Thawing Glaciers" setShortName="ALL" collectorNumber="144" uuid="6411a8c6-010f-4863-a0fa-bbebe09d5c34"/>
+        <card number="1" name="Tundra" setShortName="LEA" collectorNumber="284" uuid="a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb"/>
+        <card number="1" name="Tundra" setShortName="LEB" collectorNumber="285" uuid="1b93ce48-219c-49ea-9ad0-b7357bea4606"/>
+        <card number="1" name="Tundra" setShortName="2ED" collectorNumber="285" uuid="0d08f5e4-d2d3-4659-86d4-a983d80e3b2c"/>
+        <card number="1" name="Tundra" setShortName="3ED" collectorNumber="289" uuid="9c9d5f72-e199-4d5b-ae7e-cc5b9bdfae99"/>
+        <card number="2" name="Serrated Arrows" setShortName="HML" collectorNumber="110" uuid="849a7d2b-3fdb-4e7f-b0b6-f6559dcb32e2"/>
+        <card number="2" name="Gerrard's Wisdom" setShortName="WTH" collectorNumber="15" uuid="f81defa5-edb4-4f1f-b13c-7cfb34511138"/>
+        <card number="1" name="Wrath of God" setShortName="LEA" collectorNumber="45" uuid="a2788d69-6a3a-42f0-8736-cc6b57755ecd"/>
+        <card number="1" name="Wrath of God" setShortName="LEB" collectorNumber="46" uuid="96dd2d61-a43d-4582-b730-71d4fac0fa23"/>
+        <card number="1" name="Wrath of God" setShortName="2ED" collectorNumber="46" uuid="e57404bc-44ba-4909-87da-f4a71673168d"/>
+        <card number="4" name="Abeyance" setShortName="WTH" collectorNumber="1" uuid="125a355d-bfcf-4125-aa6c-35e7dea6f63e"/>
+        <card number="1" name="Counterspell" setShortName="LEA" collectorNumber="54" uuid="0df55e3f-14de-46ef-b6b1-616618724d9e"/>
+        <card number="1" name="Disenchant" setShortName="LEA" collectorNumber="18" uuid="2722d7e2-61c6-4934-9c21-875ee78fd06c"/>
+        <card number="1" name="Disenchant" setShortName="LEB" collectorNumber="19" uuid="9d61d0a5-7e92-4413-9121-925e1876b64d"/>
+        <card number="1" name="Disenchant" setShortName="2ED" collectorNumber="19" uuid="73636b95-103d-43c8-bc96-63fad0da34dd"/>
+        <card number="1" name="Disenchant" setShortName="3ED" collectorNumber="17" uuid="41859c6f-1017-42ae-9061-050fe0db9731"/>
+        <card number="1" name="Counterspell" setShortName="LEB" collectorNumber="55" uuid="9e11bf7c-f439-4529-b29a-d711359807ef"/>
+        <card number="1" name="Counterspell" setShortName="2ED" collectorNumber="55" uuid="7c666b4b-c4ff-40ca-9d16-c76aafebaa83"/>
+        <card number="1" name="Counterspell" setShortName="3ED" collectorNumber="54" uuid="0a1b4e2e-5459-4fae-81d9-1e882647daac"/>
+        <card number="4" name="Dissipate" setShortName="MIR" collectorNumber="61" uuid="36d9271d-6dbf-4640-9222-721a7a3ccc08"/>
+        <card number="3" name="Force of Will" setShortName="ALL" collectorNumber="28" uuid="9a879b60-4381-447d-8a5a-8e0b6a1d49ca"/>
+        <card number="4" name="Impulse" setShortName="VIS" collectorNumber="34" uuid="9d710a97-062f-4773-b6c6-8aeddeb3b6e8"/>
+        <card number="1" name="Swords to Plowshares" setShortName="LEA" collectorNumber="40" uuid="386ea9eb-abc1-4862-aa2d-8fb808d79490"/>
+        <card number="1" name="Swords to Plowshares" setShortName="LEB" collectorNumber="41" uuid="255099be-c64e-4f6a-8463-4fc058d6908d"/>
+        <card number="1" name="Swords to Plowshares" setShortName="2ED" collectorNumber="41" uuid="50fc5b10-6215-48a9-8993-b61681f61186"/>
+        <card number="1" name="Swords to Plowshares" setShortName="3ED" collectorNumber="41" uuid="057d2410-30d3-4b7a-9dc3-f2512c1cf31c"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Disrupting Scepter" setShortName="LEA" collectorNumber="242" uuid="ca571ee8-07a2-43b8-9acf-89cbfd3cf7c9"/>
+        <card number="1" name="Disrupting Scepter" setShortName="LEB" collectorNumber="243" uuid="ae91e07c-ad6d-41d9-bd65-184f92761334"/>
+        <card number="4" name="Sand Golem" setShortName="MIR" collectorNumber="318" uuid="84e4a955-ce9a-4386-b6ac-c00fd25de882"/>
+        <card number="2" name="Mangara's Blessing" setShortName="MIR" collectorNumber="25" uuid="b0125f79-ff68-4fb9-b309-8d277259f323"/>
+        <card number="1" name="Circle of Protection: Black" setShortName="LEB" collectorNumber="10" uuid="fa47b4cd-8da4-4544-b011-ba92b7009203"/>
+        <card number="1" name="Circle of Protection: Black" setShortName="2ED" collectorNumber="10" uuid="1eea1199-6b07-430c-b100-c5825a23d8b0"/>
+        <card number="1" name="Circle of Protection: Red" setShortName="LEA" collectorNumber="12" uuid="b3dd94c5-42f6-4148-be6e-2a3a4226cc0e"/>
+        <card number="1" name="Circle of Protection: Red" setShortName="LEB" collectorNumber="13" uuid="5de9dc85-d566-4cb0-a2e3-1ed4e5fe2f14"/>
+        <card number="2" name="Karma" setShortName="LEA" collectorNumber="26" uuid="6f30ad61-fcb7-4d55-ba86-94de1bf545e4"/>
+        <card number="1" name="Amnesia" setShortName="DRK" collectorNumber="20" uuid="e07df65c-ebcc-4873-b928-d99040d1f2f6"/>
+    </zone>
+</cockatrice_deck>
