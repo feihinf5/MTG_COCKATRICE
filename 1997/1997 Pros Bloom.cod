@@ -1,1 +1,47 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 7 14:25:50 2026</lastLoadedTimestamp>
+    <deckname>1997 ProsBloom</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Paris 1997 Mirage Block Constructed winning deck by Mike Long</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Cadaverous Bloom" setShortName="MIR" collectorNumber="258" uuid="c9bef70b-61c7-4df5-b4df-09cd6ab2015c"/>
+        <card number="4" name="Squandered Resources" setShortName="VIS" collectorNumber="137" uuid="fcddbea7-3025-47b1-a597-2d2b2711fb81"/>
+        <card number="1" name="Drain Life" setShortName="MIR" collectorNumber="118" uuid="e8f030a5-62c6-439d-93b6-43f2cf927a7f"/>
+        <card number="1" name="Elven Cache" setShortName="VIS" collectorNumber="105" uuid="80fa078f-c74a-42b2-af97-7ca2c29dc316"/>
+        <card number="4" name="Infernal Contract" setShortName="MIR" collectorNumber="129" uuid="e62c43bd-59fe-46e3-83f8-c4b37cbc4931"/>
+        <card number="4" name="Natural Balance" setShortName="MIR" collectorNumber="231" uuid="b0f7c47c-416e-4f73-89ec-024a29dfb5e9"/>
+        <card number="4" name="Prosperity" setShortName="VIS" collectorNumber="40" uuid="3fa5e806-3cf2-4241-b45d-a05d2b715efd"/>
+        <card number="1" name="Emerald Charm" setShortName="VIS" collectorNumber="106" uuid="e9c9199b-61b3-4794-878b-f065058f50f3"/>
+        <card number="4" name="Impulse" setShortName="VIS" collectorNumber="34" uuid="9d710a97-062f-4773-b6c6-8aeddeb3b6e8"/>
+        <card number="2" name="Memory Lapse" setShortName="MIR" collectorNumber="74" uuid="63453ed9-5cf1-4cad-b173-a067f22a4405"/>
+        <card number="1" name="Power Sink" setShortName="MIR" collectorNumber="83" uuid="49717583-e0bb-47d6-92d0-8959af13391f"/>
+        <card number="1" name="Three Wishes" setShortName="VIS" collectorNumber="45" uuid="dbb2b253-7023-44d1-963b-eae98d48f498"/>
+        <card number="4" name="Vampiric Tutor" setShortName="VIS" collectorNumber="72" uuid="0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d"/>
+        <card number="3" name="Bad River" setShortName="MIR" collectorNumber="324" uuid="7a78abdb-d1ac-49cb-a74b-9de21c06364a"/>
+        <card number="2" name="Forest" setShortName="MIR" collectorNumber="350" uuid="95dfef30-acca-4b15-a05e-d33289055218"/>
+        <card number="2" name="Forest" setShortName="MIR" collectorNumber="349" uuid="d8a67bf6-818b-4afe-af15-3d955dc5e884"/>
+        <card number="1" name="Forest" setShortName="MIR" collectorNumber="348" uuid="bb6b3f80-20bf-4693-b106-cfb31a3d7f83"/>
+        <card number="2" name="Forest" setShortName="MIR" collectorNumber="347" uuid="a0ae7a81-9a61-4112-af22-369c525b2eb1"/>
+        <card number="2" name="Island" setShortName="MIR" collectorNumber="338" uuid="a39fc1e0-caf0-4cfa-bbf2-fea7ca32c00d"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="337" uuid="1e571f07-167f-4a7d-8f98-0c98d7d15e81"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="336" uuid="776912e7-fa16-4d71-b830-0a5d35f38297"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="335" uuid="df84bf1b-8698-4c3e-baa9-926f0efc6a12"/>
+        <card number="1" name="Swamp" setShortName="MIR" collectorNumber="342" uuid="5083de34-d127-45df-9252-ff09b5cf8b47"/>
+        <card number="2" name="Swamp" setShortName="MIR" collectorNumber="341" uuid="65181db5-3fc5-497b-ba61-385efdf740ed"/>
+        <card number="1" name="Swamp" setShortName="MIR" collectorNumber="340" uuid="2c4be2d6-d168-4e67-8d75-a04f637b56dd"/>
+        <card number="2" name="Swamp" setShortName="MIR" collectorNumber="339" uuid="f2d28477-8be1-4caf-8185-64f47905ccb1"/>
+        <card number="4" name="Undiscovered Paradise" setShortName="VIS" collectorNumber="167" uuid="5f6e8830-5e62-4945-8b73-60f0628d38e7"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Wall of Roots" setShortName="MIR" collectorNumber="253" uuid="aeb151d2-c313-44d2-972e-33487f070c23"/>
+        <card number="3" name="Emerald Charm" setShortName="VIS" collectorNumber="106" uuid="e9c9199b-61b3-4794-878b-f065058f50f3"/>
+        <card number="1" name="Memory Lapse" setShortName="MIR" collectorNumber="74" uuid="63453ed9-5cf1-4cad-b173-a067f22a4405"/>
+        <card number="1" name="Power Sink" setShortName="MIR" collectorNumber="83" uuid="49717583-e0bb-47d6-92d0-8959af13391f"/>
+        <card number="1" name="Elven Cache" setShortName="VIS" collectorNumber="105" uuid="80fa078f-c74a-42b2-af97-7ca2c29dc316"/>
+        <card number="3" name="City of Solitude" setShortName="VIS" collectorNumber="102" uuid="be499b81-bb2d-4f1d-9deb-c8bfcdca8e13"/>
+        <card number="4" name="Elephant Grass" setShortName="VIS" collectorNumber="104" uuid="f4c1f5a7-0d28-43ab-9b66-937e963f42cd"/>
+    </zone>
+</cockatrice_deck>
