@@ -12,7 +12,7 @@ Format
 - ICE
 
 Note
-- INFO
+- World Championships 1997 top 4 deck by Svend Geertsen
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
