@@ -1,6 +1,7 @@
 Reference 
 - https://magic.wizards.com/en/news/feature/top-10-extended-decks-all-time-2008-02-07
 - http://mtgwiki.com/wiki/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%E3%83%8D%E3%82%AF%E3%83%AD
+- http://www.mtghistory.info/Docs/WizardsArticles/20021206%20-%20The%20Power%20of%20the%20Skull.pdf
 
 Format
 - TMP
