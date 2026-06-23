@@ -17,7 +17,7 @@ Format
 
 Note
 - World Championships 1997 undefeated deck in the Extended format by Gabriel Tsang
-- Rise to dominance was triggered by the restriction of [**Strip Mine**](https://api.scryfall.com/cards/a5899b46-226b-4be6-8e80-d2396f54210d?format=image) and infamously slow deck
+- Rise to dominance was triggered by the restriction of [**Strip Mine**](https://api.scryfall.com/cards/a5899b46-226b-4be6-8e80-d2396f54210d?format=image) and this is a infamously slow deck
 - Delays the opponent using removal and counterspells while utilizing [**Thawing Glaciers**](https://api.scryfall.com/cards/6411a8c6-010f-4863-a0fa-bbebe09d5c34?format=image) to rapidly deploy mana base
 - Overwhelming the opponent with soldier tokens generated from [**Kjeldoran Outpost**](https://api.scryfall.com/cards/e0769fc7-50b5-4b49-8aff-af04536288fb?format=image)
 
