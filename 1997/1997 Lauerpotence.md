@@ -18,10 +18,32 @@ Format
 - 3ED
 
 Note
-- INFO
+- Pro Tour-Chicago 1997 winning deck by Randy Buehler
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Order of the Ebon Hand
+- 4 Knight of Stromgald
+- 1 Ihsan's Shade
+- 4 Drain Life
+- 4 Hymn to Tourach
+- 4 Demonic Consultation
+- 4 Lightning Bolt
+- 2 Incinerate
+- 2 Firestorm
+- 3 Disenchant
+- 4 Necropotence
+- 4 Badlands
+- 4 Scrubland
+- 2 Bad River
+- 3 Gemstone Mine
+- 8 Swamp
+- 3 Lake of the Dead
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Firestorm
+- 1 Disenchant
+- 3 Pyroblast
+- 3 Terror
+- 2 Mind Warp
+- 2 Circle of Protection: Black
+- 3 Honorable Passage
