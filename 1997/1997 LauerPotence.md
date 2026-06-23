@@ -20,6 +20,10 @@ Format
 
 Note
 - Pro Tour-Chicago 1997 winning deck by Randy Buehler
+- Replaces Nevinyrral's Disk with cheap red burn spells (Lightning Bolt, Incinerate, Firestorm) to gain quick resistance against fast aggressive decks
+- Utilizes the "Lake-Drain" combo (Lake of the Dead + Drain Life)
+- Runs Knight of Stromgald, Order of the Ebon Hand and Ihsan's Shade, all creatures have Protection from White, completely bypassing Swords to Plowshares and Kjeldoran Outpost soldier tokens
+- Runs a full 4 copies each of Necropotence and Demonic Consultation to consistently deploying an early Necropotence is critical
 
 Deck
 - 4 Order of the Ebon Hand
