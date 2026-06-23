@@ -13,7 +13,7 @@ Format
 Note
 - 1998 Japan National Championship winning deck by Tsukamoto Toshiki
 - The key card is [**Living Death**](https://api.scryfall.com/cards/6c820476-fbda-4073-baf6-51e71f45ed58?format=image)
-- Simply send your creatures to the graveyard beforehand via chump blocking, [**Goblin Bombardment**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Firestorm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Simply send your creatures to the graveyard beforehand via chump blocking, [**Goblin Bombardment**](https://api.scryfall.com/cards/179e954f-1d90-4ef4-b800-25845cc338e2?format=image) or [**Firestorm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - Upon reanimation, creatures' triggered abilities will generate massive advantage
 - When using [**Natural Order**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), typically fetch [**Verdant Force**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Sliver Queen**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) if facing Black (to evades Terror)
 
