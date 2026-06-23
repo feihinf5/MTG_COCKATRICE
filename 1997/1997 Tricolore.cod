@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1997 Tricolore</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1997 top 4 deck by Janosch Kuhn</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Abeyance" setShortName="WTH" collectorNumber="1" uuid="125a355d-bfcf-4125-aa6c-35e7dea6f63e"/>
+        <card number="2" name="Counterspell" setShortName="5ED" collectorNumber="77" uuid="b975289d-d8b8-46b4-8c60-d6ed4b594519"/>
+        <card number="2" name="Hammer of Bogardan" setShortName="MIR" collectorNumber="181" uuid="f7285f52-5df0-4f90-9cf7-a57295d90fd4"/>
+        <card number="1" name="Pillage" setShortName="ALL" collectorNumber="76" uuid="389ecb50-b007-4086-89fb-ec2daa5afdcf"/>
+        <card number="1" name="Disenchant" setShortName="MIR" collectorNumber="10" uuid="71e27cbc-d986-437a-9195-6f5e065a49a2"/>
+        <card number="2" name="Counterspell" setShortName="ICE" collectorNumber="64" uuid="aedbcbaa-40f0-485f-8427-778edc2d2ec0"/>
+        <card number="4" name="Force of Will" setShortName="ALL" collectorNumber="28" uuid="9a879b60-4381-447d-8a5a-8e0b6a1d49ca"/>
+        <card number="4" name="Impulse" setShortName="VIS" collectorNumber="34" uuid="9d710a97-062f-4773-b6c6-8aeddeb3b6e8"/>
+        <card number="1" name="Disenchant" setShortName="5ED" collectorNumber="26" uuid="18720641-3a34-48f1-954e-49a703f12578"/>
+        <card number="1" name="Incinerate" setShortName="5ED" collectorNumber="242" uuid="aa0f7e1f-bcb5-414f-a2e9-6a158fec2ff5"/>
+        <card number="2" name="Incinerate" setShortName="MIR" collectorNumber="184" uuid="409b2be8-5bb6-45e0-ab87-ca73b4e3a396"/>
+        <card number="1" name="Incinerate" setShortName="ICE" collectorNumber="194" uuid="9c3f00af-010d-4485-b8b7-47400d99c496"/>
+        <card number="4" name="Swords to Plowshares" setShortName="ICE" collectorNumber="54" uuid="375fd2cb-443b-4be4-ad60-6d1a8e74f510"/>
+        <card number="2" name="Disintegrate" setShortName="5ED" collectorNumber="219" uuid="2e1dce58-c0e5-472e-a575-b8d4b5958b3a"/>
+        <card number="4" name="Frenetic Efreet" setShortName="MIR" collectorNumber="264" uuid="50d4468b-f7de-44fe-898a-4125d26d242f"/>
+        <card number="4" name="Wildfire Emissary" setShortName="MIR" collectorNumber="203" uuid="6d99204c-b42d-48bc-9a93-fae5660665c7"/>
+        <card number="1" name="City of Brass" setShortName="5ED" collectorNumber="413" uuid="56816a2d-4faa-4fbd-bf1a-35fa3e90ccf6"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="437" uuid="da1218e0-8c75-4f8e-b317-051ce84949a5"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="436" uuid="09376cac-44bd-42c4-9c07-9e4d6c972a64"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="435" uuid="6fbf2762-1e9c-4d7c-84d0-8561d9a41735"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="434" uuid="c8820e22-44ee-4ccf-a1fb-f93d98b8b494"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="337" uuid="1e571f07-167f-4a7d-8f98-0c98d7d15e81"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="336" uuid="776912e7-fa16-4d71-b830-0a5d35f38297"/>
+        <card number="1" name="Mountain" setShortName="5ED" collectorNumber="445" uuid="e1dfeb23-204c-4e48-8a23-c69daf92340f"/>
+        <card number="1" name="Mountain" setShortName="5ED" collectorNumber="444" uuid="cdf5d88e-1699-4ce3-a4aa-3e8d1ef2bc39"/>
+        <card number="1" name="Mountain" setShortName="5ED" collectorNumber="443" uuid="7c0916a2-e2f1-42b5-9f2c-b6a18a605138"/>
+        <card number="1" name="Mountain" setShortName="5ED" collectorNumber="442" uuid="44b08a29-8b53-44c9-82a0-ac689c9feeb5"/>
+        <card number="1" name="Mountain" setShortName="MIR" collectorNumber="346" uuid="1cef9230-34fa-496f-8835-5dfaac627f70"/>
+        <card number="1" name="Mountain" setShortName="MIR" collectorNumber="345" uuid="681b9c8a-6140-4086-bc72-37f0058a8e9f"/>
+        <card number="1" name="Plains" setShortName="5ED" collectorNumber="433" uuid="ef1c6830-758e-4242-85f7-3f20b872272c"/>
+        <card number="1" name="Plains" setShortName="5ED" collectorNumber="432" uuid="38789fff-0207-4b38-9bfd-5464ab62a533"/>
+        <card number="1" name="Plains" setShortName="5ED" collectorNumber="431" uuid="600cc3f3-5400-40f4-99ff-8a4a905e79cf"/>
+        <card number="1" name="Plains" setShortName="5ED" collectorNumber="430" uuid="6cab2ebd-6ab7-4273-bda3-d7dea81b52c3"/>
+        <card number="4" name="Thawing Glaciers" setShortName="ALL" collectorNumber="144" uuid="6411a8c6-010f-4863-a0fa-bbebe09d5c34"/>
+        <card number="1" name="Undiscovered Paradise" setShortName="VIS" collectorNumber="167" uuid="5f6e8830-5e62-4945-8b73-60f0628d38e7"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Circle of Protection: Black" setShortName="ICE" collectorNumber="12" uuid="d528045d-3b80-48fd-b606-c132da052685"/>
+        <card number="1" name="Circle of Protection: Black" setShortName="5ED" collectorNumber="17" uuid="8160786c-288a-4160-8c8b-c575a61e00fc"/>
+        <card number="2" name="Circle of Protection: Red" setShortName="5ED" collectorNumber="20" uuid="4af7af94-75b1-45ab-8608-6c935cedad77"/>
+        <card number="1" name="Circle of Protection: Red" setShortName="ICE" collectorNumber="15" uuid="5790ce22-a94f-402e-bcc7-b98f71af9fe5"/>
+        <card number="2" name="Earthquake" setShortName="5ED" collectorNumber="223" uuid="01bde909-899d-4efc-aac5-57b69fa764db"/>
+        <card number="2" name="Political Trickery" setShortName="MIR" collectorNumber="81" uuid="3e56e720-5e8b-4685-969c-e073de78b9a1"/>
+        <card number="1" name="Kjeldoran Outpost" setShortName="ALL" collectorNumber="139" uuid="e0769fc7-50b5-4b49-8aff-af04536288fb"/>
+        <card number="2" name="Pyroblast" setShortName="5ED" collectorNumber="262" uuid="15d2d7cd-d29d-4f19-8490-88bd526ff1c5"/>
+        <card number="1" name="Pyroblast" setShortName="ICE" collectorNumber="213" uuid="c342cac5-08ae-4428-9c2c-f6c5904e54d2"/>
+        <card number="1" name="Disenchant" setShortName="ICE" collectorNumber="20" uuid="b6085d0c-ab2b-445d-bf9d-0fa0a19183a2"/>
+        <card number="1" name="Disenchant" setShortName="5ED" collectorNumber="26" uuid="18720641-3a34-48f1-954e-49a703f12578"/>
+    </zone>
+</cockatrice_deck>
