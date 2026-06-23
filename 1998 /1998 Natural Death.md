@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- http://mtgwiki.com/wiki/%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%87%E3%82%B9
 
 Format
 - CARD_SET
@@ -35,4 +35,15 @@ Deck
 - 1	Volrath's Stronghold
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1	Uktabi Orangutan
+- 1	Hydroblast
+- 3	Pyroblast
+- 1	Firestorm
+- 1	Emerald Charm
+- 2	Disenchant
+- 1	Terror
+- 1	Lobotomy
+- 1	Dread of Night
+- 1	Energy Flux
+- 1	Phyrexian Furnace
+- 1	Jester's Cap
