@@ -20,10 +20,10 @@ Format
 
 Note
 - Pro Tour-Chicago 1997 winning deck by Randy Buehler
-- Replaces Nevinyrral's Disk with cheap red burn spells (Lightning Bolt, Incinerate, Firestorm) to gain quick resistance against fast aggressive decks
-- Utilizes the "Lake-Drain" combo (Lake of the Dead + Drain Life)
-- Runs Knight of Stromgald, Order of the Ebon Hand and Ihsan's Shade, all creatures have Protection from White, completely bypassing Swords to Plowshares and Kjeldoran Outpost soldier tokens
-- Runs a full 4 copies each of Necropotence and Demonic Consultation to consistently deploying an early Necropotence is critical
+- Replaces [**Nevinyrral's Disk**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) with cheap red burn spells ([**Lightning Bolt**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Incinerate**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Firestorm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)) to gain quick resistance against fast aggressive decks
+- Utilizes the "Lake-Drain" combo ([**Lake of the Dead**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) + [**Drain Life**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image))
+- Runs [**Knight of Stromgald**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Order of the Ebon Hand**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Ihsan's Shade**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), all creatures have Protection from White, completely bypassing [**Swords to Plowshares**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Kjeldoran Outpost**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) soldier tokens
+- Runs a full 4 copies each of [**Necropotence**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Demonic Consultation**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to consistently deploying an early [**Necropotence**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) is critical
 
 Deck
 - 4 Order of the Ebon Hand
