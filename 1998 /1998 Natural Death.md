@@ -12,10 +12,10 @@ Format
 
 Note
 - 1998 Japan National Championship winning deck by Tsukamoto Toshiki
-- The key card is Living Death
-- Simply send your creatures to the graveyard beforehand via chump blocking, Goblin Bombardment, or Firestorm
+- The key card is [**Living Death**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Simply send your creatures to the graveyard beforehand via chump blocking, [**Goblin Bombardment**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Firestorm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - Upon reanimation, creatures' triggered abilities will generate massive advantage
-- When using Natural Order, typically fetch Verdant Force or Sliver Queen if facing Black (to evades Terror)
+- When using [**Natural Order**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), typically fetch [**Verdant Force**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Sliver Queen**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) if facing Black (to evades Terror)
 
 Deck
 - 4	Birds of Paradise
