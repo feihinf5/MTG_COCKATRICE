@@ -12,6 +12,10 @@ Format
 
 Note
 - 1998 Japan National Championship winning deck by Tsukamoto Toshiki
+- The key card is Living Death
+- Simply send your creatures to the graveyard beforehand via chump blocking, Goblin Bombardment, or Firestorm
+- Upon reanimation, creatures' triggered abilities will generate massive advantage
+- When using Natural Order, typically fetch Verdant Force or Sliver Queen if facing Black (to evades Terror)
 
 Deck
 - 4	Birds of Paradise
