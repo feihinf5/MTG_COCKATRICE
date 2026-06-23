@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1998 Natural Death</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>1998 Japan National Championship winning deck by Tsukamoto Toshiki</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="City of Brass" setShortName="5ED" collectorNumber="413" uuid="56816a2d-4faa-4fbd-bf1a-35fa3e90ccf6"/>
+        <card number="1" name="Forest" setShortName="MIR" collectorNumber="347" uuid="a0ae7a81-9a61-4112-af22-369c525b2eb1"/>
+        <card number="1" name="Forest" setShortName="MIR" collectorNumber="348" uuid="bb6b3f80-20bf-4693-b106-cfb31a3d7f83"/>
+        <card number="1" name="Forest" setShortName="MIR" collectorNumber="349" uuid="d8a67bf6-818b-4afe-af15-3d955dc5e884"/>
+        <card number="1" name="Forest" setShortName="MIR" collectorNumber="350" uuid="95dfef30-acca-4b15-a05e-d33289055218"/>
+        <card number="1" name="Forest" setShortName="5ED" collectorNumber="447" uuid="13635ba7-0635-4c16-9e14-444470e06287"/>
+        <card number="1" name="Forest" setShortName="5ED" collectorNumber="448" uuid="925e07e8-a897-443f-8962-ef11fc41002a"/>
+        <card number="4" name="Gemstone Mine" setShortName="WTH" collectorNumber="164" uuid="09507f7f-c58f-4f57-b878-b39811a5b619"/>
+        <card number="1" name="Pine Barrens" setShortName="TMP" collectorNumber="321" uuid="d5ac39e8-bd0e-4fa3-bc1e-a93944d013f3"/>
+        <card number="3" name="Reflecting Pool" setShortName="TMP" collectorNumber="322" uuid="7b633ac2-bf98-42bd-8c26-8737a7d8edc7"/>
+        <card number="2" name="Undiscovered Paradise" setShortName="VIS" collectorNumber="167" uuid="5f6e8830-5e62-4945-8b73-60f0628d38e7"/>
+        <card number="1" name="Volrath's Stronghold" setShortName="STH" collectorNumber="143" uuid="43bf015b-152e-4d67-b773-e75fb2487a32"/>
+        <card number="1" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+        <card number="2" name="Goblin Bombardment" setShortName="TMP" collectorNumber="179" uuid="179e954f-1d90-4ef4-b800-25845cc338e2"/>
+        <card number="2" name="Sylvan Library" setShortName="5ED" collectorNumber="329" uuid="b1b337de-4c43-45b6-a0ca-262a983f3589"/>
+        <card number="2" name="Armageddon" setShortName="5ED" collectorNumber="7" uuid="8949d6f8-6491-489a-916d-7007deaf0371"/>
+        <card number="3" name="Living Death" setShortName="TMP" collectorNumber="142" uuid="6c820476-fbda-4073-baf6-51e71f45ed58"/>
+        <card number="2" name="Mulch" setShortName="STH" collectorNumber="110" uuid="4cf9e9a9-325a-4010-acb8-1406adcaeca9"/>
+        <card number="3" name="Natural Order" setShortName="VIS" collectorNumber="114" uuid="0845f0b0-9413-4ddd-861d-9607636bebc6"/>
+        <card number="2" name="Firestorm" setShortName="WTH" collectorNumber="101" uuid="e674aa8a-668a-4345-95ee-73a0b87bbcb1"/>
+        <card number="4" name="Birds of Paradise" setShortName="5ED" collectorNumber="280" uuid="f79357f4-ddd1-4b29-9e5f-813c799513ee"/>
+        <card number="1" name="Lhurgoyf" setShortName="5ED" collectorNumber="309" uuid="fadc2d27-0c6c-4f68-bee0-0af6688f304d"/>
+        <card number="3" name="Man-o'-War" setShortName="VIS" collectorNumber="37" uuid="4dbf9bf9-75cd-4b25-a3a1-43b7e029700b"/>
+        <card number="2" name="Nekrataal" setShortName="VIS" collectorNumber="66" uuid="dba3e342-88b7-4692-a3f7-a3f56c0cf6b5"/>
+        <card number="1" name="Sliver Queen" setShortName="STH" collectorNumber="129" uuid="235c0ece-aed0-4120-99cc-5d0e28fa70ab"/>
+        <card number="4" name="Spike Feeder" setShortName="STH" collectorNumber="118" uuid="3751b2ae-a234-4691-984b-2f9f6b1cd1df"/>
+        <card number="2" name="Tradewind Rider" setShortName="TMP" collectorNumber="98" uuid="09412374-3645-4644-952e-2beaefb3104b"/>
+        <card number="2" name="Uktabi Orangutan" setShortName="VIS" collectorNumber="123" uuid="101c7d58-43cc-4ebd-87f1-2016fbff56dd"/>
+        <card number="1" name="Verdant Force" setShortName="TMP" collectorNumber="263" uuid="29bd094c-fcc1-4abf-ba3e-03a5b9b6d1c2"/>
+        <card number="4" name="Wall of Blossoms" setShortName="STH" collectorNumber="125" uuid="7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Jester's Cap" setShortName="5ED" collectorNumber="385" uuid="e10f2619-e723-4402-ae4e-79d762004477"/>
+        <card number="1" name="Phyrexian Furnace" setShortName="WTH" collectorNumber="155" uuid="e98bca31-8c05-430b-b5d7-331bdc55710a"/>
+        <card number="1" name="Dread of Night" setShortName="TMP" collectorNumber="130" uuid="d08586d4-8163-454c-b8d8-c5034c4aee6c"/>
+        <card number="1" name="Energy Flux" setShortName="5ED" collectorNumber="83" uuid="5f75dea2-aec1-4674-8db9-4759270296ec"/>
+        <card number="1" name="Lobotomy" setShortName="TMP" collectorNumber="267" uuid="ee7ba92d-d327-4b1c-be40-708c5abb27df"/>
+        <card number="1" name="Disenchant" setShortName="5ED" collectorNumber="26" uuid="18720641-3a34-48f1-954e-49a703f12578"/>
+        <card number="1" name="Disenchant" setShortName="MIR" collectorNumber="10" uuid="71e27cbc-d986-437a-9195-6f5e065a49a2"/>
+        <card number="1" name="Emerald Charm" setShortName="VIS" collectorNumber="106" uuid="e9c9199b-61b3-4794-878b-f065058f50f3"/>
+        <card number="1" name="Firestorm" setShortName="WTH" collectorNumber="101" uuid="e674aa8a-668a-4345-95ee-73a0b87bbcb1"/>
+        <card number="1" name="Hydroblast" setShortName="5ED" collectorNumber="94" uuid="89a30b8f-6594-42ea-8e60-13ccb1e7efc0"/>
+        <card number="3" name="Pyroblast" setShortName="5ED" collectorNumber="262" uuid="15d2d7cd-d29d-4f19-8490-88bd526ff1c5"/>
+        <card number="1" name="Terror" setShortName="5ED" collectorNumber="196" uuid="ea0191ac-0924-4240-bfb9-700e6c09ddd1"/>
+        <card number="1" name="Uktabi Orangutan" setShortName="VIS" collectorNumber="123" uuid="101c7d58-43cc-4ebd-87f1-2016fbff56dd"/>
+    </zone>
+</cockatrice_deck>
