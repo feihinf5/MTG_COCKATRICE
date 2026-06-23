@@ -1,1 +1,61 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 7 11:00:37 2026</lastLoadedTimestamp>
+    <deckname>1997 LauerPotence</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Chicago 1997 winning deck by Randy Buehler</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Bad River" setShortName="MIR" collectorNumber="324" uuid="7a78abdb-d1ac-49cb-a74b-9de21c06364a"/>
+        <card number="1" name="Necropotence" setShortName="5ED" collectorNumber="182" uuid="222cfbec-8839-43fa-95a0-2ea91b59515c"/>
+        <card number="4" name="Badlands" setShortName="3ED" collectorNumber="282" uuid="56058359-3c0b-49db-a0ce-9ded4c3f4372"/>
+        <card number="3" name="Gemstone Mine" setShortName="WTH" collectorNumber="164" uuid="09507f7f-c58f-4f57-b878-b39811a5b619"/>
+        <card number="3" name="Lake of the Dead" setShortName="ALL" collectorNumber="140" uuid="aee806ce-effa-4244-9659-43246e944d80"/>
+        <card number="4" name="Scrubland" setShortName="3ED" collectorNumber="286" uuid="472034a2-0ba9-4876-ab7a-aa7013d603bb"/>
+        <card number="1" name="Swamp" setShortName="3ED" collectorNumber="300" uuid="515eff31-24f6-462e-bbd4-b49540421a75"/>
+        <card number="1" name="Swamp" setShortName="3ED" collectorNumber="299" uuid="459d175e-2b9c-4f30-be03-4e05cd3c68ef"/>
+        <card number="1" name="Swamp" setShortName="3ED" collectorNumber="298" uuid="95e936cf-3bbb-4f3b-8e1a-4be1d4702b99"/>
+        <card number="1" name="Swamp" setShortName="4ED" collectorNumber="372" uuid="7ac4979a-5b2f-4db1-b665-9d8ccc15ba82"/>
+        <card number="1" name="Swamp" setShortName="4ED" collectorNumber="371" uuid="ddaa0be1-7358-4ea2-8c40-be6d699a6631"/>
+        <card number="1" name="Swamp" setShortName="4ED" collectorNumber="370" uuid="84634023-5c94-4dcc-9449-abf73ecea542"/>
+        <card number="1" name="Swamp" setShortName="5ED" collectorNumber="438" uuid="6bc8f8cb-dc67-4549-be2f-f4d4057065a3"/>
+        <card number="1" name="Swamp" setShortName="5ED" collectorNumber="440" uuid="31228d3c-08e4-4042-a1a1-db8dff3177d9"/>
+        <card number="3" name="Necropotence" setShortName="ICE" collectorNumber="154" uuid="54d7a0c1-efb4-4a8d-ad92-a96d43835052"/>
+        <card number="1" name="Drain Life" setShortName="MIR" collectorNumber="118" uuid="e8f030a5-62c6-439d-93b6-43f2cf927a7f"/>
+        <card number="1" name="Drain Life" setShortName="4ED" collectorNumber="132" uuid="b9d10677-36f0-4339-a2c3-213e8ee1c51d"/>
+        <card number="2" name="Drain Life" setShortName="3ED" collectorNumber="106" uuid="d89c1d2f-87a1-4463-af21-b837da3e7d74"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38a" uuid="eb9273ea-9a41-42e3-8c9c-0d50b127a818"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38d" uuid="5bc50e08-dd6f-4ea7-87f8-cce72bafb928"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38c" uuid="58e125c6-81dc-4907-aad2-2ccd1cb166f0"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38b" uuid="8601f082-7e43-44ef-97d0-dead272b7eb4"/>
+        <card number="4" name="Demonic Consultation" setShortName="ICE" collectorNumber="121" uuid="8d727b9b-6114-414d-9172-16b6e1db41cc"/>
+        <card number="1" name="Disenchant" setShortName="3ED" collectorNumber="17" uuid="41859c6f-1017-42ae-9061-050fe0db9731"/>
+        <card number="1" name="Disenchant" setShortName="4ED" collectorNumber="22" uuid="a915f261-2cdc-499c-9163-da5b628b0127"/>
+        <card number="1" name="Disenchant" setShortName="ICE" collectorNumber="20" uuid="b6085d0c-ab2b-445d-bf9d-0fa0a19183a2"/>
+        <card number="2" name="Firestorm" setShortName="WTH" collectorNumber="101" uuid="e674aa8a-668a-4345-95ee-73a0b87bbcb1"/>
+        <card number="1" name="Incinerate" setShortName="ICE" collectorNumber="194" uuid="9c3f00af-010d-4485-b8b7-47400d99c496"/>
+        <card number="1" name="Incinerate" setShortName="MIR" collectorNumber="184" uuid="409b2be8-5bb6-45e0-ab87-ca73b4e3a396"/>
+        <card number="2" name="Lightning Bolt" setShortName="3ED" collectorNumber="162" uuid="cb9b9a9d-ae4c-4e04-bf9d-cae48f01292c"/>
+        <card number="2" name="Lightning Bolt" setShortName="4ED" collectorNumber="208" uuid="9521375e-0bc1-45ef-b513-6d332a25f9d2"/>
+        <card number="1" name="Ihsan's Shade" setShortName="HML" collectorNumber="53" uuid="82351724-2814-4d9e-b065-bb72c761b2e7"/>
+        <card number="4" name="Knight of Stromgald" setShortName="ICE" collectorNumber="138" uuid="2b87069b-ebaf-4705-b5da-446932af9b73"/>
+        <card number="1" name="Order of the Ebon Hand" setShortName="FEM" collectorNumber="42a" uuid="9e51f5d8-a7cc-4720-8af5-e002bcfd78a0"/>
+        <card number="2" name="Order of the Ebon Hand" setShortName="FEM" collectorNumber="42c" uuid="22c32774-5507-4a60-9ed2-2a570f6ff8e3"/>
+        <card number="1" name="Order of the Ebon Hand" setShortName="FEM" collectorNumber="42b" uuid="60ffbb40-13c1-4d01-9421-95b2410d0d3b"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mind Warp" setShortName="ICE" collectorNumber="148" uuid="de150cd6-0bbc-47f7-a781-cd1aa10eabc6"/>
+        <card number="1" name="Mind Warp" setShortName="5ED" collectorNumber="177" uuid="de86fd7e-438c-48a2-a69d-193d8b8ebbac"/>
+        <card number="1" name="Disenchant" setShortName="MIR" collectorNumber="10" uuid="71e27cbc-d986-437a-9195-6f5e065a49a2"/>
+        <card number="2" name="Pyroblast" setShortName="ICE" collectorNumber="213" uuid="c342cac5-08ae-4428-9c2c-f6c5904e54d2"/>
+        <card number="1" name="Pyroblast" setShortName="5ED" collectorNumber="262" uuid="15d2d7cd-d29d-4f19-8490-88bd526ff1c5"/>
+        <card number="1" name="Terror" setShortName="3ED" collectorNumber="132" uuid="0eaf0ac8-f5a7-4689-8d3e-dd865763df44"/>
+        <card number="1" name="Terror" setShortName="4ED" collectorNumber="164" uuid="deb5d44d-977d-4d0d-8242-17c8ffa7247c"/>
+        <card number="1" name="Terror" setShortName="5ED" collectorNumber="196" uuid="ea0191ac-0924-4240-bfb9-700e6c09ddd1"/>
+        <card number="1" name="Firestorm" setShortName="WTH" collectorNumber="101" uuid="e674aa8a-668a-4345-95ee-73a0b87bbcb1"/>
+        <card number="3" name="Honorable Passage" setShortName="VIS" collectorNumber="7" uuid="6559d301-98bd-40a9-abf4-1079d7283214"/>
+        <card number="1" name="Circle of Protection: Black" setShortName="3ED" collectorNumber="9" uuid="c498313d-bb29-4ab9-ab2f-31bdc3d9f78a"/>
+        <card number="1" name="Circle of Protection: Black" setShortName="4ED" collectorNumber="14" uuid="9971cbae-3f08-48c6-955a-76ce8ed41c6c"/>
+    </zone>
+</cockatrice_deck>
