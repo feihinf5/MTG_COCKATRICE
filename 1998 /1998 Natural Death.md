@@ -5,7 +5,7 @@ Format
 - CARD_SET
 
 Note
-- INFO
+- 1998 Japan National Championship winning deck by Tsukamoto Toshiki
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
