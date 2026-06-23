@@ -2,7 +2,13 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%83%87%E3%82%B9
 
 Format
-- CARD_SET
+- EXO
+- STH
+- TMP
+- WTH
+- 5ED
+- VIS
+- MIR
 
 Note
 - 1998 Japan National Championship winning deck by Tsukamoto Toshiki
