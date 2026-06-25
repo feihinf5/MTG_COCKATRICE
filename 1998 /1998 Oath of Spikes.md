@@ -14,11 +14,11 @@ Note
 - Asia Pacific Championship 1998 winning deck by Nakamura Satoshi
 - Land-destruction control deck
 - Built around the combo of [**Oath of Druids**](https://api.scryfall.com/cards/cf14de50-d123-400c-862e-2c95fd2aa23f?format=image) and [**Gaea's Blessing**](https://api.scryfall.com/cards/ee83d511-57e0-40fb-a4db-62f6c2c39888?format=image)
-- Uses [**Wild Growth**](https://api.scryfall.com/cards/2a9e6630-d57c-47fd-af0f-b2e2c2025599?format=image) and [**Eladamri's Vineyard**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to enable land destruction via [**Winter's Grasp**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as early as turn 2
-- Leverages Spike creatures' abilities to avoid the mana burn caused by [**Eladamri's Vineyard**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) under the rules of that era
+- Uses [**Wild Growth**](https://api.scryfall.com/cards/2a9e6630-d57c-47fd-af0f-b2e2c2025599?format=image) and [**Eladamri's Vineyard**](https://api.scryfall.com/cards/d8531643-5657-44b6-89d1-9cdf67ed09c4?format=image) to enable land destruction via [**Winter's Grasp**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as early as turn 2
+- Leverages Spike creatures' abilities to avoid the mana burn caused by [**Eladamri's Vineyard**](https://api.scryfall.com/cards/d8531643-5657-44b6-89d1-9cdf67ed09c4?format=image) under the rules of that era
 - Stalls enemy creatures using [**Spike Feeder**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Spike Weaver**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - Finishes the opponent with a grown [**Spike Soldier**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) once they are locked out by land destruction
-- Alternatively, wins by letting the mana burn(under the rules of that era) from [**Eladamri's Vineyard**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) defeat the opponent
+- Alternatively, wins by letting the mana burn(under the rules of that era) from [**Eladamri's Vineyard**](https://api.scryfall.com/cards/d8531643-5657-44b6-89d1-9cdf67ed09c4?format=image) defeat the opponent
 
 Deck
 - 4 Spike Feeder
