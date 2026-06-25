@@ -13,7 +13,7 @@ Format
 Note
 - Asia Pacific Championship 1998 winning deck by Nakamura Satoshi
 - Land-destruction control deck
-- Built around the combo of [**Oath of Druids**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Gaea's Blessing**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Built around the combo of [**Oath of Druids**](https://api.scryfall.com/cards/cf14de50-d123-400c-862e-2c95fd2aa23f?format=image) and [**Gaea's Blessing**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - Uses [**Wild Growth**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Eladamri's Vineyard**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to enable land destruction via [**Winter's Grasp**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as early as turn 2
 - Leverages Spike creatures' abilities to avoid the mana burn caused by [**Eladamri's Vineyard**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) under the rules of that era
 - Stalls enemy creatures using [**Spike Feeder**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Spike Weaver**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
