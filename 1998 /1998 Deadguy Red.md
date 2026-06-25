@@ -8,8 +8,8 @@ Format
 
 Note
 - Pro Tour-Los Angeles 1998 winning deck by David Price
-- [**Cursed Scroll**] dominated the metagame, making [**Giant Strength**] a popular countermeasure
-- [**Giant Strength**] buffed 1-mana creatures, giving them enough size to break through opposing [**Bottle Gnomes**]
+- [**Cursed Scroll**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) dominated the metagame, making [**Giant Strength**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) a popular countermeasure
+- [**Giant Strength**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) buffed 1-mana creatures, giving them enough size to break through opposing [**Bottle Gnomes**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
 Deck
 - 4 Jackal Pup
