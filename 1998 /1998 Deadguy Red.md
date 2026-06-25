@@ -8,7 +8,7 @@ Format
 
 Note
 - Pro Tour-Los Angeles 1998 winning deck by David Price
-- [**Cursed Scroll**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) dominated the metagame, making [**Giant Strength**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) a popular countermeasure
+- [**Cursed Scroll**](https://api.scryfall.com/cards/31415b9b-fb30-4132-a9a3-795b4573a901?format=image) dominated the metagame, making [**Giant Strength**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) a popular countermeasure
 - [**Giant Strength**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) buffed 1-mana creatures, giving them enough size to break through opposing [**Bottle Gnomes**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
 Deck
