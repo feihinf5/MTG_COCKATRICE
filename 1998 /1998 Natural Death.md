@@ -15,7 +15,7 @@ Note
 - The key card is [**Living Death**](https://api.scryfall.com/cards/6c820476-fbda-4073-baf6-51e71f45ed58?format=image)
 - Simply send your creatures to the graveyard beforehand via chump blocking, [**Goblin Bombardment**](https://api.scryfall.com/cards/179e954f-1d90-4ef4-b800-25845cc338e2?format=image) or [**Firestorm**](https://api.scryfall.com/cards/e674aa8a-668a-4345-95ee-73a0b87bbcb1?format=image)
 - Upon reanimation, creatures' triggered abilities will generate massive advantage
-- When using [**Natural Order**](https://api.scryfall.com/cards/0845f0b0-9413-4ddd-861d-9607636bebc6?format=image), typically fetch [**Verdant Force**](https://api.scryfall.com/cards/29bd094c-fcc1-4abf-ba3e-03a5b9b6d1c2?format=image) or [**Sliver Queen**](https://api.scryfall.com/cards/235c0ece-aed0-4120-99cc-5d0e28fa70ab?format=image) if facing Black (to evades [**Terror**](https://api.scryfall.com/cards/ea0191ac-0924-4240-bfb9-700e6c09ddd1?format=image)
+- When using [**Natural Order**](https://api.scryfall.com/cards/0845f0b0-9413-4ddd-861d-9607636bebc6?format=image), typically fetch [**Verdant Force**](https://api.scryfall.com/cards/29bd094c-fcc1-4abf-ba3e-03a5b9b6d1c2?format=image) or [**Sliver Queen**](https://api.scryfall.com/cards/235c0ece-aed0-4120-99cc-5d0e28fa70ab?format=image) if facing Black (to evades [**Terror**](https://api.scryfall.com/cards/ea0191ac-0924-4240-bfb9-700e6c09ddd1?format=image))
 
 Deck
 - 4	Birds of Paradise
