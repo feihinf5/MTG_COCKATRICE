@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- http://mtgwiki.com/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%82%AF%E3%81%AE%E8%AA%93%E3%81%84
 
 Format
 - CARD_SET
