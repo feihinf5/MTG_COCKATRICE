@@ -14,7 +14,7 @@ Note
 - Asia Pacific Championship 1998 top 4 deck by Sasanuma Kiyoshi
 - Plays [**Pandemonium**](https://api.scryfall.com/cards/5f618231-28bb-4cdd-b887-a8aa186814d5?format=image) first, followed by [**Phyrexian Dreadnought**](https://api.scryfall.com/cards/7b8197b9-0cd1-4fa1-9668-d1b5f1759151?format=image), [**Pandemonium deals**](https://api.scryfall.com/cards/5f618231-28bb-4cdd-b887-a8aa186814d5?format=image) 12 damage to the opponent then repeating this twice deals 24 total damage for the win
 - Casts the [**Phyrexian Dreadnought**](https://api.scryfall.com/cards/7b8197b9-0cd1-4fa1-9668-d1b5f1759151?format=image) once, lets it get sacrificed to its own ability, and then [**Reanimate**](https://api.scryfall.com/cards/ae1ef31c-8ca5-444c-8f39-e1d1827318f5?format=image)s it from the graveyard to trigger [**Pandemonium**](https://api.scryfall.com/cards/5f618231-28bb-4cdd-b887-a8aa186814d5?format=image) a second time
-- Utilizes pain lands, [**Vampiric Tutor**](https://api.scryfall.com/cards/0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d?format=image) and [**Mana Vault**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to aggressively sacrifice life total for fast mana and combo pieces
+- Utilizes pain lands, [**Vampiric Tutor**](https://api.scryfall.com/cards/0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d?format=image) and [**Mana Vault**](https://api.scryfall.com/cards/05e9fec4-1e0a-4206-ab2b-cc2543cba667?format=image) to aggressively sacrifice life total for fast mana and combo pieces
 
 Deck
 - 4 Phyrexian Dreadnought
