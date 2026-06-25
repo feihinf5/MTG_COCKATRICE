@@ -11,10 +11,38 @@ Format
 - MIR
 
 Note
-- INFO
+- Asia Pacific Championship 1998 top 4 deck by Sasanuma Kiyoshi
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Phyrexian Dreadnought
+- 4 Vampiric Tutor
+- 1 Disenchant
+- 1 Abeyance
+- 4 Impulse
+- 3 Mana Leak
+- 1 Counterspell
+- 4 Intuition
+- 2 Power Sink
+- 3 Reanimate
+- 2 Portent
+- 4 Pandemonium
+- 4 Mana Vault
+- 4 Island
+- 3 Mountain
+- 1 Swamp
+- 2 Adarkar Wastes
+- 4 Sulfurous Springs
+- 3 Underground River
+- 1 Undiscovered Paradise
+- 3 Gemstone Mine
+- 2 Reflecting Pool
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Uktabi Orangutan
+- 2 Hydroblast
+- 4 Pyroblast
+- 1 Disenchant
+- 1 Tranquil Domain
+- 1 Perish
+- 3 Gloom
+- 2 Light of Day
