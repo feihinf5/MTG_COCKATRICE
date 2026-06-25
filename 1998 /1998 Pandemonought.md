@@ -12,6 +12,9 @@ Format
 
 Note
 - Asia Pacific Championship 1998 top 4 deck by Sasanuma Kiyoshi
+- Plays [**Pandemonium**] first, followed by [**Phyrexian Dreadnought**], [**Pandemonium deals**] 12 damage to the opponent then repeating this twice deals 24 total damage for the win
+- Casts the [**Phyrexian Dreadnought**] once, lets it get sacrificed to its own ability, and then [**Reanimate**]s it from the graveyard to trigger [**Pandemonium**] a second time
+- Utilizes pain lands, [**Vampiric Tutor**] and [**Mana Vault**] to aggressively sacrifice life total for fast mana and combo pieces
 
 Deck
 - 4 Phyrexian Dreadnought
