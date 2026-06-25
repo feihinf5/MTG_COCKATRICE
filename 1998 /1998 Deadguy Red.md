@@ -7,7 +7,9 @@ Format
 - TMP
 
 Note
-- INFO
+- Pro Tour-Los Angeles 1998 winning deck by David Price
+- [**Cursed Scroll**] dominated the metagame, making [**Giant Strength**] a popular countermeasure
+- [**Giant Strength**] buffed 1-mana creatures, giving them enough size to break through opposing [**Bottle Gnomes**]
 
 Deck
 - 4 Jackal Pup
