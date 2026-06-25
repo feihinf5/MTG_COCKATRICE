@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1998 Pandemonought</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Asia Pacific Championship 1998 top 4 deck by Sasanuma Kiyoshi</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Adarkar Wastes" setShortName="5ED" collectorNumber="410" uuid="56c1e5f1-4665-4afc-83e4-4968df72eb8f"/>
+        <card number="3" name="Gemstone Mine" setShortName="WTH" collectorNumber="164" uuid="09507f7f-c58f-4f57-b878-b39811a5b619"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="335" uuid="df84bf1b-8698-4c3e-baa9-926f0efc6a12"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="336" uuid="776912e7-fa16-4d71-b830-0a5d35f38297"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="337" uuid="1e571f07-167f-4a7d-8f98-0c98d7d15e81"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="338" uuid="a39fc1e0-caf0-4cfa-bbf2-fea7ca32c00d"/>
+        <card number="1" name="Mountain" setShortName="MIR" collectorNumber="343" uuid="97004cdc-0baf-415d-8e87-7f36667c4628"/>
+        <card number="1" name="Mountain" setShortName="MIR" collectorNumber="344" uuid="207a468f-79c3-486e-ac5a-4516361b7b4d"/>
+        <card number="1" name="Mountain" setShortName="MIR" collectorNumber="346" uuid="1cef9230-34fa-496f-8835-5dfaac627f70"/>
+        <card number="2" name="Reflecting Pool" setShortName="TMP" collectorNumber="322" uuid="7b633ac2-bf98-42bd-8c26-8737a7d8edc7"/>
+        <card number="4" name="Sulfurous Springs" setShortName="5ED" collectorNumber="424" uuid="85a2097d-5acb-46d5-ac07-021fa9da4026"/>
+        <card number="1" name="Swamp" setShortName="MIR" collectorNumber="339" uuid="f2d28477-8be1-4caf-8185-64f47905ccb1"/>
+        <card number="3" name="Underground River" setShortName="5ED" collectorNumber="426" uuid="be9efd79-1b1d-4e02-8922-0154ad20e4d4"/>
+        <card number="1" name="Undiscovered Paradise" setShortName="VIS" collectorNumber="167" uuid="5f6e8830-5e62-4945-8b73-60f0628d38e7"/>
+        <card number="4" name="Mana Vault" setShortName="5ED" collectorNumber="388" uuid="05e9fec4-1e0a-4206-ab2b-cc2543cba667"/>
+        <card number="4" name="Pandemonium" setShortName="EXO" collectorNumber="93" uuid="5f618231-28bb-4cdd-b887-a8aa186814d5"/>
+        <card number="2" name="Portent" setShortName="5ED" collectorNumber="110" uuid="7e317e0f-4c6e-4ede-846a-fb76fa77c6bf"/>
+        <card number="3" name="Reanimate" setShortName="TMP" collectorNumber="151" uuid="ae1ef31c-8ca5-444c-8f39-e1d1827318f5"/>
+        <card number="1" name="Abeyance" setShortName="WTH" collectorNumber="1" uuid="125a355d-bfcf-4125-aa6c-35e7dea6f63e"/>
+        <card number="1" name="Counterspell" setShortName="5ED" collectorNumber="77" uuid="b975289d-d8b8-46b4-8c60-d6ed4b594519"/>
+        <card number="1" name="Disenchant" setShortName="MIR" collectorNumber="10" uuid="71e27cbc-d986-437a-9195-6f5e065a49a2"/>
+        <card number="4" name="Impulse" setShortName="VIS" collectorNumber="34" uuid="9d710a97-062f-4773-b6c6-8aeddeb3b6e8"/>
+        <card number="4" name="Intuition" setShortName="TMP" collectorNumber="70" uuid="c99f6785-e5a1-4fdc-9fb5-e1a372e7e848"/>
+        <card number="3" name="Mana Leak" setShortName="STH" collectorNumber="36" uuid="abcaf16d-aa02-43e2-aa38-bb1835d47a05"/>
+        <card number="1" name="Power Sink" setShortName="MIR" collectorNumber="83" uuid="49717583-e0bb-47d6-92d0-8959af13391f"/>
+        <card number="1" name="Power Sink" setShortName="5ED" collectorNumber="111" uuid="acb32bc8-ae9f-4484-b2de-bce35e9f5df5"/>
+        <card number="4" name="Vampiric Tutor" setShortName="VIS" collectorNumber="72" uuid="0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d"/>
+        <card number="4" name="Phyrexian Dreadnought" setShortName="MIR" collectorNumber="315" uuid="7b8197b9-0cd1-4fa1-9668-d1b5f1759151"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Gloom" setShortName="5ED" collectorNumber="165" uuid="6a6fff23-21c9-4519-b84a-59868a918996"/>
+        <card number="2" name="Light of Day" setShortName="TMP" collectorNumber="27" uuid="70fa9ebe-bdf5-4359-aa3e-6cfa1a1d96cf"/>
+        <card number="1" name="Perish" setShortName="PLST" collectorNumber="TMP-147" uuid="b250aa0a-cc87-4e51-b924-0050884e8246"/>
+        <card number="1" name="Disenchant" setShortName="5ED" collectorNumber="26" uuid="18720641-3a34-48f1-954e-49a703f12578"/>
+        <card number="2" name="Hydroblast" setShortName="5ED" collectorNumber="94" uuid="89a30b8f-6594-42ea-8e60-13ccb1e7efc0"/>
+        <card number="4" name="Pyroblast" setShortName="5ED" collectorNumber="262" uuid="15d2d7cd-d29d-4f19-8490-88bd526ff1c5"/>
+        <card number="1" name="Tranquil Domain" setShortName="MIR" collectorNumber="245" uuid="801f34a6-9f22-43c2-b1e5-194395cc7da1"/>
+        <card number="1" name="Uktabi Orangutan" setShortName="VIS" collectorNumber="123" uuid="101c7d58-43cc-4ebd-87f1-2016fbff56dd"/>
+    </zone>
+</cockatrice_deck>
