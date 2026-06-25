@@ -12,6 +12,13 @@ Format
 
 Note
 - Asia Pacific Championship 1998 winning deck by Nakamura Satoshi
+- Land-destruction control deck
+- Built around the combo of [**Oath of Druids**] and [**Gaea's Blessing**]
+- Uses [**Wild Growth**] and [**Eladamri's Vineyard**] to enable land destruction via [**Winter's Grasp**] as early as turn 2
+- Leverages Spike creatures' abilities to avoid the mana burn caused by [**Eladamri's Vineyard**] under the rules of that era
+- Stalls enemy creatures using [**Spike Feeder**] and [**Spike Weaver**]
+- Finishes the opponent with a grown [**Spike Soldier**] once they are locked out by land destruction
+- Alternatively, wins by letting the mana burn(under the rules of that era) from [**Eladamri's Vineyard**] defeat the opponent
 
 Deck
 - 4 Spike Feeder
