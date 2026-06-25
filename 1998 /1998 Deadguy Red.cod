@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sat Jun 13 08:45:31 2026</lastLoadedTimestamp>
+    <deckname>1998 Deadguy Red</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Los Angeles 1998 winning deck by David Price</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Giant Strength" setShortName="TMP" collectorNumber="178" uuid="bfb43289-35dc-4983-9c49-22b1b3a7d85a"/>
+        <card number="2" name="Scalding Tongs" setShortName="TMP" collectorNumber="307" uuid="34136f2c-3edd-4ca3-b1ef-1fdcaa4518a0"/>
+        <card number="4" name="Kindle" setShortName="TMP" collectorNumber="184" uuid="930745eb-b038-4b55-97f3-bf8d99b54d32"/>
+        <card number="4" name="Canyon Wildcat" setShortName="TMP" collectorNumber="167" uuid="0169e52b-7909-4a8f-8ca2-62f030f9a85a"/>
+        <card number="4" name="Fireslinger" setShortName="TMP" collectorNumber="173" uuid="de253d94-9968-47da-bb7a-9c8ebf50f4e0"/>
+        <card number="4" name="Cursed Scroll" setShortName="TMP" collectorNumber="281" uuid="31415b9b-fb30-4132-a9a3-795b4573a901"/>
+        <card number="4" name="Mogg Conscripts" setShortName="TMP" collectorNumber="189" uuid="73719325-b091-4464-b0b0-77dfbb19562a"/>
+        <card number="4" name="Jackal Pup" setShortName="TMP" collectorNumber="183" uuid="3707ab74-9aec-4d30-86e0-ffa5f72d5b4f"/>
+        <card number="4" name="Mogg Raider" setShortName="TMP" collectorNumber="191" uuid="94e9cc0a-c210-4525-8c7f-9c6306cc21b0"/>
+        <card number="2" name="Rathi Dragon" setShortName="TMP" collectorNumber="196" uuid="7df61bff-a459-4ddb-a084-f47859a43795"/>
+        <card number="4" name="Mogg Fanatic" setShortName="TMP" collectorNumber="190" uuid="ca2ecfd4-c874-4468-8601-87aa110d5a00"/>
+        <card number="4" name="Mountain" setShortName="TMP" collectorNumber="346" uuid="23e043bf-a6d7-4778-8460-13bdf38b7d39"/>
+        <card number="4" name="Mountain" setShortName="TMP" collectorNumber="345" uuid="9515ced4-b679-48f0-bf62-8b7baef5e1c2"/>
+        <card number="4" name="Mountain" setShortName="TMP" collectorNumber="344" uuid="676fb0ed-5a19-4fde-b2c4-f46c7e0915f8"/>
+        <card number="4" name="Mountain" setShortName="TMP" collectorNumber="343" uuid="9d6dc341-89dc-4e99-baa2-ad0ae59f0e94"/>
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Shatter" setShortName="TMP" collectorNumber="203" uuid="5fa05258-2ce3-4604-938c-e8c3fb8cf142"/>
+        <card number="4" name="Stone Rain" setShortName="TMP" collectorNumber="206" uuid="f92548d9-cba6-495f-bef1-73e4519fe336"/>
+        <card number="1" name="Torture Chamber" setShortName="TMP" collectorNumber="313" uuid="5648158d-38d4-4167-8af5-ee5d7d6fd7cb"/>
+        <card number="2" name="Jinxed Idol" setShortName="TMP" collectorNumber="293" uuid="0c728e38-5656-4feb-8610-0cf45fb38094"/>
+        <card number="2" name="Scalding Tongs" setShortName="TMP" collectorNumber="307" uuid="34136f2c-3edd-4ca3-b1ef-1fdcaa4518a0"/>
+        <card number="1" name="Apocalypse" setShortName="TMP" collectorNumber="162" uuid="7ff23780-d183-4cca-ad0c-448ef325bf36"/>
+        <card number="1" name="Rathi Dragon" setShortName="TMP" collectorNumber="196" uuid="7df61bff-a459-4ddb-a084-f47859a43795"/>
+    </zone>
+</cockatrice_deck>
