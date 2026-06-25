@@ -2,13 +2,33 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%87%E3%83%83%E3%83%89%E3%82%AC%E3%82%A4%E3%83%AC%E3%83%83%E3%83%89#.E3.83.86.E3.83.B3.E3.83.9A.E3.82.B9.E3.83.88.E3.83.BB.E3.83.96.E3.83.AD.E3.83.83.E3.82.AF.E6.A7.8B.E7.AF.89
 
 Format
-- CARD_SET
+- EXO
+- STH
+- TMP
 
 Note
 - INFO
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Jackal Pup
+- 4 Mogg Conscripts
+- 4 Mogg Fanatic
+- 4 Mogg Raider
+- 4 Canyon Wildcat
+- 4 Fireslinger
+- 2 Rathi Dragon
+- 4 Kindle
+- 4 Giant Strength
+- 4 Cursed Scroll
+- 2 Scalding Tongs
+- 16 Mountain
+- 4 Wasteland
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Rathi Dragon
+- 1 Apocalypse
+- 2 Jinxed Idol
+- 2 Scalding Tongs
+- 4 Shatter
+- 4 Stone Rain
+- 1 Torture Chamber
