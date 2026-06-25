@@ -2,7 +2,13 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%91%E3%83%B3%E3%83%87%E3%83%A2%E3%83%8E%E3%83%BC%E3%83%88
 
 Format
-- CARD_SET
+- EXO
+- STH
+- TMP
+- WTH
+- 5ED
+- VIS
+- MIR
 
 Note
 - INFO
