@@ -23,12 +23,12 @@ Format
 
 Note
 - Grand Prix-Vienna 1999 top 4 deck by Erik Lauer
-- Utilize Dark Ritual, Mana Vault, and Grim Monolith for fast mana
-- Cast Tinker to bring Memory Jar directly into play
-- 1 Memory Jar + 1 Megrim = 14 damage, adding a second copy of either card = 28 damage
-- Lion's Eye Diamond synergizes exceptionally well with Memory Jar and Yawgmoth's Will
-- Defense Grid to counter the dominant High Tide decks of that Extended era
-- Force of Will in the sideboard to stop a turn 1 kill in mirror matches
+- Utilize [**Dark Ritual**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Mana Vault**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Grim Monolith**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for fast mana
+- Cast [**Tinker**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to bring [**Memory Jar**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) directly into play
+- 1 [**Memory Jar**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) + 1 [**Megrim**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) = 14 damage, adding a second copy of either card = 28 damage
+- [**Lion's Eye Diamond**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) synergizes exceptionally well with [**Memory Jar**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Yawgmoth's Will**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Defense Grid**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to counter the dominant [**High Tide**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) decks of that Extended era
+- [**Force of Will**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) in the sideboard to stop a turn 1 kill in mirror matches
 - [**Memory Jar**](https://api.scryfall.com/cards/a15d33d6-7213-4482-a1be-ac0a73644af6?format=image) was banned during March 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
 
 Deck
