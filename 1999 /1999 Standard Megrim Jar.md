@@ -5,8 +5,9 @@ Format
 - CARD_SET
 
 Note
-- INFO
-
+- Player and sideboard unknown due to the emergency ban occurred so rapidly
+- [**Memmory Jar**]() was banned during March 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
+ 
 Deck
 - 4 Mox Diamond
 - 4 Mana Vault
