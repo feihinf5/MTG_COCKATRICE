@@ -3,7 +3,13 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_1998
 
 Format
-- CARD_SET
+- EXO
+- STH
+- TMP
+- WTH
+- 5ED
+- VIS
+- MIR
 
 Note
 - INFO
