@@ -10,7 +10,9 @@ Format
 - 5ED
 
 Note
-- MoMa variant rose to prominence after [**Tolarian Academy**](https://api.scryfall.com/cards/ad7ac9a5-340f-4509-826c-7b9416d47887?format=image) was officially banned during 1998 December https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1998 
+- MoMa variant rose to prominence after [**Tolarian Academy**](https://api.scryfall.com/cards/ad7ac9a5-340f-4509-826c-7b9416d47887?format=image) was officially banned during 1998 December https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1998
+- Utilizes Dream Halls as the primary engine to cheat Mind Over Matter directly onto the battlefield
+- Leverages Dream Halls additionally to cast massive draw spells without paying their mana costs
 
 Deck
 - 4 Counterspell
