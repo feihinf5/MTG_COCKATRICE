@@ -14,10 +14,27 @@ Format
 - MIR
 
 Note
-- INFO
+- World Championships 1998 12th place deck by Randy Buehler
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 18 Island
+- 4 Quicksand
+- 4 Stalking Stones
+- 1 Rainbow Efreet
+- 4 Counterspell
+- 4 Dismiss
+- 2 Dissipate
+- 3 Forbid
+- 4 Force Spike
+- 4 Impulse
+- 3 Mana Leak
+- 1 Memory Lapse
+- 4 Nevinyrral's Disk
+- 4 Whispers of the Muse 	
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Capsize
+- 1 Grindstone
+- 4 Hydroblast
+- 4 Sea Sprite
+- 4 Wasteland
