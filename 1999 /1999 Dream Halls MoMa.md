@@ -10,7 +10,7 @@ Format
 - 5ED
 
 Note
-- Variant rose to prominence after Tolarian Academy was officially banned during 1998 December 
+- Variant rose to prominence after Tolarian Academy was officially banned during 1998 December https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1998 
 
 Deck
 - 4 Counterspell
