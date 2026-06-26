@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jun 12 22:15:24 2026</lastLoadedTimestamp>
+    <deckname>1998 MoMa</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>The Finals 1998 winning deck by Koyami Tadayoshi</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Capsize" setShortName="TMP" collectorNumber="55" uuid="e538b359-d893-422d-9d60-5f3e8ee0fa9e"/>
+        <card number="3" name="Intuition" setShortName="TMP" collectorNumber="70" uuid="c99f6785-e5a1-4fdc-9fb5-e1a372e7e848"/>
+        <card number="1" name="Power Sink" setShortName="5ED" collectorNumber="111" uuid="acb32bc8-ae9f-4484-b2de-bce35e9f5df5"/>
+        <card number="1" name="Power Sink" setShortName="TMP" collectorNumber="78" uuid="abc58c34-c3de-47f8-a42f-3a974dcb9c47"/>
+        <card number="1" name="Power Sink" setShortName="USG" collectorNumber="89" uuid="662cf693-18c4-4169-bcce-09862778f60c"/>
+        <card number="3" name="Pyroblast" setShortName="5ED" collectorNumber="262" uuid="15d2d7cd-d29d-4f19-8490-88bd526ff1c5"/>
+        <card number="3" name="Stroke of Genius" setShortName="USG" collectorNumber="100" uuid="5e977755-8ea4-4a8b-90c4-dd175321e05d"/>
+        <card number="1" name="Fireball" setShortName="5ED" collectorNumber="227" uuid="ad457b10-6e00-411f-b827-ff844f9b300d"/>
+        <card number="4" name="Time Spiral" setShortName="USG" collectorNumber="103" uuid="f3d62dbd-63db-4ac9-950f-9852627f23f2"/>
+        <card number="3" name="Windfall" setShortName="USG" collectorNumber="111" uuid="2aef4608-5ba8-4636-b5e7-cac57c5c0608"/>
+        <card number="3" name="Mind Over Matter" setShortName="EXO" collectorNumber="40" uuid="6e091dd6-149f-46ea-bae0-224e79e3aacb"/>
+        <card number="3" name="Lotus Petal" setShortName="TMP" collectorNumber="294" uuid="6c877da3-68fa-41d0-8a24-8c79fcd8ecc1"/>
+        <card number="4" name="Mana Vault" setShortName="5ED" collectorNumber="388" uuid="05e9fec4-1e0a-4206-ab2b-cc2543cba667"/>
+        <card number="4" name="Mox Diamond" setShortName="STH" collectorNumber="138" uuid="28028830-83ed-45e2-b495-3b9ad9d3e988"/>
+        <card number="3" name="Scroll Rack" setShortName="TMP" collectorNumber="308" uuid="5f7346d8-1aef-4618-88e6-74bd8865e0f3"/>
+        <card number="3" name="Voltaic Key" setShortName="USG" collectorNumber="314" uuid="1aa4baf7-4693-4c55-af04-2fa5d901d701"/>
+        <card number="4" name="Ancient Tomb" setShortName="TMP" collectorNumber="315" uuid="30e401e3-282b-4524-87e1-c6cd50cd6d00"/>
+        <card number="4" name="City of Brass" setShortName="5ED" collectorNumber="413" uuid="56816a2d-4faa-4fbd-bf1a-35fa3e90ccf6"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="437" uuid="da1218e0-8c75-4f8e-b317-051ce84949a5"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="436" uuid="09376cac-44bd-42c4-9c07-9e4d6c972a64"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="435" uuid="6fbf2762-1e9c-4d7c-84d0-8561d9a41735"/>
+        <card number="4" name="Tolarian Academy" setShortName="USG" collectorNumber="330" uuid="ad7ac9a5-340f-4509-826c-7b9416d47887"/>
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Disenchant" setShortName="5ED" collectorNumber="26" uuid="18720641-3a34-48f1-954e-49a703f12578"/>
+        <card number="1" name="Disenchant" setShortName="USG" collectorNumber="12" uuid="1da67d77-1cbd-4f0e-a109-87fb4c84bcca"/>
+        <card number="1" name="Disenchant" setShortName="TMP" collectorNumber="16" uuid="8a65e678-dcb9-4c6c-9a30-8332030dead6"/>
+        <card number="1" name="Pyroblast" setShortName="5ED" collectorNumber="262" uuid="15d2d7cd-d29d-4f19-8490-88bd526ff1c5"/>
+        <card number="1" name="Stroke of Genius" setShortName="USG" collectorNumber="100" uuid="5e977755-8ea4-4a8b-90c4-dd175321e05d"/>
+        <card number="2" name="Yawgmoth's Will" setShortName="USG" collectorNumber="171" uuid="6d3e3c3a-d351-4d91-8884-312d4b6f540d"/>
+        <card number="4" name="Chill" setShortName="TMP" collectorNumber="56" uuid="5a7bd777-6f11-441e-887f-9cee1ef96035"/>
+        <card number="3" name="Light of Day" setShortName="TMP" collectorNumber="27" uuid="70fa9ebe-bdf5-4359-aa3e-6cfa1a1d96cf"/>
+        <card number="1" name="Null Brooch" setShortName="EXO" collectorNumber="136" uuid="d5d5a0c6-916c-428a-ae66-8adc8844e56e"/>
+    </zone>
+</cockatrice_deck>
