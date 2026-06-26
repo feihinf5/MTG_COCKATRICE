@@ -24,7 +24,7 @@ Format
 Note
 - Grand Prix-Vienna 1999 top 4 deck by Erik Lauer
 - Utilize [**Dark Ritual**](https://api.scryfall.com/cards/48cb9467-657e-453f-afc8-1bf7121570ad?format=image), [**Mana Vault**](https://api.scryfall.com/cards/5cbc686e-a8ef-40de-b79a-803ef42f8384?format=image) and [**Grim Monolith**](https://api.scryfall.com/cards/9ddc9fe1-17c8-4e1d-aeb8-c4214e881280?format=image) for fast mana
-- Cast [**Tinker**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to bring [**Memory Jar**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) directly into play
+- Cast [**Tinker**](https://api.scryfall.com/cards/7da23b15-dfb8-4267-9b33-d7a4c035c434?format=image) to bring [**Memory Jar**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) directly into play
 - 1 [**Memory Jar**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) + 1 [**Megrim**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) = 14 damage, adding a second copy of either card = 28 damage
 - [**Lion's Eye Diamond**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) synergizes exceptionally well with [**Memory Jar**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Yawgmoth's Will**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - [**Defense Grid**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to counter the dominant [**High Tide**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) decks of that Extended era
