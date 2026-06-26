@@ -26,6 +26,7 @@ Note
 - Utilize Dark Ritual, Mana Vault, and Grim Monolith for fast mana
 - Cast Tinker to bring Memory Jar directly into play
 - 1 Memory Jar + 1 Megrim = 14 damage, adding a second copy of either card = 28 damage
+- [**Memory Jar**](https://api.scryfall.com/cards/a15d33d6-7213-4482-a1be-ac0a73644af6?format=image) was banned during March 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
 
 Deck
 - 4 Tinker
