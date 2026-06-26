@@ -1,4 +1,5 @@
 Reference 
+- https://mtg-jp.com/reading/variety/0004528/
 - http://mtgwiki.com/wiki/World_Championship_Decks_1998
 
 Format
