@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1998 Euro Blue</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1998 12th place deck by Randy Buehler</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Nevinyrral's Disk" setShortName="5ED" collectorNumber="391" uuid="9652c405-17fb-4505-8470-8a2969c73b6b"/>
+        <card number="2" name="Counterspell" setShortName="5ED" collectorNumber="77" uuid="b975289d-d8b8-46b4-8c60-d6ed4b594519"/>
+        <card number="2" name="Counterspell" setShortName="TMP" collectorNumber="57" uuid="dacdd380-71cf-4832-bd02-3697501325f3"/>
+        <card number="4" name="Dismiss" setShortName="TMP" collectorNumber="58" uuid="1e55d6be-7682-4786-9872-e847afd710b0"/>
+        <card number="2" name="Dissipate" setShortName="MIR" collectorNumber="61" uuid="36d9271d-6dbf-4640-9222-721a7a3ccc08"/>
+        <card number="3" name="Forbid" setShortName="EXO" collectorNumber="35" uuid="29df5ef7-d679-4543-bdb7-3984155c87e0"/>
+        <card number="4" name="Force Spike" setShortName="5ED" collectorNumber="88" uuid="ba23d540-8c2d-4a42-b4c0-86f0988bd1ce"/>
+        <card number="4" name="Impulse" setShortName="VIS" collectorNumber="34" uuid="9d710a97-062f-4773-b6c6-8aeddeb3b6e8"/>
+        <card number="3" name="Mana Leak" setShortName="STH" collectorNumber="36" uuid="abcaf16d-aa02-43e2-aa38-bb1835d47a05"/>
+        <card number="4" name="Whispers of the Muse" setShortName="TMP" collectorNumber="103" uuid="75c5cfd1-3f7c-4250-a84d-8db83c6d7eb7"/>
+        <card number="1" name="Memory Lapse" setShortName="5ED" collectorNumber="103" uuid="9010e5e2-fd32-4f2f-aa68-1dbe58c078a2"/>
+        <card number="1" name="Rainbow Efreet" setShortName="VIS" collectorNumber="41" uuid="1d6f03a6-3665-40e4-ae68-640913972770"/>
+        <card number="2" name="Island" setShortName="5ED" collectorNumber="437" uuid="da1218e0-8c75-4f8e-b317-051ce84949a5"/>
+        <card number="2" name="Island" setShortName="5ED" collectorNumber="436" uuid="09376cac-44bd-42c4-9c07-9e4d6c972a64"/>
+        <card number="2" name="Island" setShortName="5ED" collectorNumber="435" uuid="6fbf2762-1e9c-4d7c-84d0-8561d9a41735"/>
+        <card number="2" name="Island" setShortName="5ED" collectorNumber="434" uuid="c8820e22-44ee-4ccf-a1fb-f93d98b8b494"/>
+        <card number="2" name="Island" setShortName="MIR" collectorNumber="335" uuid="df84bf1b-8698-4c3e-baa9-926f0efc6a12"/>
+        <card number="2" name="Island" setShortName="MIR" collectorNumber="337" uuid="1e571f07-167f-4a7d-8f98-0c98d7d15e81"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="338" uuid="a39fc1e0-caf0-4cfa-bbf2-fea7ca32c00d"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="336" uuid="776912e7-fa16-4d71-b830-0a5d35f38297"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="335" uuid="22578bc8-10c6-4598-82bc-70e970a8f518"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="336" uuid="3f891c3f-82e2-4f9d-ae4b-443fce0bdd71"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="337" uuid="b38e48ff-17c8-470c-ba8b-966da1777e77"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="338" uuid="5e6e59d7-5038-46b4-9f60-3d9d0cbf0a4e"/>
+        <card number="4" name="Quicksand" setShortName="VIS" collectorNumber="166" uuid="11370658-8d80-4d2f-afa5-ec6df6dee369"/>
+        <card number="4" name="Stalking Stones" setShortName="TMP" collectorNumber="327" uuid="b4d3d349-5c23-43a9-b25e-0e1a35b84673"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+        <card number="4" name="Sea Sprite" setShortName="5ED" collectorNumber="120" uuid="4cec37c5-b927-47ae-8cd6-3eddd55a3472"/>
+        <card number="1" name="Grindstone" setShortName="TMP" collectorNumber="290" uuid="f4459187-de64-456f-bb66-56dea40d5c3e"/>
+        <card number="4" name="Hydroblast" setShortName="5ED" collectorNumber="94" uuid="89a30b8f-6594-42ea-8e60-13ccb1e7efc0"/>
+        <card number="2" name="Capsize" setShortName="TMP" collectorNumber="55" uuid="e538b359-d893-422d-9d60-5f3e8ee0fa9e"/>
+    </zone>
+</cockatrice_deck>
