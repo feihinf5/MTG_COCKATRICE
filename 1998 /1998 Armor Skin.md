@@ -13,7 +13,7 @@ Format
 
 Note
 - World Championships 1998 top 8 deck by Brian Hacker
-- Suit up highly evasive, hard-to-block creatures with [**Empyrial Armor**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Suit up highly evasive, hard-to-block creatures with [**Empyrial Armor**](https://api.scryfall.com/cards/5518a79f-bcae-417a-b01b-b6ff572be0be?format=image)
 - Cast [**Cataclysm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or similar board wipes to paralyze the opponent's mana base and lock down the game
 - [**Soltari Priest**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Soltari Monk**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) serve as the primary enchantment targets
 - [**Tithe**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) ensuring land-drop stability
