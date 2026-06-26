@@ -22,7 +22,10 @@ Format
 - 3ED
 
 Note
-- INFO
+- Grand Prix-Vienna 1999 top 4 deck by Erik Lauer
+- Utilize Dark Ritual, Mana Vault, and Grim Monolith for fast mana
+- Cast Tinker to bring Memory Jar directly into play
+- 1 Memory Jar + 1 Megrim = 14 damage, adding a second copy of either card = 28 damage
 
 Deck
 - 4 Tinker
