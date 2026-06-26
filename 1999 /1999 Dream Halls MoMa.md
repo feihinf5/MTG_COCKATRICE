@@ -10,7 +10,7 @@ Format
 - 5ED
 
 Note
-- INFO
+- Variant rose to prominence after Tolarian Academy was officially banned during 
 
 Deck
 - 4 Counterspell
