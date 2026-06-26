@@ -15,6 +15,17 @@ Format
 
 Note
 - World Championships 1998 winning deck by Brian Selden
+- Survival of the Fittest to tutor for any creature while simultaneously discarding it to the graveyard
+- Recurring Nightmare facilitates repeated reanimation, to abuse enter-the-battlefield (ETB) triggers as many times as needed
+- Primary game-ending threats utilized are Spirit of the Night or Verdant Force
+- Birds of Paradise and Wall of Roots used for rapid mana acceleration
+- Wall of Blossoms provides card draw while acting as an early-game blocker
+- Man-o'-War and Nekrataal to handle and remove opposing creature threats
+- Orcish Settlers and Tradewind Rider to lock down and disrupt the opponent's land base
+- Cloudchaser Eagle and Uktabi Orangutan to remove artifact and enchantment-based combo pieces
+- Spike Feeder provides a reliable source of life gain
+- Spike Weaver establishes combat-preventative lock
+- Thrull Surgeon disrupts the opponent's hand
 
 Deck
 - 1 Swamp
