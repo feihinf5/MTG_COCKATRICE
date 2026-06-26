@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1999 Fluctuator Reanimate</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Blasted Landscape" setShortName="USG" collectorNumber="319" uuid="ac71d910-6c50-4894-8092-d39cbb7a83b4"/>
+        <card number="4" name="Drifting Meadow" setShortName="USG" collectorNumber="320" uuid="a8f669f7-0b36-4c82-8e32-15314ec0c0c4"/>
+        <card number="4" name="Polluted Mire" setShortName="USG" collectorNumber="323" uuid="cfe2c562-ac25-4395-a9f0-8b246c7954b6"/>
+        <card number="4" name="Remote Isle" setShortName="USG" collectorNumber="324" uuid="e48d55ff-10d0-4d9b-9202-02ebb2137953"/>
+        <card number="4" name="Slippery Karst" setShortName="USG" collectorNumber="327" uuid="6d01a6a7-c006-4fce-a546-8138baef421b"/>
+        <card number="4" name="Smoldering Crater" setShortName="USG" collectorNumber="328" uuid="e9940ce4-09d7-4e89-b456-e3126a83cfe1"/>
+        <card number="2" name="Clear" setShortName="USG" collectorNumber="7" uuid="c7cdb977-7d5b-4050-bb01-181f6b363de7"/>
+        <card number="1" name="Dark Ritual" setShortName="5ED" collectorNumber="153" uuid="fae25afd-0d16-431c-a85e-7ac91cef9050"/>
+        <card number="1" name="Dark Ritual" setShortName="TMP" collectorNumber="118" uuid="bf4708e8-2149-4990-987c-2ea55fc6c508"/>
+        <card number="1" name="Dark Ritual" setShortName="USG" collectorNumber="127" uuid="3f0e9d0d-e1a3-4e0a-bf39-e9aaf4d36d67"/>
+        <card number="2" name="Scrap" setShortName="USG" collectorNumber="213" uuid="3f070430-59d6-462f-9f04-306ffc2ae01b"/>
+        <card number="2" name="Living Death" setShortName="TMP" collectorNumber="142" uuid="6c820476-fbda-4073-baf6-51e71f45ed58"/>
+        <card number="4" name="Fluctuator" setShortName="USG" collectorNumber="295" uuid="92078408-e0e4-443e-b0fd-aac0ac651f46"/>
+        <card number="2" name="Lotus Petal" setShortName="TMP" collectorNumber="294" uuid="6c877da3-68fa-41d0-8a24-8c79fcd8ecc1"/>
+        <card number="4" name="Bloated Toad" setShortName="ULG" collectorNumber="97" uuid="9686f1a8-035e-415e-9a06-933d6ce1cd5c"/>
+        <card number="2" name="Cloud of Faeries" setShortName="ULG" collectorNumber="29" uuid="4e76d04a-0038-4b5b-a026-3056ee940da9"/>
+        <card number="4" name="Darkwatch Elves" setShortName="ULG" collectorNumber="99" uuid="212a807f-d5d0-4787-b390-3351783a1ae4"/>
+        <card number="3" name="Disciple of Law" setShortName="USG" collectorNumber="11" uuid="7a5c8701-a294-4474-9747-129f972cfb18"/>
+        <card number="4" name="Pendrell Drake" setShortName="USG" collectorNumber="86" uuid="986b6708-5ed4-4085-b9b7-d359b2d5b26f"/>
+        <card number="4" name="Sandbar Serpent" setShortName="USG" collectorNumber="95" uuid="b3b430ec-28e1-4b2c-bea8-3bfd3a0e8cf8"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Boil" setShortName="TMP" collectorNumber="165" uuid="2fa1c529-44e5-41b6-9704-ae2319f31f13"/>
+        <card number="2" name="Clear" setShortName="USG" collectorNumber="7" uuid="c7cdb977-7d5b-4050-bb01-181f6b363de7"/>
+        <card number="2" name="Repopulate" setShortName="ULG" collectorNumber="111" uuid="aac77869-97bc-4976-9ee0-3d60e162b78a"/>
+        <card number="1" name="Scrap" setShortName="USG" collectorNumber="213" uuid="3f070430-59d6-462f-9f04-306ffc2ae01b"/>
+        <card number="4" name="Defense Grid" setShortName="ULG" collectorNumber="125" uuid="5c2592c9-7e64-40c1-a9cb-c0994094a1e0"/>
+        <card number="2" name="Cloud of Faeries" setShortName="ULG" collectorNumber="29" uuid="4e76d04a-0038-4b5b-a026-3056ee940da9"/>
+        <card number="1" name="Disciple of Grace" setShortName="USG" collectorNumber="10" uuid="83fa36d2-0a60-40a5-a182-a63e1e65b2bd"/>
+        <card number="1" name="Disciple of Law" setShortName="USG" collectorNumber="11" uuid="7a5c8701-a294-4474-9747-129f972cfb18"/>
+    </zone>
+</cockatrice_deck>
