@@ -8,7 +8,33 @@ Note
 - INFO
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Tinker
+- 4 Brainstorm
+- 1 Mystical Tutor
+- 4 Vampiric Tutor
+- 4 Dark Ritual
+- 2 Yawgmoth's Will
+- 1 Megrim
+- 4 Mana Vault
+- 4 Lion's Eye Diamond
+- 4 Mox Diamond
+- 4 Defense Grid
+- 4 Memory Jar
+- 4 Lotus Petal
+- 4 Underground Sea
+- 4 City of Brass
+- 3 Underground River
+- 3 Ancient Tomb
+- 2 Gemstone Mine
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Abeyance
+- 1 Disenchant
+- 4 Force of Will
+- 1 Mystical Tutor
+- 1 Chill
+- 1 Yawgmoth's Will
+- 1 Gloom
+- 1 Perish
+- 2 Pyroblast
+- 2 Sand Golem
