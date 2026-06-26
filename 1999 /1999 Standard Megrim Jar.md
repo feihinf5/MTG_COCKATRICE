@@ -11,7 +11,7 @@ Format
 
 Note
 - Player and sideboard unknown due to the emergency ban occurred so rapidly
-- [**Memory Jar**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) was banned during March 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
+- [**Memory Jar**](https://api.scryfall.com/cards/a15d33d6-7213-4482-a1be-ac0a73644af6?format=image) was banned during March 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
  
 Deck
 - 4 Mox Diamond
