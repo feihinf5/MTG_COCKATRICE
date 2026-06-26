@@ -11,7 +11,7 @@ Format
 
 Note
 - 1999 Japan National Championship top 8 deck by Ohashi Ryohei
-- To replace the banned Dream Halls and Time Spiral and the rotated Mana Vault, the deck adopted Show and Tell, Diminishing Returns, and Grim Monolith
+- To replace the banned [**Dream Halls**](https://api.scryfall.com/cards/ff4a22d9-007b-4eb7-af9e-b5c2cae36238?format=image) and Time Spiral and the rotated Mana Vault, the deck adopted Show and Tell, Diminishing Returns, and Grim Monolith
 - Prosperity, gained via Classic Sixth Edition, was also heavily incorporated into most builds
 - Significant power downgrades MoMa variant deck and On July 1999, Mind Over Matter itself was officially banned in Standard, completely erasing the MoMa deck from the format.
 
