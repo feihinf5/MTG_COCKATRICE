@@ -16,7 +16,7 @@ Format
 Note
 - World Championships 1998 12th place deck by Randy Buehler
 - Control deck featuring an unusually high volume of specific cards to counter opponents spells
-- [**Force Spike**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to efficiently disrupt the opponent's opening plays
+- [**Force Spike**](https://api.scryfall.com/cards/ba23d540-8c2d-4a42-b4c0-86f0988bd1ce?format=image) to efficiently disrupt the opponent's opening plays
 - Relies on repeatable draw spells like [**Whispers of the Muse**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to keep the hand constantly full
 - Utilizes [**Capsize**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for reliable bounce removal to handle threats on the battlefield, alongside [**Nevinyrral's Disk**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as a reset button for board control
 - Win condition consisting only of [**Rainbow Efreet**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Stalking Stones**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
