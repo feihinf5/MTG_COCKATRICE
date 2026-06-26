@@ -15,6 +15,11 @@ Format
 
 Note
 - World Championships 1998 12th place deck by Randy Buehler
+- Control deck featuring an unusually high volume of counterspells
+- Force Spike to efficiently disrupt the opponent's opening plays
+- Relies on repeatable draw spells like Whispers of the Muse to keep the hand constantly full
+- Utilizes Capsize for reliable bounce removal to handle threats on the battlefield, alongside Nevinyrral's Disk as a reset button for board control
+- Win condition consisting only of Rainbow Efreet and Stalking Stones
 
 Deck
 - 18 Island
