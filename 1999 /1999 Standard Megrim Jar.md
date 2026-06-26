@@ -2,7 +2,12 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%A1%E3%82%B0%E3%83%AA%E3%83%A0%E3%82%B8%E3%83%A3%E3%83%BC#.E3.82.B9.E3.82.BF.E3.83.B3.E3.83.80.E3.83.BC.E3.83.89.E5.9E.8B
 
 Format
-- CARD_SET
+- ULG
+- USG
+- EXO
+- STH
+- TMP
+- 5ED
 
 Note
 - Player and sideboard unknown due to the emergency ban occurred so rapidly
