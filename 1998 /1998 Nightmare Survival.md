@@ -15,7 +15,7 @@ Format
 
 Note
 - World Championships 1998 winning deck by Brian Selden
-- [**Survival of the Fittest**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to tutor for any creature while simultaneously discarding it to the graveyard
+- [**Survival of the Fittest**](https://api.scryfall.com/cards/c060c178-3c0e-493f-b6f0-ead5b1d6f191?format=image) to tutor for any creature while simultaneously discarding it to the graveyard
 - [**Recurring Nightmare**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) facilitates repeated reanimation, to abuse enter-the-battlefield (ETB) triggers as many times as needed
 - Primary game-ending threats utilized are [**Spirit of the Night**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Verdant Force**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - [**Birds of Paradise**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Wall of Roots**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) used for rapid mana acceleration
