@@ -2,7 +2,12 @@ Reference
 - http://mtgwiki.com/wiki/%E5%AE%9F%E7%89%A9%E6%8F%90%E7%A4%BA%E3%83%A2%E3%83%9E
 
 Format
-- CARD_SET
+- 6ED
+- ULG
+- USG
+- EXO
+- STH
+- TMP
 
 Note
 - 1999 Japan National Championship top 8 deck by Ohashi Ryohei
