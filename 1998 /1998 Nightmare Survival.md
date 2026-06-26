@@ -24,7 +24,7 @@ Note
 - [**Orcish Settlers**](https://api.scryfall.com/cards/d54764f6-6f65-405c-ba30-1e485ce3fe21?format=image) and [**Tradewind Rider**](https://api.scryfall.com/cards/09412374-3645-4644-952e-2beaefb3104b?format=image) to lock down and disrupt the opponent's land base
 - [**Cloudchaser Eagle**](https://api.scryfall.com/cards/3a70a6da-dea3-49c0-8c49-6a2229c3ac91?format=image) and [**Uktabi Orangutan**](https://api.scryfall.com/cards/101c7d58-43cc-4ebd-87f1-2016fbff56dd?format=image) to remove artifact and enchantment-based combo pieces
 - [**Spike Feeder**](https://api.scryfall.com/cards/3751b2ae-a234-4691-984b-2f9f6b1cd1df?format=image) provides a reliable source of life gain
-- [**Spike Weaver**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) establishes combat-preventative lock
+- [**Spike Weaver**](https://api.scryfall.com/cards/9c561a2a-91c6-4d4b-9f96-bffd43a00478?format=image) establishes combat-preventative lock
 - [**Thrull Surgeon**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) disrupts the opponent's hand
 
 Deck
