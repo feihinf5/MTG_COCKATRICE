@@ -13,6 +13,10 @@ Format
 
 Note
 - World Championships 1998 top 8 deck by Brian Hacker
+- Suit up highly evasive, hard-to-block creatures with Empyrial Armor
+- Cast Cataclysm or similar board wipes to paralyze the opponent's mana base and lock down the game
+- Soltari Priest and Soltari Monk serve as the primary enchantment targets
+- Tithe ensuring land-drop stability
 
 Deck
 - 17 Plains
