@@ -12,10 +12,28 @@ Format
 - MIR
 
 Note
-- INFO
+- World Championships 1998 top 8 deck by Brian Hacker
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 17 Plains
+- 3 Nomads en-Kor
+- 3 Paladin en-Vec
+- 4 Soltari Monk
+- 4 Soltari Priest
+- 1 Soltari Visionary
+- 4 Soul Warden
+- 4 Warrior en-Kor
+- 4 White Knight
+- 1 Aura of Silence
+- 4 Cataclysm
+- 3 Disenchant
+- 4 Empyrial Armor
+- 4 Tithe
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 3 Abeyance
+- 2 Armageddon
+- 3 Aura of Silence
+- 3 Cursed Scroll
+- 1 Disenchant
+- 3 Spirit Link
