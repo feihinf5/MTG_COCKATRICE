@@ -15,17 +15,17 @@ Format
 
 Note
 - World Championships 1998 winning deck by Brian Selden
-- Survival of the Fittest to tutor for any creature while simultaneously discarding it to the graveyard
-- Recurring Nightmare facilitates repeated reanimation, to abuse enter-the-battlefield (ETB) triggers as many times as needed
-- Primary game-ending threats utilized are Spirit of the Night or Verdant Force
-- Birds of Paradise and Wall of Roots used for rapid mana acceleration
-- Wall of Blossoms provides card draw while acting as an early-game blocker
-- Man-o'-War and Nekrataal to handle and remove opposing creature threats
-- Orcish Settlers and Tradewind Rider to lock down and disrupt the opponent's land base
-- Cloudchaser Eagle and Uktabi Orangutan to remove artifact and enchantment-based combo pieces
-- Spike Feeder provides a reliable source of life gain
-- Spike Weaver establishes combat-preventative lock
-- Thrull Surgeon disrupts the opponent's hand
+- [**Survival of the Fittest**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to tutor for any creature while simultaneously discarding it to the graveyard
+- [**Recurring Nightmare**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) facilitates repeated reanimation, to abuse enter-the-battlefield (ETB) triggers as many times as needed
+- Primary game-ending threats utilized are [**Spirit of the Night**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Verdant Force**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Birds of Paradise**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Wall of Roots**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) used for rapid mana acceleration
+- [**Wall of Blossoms**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) provides card draw while acting as an early-game blocker
+- [**Man-o'-War**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Nekrataal**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to handle and remove opposing creature threats
+- [**Orcish Settlers**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Tradewind Rider**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to lock down and disrupt the opponent's land base
+- [**Cloudchaser Eagle**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Uktabi Orangutan**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to remove artifact and enchantment-based combo pieces
+- [**Spike Feeder**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) provides a reliable source of life gain
+- [**Spike Weaver**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) establishes combat-preventative lock
+- [**Thrull Surgeon**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) disrupts the opponent's hand
 
 Deck
 - 1 Swamp
