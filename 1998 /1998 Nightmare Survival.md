@@ -17,7 +17,7 @@ Note
 - World Championships 1998 winning deck by Brian Selden
 - [**Survival of the Fittest**](https://api.scryfall.com/cards/c060c178-3c0e-493f-b6f0-ead5b1d6f191?format=image) to tutor for any creature while simultaneously discarding it to the graveyard
 - [**Recurring Nightmare**](https://api.scryfall.com/cards/c8173030-1c33-417c-b8e9-79231b6a85a7?format=image) facilitates repeated reanimation, to abuse enter-the-battlefield (ETB) triggers as many times as needed
-- Primary game-ending threats utilized are [**Spirit of the Night**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Verdant Force**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Primary game-ending threats utilized are [**Spirit of the Night**](https://api.scryfall.com/cards/845c4b06-090f-4217-acb2-8900b7dab37c?format=image) or [**Verdant Force**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - [**Birds of Paradise**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Wall of Roots**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) used for rapid mana acceleration
 - [**Wall of Blossoms**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) provides card draw while acting as an early-game blocker
 - [**Man-o'-War**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Nekrataal**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to handle and remove opposing creature threats
