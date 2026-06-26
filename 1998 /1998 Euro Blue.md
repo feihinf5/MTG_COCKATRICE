@@ -19,7 +19,7 @@ Note
 - [**Force Spike**](https://api.scryfall.com/cards/ba23d540-8c2d-4a42-b4c0-86f0988bd1ce?format=image) to efficiently disrupt the opponent's opening plays
 - Relies on repeatable draw spells like [**Whispers of the Muse**](https://api.scryfall.com/cards/75c5cfd1-3f7c-4250-a84d-8db83c6d7eb7?format=image) to keep the hand constantly full
 - Utilizes [**Capsize**](https://api.scryfall.com/cards/e538b359-d893-422d-9d60-5f3e8ee0fa9e?format=image) for reliable bounce removal to handle threats on the battlefield, alongside [**Nevinyrral's Disk**](https://api.scryfall.com/cards/9652c405-17fb-4505-8470-8a2969c73b6b?format=image) as a reset button for board control
-- Win condition consisting only of [**Rainbow Efreet**](https://api.scryfall.com/cards/1d6f03a6-3665-40e4-ae68-640913972770?format=image) and [**Stalking Stones**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Win condition consisting only of [**Rainbow Efreet**](https://api.scryfall.com/cards/1d6f03a6-3665-40e4-ae68-640913972770?format=image) and [**Stalking Stones**](https://api.scryfall.com/cards/b4d3d349-5c23-43a9-b25e-0e1a35b84673?format=image)
 
 Deck
 - 18 Island
