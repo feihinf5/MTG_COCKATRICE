@@ -21,7 +21,7 @@ Note
 - [**Birds of Paradise**](https://api.scryfall.com/cards/f79357f4-ddd1-4b29-9e5f-813c799513ee?format=image) and [**Wall of Roots**](https://api.scryfall.com/cards/aeb151d2-c313-44d2-972e-33487f070c23?format=image) used for rapid mana acceleration
 - [**Wall of Blossoms**](https://api.scryfall.com/cards/7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f?format=image) provides card draw while acting as an early-game blocker
 - [**Man-o'-War**](https://api.scryfall.com/cards/4dbf9bf9-75cd-4b25-a3a1-43b7e029700b?format=image) and [**Nekrataal**](https://api.scryfall.com/cards/dba3e342-88b7-4692-a3f7-a3f56c0cf6b5?format=image) to handle and remove opposing creature threats
-- [**Orcish Settlers**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Tradewind Rider**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to lock down and disrupt the opponent's land base
+- [**Orcish Settlers**](https://api.scryfall.com/cards/d54764f6-6f65-405c-ba30-1e485ce3fe21?format=image) and [**Tradewind Rider**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to lock down and disrupt the opponent's land base
 - [**Cloudchaser Eagle**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Uktabi Orangutan**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to remove artifact and enchantment-based combo pieces
 - [**Spike Feeder**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) provides a reliable source of life gain
 - [**Spike Weaver**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) establishes combat-preventative lock
