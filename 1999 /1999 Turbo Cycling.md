@@ -7,6 +7,11 @@ Format
 
 Note
 - Pro Tour-New York 1999 top 4 deck by Zvi Mowshowitz
+- Use Fluctuator to cycle through the deck at high speed
+- Deploy cheap mana artifacts like Grim Monolith, Thran Turbine and Voltaic Key
+- Generate huge amounts of mana using Tolarian Academy and keep the deck drawing free-cycling-draw
+- Generate infinite mana using the combination of Tolarian Academy and Palinchron
+- Cast a massive Stroke of Genius targeting the opponent to force them to deck out
 - Fluctuator Reanimate deck http://mtgwiki.com/wiki/波動機リアニメイト full of cycling cards and higher winning chance with Fluctuator in opening hand
 - **Fluctuator** banned during April 1999 https://groups.google.com/g/rec.games.trading-cards.magic.rules/c/OVOGe2lz2SU
 
