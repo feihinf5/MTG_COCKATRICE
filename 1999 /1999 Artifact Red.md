@@ -15,10 +15,10 @@ Format
 
 Note
 - Rapidly deploys lands and artifacrs that produce multiple mana
-- Locks down the opponent’s mana using [**Mishra's Helix**]
-- Resets the battlefield using [**Wildfire**]
-- Closes out the game by deploying large threats like [**Covetous Dragon**] or [**Masticore**]
-- Because the deck destroys its own lands too, it can sometimes run out of cards so used [**Temporal Aperture**] as solution
+- Locks down the opponent’s mana using [**Mishra's Helix**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Resets the battlefield using [**Wildfire**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Closes out the game by deploying large threats like [**Covetous Dragon**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Masticore**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Because the deck destroys its own lands too, it can sometimes run out of cards so used [**Temporal Aperture**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as solution
 
 Deck
 - 4 Covetous Dragon
