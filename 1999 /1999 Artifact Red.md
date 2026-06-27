@@ -5,7 +5,13 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_1999
 
 Format
-- CARD_SET
+- UDS
+- 6ED
+- ULG
+- USG
+- EXO
+- STH
+- TMP
 
 Note
 - INFO
