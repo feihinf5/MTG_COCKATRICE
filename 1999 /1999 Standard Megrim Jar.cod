@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1999 Standard Megrim Jar</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments></comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="City of Brass" setShortName="5ED" collectorNumber="413" uuid="56816a2d-4faa-4fbd-bf1a-35fa3e90ccf6"/>
+        <card number="4" name="Rootwater Depths" setShortName="TMP" collectorNumber="323" uuid="4d4bcbef-66bf-4625-82d5-a01c39d3d78e"/>
+        <card number="1" name="Swamp" setShortName="5ED" collectorNumber="438" uuid="6bc8f8cb-dc67-4549-be2f-f4d4057065a3"/>
+        <card number="1" name="Swamp" setShortName="5ED" collectorNumber="439" uuid="0df95545-fe5e-47a5-99d8-1776e02c5713"/>
+        <card number="1" name="Swamp" setShortName="5ED" collectorNumber="441" uuid="23e09e49-1a87-4967-8557-6d331c48a563"/>
+        <card number="1" name="Swamp" setShortName="5ED" collectorNumber="440" uuid="31228d3c-08e4-4042-a1a1-db8dff3177d9"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="339" uuid="5912d2aa-fe91-4cea-9c7a-6dca745f8560"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="340" uuid="000366c8-7a43-49d7-a103-ac5bd7efd9aa"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="341" uuid="c96dbfea-3b79-4e5b-a356-3c04d1e78e83"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="342" uuid="9330376c-0242-4e28-b535-26c84b43c3e6"/>
+        <card number="1" name="Swamp" setShortName="USG" collectorNumber="339" uuid="c04dac6d-a7c2-44ee-b735-bd4eade06e4e"/>
+        <card number="4" name="Underground River" setShortName="5ED" collectorNumber="426" uuid="be9efd79-1b1d-4e02-8922-0154ad20e4d4"/>
+        <card number="1" name="Dark Ritual" setShortName="TMP" collectorNumber="118" uuid="bf4708e8-2149-4990-987c-2ea55fc6c508"/>
+        <card number="1" name="Dark Ritual" setShortName="USG" collectorNumber="127" uuid="3f0e9d0d-e1a3-4e0a-bf39-e9aaf4d36d67"/>
+        <card number="2" name="Dark Ritual" setShortName="5ED" collectorNumber="153" uuid="fae25afd-0d16-431c-a85e-7ac91cef9050"/>
+        <card number="4" name="Intuition" setShortName="TMP" collectorNumber="70" uuid="c99f6785-e5a1-4fdc-9fb5-e1a372e7e848"/>
+        <card number="4" name="Tinker" setShortName="ULG" collectorNumber="45" uuid="7da23b15-dfb8-4267-9b33-d7a4c035c434"/>
+        <card number="4" name="Yawgmoth's Will" setShortName="USG" collectorNumber="171" uuid="6d3e3c3a-d351-4d91-8884-312d4b6f540d"/>
+        <card number="3" name="Megrim" setShortName="STH" collectorNumber="62" uuid="4eacd05b-078a-468c-b137-a802346d348a"/>
+        <card number="4" name="Necropotence" setShortName="5ED" collectorNumber="182" uuid="222cfbec-8839-43fa-95a0-2ea91b59515c"/>
+        <card number="4" name="Grim Monolith" setShortName="ULG" collectorNumber="126" uuid="9ddc9fe1-17c8-4e1d-aeb8-c4214e881280"/>
+        <card number="4" name="Mana Vault" setShortName="5ED" collectorNumber="388" uuid="05e9fec4-1e0a-4206-ab2b-cc2543cba667"/>
+        <card number="4" name="Memory Jar" setShortName="ULG" collectorNumber="129" uuid="a15d33d6-7213-4482-a1be-ac0a73644af6"/>
+        <card number="4" name="Mox Diamond" setShortName="STH" collectorNumber="138" uuid="28028830-83ed-45e2-b495-3b9ad9d3e988"/>
+    </zone>
+</cockatrice_deck>
