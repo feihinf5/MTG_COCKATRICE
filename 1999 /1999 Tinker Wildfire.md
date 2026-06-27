@@ -11,6 +11,7 @@ Note
 - Clears the battlefield using Wildfire
 - Strong against Stompy decks due to the board control from Wildfire and Arc Lightning
 - Advantage in mirror matches by running red artifact-destruction cards in the sideboard
+- [**Tolarian Academy**](https://api.scryfall.com/cards/ad7ac9a5-340f-4509-826c-7b9416d47887?format=image) and [**Voltaic Key**](https://api.scryfall.com/cards/1aa4baf7-4693-4c55-af04-2fa5d901d701?format=image) were banned during Urza block Constructed format June 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
 
 Deck
 - 2 Phyrexian Colossus
