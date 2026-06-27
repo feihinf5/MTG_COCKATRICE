@@ -14,7 +14,7 @@ Note
 - Cast a massive [**Stroke of Genius**](https://api.scryfall.com/cards/5e977755-8ea4-4a8b-90c4-dd175321e05d?format=image) targeting the opponent to force them to deck out
 - Fluctuator Reanimate deck http://mtgwiki.com/wiki/波動機リアニメイト full of cycling cards and higher winning chance with Fluctuator in opening hand
 - [**Fluctuator**](https://api.scryfall.com/cards/92078408-e0e4-443e-b0fd-aac0ac651f46?format=image) was banned during April 1999 https://groups.google.com/g/rec.games.trading-cards.magic.rules/c/OVOGe2lz2SU
-- [**Tolarian Academy**] and [**Voltaic Key**] were banned during June 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
+- [**Tolarian Academy**](https://api.scryfall.com/cards/ad7ac9a5-340f-4509-826c-7b9416d47887?format=image) and [**Voltaic Key**](https://api.scryfall.com/cards/1aa4baf7-4693-4c55-af04-2fa5d901d701?format=image) were banned during June 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
 
 Deck
 - 4 Cloud of Faeries
