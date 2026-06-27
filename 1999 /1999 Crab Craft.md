@@ -9,10 +9,18 @@ Format
 - 5ED
 
 Note
-- INFO
+- Invitational 1999 played by Darwin Kastle
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
-
-Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 4	Argothian Enchantress
+- 4	Horseshoe Crab
+- 4	Wall of Blossoms
+- 4	Earthcraft
+- 4	Power Sink
+- 4	Wild Growth
+- 4	Fertile Ground
+- 3	Intuition
+- 4	Stroke of Genius
+- 4	Time Spiral
+- 8	Island
+- 14 Forest
