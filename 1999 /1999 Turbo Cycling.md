@@ -11,31 +11,33 @@ Note
 - **Fluctuator** banned during April 1999 https://groups.google.com/g/rec.games.trading-cards.magic.rules/c/OVOGe2lz2SU
 
 Deck
-- 2 Cloud of Faeries
-- 3 Disciple of Law
-- 4 Bloated Toad
-- 4 Darkwatch Elves
-- 4 Pendrell Drake
-- 4 Sandbar Serpent
-- 2 Lotus Petal 		
-- 4 Fluctuator 		
-- 2 Living Death 		
-- 3 Dark Ritual 		
-- 2 Clear 		
-- 2 Scrap 		
-- 4 Drifting Meadow 		
-- 4 Remote Isle 		
-- 4 Polluted Mire 		
-- 4 Slippery Karst 		
-- 4 Smoldering Crater 		
-- 4 Blasted Landscape
+- 4 Cloud of Faeries
+- 1 Palinchron
+- 4 Frantic Search
+- 4 Fluctuator
+- 4 Grim Monolith
+- 4 Voltaic Key
+- 3 Thran Turbine
+- 4 Stroke of Genius
+- 1 Yawgmoth's Will
+- 3 Lingering Mirage 		
+2 	好機/Opportunity 		
+2 	撤回/Rescind 		
+土地 (24) 		
+4 	枯渇地帯/Blasted Landscape 		
+2 	島/Island 		
+3 	漂う牧草地/Drifting Meadow 		
+4 	汚染されたぬかるみ/Polluted Mire 		
+4 	離れ島/Remote Isle 		
+3 	薄煙の火口/Smoldering Crater 		
+4 	トレイリアのアカデミー/Tolarian Academy
 
 Sideboard
-- 2 Cloud of Faeries
-- 1 Disciple of Grace
-- 1 Disciple of Law
-- 4 Defense Grid
-- 2 Repopulate
-- 2 Clear
-- 1 Scrap
-- 2 Boil
+- 4 Hibernation
+- 2 Island
+- 2 Miscalculation
+- 1 Opportunity
+- 1 Power Sink
+- 2 Rescind
+- 2 Turnabout
+- 1 Yawgmoth's Will
