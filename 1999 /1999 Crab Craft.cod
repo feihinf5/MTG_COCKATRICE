@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Tue Jun 16 21:06:11 2026</lastLoadedTimestamp>
+    <deckname>1999 Crab Craft</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Invitational 1999 played by Darwin Kastle</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Forest" setShortName="5ED" collectorNumber="449" uuid="0cdbb450-4b80-4f81-9992-ee8fbeeb1857"/>
+        <card number="2" name="Forest" setShortName="5ED" collectorNumber="448" uuid="925e07e8-a897-443f-8962-ef11fc41002a"/>
+        <card number="1" name="Forest" setShortName="5ED" collectorNumber="447" uuid="13635ba7-0635-4c16-9e14-444470e06287"/>
+        <card number="1" name="Forest" setShortName="5ED" collectorNumber="446" uuid="04eb20ea-1784-475e-a612-48057e5578c1"/>
+        <card number="1" name="Forest" setShortName="TMP" collectorNumber="350" uuid="32411c3a-da2b-4316-9848-971e90951303"/>
+        <card number="1" name="Forest" setShortName="TMP" collectorNumber="349" uuid="6b667225-a808-43e9-955e-6c4e7ecd53f2"/>
+        <card number="1" name="Forest" setShortName="TMP" collectorNumber="348" uuid="72bac71a-c326-4640-bdf8-43682f59060b"/>
+        <card number="1" name="Forest" setShortName="TMP" collectorNumber="347" uuid="36b3ffbd-3f3e-4fca-80c2-94f9fdc198a5"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="350" uuid="0b43815e-8b8a-4745-bdf3-f72c8d60c48c"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="349" uuid="a8990632-f055-4583-ae85-5ac742549b61"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="348" uuid="c151d945-7da0-4ab8-b0db-e41d10c0eb91"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="347" uuid="b38c68a5-86eb-4fb2-8a43-4a7d63195462"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="437" uuid="da1218e0-8c75-4f8e-b317-051ce84949a5"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="436" uuid="09376cac-44bd-42c4-9c07-9e4d6c972a64"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="435" uuid="6fbf2762-1e9c-4d7c-84d0-8561d9a41735"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="434" uuid="c8820e22-44ee-4ccf-a1fb-f93d98b8b494"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="338" uuid="5e6e59d7-5038-46b4-9f60-3d9d0cbf0a4e"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="337" uuid="b38e48ff-17c8-470c-ba8b-966da1777e77"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="336" uuid="3f891c3f-82e2-4f9d-ae4b-443fce0bdd71"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="335" uuid="22578bc8-10c6-4598-82bc-70e970a8f518"/>
+        <card number="4" name="Time Spiral" setShortName="USG" collectorNumber="103" uuid="f3d62dbd-63db-4ac9-950f-9852627f23f2"/>
+        <card number="3" name="Intuition" setShortName="TMP" collectorNumber="70" uuid="c99f6785-e5a1-4fdc-9fb5-e1a372e7e848"/>
+        <card number="2" name="Power Sink" setShortName="5ED" collectorNumber="111" uuid="acb32bc8-ae9f-4484-b2de-bce35e9f5df5"/>
+        <card number="4" name="Fertile Ground" setShortName="USG" collectorNumber="252" uuid="091dda35-59e5-456d-8804-61513a610aed"/>
+        <card number="4" name="Wild Growth" setShortName="5ED" collectorNumber="342" uuid="2a9e6630-d57c-47fd-af0f-b2e2c2025599"/>
+        <card number="4" name="Stroke of Genius" setShortName="USG" collectorNumber="100" uuid="5e977755-8ea4-4a8b-90c4-dd175321e05d"/>
+        <card number="1" name="Power Sink" setShortName="USG" collectorNumber="89" uuid="662cf693-18c4-4169-bcce-09862778f60c"/>
+        <card number="1" name="Power Sink" setShortName="TMP" collectorNumber="78" uuid="abc58c34-c3de-47f8-a42f-3a974dcb9c47"/>
+        <card number="4" name="Earthcraft" setShortName="TMP" collectorNumber="222" uuid="9dda7531-82a1-4f49-8858-601ddbc6e2bc"/>
+        <card number="4" name="Argothian Enchantress" setShortName="USG" collectorNumber="234" uuid="9ababc1a-515e-4e20-8819-19d84d9b0af5"/>
+        <card number="4" name="Horseshoe Crab" setShortName="USG" collectorNumber="80" uuid="9b33646b-a0e3-4344-873e-6711743bc85c"/>
+        <card number="4" name="Wall of Blossoms" setShortName="STH" collectorNumber="125" uuid="7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f"/>
+    </zone>
+</cockatrice_deck>
