@@ -7,11 +7,11 @@ Format
 
 Note
 - Pro Tour-New York 1999 top 4 deck by Zvi Mowshowitz
-- Use Fluctuator to cycle through the deck at high speed
-- Deploy cheap mana artifacts like Grim Monolith, Thran Turbine and Voltaic Key
-- Generate huge amounts of mana using Tolarian Academy and keep the deck drawing free-cycling-draw
-- Generate infinite mana using the combination of Tolarian Academy and Palinchron
-- Cast a massive Stroke of Genius targeting the opponent to force them to deck out
+- Use [**Fluctuator**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to cycle through the deck at high speed
+- Deploy cheap mana artifacts like [**Grim Monolith**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Thran Turbine**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Voltaic Key**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Generate huge amounts of mana using [**Tolarian Academy**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and keep the deck drawing free-cycling-draw
+- Generate infinite mana using the combination of [**Tolarian Academy**] and [**Palinchron**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Cast a massive [**Stroke of Genius**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) targeting the opponent to force them to deck out
 - Fluctuator Reanimate deck http://mtgwiki.com/wiki/波動機リアニメイト full of cycling cards and higher winning chance with Fluctuator in opening hand
 - **Fluctuator** banned during April 1999 https://groups.google.com/g/rec.games.trading-cards.magic.rules/c/OVOGe2lz2SU
 
