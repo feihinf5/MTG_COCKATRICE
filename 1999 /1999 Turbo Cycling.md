@@ -4,14 +4,10 @@ Reference
 Format
 - ULG
 - USG
-- EXO
-- STH
-- TMP
-- 5ED
 
 Note
-- Send a large number of creatures with "Cycling" to the graveyard using **Fluctuator**, while simultaneously drawing into key cards
-- Cast **Living Death** to put all the creatures from the graveyard onto the battlefield
+- Pro Tour-New York 1999 top 4 deck by Zvi Mowshowitz
+- Fluctuator Reanimate deck http://mtgwiki.com/wiki/波動機リアニメイト full of cycling cards and higher winning chance with Fluctuator in opening hand
 - **Fluctuator** banned during April 1999 https://groups.google.com/g/rec.games.trading-cards.magic.rules/c/OVOGe2lz2SU
 
 Deck
