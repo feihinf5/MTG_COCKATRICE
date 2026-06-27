@@ -18,6 +18,7 @@ Note
 - Locks down the opponent’s mana using [**Mishra's Helix**]
 - Resets the battlefield using [**Wildfire**]
 - Closes out the game by deploying large threats like [**Covetous Dragon**] or [**Masticore**]
+- Because the deck destroys its own lands too, it can sometimes run out of cards so used [**Temporal Aperture**] as solution
 
 Deck
 - 4 Covetous Dragon
