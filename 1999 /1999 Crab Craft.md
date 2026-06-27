@@ -16,7 +16,7 @@ Note
 - Repeat the 3 steps above for infinite mana then cast a massive [**Stroke of Genius**](https://api.scryfall.com/cards/5e977755-8ea4-4a8b-90c4-dd175321e05d?format=image) to deck out opponent
 - Synergy well with casting low-cost enchantments triggers draw engines like [**Argothian Enchantress**](https://api.scryfall.com/cards/9ababc1a-515e-4e20-8819-19d84d9b0af5?format=image)
 - [**Time Spiral**](https://api.scryfall.com/cards/f3d62dbd-63db-4ac9-950f-9852627f23f2?format=image) is used to untap all the enchanted lands while refilling the hand back to 7 cards
-- [**Earthcraft**](https://api.scryfall.com/cards/9dda7531-82a1-4f49-8858-601ddbc6e2bc?format=image) was banned during March 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
+- [**Earthcraft**](https://api.scryfall.com/cards/9dda7531-82a1-4f49-8858-601ddbc6e2bc?format=image) was banned in Standard format during March 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
 
 Deck
 - 4	Argothian Enchantress
