@@ -21,7 +21,7 @@ Note
 
 Deck
 - 4 Covetous Dragon
- -3 Masticore
+- 3 Masticore
 - 1 Karn, Silver Golem
 - 4 Wildfire
 - 4 Cursed Scroll
