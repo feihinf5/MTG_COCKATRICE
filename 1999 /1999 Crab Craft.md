@@ -10,6 +10,13 @@ Format
 
 Note
 - Invitational 1999 played by Darwin Kastle
+- Tap an [**Island enchanted**] with Wild Growth or any basic land enchanted with Fertile Ground to produce 2 mana, including at least one Blue mana
+- Activate Earthcraft by tapping Horseshoe Crab to untap that enchanted land
+- Spend the generated Blue mana to activate Horseshoe Crab's ability and untap itself
+- Repeat the 3 steps above for infinite mana then cast a massive Stroke of Genius to win the game
+- Synergy well with casting low-cost enchantments triggers draw engines like Argothian Enchantress
+- Time Spiral is used to untap all the enchanted lands while refilling the hand back to 7 cards
+- Earthcraft was banned during March 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
 
 Deck
 - 4	Argothian Enchantress
