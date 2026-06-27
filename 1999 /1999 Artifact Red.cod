@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Tue Jun 16 21:05:59 2026</lastLoadedTimestamp>
+    <deckname>1999 Artifact Red</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1999 winning deck by Kai Budde</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Ancient Tomb" setShortName="TMP" collectorNumber="315" uuid="30e401e3-282b-4524-87e1-c6cd50cd6d00"/>
+        <card number="4" name="City of Traitors" setShortName="EXO" collectorNumber="143" uuid="a7a8b6b8-b95f-4014-b17a-a6d44d965995"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="346" uuid="95585c69-6474-432e-b80a-489a2b69d4e6"/>
+        <card number="2" name="Mountain" setShortName="6ED" collectorNumber="345" uuid="a5c17b3c-6f3b-4952-a06b-0df5a5a18f0d"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="344" uuid="50e7681b-37e3-4f6c-8415-ab9613446ccc"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="343" uuid="f2e450ae-3ed8-424f-b974-7d9a8e8ac7e4"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="346" uuid="23e043bf-a6d7-4778-8460-13bdf38b7d39"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="345" uuid="9515ced4-b679-48f0-bf62-8b7baef5e1c2"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="344" uuid="676fb0ed-5a19-4fde-b2c4-f46c7e0915f8"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="343" uuid="9d6dc341-89dc-4e99-baa2-ad0ae59f0e94"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="346" uuid="29b39c91-e367-487d-9820-893870df23b1"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="345" uuid="3d811021-40b1-43b1-88f1-04d711c2ab57"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="344" uuid="be7e4b30-7f45-4109-b5ed-9223a9422d95"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="343" uuid="e9d34a2f-09ed-4fb4-891a-890f450699bd"/>
+        <card number="4" name="Cursed Scroll" setShortName="TMP" collectorNumber="281" uuid="31415b9b-fb30-4132-a9a3-795b4573a901"/>
+        <card number="4" name="Fire Diamond" setShortName="MIR" collectorNumber="302" uuid="bcca5bbe-df01-45ea-a6ac-4e3d1cf237c8"/>
+        <card number="4" name="Grim Monolith" setShortName="ULG" collectorNumber="126" uuid="9ddc9fe1-17c8-4e1d-aeb8-c4214e881280"/>
+        <card number="2" name="Mishra's Helix" setShortName="USG" collectorNumber="302" uuid="5c62507f-465d-45e9-96bf-06671d19e79e"/>
+        <card number="4" name="Temporal Aperture" setShortName="USG" collectorNumber="310" uuid="5b5c2555-c707-4814-933a-c275b9ebc0a3"/>
+        <card number="4" name="Thran Dynamo" setShortName="UDS" collectorNumber="139" uuid="3f0c9dee-fab5-4522-9821-343f84b0c8ab"/>
+        <card number="4" name="Voltaic Key" setShortName="USG" collectorNumber="314" uuid="1aa4baf7-4693-4c55-af04-2fa5d901d701"/>
+        <card number="2" name="Worn Powerstone" setShortName="USG" collectorNumber="318" uuid="2224d7ef-2e2f-47dd-a4a0-e36b3170b124"/>
+        <card number="4" name="Wildfire" setShortName="USG" collectorNumber="228" uuid="72d50972-4549-40cd-9c33-4b341333803f"/>
+        <card number="4" name="Covetous Dragon" setShortName="UDS" collectorNumber="80" uuid="c5f37e36-c004-4b89-a668-5cd984c59019"/>
+        <card number="1" name="Karn, Silver Golem" setShortName="USG" collectorNumber="298" uuid="811a0988-2900-426c-9413-8f1778d99678"/>
+        <card number="3" name="Masticore" setShortName="UDS" collectorNumber="134" uuid="908a2215-7231-43a4-8fec-5d1e4233c028"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mishra's Helix" setShortName="USG" collectorNumber="302" uuid="5c62507f-465d-45e9-96bf-06671d19e79e"/>
+        <card number="1" name="Phyrexian Processor" setShortName="USG" collectorNumber="306" uuid="6875ce99-badd-44da-8e5d-509600efa1d0"/>
+        <card number="4" name="Spellshock" setShortName="EXO" collectorNumber="104" uuid="52db2a78-e1c5-4732-a4ee-04b4c540edbe"/>
+        <card number="3" name="Earthquake" setShortName="6ED" collectorNumber="173" uuid="8f58f85d-905a-4569-b3e6-adafc387c1cb"/>
+        <card number="1" name="Boil" setShortName="TMP" collectorNumber="165" uuid="2fa1c529-44e5-41b6-9704-ae2319f31f13"/>
+        <card number="1" name="Boil" setShortName="6ED" collectorNumber="169" uuid="4e8cd169-0eaa-4430-a175-7f9bbf552929"/>
+        <card number="2" name="Rack and Ruin" setShortName="ULG" collectorNumber="89" uuid="a46e8f6a-3a1a-4c30-9348-4b31882267eb"/>
+        <card number="2" name="Shattering Pulse" setShortName="EXO" collectorNumber="102" uuid="89d3b846-6071-4d65-86ba-da08c4bd0aa1"/>
+    </zone>
+</cockatrice_deck>
