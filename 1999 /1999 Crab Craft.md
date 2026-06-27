@@ -2,7 +2,11 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%AB%E3%83%8B%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88
 
 Format
-- CARD_SET
+- USG
+- EXO
+- STH
+- TMP
+- 5ED
 
 Note
 - INFO
