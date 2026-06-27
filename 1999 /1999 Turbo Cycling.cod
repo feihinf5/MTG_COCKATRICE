@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sat Jun 27 20:03:26 2026</lastLoadedTimestamp>
+    <deckname>1999 Turbo Cycling</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-New York 1999 top 4 deck by Zvi Mowshowitz</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Blasted Landscape" setShortName="USG" collectorNumber="319" uuid="ac71d910-6c50-4894-8092-d39cbb7a83b4"/>
+        <card number="3" name="Drifting Meadow" setShortName="USG" collectorNumber="320" uuid="a8f669f7-0b36-4c82-8e32-15314ec0c0c4"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="335" uuid="8e4ce9ff-c295-475b-b9fa-88ed65a84f35"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="337" uuid="92724530-9c7a-44ab-9381-ee56bfccb641"/>
+        <card number="4" name="Polluted Mire" setShortName="USG" collectorNumber="323" uuid="cfe2c562-ac25-4395-a9f0-8b246c7954b6"/>
+        <card number="4" name="Remote Isle" setShortName="USG" collectorNumber="324" uuid="e48d55ff-10d0-4d9b-9202-02ebb2137953"/>
+        <card number="3" name="Smoldering Crater" setShortName="USG" collectorNumber="328" uuid="e9940ce4-09d7-4e89-b456-e3126a83cfe1"/>
+        <card number="4" name="Tolarian Academy" setShortName="USG" collectorNumber="330" uuid="ad7ac9a5-340f-4509-826c-7b9416d47887"/>
+        <card number="3" name="Lingering Mirage" setShortName="USG" collectorNumber="84" uuid="050b4a82-a1d5-4dcc-9264-96005fdf53f5"/>
+        <card number="2" name="Opportunity" setShortName="ULG" collectorNumber="37" uuid="63a09767-a15d-42b0-aaa3-794a4e11037a"/>
+        <card number="2" name="Rescind" setShortName="USG" collectorNumber="92" uuid="58dde1dc-8eee-4a66-87d9-fdfb42270744"/>
+        <card number="1" name="Yawgmoth's Will" setShortName="USG" collectorNumber="171" uuid="6d3e3c3a-d351-4d91-8884-312d4b6f540d"/>
+        <card number="4" name="Fluctuator" setShortName="USG" collectorNumber="295" uuid="92078408-e0e4-443e-b0fd-aac0ac651f46"/>
+        <card number="4" name="Stroke of Genius" setShortName="USG" collectorNumber="100" uuid="5e977755-8ea4-4a8b-90c4-dd175321e05d"/>
+        <card number="4" name="Grim Monolith" setShortName="ULG" collectorNumber="126" uuid="9ddc9fe1-17c8-4e1d-aeb8-c4214e881280"/>
+        <card number="3" name="Thran Turbine" setShortName="USG" collectorNumber="311" uuid="791c310f-b50d-4993-9add-9f585f6172af"/>
+        <card number="4" name="Voltaic Key" setShortName="USG" collectorNumber="314" uuid="1aa4baf7-4693-4c55-af04-2fa5d901d701"/>
+        <card number="4" name="Frantic Search" setShortName="ULG" collectorNumber="32" uuid="1904db14-6df7-424f-afa5-e3dfab31300a"/>
+        <card number="4" name="Cloud of Faeries" setShortName="ULG" collectorNumber="29" uuid="4e76d04a-0038-4b5b-a026-3056ee940da9"/>
+        <card number="1" name="Palinchron" setShortName="ULG" collectorNumber="38" uuid="5621db3f-a9e7-4350-9c6a-0ba04a628947"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Yawgmoth's Will" setShortName="USG" collectorNumber="171" uuid="6d3e3c3a-d351-4d91-8884-312d4b6f540d"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="336" uuid="bbf69bc5-8ee3-4b17-a3b1-51e35dd2d0dc"/>
+        <card number="2" name="Miscalculation" setShortName="ULG" collectorNumber="36" uuid="4b4956a2-9a39-4152-9c98-70e4b2acfa26"/>
+        <card number="1" name="Opportunity" setShortName="ULG" collectorNumber="37" uuid="63a09767-a15d-42b0-aaa3-794a4e11037a"/>
+        <card number="1" name="Power Sink" setShortName="USG" collectorNumber="89" uuid="662cf693-18c4-4169-bcce-09862778f60c"/>
+        <card number="2" name="Rescind" setShortName="USG" collectorNumber="92" uuid="58dde1dc-8eee-4a66-87d9-fdfb42270744"/>
+        <card number="2" name="Turnabout" setShortName="USG" collectorNumber="105" uuid="52000066-a8cd-418f-98d2-30354b959b32"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="338" uuid="43297ca7-846c-4bc4-a347-997279bc73d6"/>
+        <card number="4" name="Hibernation" setShortName="USG" collectorNumber="79" uuid="68b7444c-fabb-4437-8db9-a1008ea09415"/>
+    </zone>
+</cockatrice_deck>
