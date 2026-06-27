@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1999 Show and Tell MoMa</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>1999 Japan National Championship top 8 deck by Ohashi Ryohei</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Ancient Tomb" setShortName="TMP" collectorNumber="315" uuid="30e401e3-282b-4524-87e1-c6cd50cd6d00"/>
+        <card number="4" name="City of Traitors" setShortName="EXO" collectorNumber="143" uuid="a7a8b6b8-b95f-4014-b17a-a6d44d965995"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="335" uuid="22578bc8-10c6-4598-82bc-70e970a8f518"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="336" uuid="3f891c3f-82e2-4f9d-ae4b-443fce0bdd71"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="338" uuid="5e6e59d7-5038-46b4-9f60-3d9d0cbf0a4e"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="337" uuid="b38e48ff-17c8-470c-ba8b-966da1777e77"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="335" uuid="8e4ce9ff-c295-475b-b9fa-88ed65a84f35"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="336" uuid="bbf69bc5-8ee3-4b17-a3b1-51e35dd2d0dc"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="337" uuid="92724530-9c7a-44ab-9381-ee56bfccb641"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="338" uuid="43297ca7-846c-4bc4-a347-997279bc73d6"/>
+        <card number="1" name="Island" setShortName="6ED" collectorNumber="335" uuid="b3f9ffc8-8115-4858-bd71-deaca9889f72"/>
+        <card number="1" name="Island" setShortName="6ED" collectorNumber="336" uuid="f5e8da7b-f565-403b-9603-5f53cd3be8fe"/>
+        <card number="1" name="Island" setShortName="6ED" collectorNumber="337" uuid="4e8958d4-067b-4815-a128-5d1577b94173"/>
+        <card number="1" name="Island" setShortName="6ED" collectorNumber="338" uuid="64ff74a8-e1e8-41ec-98fc-1529f4075074"/>
+        <card number="4" name="Svyelunite Temple" setShortName="6ED" collectorNumber="329" uuid="8d57618a-21d2-4ded-9f17-d72786869b19"/>
+        <card number="4" name="Grim Monolith" setShortName="ULG" collectorNumber="126" uuid="9ddc9fe1-17c8-4e1d-aeb8-c4214e881280"/>
+        <card number="3" name="Lotus Blossom" setShortName="USG" collectorNumber="300" uuid="46d17e0a-5407-4fde-8eb0-8f580eab5565"/>
+        <card number="1" name="Scroll Rack" setShortName="TMP" collectorNumber="308" uuid="5f7346d8-1aef-4618-88e6-74bd8865e0f3"/>
+        <card number="4" name="Mind Over Matter" setShortName="EXO" collectorNumber="40" uuid="6e091dd6-149f-46ea-bae0-224e79e3aacb"/>
+        <card number="3" name="Diminishing Returns" setShortName="6ED" collectorNumber="65" uuid="6c00fc18-8101-48ff-9842-2b157eb02681"/>
+        <card number="4" name="Prosperity" setShortName="6ED" collectorNumber="89" uuid="5f0c86df-ee91-4bea-bb05-7e5db3558169"/>
+        <card number="4" name="Show and Tell" setShortName="USG" collectorNumber="96" uuid="4b851c17-55ed-4671-b471-dc7b34944432"/>
+        <card number="1" name="Mana Short" setShortName="6ED" collectorNumber="80" uuid="2c2893b8-11e4-4a76-a3bf-6dd86c11ae09"/>
+        <card number="2" name="Counterspell" setShortName="TMP" collectorNumber="57" uuid="dacdd380-71cf-4832-bd02-3697501325f3"/>
+        <card number="3" name="Stroke of Genius" setShortName="USG" collectorNumber="100" uuid="5e977755-8ea4-4a8b-90c4-dd175321e05d"/>
+        <card number="4" name="Intuition" setShortName="TMP" collectorNumber="70" uuid="c99f6785-e5a1-4fdc-9fb5-e1a372e7e848"/>
+        <card number="4" name="Meditate" setShortName="TMP" collectorNumber="76" uuid="edb79a97-c1fc-4aa3-bb13-3d24a6dabeea"/>
+        <card number="2" name="Counterspell" setShortName="6ED" collectorNumber="61" uuid="ee0d3f5f-7790-4772-bead-5d7114a23e94"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Verdant Force" setShortName="TMP" collectorNumber="263" uuid="29bd094c-fcc1-4abf-ba3e-03a5b9b6d1c2"/>
+        <card number="1" name="Annul" setShortName="USG" collectorNumber="59" uuid="3f8c73ff-be92-41ca-93a7-76f9823adb38"/>
+        <card number="4" name="Boomerang" setShortName="6ED" collectorNumber="58" uuid="ef3c7465-6534-4fa9-a772-8859b7210fdf"/>
+        <card number="1" name="Forbid" setShortName="EXO" collectorNumber="35" uuid="29df5ef7-d679-4543-bdb7-3984155c87e0"/>
+        <card number="2" name="Hibernation" setShortName="USG" collectorNumber="79" uuid="68b7444c-fabb-4437-8db9-a1008ea09415"/>
+        <card number="2" name="Mana Short" setShortName="6ED" collectorNumber="80" uuid="2c2893b8-11e4-4a76-a3bf-6dd86c11ae09"/>
+        <card number="1" name="Power Sink" setShortName="TMP" collectorNumber="78" uuid="abc58c34-c3de-47f8-a42f-3a974dcb9c47"/>
+        <card number="1" name="Power Sink" setShortName="USG" collectorNumber="89" uuid="662cf693-18c4-4169-bcce-09862778f60c"/>
+    </zone>
+</cockatrice_deck>
