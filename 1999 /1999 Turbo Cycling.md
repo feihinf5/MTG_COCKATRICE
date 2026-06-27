@@ -7,11 +7,11 @@ Format
 
 Note
 - Pro Tour-New York 1999 top 4 deck by Zvi Mowshowitz
-- Use [**Fluctuator**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to cycle through the deck at high speed
-- Deploy cheap mana artifacts like [**Grim Monolith**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Thran Turbine**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Voltaic Key**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
-- Generate huge amounts of mana using [**Tolarian Academy**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and keep the deck drawing free-cycling-draw
-- Generate infinite mana using the combination of [**Tolarian Academy**] and [**Palinchron**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
-- Cast a massive [**Stroke of Genius**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) targeting the opponent to force them to deck out
+- Use [**Fluctuator**](https://api.scryfall.com/cards/92078408-e0e4-443e-b0fd-aac0ac651f46?format=image) to cycle through the deck at high speed
+- Deploy cheap mana artifacts like [**Grim Monolith**](https://api.scryfall.com/cards/9ddc9fe1-17c8-4e1d-aeb8-c4214e881280?format=image), [**Thran Turbine**](https://api.scryfall.com/cards/791c310f-b50d-4993-9add-9f585f6172af?format=image) and [**Voltaic Key**](https://api.scryfall.com/cards/1aa4baf7-4693-4c55-af04-2fa5d901d701?format=image)
+- Generate huge amounts of mana using [**Tolarian Academy**](https://api.scryfall.com/cards/ad7ac9a5-340f-4509-826c-7b9416d47887?format=image) and keep the deck drawing free-cycling-draw
+- Generate infinite mana using the combination of [**Tolarian Academy**](https://api.scryfall.com/cards/ad7ac9a5-340f-4509-826c-7b9416d47887?format=image) and [**Palinchron**](https://api.scryfall.com/cards/5621db3f-a9e7-4350-9c6a-0ba04a628947?format=image)
+- Cast a massive [**Stroke of Genius**](https://api.scryfall.com/cards/5e977755-8ea4-4a8b-90c4-dd175321e05d?format=image) targeting the opponent to force them to deck out
 - Fluctuator Reanimate deck http://mtgwiki.com/wiki/波動機リアニメイト full of cycling cards and higher winning chance with Fluctuator in opening hand
 - **Fluctuator** banned during April 1999 https://groups.google.com/g/rec.games.trading-cards.magic.rules/c/OVOGe2lz2SU
 
