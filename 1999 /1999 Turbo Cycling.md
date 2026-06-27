@@ -1,5 +1,5 @@
 Reference 
-- http://mtgwiki.com/wiki/%E6%B3%A2%E5%8B%95%E6%A9%9F%E3%83%AA%E3%82%A2%E3%83%8B%E3%83%A1%E3%82%A4%E3%83%88
+- http://mtgwiki.com/wiki/%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%BB%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0
 
 Format
 - ULG
