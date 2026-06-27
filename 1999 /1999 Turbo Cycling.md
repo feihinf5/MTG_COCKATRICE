@@ -20,17 +20,16 @@ Deck
 - 3 Thran Turbine
 - 4 Stroke of Genius
 - 1 Yawgmoth's Will
-- 3 Lingering Mirage 		
-2 	好機/Opportunity 		
-2 	撤回/Rescind 		
-土地 (24) 		
-4 	枯渇地帯/Blasted Landscape 		
-2 	島/Island 		
-3 	漂う牧草地/Drifting Meadow 		
-4 	汚染されたぬかるみ/Polluted Mire 		
-4 	離れ島/Remote Isle 		
-3 	薄煙の火口/Smoldering Crater 		
-4 	トレイリアのアカデミー/Tolarian Academy
+- 3 Lingering Mirage
+- 2 Opportunity
+- 2 Rescind
+- 4 Blasted Landscape
+- 2 Island
+- 3 Drifting Meadow
+- 4 Polluted Mire 		
+- 4 Remote Isle 		
+- 3 Smoldering Crater 		
+- 4 Tolarian Academy
 
 Sideboard
 - 4 Hibernation
