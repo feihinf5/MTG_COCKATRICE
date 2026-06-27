@@ -16,10 +16,10 @@ Format
 Note
 - World Championships 1999 winning deck by Kai Budde
 - Rapidly deploys lands and artifacrs that produce multiple mana
-- Locks down the opponent’s mana using [**Mishra's Helix**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
-- Resets the battlefield using [**Wildfire**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
-- Closes out the game by deploying large threats like [**Covetous Dragon**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Masticore**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
-- Because the deck destroys its own lands too, it can sometimes run out of cards so used [**Temporal Aperture**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as solution
+- Locks down the opponent’s mana using [**Mishra's Helix**](https://api.scryfall.com/cards/5c62507f-465d-45e9-96bf-06671d19e79e?format=image)
+- Resets the battlefield using [**Wildfire**](https://api.scryfall.com/cards/72d50972-4549-40cd-9c33-4b341333803f?format=image)
+- Closes out the game by deploying large threats like [**Covetous Dragon**](https://api.scryfall.com/cards/c5f37e36-c004-4b89-a668-5cd984c59019?format=image) or [**Masticore**](https://api.scryfall.com/cards/908a2215-7231-43a4-8fec-5d1e4233c028?format=image)
+- Because the deck destroys its own lands too, it can sometimes run out of cards so used [**Temporal Aperture**](https://api.scryfall.com/cards/908a2215-7231-43a4-8fec-5d1e4233c028?format=image) as solution
 
 Deck
 - 4 Covetous Dragon
