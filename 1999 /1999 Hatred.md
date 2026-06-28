@@ -12,6 +12,7 @@ Format
 
 Note
 - 1999 Japan National Championship winning deck by Higashino Masayuki
+- Instantly wins the game with a lethal dose of [**Hatred**] the moment an attack breaks through
 
 Deck
 - 4 Carnophage
