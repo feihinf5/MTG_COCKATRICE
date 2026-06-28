@@ -5,7 +5,9 @@ Format
 - CARD_SET
 
 Note
-- INFO
+- Uses [**Living Death**], [**Coffin Queen**] and [**Victimize**] as reanimation tools after [**Recurring Nightmare**] was banned
+- Employs [**Anarchist**] to recover reanimation cards from the graveyard, allowing the deck to reuse them repeatedly
+- Works well with [**Avalanche Riders**]
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
