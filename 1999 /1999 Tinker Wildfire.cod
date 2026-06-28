@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1999 Tinker Wildfire</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-New York 1999 winning deck by Casey McCarrel</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Island" setShortName="USG" collectorNumber="335" uuid="8e4ce9ff-c295-475b-b9fa-88ed65a84f35"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="336" uuid="bbf69bc5-8ee3-4b17-a3b1-51e35dd2d0dc"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="338" uuid="43297ca7-846c-4bc4-a347-997279bc73d6"/>
+        <card number="2" name="Island" setShortName="USG" collectorNumber="337" uuid="92724530-9c7a-44ab-9381-ee56bfccb641"/>
+        <card number="4" name="Mountain" setShortName="USG" collectorNumber="343" uuid="e9d34a2f-09ed-4fb4-891a-890f450699bd"/>
+        <card number="3" name="Mountain" setShortName="USG" collectorNumber="344" uuid="be7e4b30-7f45-4109-b5ed-9223a9422d95"/>
+        <card number="3" name="Mountain" setShortName="USG" collectorNumber="346" uuid="29b39c91-e367-487d-9820-893870df23b1"/>
+        <card number="3" name="Mountain" setShortName="USG" collectorNumber="345" uuid="3d811021-40b1-43b1-88f1-04d711c2ab57"/>
+        <card number="1" name="Remote Isle" setShortName="USG" collectorNumber="324" uuid="e48d55ff-10d0-4d9b-9202-02ebb2137953"/>
+        <card number="1" name="Smoldering Crater" setShortName="USG" collectorNumber="328" uuid="e9940ce4-09d7-4e89-b456-e3126a83cfe1"/>
+        <card number="4" name="Tolarian Academy" setShortName="USG" collectorNumber="330" uuid="ad7ac9a5-340f-4509-826c-7b9416d47887"/>
+        <card number="2" name="Confiscate" setShortName="USG" collectorNumber="66" uuid="7cba6d4a-58d0-42d6-b49b-65c72b86007f"/>
+        <card number="4" name="Grim Monolith" setShortName="ULG" collectorNumber="126" uuid="9ddc9fe1-17c8-4e1d-aeb8-c4214e881280"/>
+        <card number="1" name="Mishra's Helix" setShortName="USG" collectorNumber="302" uuid="5c62507f-465d-45e9-96bf-06671d19e79e"/>
+        <card number="1" name="Phyrexian Processor" setShortName="USG" collectorNumber="306" uuid="6875ce99-badd-44da-8e5d-509600efa1d0"/>
+        <card number="2" name="Ring of Gix" setShortName="ULG" collectorNumber="131" uuid="0b09dc9b-ed01-49de-9675-48c41f428385"/>
+        <card number="3" name="Temporal Aperture" setShortName="USG" collectorNumber="310" uuid="5b5c2555-c707-4814-933a-c275b9ebc0a3"/>
+        <card number="4" name="Voltaic Key" setShortName="USG" collectorNumber="314" uuid="1aa4baf7-4693-4c55-af04-2fa5d901d701"/>
+        <card number="3" name="Worn Powerstone" setShortName="USG" collectorNumber="318" uuid="2224d7ef-2e2f-47dd-a4a0-e36b3170b124"/>
+        <card number="3" name="Arc Lightning" setShortName="USG" collectorNumber="174" uuid="0c81ade7-0074-4447-ba2c-b16fa0f09ccb"/>
+        <card number="1" name="Stroke of Genius" setShortName="USG" collectorNumber="100" uuid="5e977755-8ea4-4a8b-90c4-dd175321e05d"/>
+        <card number="4" name="Wildfire" setShortName="USG" collectorNumber="228" uuid="72d50972-4549-40cd-9c33-4b341333803f"/>
+        <card number="4" name="Tinker" setShortName="ULG" collectorNumber="45" uuid="7da23b15-dfb8-4267-9b33-d7a4c035c434"/>
+        <card number="1" name="Crater Hellion" setShortName="USG" collectorNumber="179" uuid="2382e525-1750-484a-bf95-dbb42bbb30ae"/>
+        <card number="2" name="Phyrexian Colossus" setShortName="PLST" collectorNumber="USG-305" uuid="ab3915f7-e10d-4246-a960-068a00211f4f"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Meltdown" setShortName="USG" collectorNumber="203" uuid="9e7a967a-35a0-4e5c-a32b-123a9cfdb79e"/>
+        <card number="1" name="Morphling" setShortName="USG" collectorNumber="85" uuid="812f4d5c-aacf-4bd8-849d-80a357a7804d"/>
+        <card number="1" name="Shivan Hellkite" setShortName="USG" collectorNumber="214" uuid="8d74f30e-277f-4d8d-ad75-567545a78d97"/>
+        <card number="3" name="Weatherseed Faeries" setShortName="ULG" collectorNumber="48" uuid="8c7ebec7-7375-4362-9489-437ff9305f19"/>
+        <card number="4" name="Rack and Ruin" setShortName="ULG" collectorNumber="89" uuid="a46e8f6a-3a1a-4c30-9348-4b31882267eb"/>
+        <card number="2" name="Hibernation" setShortName="USG" collectorNumber="79" uuid="68b7444c-fabb-4437-8db9-a1008ea09415"/>
+        <card number="2" name="Confiscate" setShortName="USG" collectorNumber="66" uuid="7cba6d4a-58d0-42d6-b49b-65c72b86007f"/>
+    </zone>
+</cockatrice_deck>
