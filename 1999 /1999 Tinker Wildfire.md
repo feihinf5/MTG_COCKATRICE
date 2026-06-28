@@ -7,7 +7,7 @@ Format
 
 Note
 - Pro Tour-New York 1999 winning deck by Casey McCarrel
-- Uses mana artifacts for fast acceleration to deploy large creatures via spells like Tinker
+- Uses mana artifacts for fast acceleration to deploy large creatures via spells like [**Tinker**]
 - Clears the battlefield using Wildfire
 - Strong against Stompy decks due to the board control from Wildfire and Arc Lightning
 - Advantage in mirror matches by running red artifact-destruction cards in the sideboard
