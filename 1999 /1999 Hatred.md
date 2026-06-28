@@ -12,12 +12,25 @@ Format
 
 Note
 - 1999 Japan National Championship winning deck by Higashino Masayuki
-- Instantly wins the game with a lethal dose of [**Hatred**] the moment an attack breaks through
-- Employs [**Dark Ritual**] and [**City of Traitors**] for fast mana, alongside [**Vampiric Tutor**] for card searching
-- Capable of a turn 1 play of three 2/2 creatures via [**Dark Ritual**] so the deck structure is explosive but does not solely rely on the [**Hatred**]
-- [**Duress**] answers anti-Hatred cards, as well as current threats like [**Pyroclasm**] and [**Worship**]
-- [**Stupor**] was adopted to combat MoMa, the dominant top-tier deck of the era
-- Sideboard [**Megrim**] serves as additional anti-MoMa tech to disable [**Mind Over Matter**] and it can be snuck into play via the opponent's [**Show and Tell**]
+- Instantly wins the game with a lethal dose of [**Hatred**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) the moment an attack breaks through
+- Employs [**Dark Ritual**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) and [**City of Traitors**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) for fast mana, alongside [**Vampiric Tutor**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) for card searching
+- Capable of a turn 1 play of three 2/2 creatures via [**Dark Ritual**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) so the deck structure is explosive but does not solely rely on the [**Hatred**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+)
+- [**Duress**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) answers anti-Hatred cards, as well as current threats like [**Pyroclasm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) and [**Worship**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+)
+- [**Stupor**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) was adopted to combat MoMa, the dominant top-tier deck of the era
+- Sideboard [**Megrim**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) serves as additional anti-MoMa tech to disable [**Mind Over Matter**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) and it can be snuck into play via the opponent's [**Show and Tell**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+)
 
 Deck
 - 4 Carnophage
