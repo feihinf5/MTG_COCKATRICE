@@ -28,7 +28,7 @@ Note
 ) was adopted to combat MoMa, the dominant top-tier deck of the era
 - Sideboard [**Megrim**](https://api.scryfall.com/cards/4eacd05b-078a-468c-b137-a802346d348a?format=image
 ) serves as additional anti-MoMa tech to disable [**Mind Over Matter**](https://api.scryfall.com/cards/6e091dd6-149f-46ea-bae0-224e79e3aacb?format=image
-) and it can be snuck into play via the opponent's [**Show and Tell**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) and it can be snuck into play via the opponent's [**Show and Tell**](https://api.scryfall.com/cards/4b851c17-55ed-4671-b471-dc7b34944432?format=image
 )
 
 Deck
