@@ -13,6 +13,11 @@ Format
 Note
 - 1999 Japan National Championship winning deck by Higashino Masayuki
 - Instantly wins the game with a lethal dose of [**Hatred**] the moment an attack breaks through
+- Employs [**Dark Ritual**] and [**City of Traitors**] for fast mana, alongside [**Vampiric Tutor**] for card searching
+- Capable of a turn 1 play of three 2/2 creatures via [**Dark Ritual**] so the deck structure is explosive but does not solely rely on the [**Hatred**]
+- [**Duress**] answers anti-Hatred cards, as well as current threats like [**Pyroclasm**] and [**Worship**]
+- [**Stupor**] was adopted to combat MoMa, the dominant top-tier deck of the era
+- Sideboard [**Megrim**] serves as additional anti-MoMa tech to disable [**Mind Over Matter**] and it can be snuck into play via the opponent's [**Show and Tell**]
 
 Deck
 - 4 Carnophage
