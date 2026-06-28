@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <lastLoadedTimestamp>Sun Jun 28 10:41:43 2026</lastLoadedTimestamp>
     <deckname>1999 Hatred</deckname>
     <format>standard</format>
     <bannerCard providerId=""></bannerCard>
@@ -12,6 +12,7 @@
         <card number="2" name="Swamp" setShortName="TMP" collectorNumber="340" uuid="000366c8-7a43-49d7-a103-ac5bd7efd9aa"/>
         <card number="2" name="Swamp" setShortName="TMP" collectorNumber="342" uuid="9330376c-0242-4e28-b535-26c84b43c3e6"/>
         <card number="2" name="Swamp" setShortName="TMP" collectorNumber="341" uuid="c96dbfea-3b79-4e5b-a356-3c04d1e78e83"/>
+        <card number="2" name="Vampiric Tutor" setShortName="6ED" collectorNumber="161" uuid="c8505bc8-218f-4b56-be78-ebde535ebaa0"/>
         <card number="1" name="Swamp" setShortName="USG" collectorNumber="340" uuid="8a97cc92-6894-4c6f-8c8d-bfc9fdd4f974"/>
         <card number="1" name="Swamp" setShortName="USG" collectorNumber="341" uuid="f72d1102-0ad5-40df-9ca2-26448321d3d1"/>
         <card number="1" name="Swamp" setShortName="USG" collectorNumber="339" uuid="c04dac6d-a7c2-44ee-b735-bd4eade06e4e"/>
@@ -29,7 +30,6 @@
         <card number="1" name="Dark Ritual" setShortName="5ED" collectorNumber="153" uuid="fae25afd-0d16-431c-a85e-7ac91cef9050"/>
         <card number="1" name="Dark Ritual" setShortName="USG" collectorNumber="127" uuid="3f0e9d0d-e1a3-4e0a-bf39-e9aaf4d36d67"/>
         <card number="4" name="Hatred" setShortName="EXO" collectorNumber="64" uuid="2383a8d9-96fd-4f9a-bcf9-eb81fdb15ead"/>
-        <card number="2" name="Vampiric Tutor" setShortName="VIS" collectorNumber="72" uuid="0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d"/>
         <card number="4" name="Carnophage" setShortName="EXO" collectorNumber="53" uuid="d17c057f-cb1b-4895-831a-fb35c75d3845"/>
         <card number="4" name="Dauthi Horror" setShortName="TMP" collectorNumber="122" uuid="c5a8bb3a-3a84-442f-8e31-8af2f04408ab"/>
         <card number="2" name="Dauthi Marauder" setShortName="TMP" collectorNumber="123" uuid="ee847d84-ec8d-4ec3-8436-68d6f144e22f"/>
