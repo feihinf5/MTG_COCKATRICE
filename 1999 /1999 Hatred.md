@@ -22,7 +22,7 @@ Note
 ) so the deck structure is explosive but does not solely rely on the [**Hatred**](https://api.scryfall.com/cards/2383a8d9-96fd-4f9a-bcf9-eb81fdb15ead?format=image
 )
 - [**Duress**](https://api.scryfall.com/cards/ca367f49-0f4a-4b7f-8104-851893fbcd8a?format=image
-) answers anti-Hatred cards, such as [**Worship**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) answers anti-Hatred cards, such as [**Worship**](https://api.scryfall.com/cards/908781a0-1ba4-4027-bd9d-13f9faf08686?format=image
 )
 - [**Stupor**](https://api.scryfall.com/cards/beec72a6-b482-4e04-8491-c6cb0afeb568?format=image
 ) was adopted to combat MoMa, the dominant top-tier deck of the era
