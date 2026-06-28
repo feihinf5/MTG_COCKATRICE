@@ -3,13 +3,37 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%98%E3%82%A4%E3%83%88%E3%83%AC%E3%83%83%E3%83%89
 
 Format
-- CARD_SET
+- 6ED
+- ULG
+- USG
+- EXO
+- STH
+- TMP
 
 Note
-- INFO
+- 1999 Japan National Championship winning deck by Higashino Masayuki
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Carnophage
+- 4 Dauthi Horror
+- 2 Dauthi Warlord
+- 4 Dauthi Slayer
+- 2 Skittering Skirge
+- 2 Dauthi Marauder
+- 4 Dark Ritual
+- 2 Vampiric Tutor
+- 4 Hatred
+- 4 Duress
+- 3 Stupor
+- 4 Sarcomancy
+- 1 Cursed Scroll
+- 16 Swamp
+- 2 Wasteland
+- 2 City of Traitors
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Terror
+- 3 Perish
+- 4 Dread of Night
+- 3 Megrim
+- 3 Cursed Scroll
