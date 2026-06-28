@@ -16,7 +16,7 @@ Note
 ) the moment an attack breaks through
 - Employs [**Dark Ritual**](https://api.scryfall.com/cards/bf4708e8-2149-4990-987c-2ea55fc6c508?format=image
 ) and [**City of Traitors**](https://api.scryfall.com/cards/a7a8b6b8-b95f-4014-b17a-a6d44d965995?format=image
-) for fast mana, alongside [**Vampiric Tutor**](https://api.scryfall.com/cards/0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d?format=image
+) for fast mana, alongside [**Vampiric Tutor**](https://api.scryfall.com/cards/c8505bc8-218f-4b56-be78-ebde535ebaa0?format=image
 ) for card searching
 - Capable of a turn 1 play of three 2/2 creatures via [**Dark Ritual**](https://api.scryfall.com/cards/bf4708e8-2149-4990-987c-2ea55fc6c508?format=image
 ) so the deck structure is explosive but does not solely rely on the [**Hatred**](https://api.scryfall.com/cards/2383a8d9-96fd-4f9a-bcf9-eb81fdb15ead?format=image
