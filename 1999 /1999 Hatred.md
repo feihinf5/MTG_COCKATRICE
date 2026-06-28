@@ -27,7 +27,7 @@ Note
 - [**Stupor**](https://api.scryfall.com/cards/beec72a6-b482-4e04-8491-c6cb0afeb568?format=image
 ) was adopted to combat MoMa, the dominant top-tier deck of the era
 - Sideboard [**Megrim**](https://api.scryfall.com/cards/4eacd05b-078a-468c-b137-a802346d348a?format=image
-) serves as additional anti-MoMa tech to disable [**Mind Over Matter**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
+) serves as additional anti-MoMa tech to disable [**Mind Over Matter**](https://api.scryfall.com/cards/6e091dd6-149f-46ea-bae0-224e79e3aacb?format=image
 ) and it can be snuck into play via the opponent's [**Show and Tell**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 )
 
