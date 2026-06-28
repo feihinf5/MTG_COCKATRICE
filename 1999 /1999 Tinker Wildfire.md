@@ -7,9 +7,9 @@ Format
 
 Note
 - Pro Tour-New York 1999 winning deck by Casey McCarrel
-- Uses mana artifacts for fast acceleration to deploy large creatures via spells like [**Tinker**]
-- Clears the battlefield using Wildfire
-- Strong against Stompy decks due to the board control from Wildfire and Arc Lightning
+- Uses mana artifacts for fast acceleration to deploy large creatures via spells like [**Tinker**](https://api.scryfall.com/cards/7da23b15-dfb8-4267-9b33-d7a4c035c434?format=image)
+- Clears the battlefield using [**Wildfire**](https://api.scryfall.com/cards/72d50972-4549-40cd-9c33-4b341333803f?format=image)
+- Strong against Stompy decks due to the board control from [**Wildfire**](https://api.scryfall.com/cards/72d50972-4549-40cd-9c33-4b341333803f?format=image) and [**Arc Lightning**](https://api.scryfall.com/cards/0c81ade7-0074-4447-ba2c-b16fa0f09ccb?format=image)
 - Advantage in mirror matches by running red artifact-destruction cards in the sideboard
 - [**Tolarian Academy**](https://api.scryfall.com/cards/ad7ac9a5-340f-4509-826c-7b9416d47887?format=image) and [**Voltaic Key**](https://api.scryfall.com/cards/1aa4baf7-4693-4c55-af04-2fa5d901d701?format=image) were banned during Urza block Constructed format June 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
 
