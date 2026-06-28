@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1999 Hatred</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>1999 Japan National Championship winning deck by Higashino Masayuki</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="City of Traitors" setShortName="EXO" collectorNumber="143" uuid="a7a8b6b8-b95f-4014-b17a-a6d44d965995"/>
+        <card number="2" name="Swamp" setShortName="TMP" collectorNumber="339" uuid="5912d2aa-fe91-4cea-9c7a-6dca745f8560"/>
+        <card number="2" name="Swamp" setShortName="TMP" collectorNumber="340" uuid="000366c8-7a43-49d7-a103-ac5bd7efd9aa"/>
+        <card number="2" name="Swamp" setShortName="TMP" collectorNumber="342" uuid="9330376c-0242-4e28-b535-26c84b43c3e6"/>
+        <card number="2" name="Swamp" setShortName="TMP" collectorNumber="341" uuid="c96dbfea-3b79-4e5b-a356-3c04d1e78e83"/>
+        <card number="1" name="Swamp" setShortName="USG" collectorNumber="340" uuid="8a97cc92-6894-4c6f-8c8d-bfc9fdd4f974"/>
+        <card number="1" name="Swamp" setShortName="USG" collectorNumber="341" uuid="f72d1102-0ad5-40df-9ca2-26448321d3d1"/>
+        <card number="1" name="Swamp" setShortName="USG" collectorNumber="339" uuid="c04dac6d-a7c2-44ee-b735-bd4eade06e4e"/>
+        <card number="1" name="Swamp" setShortName="USG" collectorNumber="342" uuid="f7f24df7-65c6-4488-967a-e847bdec7db0"/>
+        <card number="1" name="Swamp" setShortName="6ED" collectorNumber="339" uuid="0e2a9fa6-3c7c-409a-8565-e3d533107971"/>
+        <card number="1" name="Swamp" setShortName="6ED" collectorNumber="340" uuid="92af0cba-c058-4833-a74a-21ad91e5ad7c"/>
+        <card number="1" name="Swamp" setShortName="6ED" collectorNumber="341" uuid="9019a639-929a-40d9-98b1-6b5268da5246"/>
+        <card number="1" name="Swamp" setShortName="6ED" collectorNumber="342" uuid="c576c27d-f361-4448-8607-0f6a99642283"/>
+        <card number="2" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+        <card number="1" name="Cursed Scroll" setShortName="TMP" collectorNumber="281" uuid="31415b9b-fb30-4132-a9a3-795b4573a901"/>
+        <card number="4" name="Sarcomancy" setShortName="TMP" collectorNumber="154" uuid="eb5730f5-a44c-4f75-a26f-90815cfcd31e"/>
+        <card number="4" name="Duress" setShortName="USG" collectorNumber="132" uuid="ca367f49-0f4a-4b7f-8104-851893fbcd8a"/>
+        <card number="3" name="Stupor" setShortName="6ED" collectorNumber="158" uuid="beec72a6-b482-4e04-8491-c6cb0afeb568"/>
+        <card number="2" name="Dark Ritual" setShortName="TMP" collectorNumber="118" uuid="bf4708e8-2149-4990-987c-2ea55fc6c508"/>
+        <card number="1" name="Dark Ritual" setShortName="5ED" collectorNumber="153" uuid="fae25afd-0d16-431c-a85e-7ac91cef9050"/>
+        <card number="1" name="Dark Ritual" setShortName="USG" collectorNumber="127" uuid="3f0e9d0d-e1a3-4e0a-bf39-e9aaf4d36d67"/>
+        <card number="4" name="Hatred" setShortName="EXO" collectorNumber="64" uuid="2383a8d9-96fd-4f9a-bcf9-eb81fdb15ead"/>
+        <card number="2" name="Vampiric Tutor" setShortName="VIS" collectorNumber="72" uuid="0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d"/>
+        <card number="4" name="Carnophage" setShortName="EXO" collectorNumber="53" uuid="d17c057f-cb1b-4895-831a-fb35c75d3845"/>
+        <card number="4" name="Dauthi Horror" setShortName="TMP" collectorNumber="122" uuid="c5a8bb3a-3a84-442f-8e31-8af2f04408ab"/>
+        <card number="2" name="Dauthi Marauder" setShortName="TMP" collectorNumber="123" uuid="ee847d84-ec8d-4ec3-8436-68d6f144e22f"/>
+        <card number="4" name="Dauthi Slayer" setShortName="TMP" collectorNumber="126" uuid="652ccd79-aefd-4b45-b747-75190da0cfc6"/>
+        <card number="2" name="Dauthi Warlord" setShortName="EXO" collectorNumber="59" uuid="af3ca689-482a-457d-9744-0bd79981f361"/>
+        <card number="2" name="Skittering Skirge" setShortName="USG" collectorNumber="158" uuid="93aba9d5-5f96-4aba-8248-74398b8bfe9d"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Cursed Scroll" setShortName="TMP" collectorNumber="281" uuid="31415b9b-fb30-4132-a9a3-795b4573a901"/>
+        <card number="2" name="Dread of Night" setShortName="6ED" collectorNumber="122" uuid="a4105fb4-ab13-4a34-810b-1d294c5a6eee"/>
+        <card number="2" name="Dread of Night" setShortName="TMP" collectorNumber="130" uuid="d08586d4-8163-454c-b8d8-c5034c4aee6c"/>
+        <card number="3" name="Megrim" setShortName="STH" collectorNumber="62" uuid="4eacd05b-078a-468c-b137-a802346d348a"/>
+        <card number="3" name="Perish" setShortName="6ED" collectorNumber="148" uuid="77192bdf-d89f-45a1-a30b-20107e990031"/>
+        <card number="2" name="Terror" setShortName="6ED" collectorNumber="160" uuid="fe73e689-b9da-4b1e-9809-c25056c06048"/>
+    </zone>
+</cockatrice_deck>
