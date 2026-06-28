@@ -11,9 +11,9 @@ Format
 
 Note
 - Asia Pacific Championship 1999 winning deck by Mori Masaya
-- Uses [**Living Death**], [**Coffin Queen**] and [**Victimize**] as reanimation tools after [**Recurring Nightmare**] was banned
-- Employs [**Anarchist**] to recover reanimation cards from the graveyard, allowing the deck to reuse them repeatedly
-- Works well with [**Avalanche Riders**]
+- Uses [**Living Death**](https://api.scryfall.com/cards/6c820476-fbda-4073-baf6-51e71f45ed58?format=image), [**Coffin Queen**](https://api.scryfall.com/cards/edf8af70-c26d-4b78-aad6-bd51b5afc590?format=image) and [**Victimize**](https://api.scryfall.com/cards/caafe7da-0167-4c53-bbad-172f900d137b?format=image) as reanimation tools after [**Recurring Nightmare**](https://api.scryfall.com/cards/c8173030-1c33-417c-b8e9-79231b6a85a7?format=image) was banned during March 1999 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
+- Employs [**Anarchist**](https://api.scryfall.com/cards/a298df66-2075-40a7-bced-457656b6b788?format=image) to recover reanimation cards from the graveyard, allowing the deck to reuse them repeatedly
+- Works well with [**Avalanche Riders**](https://api.scryfall.com/cards/3bdc5330-c76b-40ca-a694-58fa4b9b7304?format=image)
 
 Deck
 - 4 Birds of Paradise
