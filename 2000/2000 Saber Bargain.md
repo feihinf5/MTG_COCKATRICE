@@ -11,10 +11,10 @@ Format
 
 Note
 - Magic: The Gathering Invitational 2000 played by Jon Finkel
-- Initiate the combo by getting both [**Yawgmoth's Bargain**] and [**Skirge Familiar**] onto the battlefield
-- Pay life to draw cards using [**Yawgmoth's Bargain**] to find [**Soul Feast**]
-- Discard unneeded drawn cards to [**Skirge Familiar**] to generate the mana required to cast it
-- Repeat this process 5 times, utilizing [**Yawgmoth's Will**] to recast spells from the graveyard to drain all 20 of the opponent's life points for the win
+- Initiate the combo by getting both [**Yawgmoth's Bargain**](https://api.scryfall.com/cards/86901bf2-7722-43f8-b879-7a30630371fa?format=image) and [**Skirge Familiar**](https://api.scryfall.com/cards/935ee538-3ea1-4a80-bb8f-01d562f63b5d?format=image) onto the battlefield
+- Pay life to draw cards using [**Yawgmoth's Bargain**](https://api.scryfall.com/cards/86901bf2-7722-43f8-b879-7a30630371fa?format=image) to find [**Soul Feast**](https://api.scryfall.com/cards/9417a9db-5101-4fe1-84b7-283ca1fd42e5?format=image)
+- Discard unneeded drawn cards to [**Skirge Familiar**](https://api.scryfall.com/cards/935ee538-3ea1-4a80-bb8f-01d562f63b5d?format=image) to generate the mana required to cast it
+- Repeat this process 5 times, utilizing [**Yawgmoth's Will**](https://api.scryfall.com/cards/86901bf2-7722-43f8-b879-7a30630371fa?format=image) to recast spells from the graveyard to drain all 20 of the opponent's life points for the win
 - While the core combo elements are Mono-Black, the deck is typically built as Black-White to include sideboard cards
 
 Deck
