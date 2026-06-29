@@ -29,7 +29,7 @@ Deck
 - 3 Hammer of Bogardan
 - 4 Pillage
 - 4 Shock
-  4 Stone Rain 			
+- 4 Stone Rain 			
 
 Sideboard
 - 1 Arc Lightning
