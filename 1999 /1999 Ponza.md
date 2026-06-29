@@ -3,14 +3,39 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_1999
 
 Format
-- CARD_SET
+- UDS
+- 6ED
+- ULG
+- USG
+- EXO
+- STH
+- TMP
 
 Note
 - World Championships 1999 top 4 deck by Mark Le Pine
 - Mono red land destruction deck
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 16 Mountain
+- 2 Ancient Tomb
+- 2 Ghitu Encampment
+- 4 Wasteland
+- 4 Avalanche Riders
+- 3 Fireslinger
+- 4 Jackal Pup
+- 4 Mogg Fanatic
+- 2 Arc Lightning
+- 4 Cursed Scroll
+- 3 Hammer of Bogardan
+- 4 Pillage
+- 4 Shock
+  4 Stone Rain 			
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Arc Lightning
+- 1 Fireslinger
+- 1 Flowstone Flood
+- 2 Masticore
+- 4 Scald
+- 2 Shattering Pulse
+- 4 Thran Foundry
