@@ -17,7 +17,7 @@ Note
 - On your opponent's end step, you cast [**Waylay**](https://api.scryfall.com/cards/867a33ee-0340-413a-8243-9d6bc2d944e2?format=image) to get three 2/2 Knight tokens
 - The turn ends, and the three 2/2 Knight tokens survive
 - Your turn begins and because the three 2/2 Knight tokens were created during the previous turn, they no longer have summoning sickness
-- You swing with three 2/2 Knight tokens and dealing 6 power worth of damage for just 3 white mana, similar to [**Ball Lightning**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- You swing with three 2/2 Knight tokens and dealing 6 power worth of damage for just 3 white mana, similar to [**Ball Lightning**](https://api.scryfall.com/cards/c1ba83ab-83f5-421d-bba1-0f925870b5c8?format=image)
 - At the end of your turn, the the 2/2 Knight tokens are finally destroyed
 - The above not working anymore due to current rule text on the card is **Exile them at the beginning of the next cleanup step**
 
