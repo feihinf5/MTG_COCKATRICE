@@ -12,7 +12,7 @@ Format
 - TMP
 
 Note
-- INFO
+- World Championships 1999 top 8 deck by Jakub Slemr
 
 Deck
 - 15 Swamp
