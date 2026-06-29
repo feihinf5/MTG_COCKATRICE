@@ -11,6 +11,11 @@ Format
 
 Note
 - Magic: The Gathering Invitational 2000 played by Jon Finkel
+- Initiate the combo by getting both [**Yawgmoth's Bargain**] and [**Skirge Familiar**] onto the battlefield
+- Pay life to draw cards using [**Yawgmoth's Bargain**] to find [**Soul Feast**]
+- Discard unneeded drawn cards to [**Skirge Familiar**] to generate the mana required to cast it
+- Repeat this process 5 times, utilizing [**Yawgmoth's Will**] to recast spells from the graveyard to drain all 20 of the opponent's life points for the win
+- While the core combo elements are Mono-Black, the deck is typically built as Black-White to include sideboard cards
 
 Deck
 - 4 Academy Rector
