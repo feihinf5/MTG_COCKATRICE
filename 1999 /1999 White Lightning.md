@@ -19,7 +19,7 @@ Note
 - Your turn begins and because the three 2/2 Knight tokens were created during the previous turn, they no longer have summoning sickness
 - You swing with three 2/2 Knight tokens and dealing 6 power worth of damage for just 3 white mana, similar to [**Ball Lightning**]
 - At the end of your turn, the the 2/2 Knight tokens are finally destroyed
-- Current rule text on the card is **Exile them at the beginning of the next cleanup step** hence the above not longer working anymore
+- The above not working anymore due to current rule text on the card is **Exile them at the beginning of the next cleanup step**
 
 Deck
 - 4 Longbow Archer
