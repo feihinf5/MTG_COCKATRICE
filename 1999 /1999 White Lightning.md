@@ -13,8 +13,8 @@ Format
 Note
 - 1999 United States National Championship winning deck by Kyle Rose
 - Under 6ED rules, **at end of turn**, triggers checked for targets right at the beginning of the end step
-- If [**Waylay**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) casts during opponent's end step, right after the game checked for end-of-turn triggers, the cleanup trigger wouldn't fire again until the next turn's end step, see the example below
-- On your opponent's end step, you cast [**Waylay**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to get three 2/2 Knight tokens
+- If [**Waylay**](https://api.scryfall.com/cards/867a33ee-0340-413a-8243-9d6bc2d944e2?format=image) casts during opponent's end step, right after the game checked for end-of-turn triggers, the cleanup trigger wouldn't fire again until the next turn's end step, see the example below
+- On your opponent's end step, you cast [**Waylay**](https://api.scryfall.com/cards/867a33ee-0340-413a-8243-9d6bc2d944e2?format=image) to get three 2/2 Knight tokens
 - The turn ends, and the three 2/2 Knight tokens survive
 - Your turn begins and because the three 2/2 Knight tokens were created during the previous turn, they no longer have summoning sickness
 - You swing with three 2/2 Knight tokens and dealing 6 power worth of damage for just 3 white mana, similar to [**Ball Lightning**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
