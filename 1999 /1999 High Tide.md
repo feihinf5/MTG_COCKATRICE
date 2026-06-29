@@ -22,10 +22,29 @@ Format
 - 3ED
 
 Note
-- INFO
+- Grand Prix-Vienna 1999 winning deck by Kai Budde
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 1 Palinchron
+- 3 Merchant Scroll
+- 4 Time Spiral
+- 1 Brainstorm
+- 1 Mystical Tutor
+- 4 High Tide
+- 2 Arcane Denial
+- 4 Impulse
+- 4 Counterspell
+- 3 Frantic Search
+- 3 Turnabout
+- 4 Force of Will
+- 3 Stroke of Genius
+- 16 Island
+- 3 Volcanic Island
+- 4 Thawing Glaciers
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 4 Ophidian
+- 2 Null Rod
+- 4 Hydroblast
+- 4 Pyroblast
+- 1 Mountain
