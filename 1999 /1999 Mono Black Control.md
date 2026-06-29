@@ -13,6 +13,9 @@ Format
 
 Note
 - World Championships 1999 top 8 deck by Jakub Slemr
+- Utilize [**Yawgmoth's Will**] and [**Duress**]
+- [**Powder Keg**] is to deal with troublesome permanents
+- [**Corpse Dance**] or [**Volrath's Stronghold**] to repeatedly reuse creature abilities
 
 Deck
 - 15 Swamp
