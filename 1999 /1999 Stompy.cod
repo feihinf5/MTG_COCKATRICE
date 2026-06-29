@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sat Jun 13 21:46:29 2026</lastLoadedTimestamp>
+    <deckname>1999 Stompy</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1999 top 4 deck by Matt Linde</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Rancor" setShortName="ULG" collectorNumber="110" uuid="59e256c2-38df-4012-9308-ce17dd889e5f"/>
+        <card number="4" name="Giant Growth" setShortName="6ED" collectorNumber="233" uuid="c9299742-564b-48ca-a7fa-cf5ed0d98ef6"/>
+        <card number="4" name="Cursed Scroll" setShortName="TMP" collectorNumber="281" uuid="31415b9b-fb30-4132-a9a3-795b4573a901"/>
+        <card number="4" name="Albino Troll" setShortName="USG" collectorNumber="231" uuid="58a3c112-f0c1-4d30-8df6-63fc01356a4f"/>
+        <card number="4" name="Elvish Lyrist" setShortName="USG" collectorNumber="248" uuid="1c63ea60-4ce0-4dc7-bda6-7f623b0f9e2a"/>
+        <card number="4" name="Llanowar Elves" setShortName="6ED" collectorNumber="239" uuid="bb95a9a7-b0a3-4199-8c05-2519ccda738b"/>
+        <card number="4" name="Pouncing Jaguar" setShortName="USG" collectorNumber="269" uuid="d35ac6e5-3e46-4290-9683-51d6f54e4edf"/>
+        <card number="4" name="River Boa" setShortName="6ED" collectorNumber="249" uuid="fff58d35-eb23-47ee-9b8c-6919ad1a413a"/>
+        <card number="2" name="Uktabi Orangutan" setShortName="6ED" collectorNumber="260" uuid="b6a944ef-dbf2-47c9-a245-dfd2533a0680"/>
+        <card number="4" name="Wild Dogs" setShortName="USG" collectorNumber="284" uuid="7c7811e2-8bff-44a9-96bf-8e302c3cade9"/>
+        <card number="1" name="Forest" setShortName="TMP" collectorNumber="350" uuid="32411c3a-da2b-4316-9848-971e90951303"/>
+        <card number="2" name="Forest" setShortName="TMP" collectorNumber="349" uuid="6b667225-a808-43e9-955e-6c4e7ecd53f2"/>
+        <card number="2" name="Forest" setShortName="TMP" collectorNumber="348" uuid="72bac71a-c326-4640-bdf8-43682f59060b"/>
+        <card number="1" name="Forest" setShortName="TMP" collectorNumber="347" uuid="36b3ffbd-3f3e-4fca-80c2-94f9fdc198a5"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="350" uuid="0b43815e-8b8a-4745-bdf3-f72c8d60c48c"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="349" uuid="a8990632-f055-4583-ae85-5ac742549b61"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="348" uuid="c151d945-7da0-4ab8-b0db-e41d10c0eb91"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="347" uuid="b38c68a5-86eb-4fb2-8a43-4a7d63195462"/>
+        <card number="1" name="Forest" setShortName="6ED" collectorNumber="350" uuid="4e57a496-09ce-4c2d-9a00-0c359d01e78e"/>
+        <card number="1" name="Forest" setShortName="6ED" collectorNumber="349" uuid="7ade2cdc-9625-427b-92b2-9596ac48904b"/>
+        <card number="1" name="Forest" setShortName="6ED" collectorNumber="348" uuid="451c256a-1f0e-4e57-9667-5b8cb2f18ff0"/>
+        <card number="1" name="Forest" setShortName="6ED" collectorNumber="347" uuid="dc477b44-a7b3-4dda-b897-6f164e28541b"/>
+        <card number="4" name="Gaea's Cradle" setShortName="USG" collectorNumber="321" uuid="25b0b816-0583-44aa-9dc5-f3ff48993a51"/>
+        <card number="4" name="Treetop Village" setShortName="ULG" collectorNumber="143" uuid="02212bd8-0c0f-4e8e-99f1-a8477476c03a"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Uktabi Orangutan" setShortName="6ED" collectorNumber="260" uuid="b6a944ef-dbf2-47c9-a245-dfd2533a0680"/>
+        <card number="2" name="Weatherseed Treefolk" setShortName="ULG" collectorNumber="116" uuid="f42cce45-3b6a-43e2-8329-68c30135c5c1"/>
+        <card number="1" name="Hurricane" setShortName="6ED" collectorNumber="237" uuid="516ea4e2-a64e-4aa7-ade1-bbf6b67ce831"/>
+        <card number="2" name="Overrun" setShortName="TMP" collectorNumber="243" uuid="0ad7a961-d3a1-471a-8472-8407d1057de0"/>
+        <card number="2" name="Constant Mists" setShortName="STH" collectorNumber="104" uuid="97a8a5fe-0391-489b-9556-0a1bf7e1900d"/>
+        <card number="3" name="Choke" setShortName="TMP" collectorNumber="219" uuid="e2f85205-3c4f-4411-b09c-d1271be56dde"/>
+        <card number="3" name="Thran Foundry" setShortName="UDS" collectorNumber="140" uuid="9cdc0d42-d96f-490f-87cb-3577dfdce807"/>
+    </zone>
+</cockatrice_deck>
