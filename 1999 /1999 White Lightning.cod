@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1999 White Lightning</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>1999 United States National Championship winning deck by Kyle Rose</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Plains" setShortName="TMP" collectorNumber="331" uuid="62e339a9-3f9b-401e-a459-dc3affc9a114"/>
+        <card number="2" name="Plains" setShortName="TMP" collectorNumber="332" uuid="da37f78a-a0a6-4ca3-921c-4bc2c17ccda6"/>
+        <card number="2" name="Plains" setShortName="TMP" collectorNumber="334" uuid="c7f7baf6-de14-40f8-871f-dda889672608"/>
+        <card number="2" name="Plains" setShortName="TMP" collectorNumber="333" uuid="3bd35bef-1702-4b3d-b149-8761c5cc5ed9"/>
+        <card number="2" name="Plains" setShortName="USG" collectorNumber="331" uuid="b9e35567-05df-4a3f-8c29-d8327abc2e8d"/>
+        <card number="2" name="Plains" setShortName="USG" collectorNumber="332" uuid="a34ef351-2864-42f6-8943-75bb6fffc9f7"/>
+        <card number="2" name="Plains" setShortName="USG" collectorNumber="333" uuid="54db7822-ebed-4c7c-8ede-469d72fd694a"/>
+        <card number="2" name="Plains" setShortName="USG" collectorNumber="334" uuid="11f87b5c-78b4-443c-ad92-f37bb62d0bbe"/>
+        <card number="1" name="Plains" setShortName="6ED" collectorNumber="331" uuid="d3c1ab59-3771-484c-8a79-2bb36655b6dd"/>
+        <card number="1" name="Plains" setShortName="6ED" collectorNumber="332" uuid="c789adc0-69ed-4d1c-8a20-ca219020fd2c"/>
+        <card number="1" name="Plains" setShortName="6ED" collectorNumber="333" uuid="6addf844-2790-4da5-a22d-18df878f2219"/>
+        <card number="1" name="Plains" setShortName="6ED" collectorNumber="334" uuid="7978fa58-0860-4082-a674-2d6abce899b9"/>
+        <card number="2" name="Disenchant" setShortName="TMP" collectorNumber="16" uuid="8a65e678-dcb9-4c6c-9a30-8332030dead6"/>
+        <card number="1" name="Disenchant" setShortName="USG" collectorNumber="12" uuid="1da67d77-1cbd-4f0e-a109-87fb4c84bcca"/>
+        <card number="1" name="Disenchant" setShortName="6ED" collectorNumber="16" uuid="47578ce0-dbaa-4a15-b46c-2fd2cb352be9"/>
+        <card number="4" name="Waylay" setShortName="USG" collectorNumber="56" uuid="867a33ee-0340-413a-8243-9d6bc2d944e2"/>
+        <card number="4" name="Crusade" setShortName="6ED" collectorNumber="13" uuid="5f3f5f07-f692-4531-81b6-31813574ec12"/>
+        <card number="2" name="Glorious Anthem" setShortName="USG" collectorNumber="15" uuid="61f867c5-0727-4408-b479-b81518daa0ec"/>
+        <card number="4" name="Longbow Archer" setShortName="6ED" collectorNumber="30" uuid="2fdac001-4cfb-4991-ac70-d430750d5047"/>
+        <card number="2" name="Masticore" setShortName="UDS" collectorNumber="134" uuid="908a2215-7231-43a4-8fec-5d1e4233c028"/>
+        <card number="4" name="Mother of Runes" setShortName="ULG" collectorNumber="14" uuid="0b1a46ab-95cb-4c24-924f-fc2afd4fcac7"/>
+        <card number="4" name="Soltari Foot Soldier" setShortName="TMP" collectorNumber="43" uuid="bdf295dc-72df-4097-b767-d89ab807bf2e"/>
+        <card number="4" name="Soltari Priest" setShortName="TMP" collectorNumber="46" uuid="35a71390-3fa8-43eb-ad86-67de2a7aeab8"/>
+        <card number="4" name="Soul Warden" setShortName="EXO" collectorNumber="21" uuid="d5ee24ee-4d28-4634-bd43-90eff15c16dd"/>
+        <card number="4" name="Warrior en-Kor" setShortName="STH" collectorNumber="23" uuid="16a9ca33-3e9b-4ed9-b503-a1c09c17ca8b"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Plains" setShortName="6ED" collectorNumber="331" uuid="d3c1ab59-3771-484c-8a79-2bb36655b6dd"/>
+        <card number="2" name="Wrath of God" setShortName="6ED" collectorNumber="54" uuid="e5513964-1cad-4083-a3a5-1e55ec145a6e"/>
+        <card number="2" name="Worship" setShortName="USG" collectorNumber="57" uuid="908781a0-1ba4-4027-bd9d-13f9faf08686"/>
+        <card number="3" name="Humility" setShortName="TMP" collectorNumber="24" uuid="a2fb7128-806b-4148-80fe-eb967f248021"/>
+        <card number="3" name="Field Surgeon" setShortName="UDS" collectorNumber="8" uuid="bb830403-0832-47f7-b4b4-4f241f1b9112"/>
+        <card number="1" name="Armageddon" setShortName="6ED" collectorNumber="4" uuid="ccf3abe6-0b86-4010-8fc6-616af77b4ace"/>
+        <card number="1" name="Erase" setShortName="ULG" collectorNumber="7" uuid="05c89d61-3c2e-4d70-86d6-f70eba3d327f"/>
+        <card number="2" name="Allay" setShortName="EXO" collectorNumber="1" uuid="f20a1c6d-ec6a-4bd6-b3b2-b997f71d41fc"/>
+    </zone>
+</cockatrice_deck>
