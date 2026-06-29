@@ -23,10 +23,10 @@ Format
 
 Note
 - Grand Prix-Vienna 1999 winning deck by Kai Budde
-- [**Time Spiral**] and [**Frantic Search**] are incredibly efficient as they simultaneously provide card draw and mana acceleration
-- The infinite mana combo using High Tide and Palinchron
+- [**Time Spiral**](https://api.scryfall.com/cards/f3d62dbd-63db-4ac9-950f-9852627f23f2?format=image) and [**Frantic Search**](https://api.scryfall.com/cards/1904db14-6df7-424f-afa5-e3dfab31300a?format=image) are incredibly efficient as they simultaneously provide card draw and mana acceleration
+- The infinite mana combo using [**High Tide**](https://api.scryfall.com/cards/4686bbb9-517f-4cce-aa7a-5db41e22c02b?format=image) and [**Palinchron**](https://api.scryfall.com/cards/5621db3f-a9e7-4350-9c6a-0ba04a628947?format=image)
 - Casting a massive Stroke of Genius to force the opponent to lose via library out
-- [**Time Spiral**] was banned in Extended format from 1999 June https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
+- [**Time Spiral**](https://api.scryfall.com/cards/f3d62dbd-63db-4ac9-950f-9852627f23f2?format=image) was banned in Extended format from 1999 June https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1999
 
 Deck
 - 1 Palinchron
