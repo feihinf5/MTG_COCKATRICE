@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sat Jun 13 09:38:11 2026</lastLoadedTimestamp>
+    <deckname>1999 High Tide</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Vienna 1999 winning deck by Kai Budde</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Island" setShortName="3ED" collectorNumber="297" uuid="bec8018f-a12c-4adf-9735-c2093298062d"/>
+        <card number="1" name="Island" setShortName="3ED" collectorNumber="296" uuid="a000777b-e8fe-4fd6-a455-01bc9056a873"/>
+        <card number="1" name="Island" setShortName="3ED" collectorNumber="295" uuid="22f6e971-349d-498b-ae01-ab81ce21772c"/>
+        <card number="1" name="Island" setShortName="4ED" collectorNumber="369" uuid="33a05f9a-1285-4d14-b827-8b81968e09df"/>
+        <card number="1" name="Island" setShortName="4ED" collectorNumber="368" uuid="6e5e3819-3d75-40d4-9a93-1147834dfd69"/>
+        <card number="1" name="Island" setShortName="4ED" collectorNumber="367" uuid="b06bbd6e-eb0d-45fc-88ef-0e085d6505ef"/>
+        <card number="1" name="Island" setShortName="ICE" collectorNumber="370" uuid="82f11c42-9d67-4833-9519-e165e6a7e9c4"/>
+        <card number="1" name="Island" setShortName="ICE" collectorNumber="369" uuid="61a467ab-4460-4e5e-94c1-8150bfe0c954"/>
+        <card number="1" name="Island" setShortName="ICE" collectorNumber="368" uuid="ef2d6fc9-ddad-4dd2-b218-afa1a5449b7e"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="338" uuid="a39fc1e0-caf0-4cfa-bbf2-fea7ca32c00d"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="337" uuid="1e571f07-167f-4a7d-8f98-0c98d7d15e81"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="336" uuid="776912e7-fa16-4d71-b830-0a5d35f38297"/>
+        <card number="1" name="Island" setShortName="MIR" collectorNumber="335" uuid="df84bf1b-8698-4c3e-baa9-926f0efc6a12"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="437" uuid="da1218e0-8c75-4f8e-b317-051ce84949a5"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="436" uuid="09376cac-44bd-42c4-9c07-9e4d6c972a64"/>
+        <card number="1" name="Island" setShortName="5ED" collectorNumber="435" uuid="6fbf2762-1e9c-4d7c-84d0-8561d9a41735"/>
+        <card number="4" name="Thawing Glaciers" setShortName="ALL" collectorNumber="144" uuid="6411a8c6-010f-4863-a0fa-bbebe09d5c34"/>
+        <card number="3" name="Volcanic Island" setShortName="3ED" collectorNumber="291" uuid="b12e5430-0e80-47dd-80ac-85728b656a24"/>
+        <card number="1" name="Arcane Denial" setShortName="ALL" collectorNumber="22a" uuid="b0c5728e-43e7-417a-ba18-5038345cec67"/>
+        <card number="1" name="Arcane Denial" setShortName="ALL" collectorNumber="22b" uuid="415a3104-90e6-4235-b67f-69337c7fe714"/>
+        <card number="1" name="Brainstorm" setShortName="ICE" collectorNumber="61" uuid="8d42d7aa-7f53-4cfc-842a-086aab2448d1"/>
+        <card number="1" name="Counterspell" setShortName="3ED" collectorNumber="54" uuid="0a1b4e2e-5459-4fae-81d9-1e882647daac"/>
+        <card number="1" name="Counterspell" setShortName="4ED" collectorNumber="65" uuid="e8493631-6c9c-40a8-b7de-ecf26ba6bf7d"/>
+        <card number="1" name="Counterspell" setShortName="ICE" collectorNumber="64" uuid="aedbcbaa-40f0-485f-8427-778edc2d2ec0"/>
+        <card number="1" name="Counterspell" setShortName="5ED" collectorNumber="77" uuid="b975289d-d8b8-46b4-8c60-d6ed4b594519"/>
+        <card number="4" name="Force of Will" setShortName="ALL" collectorNumber="28" uuid="9a879b60-4381-447d-8a5a-8e0b6a1d49ca"/>
+        <card number="3" name="Frantic Search" setShortName="ULG" collectorNumber="32" uuid="1904db14-6df7-424f-afa5-e3dfab31300a"/>
+        <card number="4" name="High Tide" setShortName="FEM" collectorNumber="18a" uuid="4686bbb9-517f-4cce-aa7a-5db41e22c02b"/>
+        <card number="4" name="Impulse" setShortName="VIS" collectorNumber="34" uuid="9d710a97-062f-4773-b6c6-8aeddeb3b6e8"/>
+        <card number="1" name="Mystical Tutor" setShortName="MIR" collectorNumber="80" uuid="5d98101f-e32a-4a4a-a649-faa920d111ee"/>
+        <card number="3" name="Stroke of Genius" setShortName="USG" collectorNumber="100" uuid="5e977755-8ea4-4a8b-90c4-dd175321e05d"/>
+        <card number="3" name="Turnabout" setShortName="USG" collectorNumber="105" uuid="52000066-a8cd-418f-98d2-30354b959b32"/>
+        <card number="3" name="Merchant Scroll" setShortName="HML" collectorNumber="33" uuid="d4133ceb-6176-411a-9eb8-51721c1bb435"/>
+        <card number="4" name="Time Spiral" setShortName="USG" collectorNumber="103" uuid="f3d62dbd-63db-4ac9-950f-9852627f23f2"/>
+        <card number="1" name="Palinchron" setShortName="ULG" collectorNumber="38" uuid="5621db3f-a9e7-4350-9c6a-0ba04a628947"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mountain" setShortName="3ED" collectorNumber="301" uuid="30345500-d430-4280-bfe3-de297309f136"/>
+        <card number="2" name="Hydroblast" setShortName="ICE" collectorNumber="72" uuid="f62716f0-fde2-49ef-b8a4-c1b03f451194"/>
+        <card number="2" name="Hydroblast" setShortName="5ED" collectorNumber="94" uuid="89a30b8f-6594-42ea-8e60-13ccb1e7efc0"/>
+        <card number="2" name="Pyroblast" setShortName="5ED" collectorNumber="262" uuid="15d2d7cd-d29d-4f19-8490-88bd526ff1c5"/>
+        <card number="2" name="Pyroblast" setShortName="ICE" collectorNumber="213" uuid="c342cac5-08ae-4428-9c2c-f6c5904e54d2"/>
+        <card number="2" name="Null Rod" setShortName="WTH" collectorNumber="154" uuid="bc45f2cb-c256-4a0f-879a-c7db5b1a0b94"/>
+        <card number="4" name="Ophidian" setShortName="WTH" collectorNumber="45" uuid="0de0a010-76a7-460f-bb4e-a152c10c3bb7"/>
+    </zone>
+</cockatrice_deck>
