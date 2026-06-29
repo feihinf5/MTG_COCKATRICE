@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sat Jun 13 22:20:28 2026</lastLoadedTimestamp>
+    <deckname>1999 Mono Black Control</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships deck by Jakub Slemr</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Duress" setShortName="USG" collectorNumber="132" uuid="ca367f49-0f4a-4b7f-8104-851893fbcd8a"/>
+        <card number="2" name="Stupor" setShortName="6ED" collectorNumber="158" uuid="beec72a6-b482-4e04-8491-c6cb0afeb568"/>
+        <card number="3" name="Yawgmoth's Will" setShortName="USG" collectorNumber="171" uuid="6d3e3c3a-d351-4d91-8884-312d4b6f540d"/>
+        <card number="4" name="Powder Keg" setShortName="UDS" collectorNumber="136" uuid="4d9715c2-9036-4ae2-a5b4-1b190d50c963"/>
+        <card number="3" name="Cursed Scroll" setShortName="TMP" collectorNumber="281" uuid="31415b9b-fb30-4132-a9a3-795b4573a901"/>
+        <card number="2" name="Dark Ritual" setShortName="TMP" collectorNumber="118" uuid="bf4708e8-2149-4990-987c-2ea55fc6c508"/>
+        <card number="1" name="Vampiric Tutor" setShortName="6ED" collectorNumber="161" uuid="c8505bc8-218f-4b56-be78-ebde535ebaa0"/>
+        <card number="1" name="Rapid Decay" setShortName="UDS" collectorNumber="67" uuid="1678d911-1456-4631-a2f4-d7de4906644b"/>
+        <card number="2" name="Dark Ritual" setShortName="USG" collectorNumber="127" uuid="3f0e9d0d-e1a3-4e0a-bf39-e9aaf4d36d67"/>
+        <card number="4" name="Diabolic Edict" setShortName="TMP" collectorNumber="128" uuid="a2ecf2ee-1e2d-4ab2-8b2c-717c794b09b2"/>
+        <card number="2" name="Corpse Dance" setShortName="TMP" collectorNumber="116" uuid="76ae81ea-13e3-4ab8-b956-4c7b139a5e9c"/>
+        <card number="1" name="Bottle Gnomes" setShortName="TMP" collectorNumber="278" uuid="645297d1-ee77-4879-83eb-8114fbabb9a4"/>
+        <card number="1" name="Phyrexian Negator" setShortName="UDS" collectorNumber="65" uuid="45a02d67-5931-49ae-a28e-57aa6f9c7f83"/>
+        <card number="3" name="Phyrexian Plaguelord" setShortName="ULG" collectorNumber="62" uuid="307bd530-4b11-428e-864e-e24e96051e3e"/>
+        <card number="3" name="Ravenous Rats" setShortName="UDS" collectorNumber="68" uuid="a9185188-9a32-4ccd-8f33-b0c299901d81"/>
+        <card number="2" name="Ticking Gnomes" setShortName="ULG" collectorNumber="136" uuid="6241755c-ff3d-44db-a99d-960bea54633e"/>
+        <card number="2" name="Spawning Pool" setShortName="ULG" collectorNumber="142" uuid="43ffec42-57f7-4592-99ab-6284d59829a1"/>
+        <card number="2" name="Swamp" setShortName="TMP" collectorNumber="342" uuid="9330376c-0242-4e28-b535-26c84b43c3e6"/>
+        <card number="2" name="Swamp" setShortName="TMP" collectorNumber="341" uuid="c96dbfea-3b79-4e5b-a356-3c04d1e78e83"/>
+        <card number="2" name="Swamp" setShortName="TMP" collectorNumber="340" uuid="000366c8-7a43-49d7-a103-ac5bd7efd9aa"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="339" uuid="5912d2aa-fe91-4cea-9c7a-6dca745f8560"/>
+        <card number="1" name="Swamp" setShortName="USG" collectorNumber="342" uuid="f7f24df7-65c6-4488-967a-e847bdec7db0"/>
+        <card number="1" name="Swamp" setShortName="USG" collectorNumber="341" uuid="f72d1102-0ad5-40df-9ca2-26448321d3d1"/>
+        <card number="1" name="Swamp" setShortName="USG" collectorNumber="340" uuid="8a97cc92-6894-4c6f-8c8d-bfc9fdd4f974"/>
+        <card number="1" name="Swamp" setShortName="USG" collectorNumber="339" uuid="c04dac6d-a7c2-44ee-b735-bd4eade06e4e"/>
+        <card number="1" name="Swamp" setShortName="6ED" collectorNumber="342" uuid="c576c27d-f361-4448-8607-0f6a99642283"/>
+        <card number="1" name="Swamp" setShortName="6ED" collectorNumber="341" uuid="9019a639-929a-40d9-98b1-6b5268da5246"/>
+        <card number="1" name="Swamp" setShortName="6ED" collectorNumber="340" uuid="92af0cba-c058-4833-a74a-21ad91e5ad7c"/>
+        <card number="1" name="Swamp" setShortName="6ED" collectorNumber="339" uuid="0e2a9fa6-3c7c-409a-8565-e3d533107971"/>
+        <card number="1" name="Volrath's Stronghold" setShortName="STH" collectorNumber="143" uuid="43bf015b-152e-4d67-b773-e75fb2487a32"/>
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sphere of Resistance" setShortName="EXO" collectorNumber="139" uuid="17f4d2a5-bb85-4662-b2dd-a363ec7eab9b"/>
+        <card number="1" name="Hatred" setShortName="EXO" collectorNumber="64" uuid="2383a8d9-96fd-4f9a-bcf9-eb81fdb15ead"/>
+        <card number="3" name="Rapid Decay" setShortName="UDS" collectorNumber="67" uuid="1678d911-1456-4631-a2f4-d7de4906644b"/>
+        <card number="1" name="Stromgald Cabal" setShortName="6ED" collectorNumber="157" uuid="1d78c90b-b44e-431a-a4e6-ceae0a019428"/>
+        <card number="2" name="Perish" setShortName="6ED" collectorNumber="148" uuid="77192bdf-d89f-45a1-a30b-20107e990031"/>
+        <card number="2" name="Phyrexian Negator" setShortName="UDS" collectorNumber="65" uuid="45a02d67-5931-49ae-a28e-57aa6f9c7f83"/>
+        <card number="1" name="Persecute" setShortName="USG" collectorNumber="146" uuid="4f8e2be6-124d-412e-be34-aa4495a83e02"/>
+        <card number="1" name="Evincar's Justice" setShortName="TMP" collectorNumber="134" uuid="5d53f46f-b069-4b34-af4b-98143328c078"/>
+        <card number="1" name="Bottle Gnomes" setShortName="TMP" collectorNumber="278" uuid="645297d1-ee77-4879-83eb-8114fbabb9a4"/>
+        <card number="2" name="Carrion Beetles" setShortName="USG" collectorNumber="122" uuid="46d4f4d7-a35b-45ea-ba51-ee65b3ff98d4"/>
+    </zone>
+</cockatrice_deck>
