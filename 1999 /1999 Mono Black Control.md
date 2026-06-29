@@ -1,5 +1,5 @@
 Reference 
-- http://mtgwiki.com/wiki/World_Championship_Decks_1999#Jakub_Slemr.E3.81.AE.E9.BB.92.E3.82.B3.E3.83.B3.E3.83.88.E3.83.AD.E3.83.BC.E3.83.AB
+- http://mtgwiki.com/wiki/World_Championship_Decks_1999
 - http://mtgwiki.com/wiki/%E9%BB%92%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AD%E3%83%BC%E3%83%AB#.E3.82.A6.E3.83.AB.E3.82.B6.E3.83.BB.E3.83.96.E3.83.AD.E3.83.83.E3.82.AF.E6.9C.9F
 
 Format
