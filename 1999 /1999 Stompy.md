@@ -3,14 +3,38 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_1999
 
 Format
-- CARD_SET
+- UDS
+- 6ED
+- ULG
+- USG
+- EXO
+- STH
+- TMP
 
 Note
-- INFO
+- World Championships 1999 top 4 deck by Matt Linde
+- Mono green beatdown deck
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 14 Forest
+- 4 Gaea's Cradle
+- 4 Treetop Village
+- 4 Albino Troll
+- 4 Elvish Lyrist
+- 4 Llanowar Elves
+- 4 Pouncing Jaguar
+- 4 River Boa
+- 2 Uktabi Orangutan
+- 4 Wild Dogs
+- 4 Cursed Scroll
+- 4 Giant Growth
+- 4 Rancor
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
-
+- 3 Choke
+- 2 Constant Mists
+- 1 Hurricane
+- 2 Overrun
+- 3 Thran Foundry
+- 2 Uktabi Orangutan
+- 2 Weatherseed Treefolk
