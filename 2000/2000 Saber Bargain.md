@@ -2,7 +2,12 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%94%E3%83%83%E3%83%88%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB
 
 Format
-- CARD_SET
+- NEM
+- MMQ
+- UDS
+- 6ED
+- ULG
+- USG
 
 Note
 - Magic: The Gathering Invitational 2000 played by Jon Finkel
