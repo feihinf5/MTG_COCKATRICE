@@ -16,7 +16,6 @@ Note
 - Discard unneeded drawn cards to [**Skirge Familiar**](https://api.scryfall.com/cards/935ee538-3ea1-4a80-bb8f-01d562f63b5d?format=image) to generate the mana required to cast it
 - Repeat this process 5 times, utilizing [**Yawgmoth's Will**](https://api.scryfall.com/cards/86901bf2-7722-43f8-b879-7a30630371fa?format=image) to recast spells from the graveyard to drain all 20 of the opponent's life points for the win
 - Use [**Phyrexian Tower**](https://api.scryfall.com/cards/4f915cf0-6273-4896-bf24-fb0ec17b6096?format=image) to sacrifice [**Academy Rector**](https://api.scryfall.com/cards/4367bc78-0912-4abd-8edd-bc792558d01a?format=image) to search [**Yawgmoth's Bargain**](https://api.scryfall.com/cards/86901bf2-7722-43f8-b879-7a30630371fa?format=image)
-- While the core combo elements are Mono-Black, the deck is typically built as Black-White to include sideboard cards
 
 Deck
 - 4 Academy Rector
