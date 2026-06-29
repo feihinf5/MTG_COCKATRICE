@@ -13,9 +13,9 @@ Format
 
 Note
 - World Championships 1999 top 8 deck by Jakub Slemr
-- Utilize [**Yawgmoth's Will**] and [**Duress**]
-- [**Powder Keg**] is to deal with troublesome permanents
-- [**Corpse Dance**] or [**Volrath's Stronghold**] to repeatedly reuse creature abilities
+- Utilize [**Yawgmoth's Will**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Duress**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Powder Keg**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) is to deal with troublesome permanents
+- [**Corpse Dance**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Volrath's Stronghold**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to repeatedly reuse creature abilities from graveyard
 
 Deck
 - 15 Swamp
