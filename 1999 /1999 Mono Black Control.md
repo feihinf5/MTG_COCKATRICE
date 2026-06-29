@@ -15,7 +15,34 @@ Note
 - INFO
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 15 Swamp
+- 2 Spawning Pool
+- 1 Volrath's Stronghold
+- 4 Wasteland
+- 1 Bottle Gnomes
+- 1 Phyrexian Negator
+- 3 Phyrexian Plaguelord
+- 3 Ravenous Rats
+- 2 Ticking Gnomes
+- 2 Corpse Dance
+- 3 Cursed Scroll
+- 4 Dark Ritual
+- 4 Diabolic Edict
+- 4 Duress
+- 4 Powder Keg
+- 1 Rapid Decay
+- 2 Stupor
+- 1 Vampiric Tutor
+- 3 Yawgmoth's Will 		
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Bottle Gnomes
+- 2 Carrion Beetles
+- 1 Evincar's Justice
+- 1 Hatred
+- 2 Perish
+- 1 Persecute
+- 2 Phyrexian Negator
+- 3 Rapid Decay
+- 1 Sphere of Resistance
+- 1 Stromgald Cabal
