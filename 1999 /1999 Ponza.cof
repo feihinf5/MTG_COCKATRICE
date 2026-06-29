@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sat Jun 13 15:03:53 2026</lastLoadedTimestamp>
+    <deckname>1999 Ponza</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 1999 top 4 deck by Mark Le Pine</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Shock" setShortName="STH" collectorNumber="98" uuid="f9b2ff2a-6dfe-4635-8da2-22d525e82b94"/>
+        <card number="4" name="Cursed Scroll" setShortName="TMP" collectorNumber="281" uuid="31415b9b-fb30-4132-a9a3-795b4573a901"/>
+        <card number="3" name="Hammer of Bogardan" setShortName="6ED" collectorNumber="188" uuid="b759a8d8-9c6b-4d1b-b17a-6b4f349dd553"/>
+        <card number="4" name="Stone Rain" setShortName="6ED" collectorNumber="209" uuid="1e9a0841-609f-4a57-8a4a-39d460e31af8"/>
+        <card number="4" name="Pillage" setShortName="6ED" collectorNumber="198" uuid="d04eeaba-7db8-49e8-b775-fbe9c89413fd"/>
+        <card number="2" name="Arc Lightning" setShortName="USG" collectorNumber="174" uuid="0c81ade7-0074-4447-ba2c-b16fa0f09ccb"/>
+        <card number="4" name="Avalanche Riders" setShortName="ULG" collectorNumber="74" uuid="3bdc5330-c76b-40ca-a694-58fa4b9b7304"/>
+        <card number="3" name="Fireslinger" setShortName="TMP" collectorNumber="173" uuid="de253d94-9968-47da-bb7a-9c8ebf50f4e0"/>
+        <card number="4" name="Jackal Pup" setShortName="TMP" collectorNumber="183" uuid="3707ab74-9aec-4d30-86e0-ffa5f72d5b4f"/>
+        <card number="4" name="Mogg Fanatic" setShortName="TMP" collectorNumber="190" uuid="ca2ecfd4-c874-4468-8601-87aa110d5a00"/>
+        <card number="2" name="Ancient Tomb" setShortName="TMP" collectorNumber="315" uuid="30e401e3-282b-4524-87e1-c6cd50cd6d00"/>
+        <card number="2" name="Ghitu Encampment" setShortName="ULG" collectorNumber="141" uuid="bf09ecef-1e30-4206-9648-8fe5c8a71c71"/>
+        <card number="2" name="Mountain" setShortName="TMP" collectorNumber="346" uuid="23e043bf-a6d7-4778-8460-13bdf38b7d39"/>
+        <card number="2" name="Mountain" setShortName="TMP" collectorNumber="345" uuid="9515ced4-b679-48f0-bf62-8b7baef5e1c2"/>
+        <card number="2" name="Mountain" setShortName="TMP" collectorNumber="344" uuid="676fb0ed-5a19-4fde-b2c4-f46c7e0915f8"/>
+        <card number="2" name="Mountain" setShortName="TMP" collectorNumber="343" uuid="9d6dc341-89dc-4e99-baa2-ad0ae59f0e94"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="346" uuid="29b39c91-e367-487d-9820-893870df23b1"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="345" uuid="3d811021-40b1-43b1-88f1-04d711c2ab57"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="344" uuid="be7e4b30-7f45-4109-b5ed-9223a9422d95"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="343" uuid="e9d34a2f-09ed-4fb4-891a-890f450699bd"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="346" uuid="95585c69-6474-432e-b80a-489a2b69d4e6"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="345" uuid="a5c17b3c-6f3b-4952-a06b-0df5a5a18f0d"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="344" uuid="50e7681b-37e3-4f6c-8415-ab9613446ccc"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="343" uuid="f2e450ae-3ed8-424f-b974-7d9a8e8ac7e4"/>
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Thran Foundry" setShortName="UDS" collectorNumber="140" uuid="9cdc0d42-d96f-490f-87cb-3577dfdce807"/>
+        <card number="2" name="Shattering Pulse" setShortName="EXO" collectorNumber="102" uuid="89d3b846-6071-4d65-86ba-da08c4bd0aa1"/>
+        <card number="4" name="Scald" setShortName="USG" collectorNumber="211" uuid="5ff97d4b-301f-4ade-a6df-2667dff566c2"/>
+        <card number="1" name="Fireslinger" setShortName="TMP" collectorNumber="173" uuid="de253d94-9968-47da-bb7a-9c8ebf50f4e0"/>
+        <card number="2" name="Masticore" setShortName="UDS" collectorNumber="134" uuid="908a2215-7231-43a4-8fec-5d1e4233c028"/>
+        <card number="1" name="Flowstone Flood" setShortName="EXO" collectorNumber="83" uuid="8bcda003-6fac-4879-87e6-ec0c115630ba"/>
+        <card number="1" name="Arc Lightning" setShortName="USG" collectorNumber="174" uuid="0c81ade7-0074-4447-ba2c-b16fa0f09ccb"/>
+    </zone>
+</cockatrice_deck>
