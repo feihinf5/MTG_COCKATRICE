@@ -166,3 +166,6 @@ Sideboard
 <pre>
 https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 </pre>
+
+## Standard banned cards timeline
+https://www.reddit.com/r/magicTCG/comments/1loc8sr/timeline_of_banned_cards_in_standard/
