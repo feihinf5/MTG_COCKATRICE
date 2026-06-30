@@ -12,6 +12,10 @@ Format
 
 Note
 - Asia Pacific Championship 2000 winning deck by Mori Masaya
+- Uses mana creatures to accelerate out [**Tangle Wire**] and [**Plow Under**] for disruption, before closing out the game with [**Deranged Hermit**]
+- Minimizes the self-inflicted impact of [**Tangle Wire**] by utilizing mana creatures and tokens from [**Deranged Hermit**] as cheap tap fodder
+- [**Arc Lightning**] wiping out multiple mana creatures with a single spell
+- [**Pillage**] was also incorporated to reinforce the mana-screw strategy
 
 Deck
 - 4 Birds of Paradise
