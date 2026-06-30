@@ -12,6 +12,7 @@ Format
 - USG
 
 Note
+- World Championships 2000 top 8 deck by Dominik Hothow
 - The finisher replacing [**Deranged Hermit**] with [**Blastoderm**]
 - Focusing on mana denial via [**Plow Under**] and land destruction
 
