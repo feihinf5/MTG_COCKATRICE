@@ -1,13 +1,21 @@
 Reference 
 - http://mtgwiki.com/wiki/World_Championship_Decks_2000
+- http://mtgwiki.com/wiki/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3
 
 Format
-- CARD_SET
+- PCY
+- NEM
+- MMQ
+- UDS
+- 6ED
+- ULG
+- USG
 
 Note
-- Utilizing Tinker to search for Phyrexian Processor
-- While life total becomes endangered, Crumbling Sanctuary mitigates the risk
-- Incorporates control elements using Tangle Wire and Mishra's Helix
+- World Championships 2000 winning deck by Jon Finkel
+- Utilizing [**Tinker**] to search for [**Phyrexian Processor**]
+- While life total becomes endangered, [**Crumbling Sanctuary**] mitigates the risk
+- Incorporates control elements using [**Tangle Wire**] and [**Mishra's Helix**]
 
 Deck
 - 4 Masticore
