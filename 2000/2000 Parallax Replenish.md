@@ -13,9 +13,9 @@ Format
 
 Note
 - World Championships 2000 top 8 deck by Tom van de Logt
-- Using [**Replenish**] as the key card, this deck controls the board with [**Parallax Wave**] and [**Parallax Tide**] then swings for the win using enchantments turned into creatures by [**Opalescence**]
-- While the animated enchantments lack evasion, [**Parallax Wave**] can clear out blockers when they all return to the battlefield together
-- [**Attunement**] and [**Frantic Search**] dig through the library to find [**Replenish**] while dumping a mass of enchantments into the graveyard
+- Using [**Replenish**](https://api.scryfall.com/cards/7fd2fe13-bbc0-42b7-bc42-3b51910ce118?format=image) as the key card, this deck controls the board with [**Parallax Wave**](https://api.scryfall.com/cards/cef789e8-e4cc-4f61-bc15-debc2487777f?format=image) and [**Parallax Tide**](https://api.scryfall.com/cards/7fe593eb-df3c-43e5-97a6-418f91e87cb3?format=image) then swings for the win using enchantments turned into creatures by [**Opalescence**](https://api.scryfall.com/cards/3c0071fb-afa5-47b5-b266-2b10a4f5a98a?format=image)
+- [**Parallax Wave**](https://api.scryfall.com/cards/cef789e8-e4cc-4f61-bc15-debc2487777f?format=image) can clear out blockers when they all return to the battlefield together
+- [**Attunement**](https://api.scryfall.com/cards/f6723528-8b2c-4beb-a465-800300faf158?format=image) and [**Frantic Search**](https://api.scryfall.com/cards/1904db14-6df7-424f-afa5-e3dfab31300a?format=image) dig through the library to find [**Replenish**](https://api.scryfall.com/cards/7fd2fe13-bbc0-42b7-bc42-3b51910ce118?format=image) while dumping a mass of enchantments into the graveyard
 
 Deck
 - 4 Attunement
