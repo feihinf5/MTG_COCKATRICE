@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2000 Angry Hermit</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Asia Pacific Championship 2000 winning deck by Mori Masaya</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="City of Brass" setShortName="6ED" collectorNumber="321" uuid="81ff64e0-e7bd-4e82-8495-2cc8889c4107"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="347" uuid="b38c68a5-86eb-4fb2-8a43-4a7d63195462"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="348" uuid="c151d945-7da0-4ab8-b0db-e41d10c0eb91"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="350" uuid="0b43815e-8b8a-4745-bdf3-f72c8d60c48c"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="349" uuid="a8990632-f055-4583-ae85-5ac742549b61"/>
+        <card number="1" name="Forest" setShortName="6ED" collectorNumber="347" uuid="dc477b44-a7b3-4dda-b897-6f164e28541b"/>
+        <card number="1" name="Forest" setShortName="6ED" collectorNumber="349" uuid="7ade2cdc-9625-427b-92b2-9596ac48904b"/>
+        <card number="3" name="Gaea's Cradle" setShortName="USG" collectorNumber="321" uuid="25b0b816-0583-44aa-9dc5-f3ff48993a51"/>
+        <card number="4" name="Karplusan Forest" setShortName="6ED" collectorNumber="326" uuid="ee4e8e26-3fb3-4388-bc64-fa751e401dca"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="343" uuid="e9d34a2f-09ed-4fb4-891a-890f450699bd"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="344" uuid="be7e4b30-7f45-4109-b5ed-9223a9422d95"/>
+        <card number="4" name="Rishadan Port" setShortName="MMQ" collectorNumber="324" uuid="477a1f53-5cdf-4b45-b584-2e36b31a3fdb"/>
+        <card number="1" name="Thran Quarry" setShortName="USG" collectorNumber="329" uuid="4b2d6c41-7d82-4062-a783-37d88536279c"/>
+        <card number="2" name="Treetop Village" setShortName="ULG" collectorNumber="143" uuid="02212bd8-0c0f-4e8e-99f1-a8477476c03a"/>
+        <card number="4" name="Arc Lightning" setShortName="USG" collectorNumber="174" uuid="0c81ade7-0074-4447-ba2c-b16fa0f09ccb"/>
+        <card number="3" name="Pillage" setShortName="6ED" collectorNumber="198" uuid="d04eeaba-7db8-49e8-b775-fbe9c89413fd"/>
+        <card number="4" name="Plow Under" setShortName="UDS" collectorNumber="117" uuid="a30735c4-7f12-4db9-972b-9b7568a8ada8"/>
+        <card number="4" name="Tangle Wire" setShortName="NEM" collectorNumber="139" uuid="ad62f313-8a8a-4ffa-ada2-b12b76288729"/>
+        <card number="4" name="Birds of Paradise" setShortName="6ED" collectorNumber="217" uuid="0ad85d15-e700-455d-96f4-dfd6661f9722"/>
+        <card number="4" name="Deranged Hermit" setShortName="ULG" collectorNumber="101" uuid="bf0e94c9-61c4-4cc0-b5ce-db62bc2660ee"/>
+        <card number="4" name="Llanowar Elves" setShortName="6ED" collectorNumber="239" uuid="bb95a9a7-b0a3-4199-8c05-2519ccda738b"/>
+        <card number="4" name="Masticore" setShortName="UDS" collectorNumber="134" uuid="908a2215-7231-43a4-8fec-5d1e4233c028"/>
+        <card number="4" name="Priest of Titania" setShortName="USG" collectorNumber="270" uuid="965c33c3-0c68-4516-b8b0-5a0552ed44b6"/>
+        <card number="2" name="Skyshroud Poacher" setShortName="NEM" collectorNumber="119" uuid="0fb4e44e-656e-4294-a53b-1f7aa96fab31"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Flameshot" setShortName="PCY" collectorNumber="90" uuid="3f7b61a8-a1ff-4e2a-bc24-8990c61a5e5b"/>
+        <card number="4" name="Boil" setShortName="6ED" collectorNumber="169" uuid="4e8cd169-0eaa-4430-a175-7f9bbf552929"/>
+        <card number="2" name="Harmonic Convergence" setShortName="ULG" collectorNumber="103" uuid="5aafc380-cf4d-4843-b9c3-c389d9c5e942"/>
+        <card number="3" name="Phyrexian Processor" setShortName="USG" collectorNumber="306" uuid="6875ce99-badd-44da-8e5d-509600efa1d0"/>
+        <card number="4" name="Yavimaya Elder" setShortName="UDS" collectorNumber="124" uuid="325d9372-01c9-4e99-a966-13c8f8566e2e"/>
+    </zone>
+</cockatrice_deck>
