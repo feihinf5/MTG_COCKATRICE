@@ -10,7 +10,27 @@ Note
 - INFO
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 2 Spiketail Hatchling
+- 4 Waterfront Bouncer
+- 1 Rishadan Airship
+- 3 Stronghold Zeppelin
+- 4 Troublesome Spirit
+- 2 Daze
+- 4 Rising Waters
+- 1 Foil
+- 4 Thwart
+- 4 Gush
+- 4 Chimeric Idol
+- 4 Eye of Ramos
+- 22 Island
+- 1 Rath's Edge
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 3 Rishadan Airship
+- 3 Saprazzan Outrigger
+- 1 Stronghold Zeppelin
+- 2 Daze
+- 1 Foil
+- 2 Submerge
+- 1 Bribery
+- 2 Distorting Lens
