@@ -8,9 +8,9 @@ Format
 
 Note
 - World Championships 2000 Masques Block Constructed top 8 by Brian Davis
-- Restricts lands on both sides using Rising Waters while attacking with mid-sized creatures like Chimeric Idol and Troublesome Spirit
-- Bypasses the downside of Rising Waters by utilizing Sky Diamond
-- Uses bounce counters like Daze and Thwart to return tapped Islands to the hand for reuse
+- Restricts lands on both sides using [**Rising Waters**] while attacking with mid-sized creatures like [**Chimeric Idol**] and [**Troublesome Spirit**]
+- Bypasses the downside of [**Rising Waters**] by utilizing [**Sky Diamond**]
+- Uses bounce counters like [**Daze**] and [**Thwart**] to return tapped [**Islands**] to the hand for reuse
 
 Deck
 - 2 Spiketail Hatchling
