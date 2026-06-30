@@ -2,13 +2,36 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%AA%E3%82%B9%E5%AF%BE%E7%AB%8B#.E3.82.A6.E3.83.AB.E3.82.B6.E3.83.BB.E3.83.96.E3.83.AD.E3.83.83.E3.82.AF.E6.A7.8B.E7.AF.89.E7.89.88
 
 Format
-- CARD_SET
+- UDS
+- ULG
+- USG
 
 Note
 - Grand Prix-Memphis 1999 winning deck by Michael Pustilnik
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Treetop Village
+- 8 Island
+- 11 Forest
+- 2 Faerie Conclave
+- 2 Heart Warden
+- 4 Priest of Titania
+- 1 Rofellos, Llanowar Emissary
+- 4 Yavimaya Granger
+- 4 Yavimaya Elder
+- 4 Deranged Hermit
+- 1 Masticore
+- 3 Morphling
+- 4 Opposition
+- 3 Treachery
+- 1 Stroke of Genius
+- 1 Annul
+- 1 Sunder
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Masticore
+- 2 Douse
+- 2 Annul
+- 4 Gaea's Embrace
+- 2 Sunder
+- 3 Harmonic Convergence
