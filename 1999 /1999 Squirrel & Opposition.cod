@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1999 Squirrel &amp; Opposition</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Memphis 1999 winning deck by Michael Pustilnik</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Annul" setShortName="USG" collectorNumber="59" uuid="3f8c73ff-be92-41ca-93a7-76f9823adb38"/>
+        <card number="2" name="Power Sink" setShortName="USG" collectorNumber="89" uuid="662cf693-18c4-4169-bcce-09862778f60c"/>
+        <card number="1" name="Stroke of Genius" setShortName="USG" collectorNumber="100" uuid="5e977755-8ea4-4a8b-90c4-dd175321e05d"/>
+        <card number="1" name="Sunder" setShortName="USG" collectorNumber="101" uuid="cd9dd7c6-36b6-4fe2-b3d3-f62a6e10a428"/>
+        <card number="4" name="Opposition" setShortName="UDS" collectorNumber="40" uuid="95be2701-af7c-483e-8165-e8bd4b2774ed"/>
+        <card number="3" name="Treachery" setShortName="UDS" collectorNumber="50" uuid="613694aa-b169-400d-8063-2b83d8303611"/>
+        <card number="4" name="Deranged Hermit" setShortName="ULG" collectorNumber="101" uuid="bf0e94c9-61c4-4cc0-b5ce-db62bc2660ee"/>
+        <card number="2" name="Heart Warden" setShortName="UDS" collectorNumber="108" uuid="96e42dbe-3eeb-4367-bb6d-0f5c71f5da80"/>
+        <card number="1" name="Masticore" setShortName="UDS" collectorNumber="134" uuid="908a2215-7231-43a4-8fec-5d1e4233c028"/>
+        <card number="3" name="Morphling" setShortName="USG" collectorNumber="85" uuid="812f4d5c-aacf-4bd8-849d-80a357a7804d"/>
+        <card number="4" name="Priest of Titania" setShortName="USG" collectorNumber="270" uuid="965c33c3-0c68-4516-b8b0-5a0552ed44b6"/>
+        <card number="1" name="Rofellos, Llanowar Emissary" setShortName="UDS" collectorNumber="118" uuid="6aa5cc65-f8f1-4f6f-8b4e-2fedccbda684"/>
+        <card number="4" name="Yavimaya Elder" setShortName="UDS" collectorNumber="124" uuid="325d9372-01c9-4e99-a966-13c8f8566e2e"/>
+        <card number="4" name="Yavimaya Granger" setShortName="ULG" collectorNumber="118" uuid="05414a41-b50c-49b6-9c27-f3170017d9b0"/>
+        <card number="2" name="Faerie Conclave" setShortName="ULG" collectorNumber="139" uuid="ae3ede87-b026-4781-81ab-8652664f8e41"/>
+        <card number="3" name="Forest" setShortName="USG" collectorNumber="347" uuid="b38c68a5-86eb-4fb2-8a43-4a7d63195462"/>
+        <card number="3" name="Forest" setShortName="USG" collectorNumber="348" uuid="c151d945-7da0-4ab8-b0db-e41d10c0eb91"/>
+        <card number="3" name="Forest" setShortName="USG" collectorNumber="350" uuid="0b43815e-8b8a-4745-bdf3-f72c8d60c48c"/>
+        <card number="2" name="Forest" setShortName="USG" collectorNumber="349" uuid="a8990632-f055-4583-ae85-5ac742549b61"/>
+        <card number="2" name="Island" setShortName="USG" collectorNumber="335" uuid="8e4ce9ff-c295-475b-b9fa-88ed65a84f35"/>
+        <card number="2" name="Island" setShortName="USG" collectorNumber="336" uuid="bbf69bc5-8ee3-4b17-a3b1-51e35dd2d0dc"/>
+        <card number="2" name="Island" setShortName="USG" collectorNumber="338" uuid="43297ca7-846c-4bc4-a347-997279bc73d6"/>
+        <card number="2" name="Island" setShortName="USG" collectorNumber="337" uuid="92724530-9c7a-44ab-9381-ee56bfccb641"/>
+        <card number="4" name="Treetop Village" setShortName="ULG" collectorNumber="143" uuid="02212bd8-0c0f-4e8e-99f1-a8477476c03a"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Annul" setShortName="USG" collectorNumber="59" uuid="3f8c73ff-be92-41ca-93a7-76f9823adb38"/>
+        <card number="2" name="Sunder" setShortName="USG" collectorNumber="101" uuid="cd9dd7c6-36b6-4fe2-b3d3-f62a6e10a428"/>
+        <card number="1" name="Delusions of Mediocrity" setShortName="ULG" collectorNumber="30" uuid="899088b3-4cdf-47c0-8c52-3c9f55c086c4"/>
+        <card number="3" name="Harmonic Convergence" setShortName="ULG" collectorNumber="103" uuid="5aafc380-cf4d-4843-b9c3-c389d9c5e942"/>
+        <card number="4" name="Gaea's Embrace" setShortName="USG" collectorNumber="255" uuid="cce99456-d7cc-480f-b283-0ba063c89e0a"/>
+        <card number="2" name="Douse" setShortName="USG" collectorNumber="70" uuid="93a8d857-184d-4339-88f4-261378e5bd3c"/>
+        <card number="1" name="Masticore" setShortName="UDS" collectorNumber="134" uuid="908a2215-7231-43a4-8fec-5d1e4233c028"/>
+    </zone>
+</cockatrice_deck>
