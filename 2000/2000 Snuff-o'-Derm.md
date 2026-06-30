@@ -7,7 +7,7 @@ Format
 - MMQ
 
 Note
-- Remove opponent's creatures with [**Seal of Doom**], [**Snuff Out**] or [**Forced March**] then finish them off with [**Blastoderm**]
+- Remove opponent's creatures with [**Seal of Doom**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Snuff Out**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Forced March**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) then finish them off with [**Blastoderm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
 Deck
 - 2 Primeval Shambler
