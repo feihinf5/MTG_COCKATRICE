@@ -3,7 +3,13 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%AD%E3%83%A1%E3%83%A9
 
 Format
-- CARD_SET
+- PCY
+- NEM
+- MMQ
+- UDS
+- 6ED
+- ULG
+- USG
 
 Note
 - INFO
