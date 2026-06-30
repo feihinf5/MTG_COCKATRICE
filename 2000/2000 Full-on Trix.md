@@ -5,7 +5,7 @@ Format
 - CARD_SET
 
 Note
-- INFO
+- Grand Prix Philadelphia 2000 top 4 deck by Scott McCord
 
 Deck
 - 4 Duress
