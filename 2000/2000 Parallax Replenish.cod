@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2000 Parallax Replenish</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2000 top 8 deck by Tom van de Logt</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Adarkar Wastes" setShortName="6ED" collectorNumber="319" uuid="764eff32-466f-4443-a3db-1007f446980b"/>
+        <card number="1" name="Wrath of God" setShortName="6ED" collectorNumber="54" uuid="e5513964-1cad-4083-a3a5-1e55ec145a6e"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="335" uuid="8e4ce9ff-c295-475b-b9fa-88ed65a84f35"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="336" uuid="bbf69bc5-8ee3-4b17-a3b1-51e35dd2d0dc"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="338" uuid="43297ca7-846c-4bc4-a347-997279bc73d6"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="337" uuid="92724530-9c7a-44ab-9381-ee56bfccb641"/>
+        <card number="1" name="Island" setShortName="6ED" collectorNumber="335" uuid="b3f9ffc8-8115-4858-bd71-deaca9889f72"/>
+        <card number="1" name="Island" setShortName="6ED" collectorNumber="337" uuid="4e8958d4-067b-4815-a128-5d1577b94173"/>
+        <card number="1" name="Island" setShortName="6ED" collectorNumber="336" uuid="f5e8da7b-f565-403b-9603-5f53cd3be8fe"/>
+        <card number="1" name="Island" setShortName="6ED" collectorNumber="338" uuid="64ff74a8-e1e8-41ec-98fc-1529f4075074"/>
+        <card number="1" name="Island" setShortName="MMQ" collectorNumber="335" uuid="5bae77e8-1230-4a6e-8c75-c99d2741a509"/>
+        <card number="1" name="Plains" setShortName="USG" collectorNumber="332" uuid="a34ef351-2864-42f6-8943-75bb6fffc9f7"/>
+        <card number="1" name="Plains" setShortName="USG" collectorNumber="331" uuid="b9e35567-05df-4a3f-8c29-d8327abc2e8d"/>
+        <card number="1" name="Plains" setShortName="USG" collectorNumber="333" uuid="54db7822-ebed-4c7c-8ede-469d72fd694a"/>
+        <card number="1" name="Plains" setShortName="USG" collectorNumber="334" uuid="11f87b5c-78b4-443c-ad92-f37bb62d0bbe"/>
+        <card number="1" name="Plains" setShortName="6ED" collectorNumber="331" uuid="d3c1ab59-3771-484c-8a79-2bb36655b6dd"/>
+        <card number="1" name="Plains" setShortName="6ED" collectorNumber="333" uuid="6addf844-2790-4da5-a22d-18df878f2219"/>
+        <card number="1" name="Plains" setShortName="6ED" collectorNumber="332" uuid="c789adc0-69ed-4d1c-8a20-ca219020fd2c"/>
+        <card number="1" name="Plains" setShortName="6ED" collectorNumber="334" uuid="7978fa58-0860-4082-a674-2d6abce899b9"/>
+        <card number="4" name="Rishadan Port" setShortName="MMQ" collectorNumber="324" uuid="477a1f53-5cdf-4b45-b584-2e36b31a3fdb"/>
+        <card number="1" name="Sky Diamond" setShortName="6ED" collectorNumber="311" uuid="63c771a9-a652-4661-a175-a97d4684cd92"/>
+        <card number="4" name="Replenish" setShortName="UDS" collectorNumber="15" uuid="7fd2fe13-bbc0-42b7-bc42-3b51910ce118"/>
+        <card number="2" name="Counterspell" setShortName="6ED" collectorNumber="61" uuid="ee0d3f5f-7790-4772-bead-5d7114a23e94"/>
+        <card number="1" name="Energy Field" setShortName="USG" collectorNumber="73" uuid="81ff5770-b207-41e1-97b7-b9347c72b407"/>
+        <card number="4" name="Opalescence" setShortName="UDS" collectorNumber="13" uuid="3c0071fb-afa5-47b5-b266-2b10a4f5a98a"/>
+        <card number="3" name="Parallax Tide" setShortName="NEM" collectorNumber="37" uuid="7fe593eb-df3c-43e5-97a6-418f91e87cb3"/>
+        <card number="1" name="Seal of Cleansing" setShortName="NEM" collectorNumber="18" uuid="af6c921e-1b82-412c-9979-adfdf83440f7"/>
+        <card number="1" name="Seal of Removal" setShortName="NEM" collectorNumber="42" uuid="487becfe-a9b1-4029-a487-2a32561570cb"/>
+        <card number="4" name="Parallax Wave" setShortName="NEM" collectorNumber="17" uuid="cef789e8-e4cc-4f61-bc15-debc2487777f"/>
+        <card number="3" name="Enlightened Tutor" setShortName="6ED" collectorNumber="19" uuid="e869da95-2c47-4796-aadc-50652ebb4d03"/>
+        <card number="4" name="Frantic Search" setShortName="ULG" collectorNumber="32" uuid="1904db14-6df7-424f-afa5-e3dfab31300a"/>
+        <card number="1" name="Mystical Tutor" setShortName="6ED" collectorNumber="83" uuid="1571b584-9007-45ee-a3c3-6c72f227fee2"/>
+        <card number="1" name="Counterspell" setShortName="MMQ" collectorNumber="69" uuid="7bd03c80-7812-4704-9e07-9cf73b49c01f"/>
+        <card number="4" name="Attunement" setShortName="USG" collectorNumber="61" uuid="f6723528-8b2c-4beb-a465-800300faf158"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Wrath of God" setShortName="6ED" collectorNumber="54" uuid="e5513964-1cad-4083-a3a5-1e55ec145a6e"/>
+        <card number="2" name="Daze" setShortName="NEM" collectorNumber="30" uuid="d03bff25-0d5e-4dcf-8d75-6df846afea3b"/>
+        <card number="3" name="Erase" setShortName="ULG" collectorNumber="7" uuid="05c89d61-3c2e-4d70-86d6-f70eba3d327f"/>
+        <card number="2" name="Submerge" setShortName="NEM" collectorNumber="48" uuid="d2741fe4-37fe-427f-ae85-5107991d4eee"/>
+        <card number="2" name="Lilting Refrain" setShortName="USG" collectorNumber="83" uuid="ef319154-c5fc-4432-a860-a05508c132d4"/>
+        <card number="1" name="Seal of Cleansing" setShortName="NEM" collectorNumber="18" uuid="af6c921e-1b82-412c-9979-adfdf83440f7"/>
+        <card number="1" name="Cursed Totem" setShortName="6ED" collectorNumber="278" uuid="048ceee4-0a56-4e43-92f2-80058844baba"/>
+        <card number="1" name="Chill" setShortName="6ED" collectorNumber="60" uuid="24846eba-e085-4d1d-8c7a-d4faf11034a6"/>
+        <card number="1" name="Circle of Protection: Black" setShortName="6ED" collectorNumber="8" uuid="605bbcc8-973b-4e06-8c33-7e444d03fcd8"/>
+    </zone>
+</cockatrice_deck>
