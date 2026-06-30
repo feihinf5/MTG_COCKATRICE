@@ -12,6 +12,7 @@ Format
 - USG
 
 Note
+- World Championships 2000 top 8 deck by Nicolas Labarre
 - Infinite mana combo deck utilizing [**Saproling Cluster**](https://api.scryfall.com/cards/5f50072b-aedd-4074-b1f7-f9ce477c26c2?format=image), [**Fecundity**](https://api.scryfall.com/cards/54c93c11-448c-402d-ac55-8d5ab4c83d7b?format=image) and [**Ashnod's Altar**](https://api.scryfall.com/cards/4a0f8965-ecd3-4da2-80aa-9c5034c0cd3b?format=image)
 - Spend one card from hand and one colorless mana to create a token with [**Saproling Cluster**](https://api.scryfall.com/cards/5f50072b-aedd-4074-b1f7-f9ce477c26c2?format=image)
 - Sacrifice the token to [**Ashnod's Altar**](https://api.scryfall.com/cards/4a0f8965-ecd3-4da2-80aa-9c5034c0cd3b?format=image) to add two colorless mana and draw a card from [**Fecundity**](https://api.scryfall.com/cards/54c93c11-448c-402d-ac55-8d5ab4c83d7b?format=image)
