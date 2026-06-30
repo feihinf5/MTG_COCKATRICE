@@ -7,10 +7,21 @@ Format
 - USG
 
 Note
-- INFO
+- Grand Prix-Kyushu 1999 winning deck by Komiya Tadayoshi
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
-
-Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Morphling
+- 2 Palinchron
+- 3 Masticore
+- 4 Annul
+- 4 Rewind
+- 4 Stroke of Genius
+- 3 Treachery
+- 1 Rescind
+- 4 Power Sink
+- 4 Grim Monolith
+- 3 Thran Dynamo
+- 14 Island
+- 4 Blasted Landscape
+- 4 Faerie Conclave
+- 4 Remote Isle
