@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2000 Chimera</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2000 top 8 deck by Nicolas Labarre</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Brushland" setShortName="6ED" collectorNumber="320" uuid="792f4213-67ab-41d9-975d-ff783668f93d"/>
+        <card number="3" name="City of Brass" setShortName="6ED" collectorNumber="321" uuid="81ff64e0-e7bd-4e82-8495-2cc8889c4107"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="347" uuid="b38c68a5-86eb-4fb2-8a43-4a7d63195462"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="348" uuid="c151d945-7da0-4ab8-b0db-e41d10c0eb91"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="350" uuid="0b43815e-8b8a-4745-bdf3-f72c8d60c48c"/>
+        <card number="1" name="Forest" setShortName="USG" collectorNumber="349" uuid="a8990632-f055-4583-ae85-5ac742549b61"/>
+        <card number="1" name="Forest" setShortName="6ED" collectorNumber="347" uuid="dc477b44-a7b3-4dda-b897-6f164e28541b"/>
+        <card number="1" name="Forest" setShortName="6ED" collectorNumber="348" uuid="451c256a-1f0e-4e57-9667-5b8cb2f18ff0"/>
+        <card number="1" name="Forest" setShortName="6ED" collectorNumber="349" uuid="7ade2cdc-9625-427b-92b2-9596ac48904b"/>
+        <card number="1" name="Forest" setShortName="6ED" collectorNumber="350" uuid="4e57a496-09ce-4c2d-9a00-0c359d01e78e"/>
+        <card number="2" name="High Market" setShortName="MMQ" collectorNumber="320" uuid="f4c58683-65a6-4df9-8952-458e397b1374"/>
+        <card number="2" name="Phyrexian Tower" setShortName="USG" collectorNumber="322" uuid="4f915cf0-6273-4896-bf24-fb0ec17b6096"/>
+        <card number="2" name="Thran Quarry" setShortName="USG" collectorNumber="329" uuid="4b2d6c41-7d82-4062-a783-37d88536279c"/>
+        <card number="1" name="Yawgmoth's Will" setShortName="USG" collectorNumber="171" uuid="6d3e3c3a-d351-4d91-8884-312d4b6f540d"/>
+        <card number="4" name="Enlightened Tutor" setShortName="6ED" collectorNumber="19" uuid="e869da95-2c47-4796-aadc-50652ebb4d03"/>
+        <card number="1" name="Snake Basket" setShortName="6ED" collectorNumber="312" uuid="3a9bc174-1d10-49bf-af4f-2f6061b1796e"/>
+        <card number="1" name="Whetstone" setShortName="USG" collectorNumber="316" uuid="627805a0-535f-4cba-8176-a4de290b9c15"/>
+        <card number="4" name="Fecundity" setShortName="USG" collectorNumber="251" uuid="54c93c11-448c-402d-ac55-8d5ab4c83d7b"/>
+        <card number="1" name="Yawgmoth's Bargain" setShortName="UDS" collectorNumber="75" uuid="86901bf2-7722-43f8-b879-7a30630371fa"/>
+        <card number="1" name="Pattern of Rebirth" setShortName="UDS" collectorNumber="115" uuid="9f23c4f4-a191-4225-a3b7-dab5b1462922"/>
+        <card number="4" name="Saproling Cluster" setShortName="NEM" collectorNumber="114" uuid="5f50072b-aedd-4074-b1f7-f9ce477c26c2"/>
+        <card number="1" name="Confiscate" setShortName="USG" collectorNumber="66" uuid="7cba6d4a-58d0-42d6-b49b-65c72b86007f"/>
+        <card number="4" name="Ashnod's Altar" setShortName="6ED" collectorNumber="274" uuid="4a0f8965-ecd3-4da2-80aa-9c5034c0cd3b"/>
+        <card number="4" name="Academy Rector" setShortName="UDS" collectorNumber="1" uuid="4367bc78-0912-4abd-8edd-bc792558d01a"/>
+        <card number="4" name="Birds of Paradise" setShortName="6ED" collectorNumber="217" uuid="0ad85d15-e700-455d-96f4-dfd6661f9722"/>
+        <card number="4" name="Llanowar Elves" setShortName="6ED" collectorNumber="239" uuid="bb95a9a7-b0a3-4199-8c05-2519ccda738b"/>
+        <card number="4" name="Priest of Titania" setShortName="USG" collectorNumber="270" uuid="965c33c3-0c68-4516-b8b0-5a0552ed44b6"/>
+        <card number="1" name="Serra Avatar" setShortName="USG" collectorNumber="45" uuid="288b0976-78e8-4fbe-8607-2e55d8761d3e"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Defense Grid" setShortName="ULG" collectorNumber="125" uuid="5c2592c9-7e64-40c1-a9cb-c0994094a1e0"/>
+        <card number="1" name="Heart of Ramos" setShortName="MMQ" collectorNumber="296" uuid="a0046226-7563-4345-aa4b-a2c732c2780a"/>
+        <card number="1" name="Meekstone" setShortName="6ED" collectorNumber="299" uuid="89d01df6-ede2-4cca-89a5-b041b1238ebb"/>
+        <card number="1" name="Phyrexian Processor" setShortName="USG" collectorNumber="306" uuid="6875ce99-badd-44da-8e5d-509600efa1d0"/>
+        <card number="3" name="Armageddon" setShortName="6ED" collectorNumber="4" uuid="ccf3abe6-0b86-4010-8fc6-616af77b4ace"/>
+        <card number="1" name="Seal of Cleansing" setShortName="NEM" collectorNumber="18" uuid="af6c921e-1b82-412c-9979-adfdf83440f7"/>
+        <card number="1" name="Worship" setShortName="USG" collectorNumber="57" uuid="908781a0-1ba4-4027-bd9d-13f9faf08686"/>
+        <card number="1" name="Parallax Wave" setShortName="NEM" collectorNumber="17" uuid="cef789e8-e4cc-4f61-bc15-debc2487777f"/>
+        <card number="1" name="Light of Day" setShortName="6ED" collectorNumber="29" uuid="3d5af047-7d98-4ba9-9ce1-c67563c19866"/>
+        <card number="1" name="Energy Flux" setShortName="MMQ" collectorNumber="78" uuid="a77b22a0-d5cc-4dbb-aec3-763b8efaee7e"/>
+        <card number="1" name="Blaze" setShortName="6ED" collectorNumber="168" uuid="9f09111a-e714-4f8f-8a48-61c102e45123"/>
+        <card number="1" name="Aura Fracture" setShortName="PCY" collectorNumber="2" uuid="de8d3e36-977f-4169-8f2a-a4057b912ccb"/>
+        <card number="1" name="Absolute Law" setShortName="USG" collectorNumber="2" uuid="59d1f05b-f165-47c7-8a78-3b60ee3298ca"/>
+    </zone>
+</cockatrice_deck>
