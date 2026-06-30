@@ -7,8 +7,8 @@ Format
 
 Note
 - Pro Tour-New York 2000 top 4 deck by Marsh Warren
-- [**Lin Sivvi, Defiant Hero**] puts creatures into play using activated abilities, bypassing standard counters and operating at instant speed
-- [**Lin Sivvi, Defiant Hero**] was banne in Masques block constructed format during June 2000 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2000
+- [**Lin Sivvi, Defiant Hero**](https://api.scryfall.com/cards/e574e522-2632-4cd4-8545-c582ac3b641f?format=image) puts creatures into play using activated abilities, bypassing standard counters and operating at instant speed
+- [**Lin Sivvi, Defiant Hero**](https://api.scryfall.com/cards/e574e522-2632-4cd4-8545-c582ac3b641f?format=image) was banne in Masques block constructed format during June 2000 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2000
 
 Deck
 - 3 Ramosian Sergeant
