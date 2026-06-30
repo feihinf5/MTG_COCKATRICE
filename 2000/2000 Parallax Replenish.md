@@ -13,6 +13,9 @@ Format
 
 Note
 - World Championships 2000 top 8 deck by Tom van de Logt
+- Using [**Replenish**] as the key card, this deck controls the board with [**Parallax Wave**] and [**Parallax Tide**] then swings for the win using enchantments turned into creatures by [**Opalescence**]
+- While the animated enchantments lack evasion, [**Parallax Wave**] can clear out blockers when they all return to the battlefield together
+- [**Attunement**] and [**Frantic Search**] dig through the library to find [**Replenish**] while dumping a mass of enchantments into the graveyard
 
 Deck
 - 4 Attunement
