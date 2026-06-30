@@ -8,6 +8,8 @@ Format
 
 Note
 - Grand Prix-Kyushu 1999 winning deck by Komiya Tadayoshi
+- [**Grim Monolith**] are utilized to fast-mana out threats like [**Masticore**] and [**Treachery**]
+- [**Morphling**] or [**Palinchron**] serve as finishers, while [**Stroke of Genius**] handles card draw
 
 Deck
 - 2 Morphling
