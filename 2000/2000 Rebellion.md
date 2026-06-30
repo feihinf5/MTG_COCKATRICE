@@ -2,7 +2,8 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%AA%E3%83%99%E3%83%AA%E3%82%AA%E3%83%B3#.E5.88.9D.E6.9C.9F.E5.9E.8B
 
 Format
-- CARD_SET
+- NEM
+- MMQ
 
 Note
 - Pro Tour-New York 2000 top 4 deck by Marsh Warren
