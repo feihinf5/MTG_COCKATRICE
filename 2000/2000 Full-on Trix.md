@@ -18,6 +18,7 @@ Format
 - ALL
 - HML
 - ICE
+- Dual-land allowed
 
 Note
 - Grand Prix Philadelphia 2000 top 4 deck by Scott McCord
