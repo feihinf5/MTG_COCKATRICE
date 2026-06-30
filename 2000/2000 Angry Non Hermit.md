@@ -13,7 +13,7 @@ Format
 
 Note
 - World Championships 2000 top 8 deck by Dominik Hothow
-- The finisher replacing [**Deranged Hermit**](https://api.scryfall.com/cards/bf0e94c9-61c4-4cc0-b5ce-db62bc2660ee?format=image) with [**Blastoderm**](https://api.scryfall.com/cards/9db5d6c2-b11f-442a-b172-c0c99c9bec07?format=image)
+- The finisher replacing [**Deranged Hermit**](https://api.scryfall.com/cards/bf0e94c9-61c4-4cc0-b5ce-db62bc2660ee?format=image) with [**Blastoderm**](https://api.scryfall.com/cards/9db5d6c2-b11f-442a-b172-c0c99c9bec07?format=image), hence it names as non-hermit
 - Focusing on mana denial via [**Plow Under**](https://api.scryfall.com/cards/a30735c4-7f12-4db9-972b-9b7568a8ada8?format=image) and land destruction
 
 Deck
