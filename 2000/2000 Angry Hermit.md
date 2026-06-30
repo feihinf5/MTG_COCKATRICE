@@ -11,7 +11,7 @@ Format
 - USG
 
 Note
-- INFO
+- Asia Pacific Championship 2000 winning deck by Mori Masaya
 
 Deck
 - 4 Birds of Paradise
