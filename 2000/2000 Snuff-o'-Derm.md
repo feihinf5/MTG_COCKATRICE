@@ -7,7 +7,7 @@ Format
 - MMQ
 
 Note
-- INFO
+- Remove opponent's creatures with [**Seal of Doom**], [**Snuff Out**] or [**Forced March**] then finish them off with [**Blastoderm**]
 
 Deck
 - 2 Primeval Shambler
