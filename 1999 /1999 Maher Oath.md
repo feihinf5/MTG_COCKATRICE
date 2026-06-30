@@ -21,7 +21,9 @@ Format
 - Dual-land allowed
 
 Note
-- INFO
+- Combination of [**Oath of Druids**] and [**Gaea's Blessing**] demonstrated overwhelming strength, particularly against creature-based decks
+- Stalls for time and controls the game using creatures like [**Spike Feeder**]
+- Utilizes [**Morphling**] alongside [**Treetop Village**] as finishers
 
 Deck
 - 1 Morphling
