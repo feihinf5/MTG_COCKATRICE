@@ -8,9 +8,9 @@ Format
 
 Note
 - World Championships 2000 Masques Block Constructed top 8 by Brian Davis
-- Restricts lands on both sides using [**Rising Waters**] while attacking with mid-sized creatures like [**Chimeric Idol**] and [**Troublesome Spirit**]
-- Bypasses the downside of [**Rising Waters**] by utilizing [**Sky Diamond**]
-- Uses bounce counters like [**Daze**] and [**Thwart**] to return tapped [**Islands**] to the hand for reuse
+- Restricts lands on both sides using [**Rising Waters**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) while attacking with mid-sized creatures like [**Chimeric Idol**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Troublesome Spirit**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Bypasses the downside of [**Rising Waters**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) by utilizing [**Sky Diamond**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Uses bounce counters like [**Daze**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Thwart**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to return tapped [**Islands**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to the hand for reuse
 
 Deck
 - 2 Spiketail Hatchling
