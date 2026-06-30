@@ -13,9 +13,9 @@ Format
 
 Note
 - World Championships 2000 winning deck by Jon Finkel
-- Utilizing [**Tinker**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to search for [**Phyrexian Processor**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
-- While life total becomes endangered, [**Crumbling Sanctuary**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) mitigates the risk
-- Incorporates control elements using [**Tangle Wire**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Mishra's Helix**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Utilizing [**Tinker**](https://api.scryfall.com/cards/7da23b15-dfb8-4267-9b33-d7a4c035c434?format=image) to search for [**Phyrexian Processor**](https://api.scryfall.com/cards/6875ce99-badd-44da-8e5d-509600efa1d0?format=image)
+- While life total becomes endangered, [**Crumbling Sanctuary**](https://api.scryfall.com/cards/d8fa6d6c-c1cd-46f3-8430-94f67be55bf7?format=image) mitigates the risk
+- Incorporates control elements using [**Tangle Wire**](https://api.scryfall.com/cards/ad62f313-8a8a-4ffa-ada2-b12b76288729?format=image) and [**Mishra's Helix**](https://api.scryfall.com/cards/5c62507f-465d-45e9-96bf-06671d19e79e?format=image)
 
 Deck
 - 4 Masticore
