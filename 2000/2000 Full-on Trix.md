@@ -22,6 +22,12 @@ Format
 
 Note
 - Grand Prix Philadelphia 2000 top 4 deck by Scott McCord
+- Uses Necropotence to rapidly dig for Donate and Illusions of Grandeur
+- Gaining 20 life from Illusions of Grandeur fuels further Necropotence draws
+- This massive card draw virtually guarantees assembling the full combo while easily leaving mana or pitch cards up for Force of Will
+- Requiring only a 2-card combo allows the deck to fully exploit the powerful tutoring capability of Demonic Consultation
+- Reached its absolute strongest state when fast mana options like Mana Vault and Dark Ritual were still available
+- Mana Vault and Dark Ritual were banned in the Extended format during April 2000 and during April 2001, Necropotence and Demonic Consultation were subsequently banned in the Extended format as well https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2000
 
 Deck
 - 4 Duress
