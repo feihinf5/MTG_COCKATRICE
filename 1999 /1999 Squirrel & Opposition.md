@@ -5,7 +5,7 @@ Format
 - CARD_SET
 
 Note
-- INFO
+- Grand Prix-Memphis 1999 winning deck by Michael Pustilnik
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
