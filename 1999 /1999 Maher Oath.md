@@ -22,9 +22,9 @@ Format
 
 Note
 - Pro Tour-Chicago 1999 winning deck by Bob Maher
-- Combination of [**Oath of Druids**] and [**Gaea's Blessing**] demonstrated overwhelming strength, particularly against creature-based decks
-- Stalls for time and controls the game using creatures like [**Spike Feeder**]
-- Utilizes [**Morphling**] alongside [**Treetop Village**] as finishers
+- Combination of [**Oath of Druids**](https://api.scryfall.com/cards/cf14de50-d123-400c-862e-2c95fd2aa23f?format=image) and [**Gaea's Blessing**](https://api.scryfall.com/cards/ee83d511-57e0-40fb-a4db-62f6c2c39888?format=image) demonstrated overwhelming strength, particularly against creature-based decks
+- Stalls for time and controls the game using creatures like [**Spike Feeder**](https://api.scryfall.com/cards/3751b2ae-a234-4691-984b-2f9f6b1cd1df?format=image)
+- Utilizes [**Morphling**](https://api.scryfall.com/cards/812f4d5c-aacf-4bd8-849d-80a357a7804d?format=image) alongside [**Treetop Village**](https://api.scryfall.com/cards/02212bd8-0c0f-4e8e-99f1-a8477476c03a?format=image) as finishers
 
 Deck
 - 1 Morphling
