@@ -2,7 +2,9 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%96%E3%83%AB%E3%83%BC
 
 Format
-- CARD_SET
+- UDS
+- ULG
+- USG
 
 Note
 - INFO
