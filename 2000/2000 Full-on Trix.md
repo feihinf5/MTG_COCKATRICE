@@ -1,5 +1,6 @@
 Reference 
 - https://magic.wizards.com/en/news/feature/top-10-extended-decks-all-time-2008-02-07
+- http://mtgwiki.com/wiki/%E3%83%8D%E3%82%AF%E3%83%AD%E3%83%BB%E3%83%89%E3%83%8D%E3%82%A4%E3%83%88
 
 Format
 - CARD_SET
