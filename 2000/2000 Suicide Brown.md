@@ -5,7 +5,9 @@ Format
 - CARD_SET
 
 Note
-- INFO
+- Utilizing Tinker to search for Phyrexian Processor
+- While life total becomes endangered, Crumbling Sanctuary mitigates the risk
+- Incorporates control elements using Tangle Wire and Mishra's Helix
 
 Deck
 - 4 Masticore
