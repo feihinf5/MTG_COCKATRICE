@@ -8,7 +8,26 @@ Note
 - INFO
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Masticore
+- 4 Metalworker
+- 1 Phyrexian Colossus
+- 2 Rising Waters
+- 4 Brainstorm
+- 1 Crumbling Sanctuary
+- 4 Grim Monolith
+- 1 Mishra's Helix
+- 4 Phyrexian Processor
+- 4 Tangle Wire
+- 4 Thran Dynamo
+- 4 Tinker
+- 4 Voltaic Key
+- 9 Island
+- 4 Crystal Vein
+- 4 Rishadan Port
+- 4 Saprazzan Skerry 		
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 4 Annul
+- 4 Chill
+- 4 Miscalculation
+- 1 Mishra's Helix
