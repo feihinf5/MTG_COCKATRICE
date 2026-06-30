@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2000 Rebellion</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-New York 2000 top 4 deck by Marsh Warren</comments>
+    <tags/>
+    <zone name="main">
+        <card number="5" name="Plains" setShortName="MMQ" collectorNumber="331" uuid="2edf5042-d185-424e-922d-c0bd4ce3e8b0"/>
+        <card number="5" name="Plains" setShortName="MMQ" collectorNumber="332" uuid="44214f36-8bb3-4a32-8046-3ecdfff8407b"/>
+        <card number="6" name="Plains" setShortName="MMQ" collectorNumber="334" uuid="3a8fd867-8be1-4ee7-bb67-32c3f22db59e"/>
+        <card number="6" name="Plains" setShortName="MMQ" collectorNumber="333" uuid="e3e536cc-e724-43d4-9fe3-dfb4952613cb"/>
+        <card number="4" name="Rishadan Port" setShortName="MMQ" collectorNumber="324" uuid="477a1f53-5cdf-4b45-b584-2e36b31a3fdb"/>
+        <card number="4" name="Parallax Wave" setShortName="NEM" collectorNumber="17" uuid="cef789e8-e4cc-4f61-bc15-debc2487777f"/>
+        <card number="2" name="Seal of Cleansing" setShortName="NEM" collectorNumber="18" uuid="af6c921e-1b82-412c-9979-adfdf83440f7"/>
+        <card number="4" name="Story Circle" setShortName="MMQ" collectorNumber="51" uuid="675378bb-7dc1-4bc8-b026-27e6e8e72e18"/>
+        <card number="4" name="Reverent Mantra" setShortName="MMQ" collectorNumber="44" uuid="48364e19-a3ea-4980-925f-7918e57315f1"/>
+        <card number="2" name="Disenchant" setShortName="MMQ" collectorNumber="18" uuid="366407d8-3ed9-4809-b9bb-388ebb9ea815"/>
+        <card number="1" name="Jhovall Queen" setShortName="MMQ" collectorNumber="25" uuid="b8eb55cc-ddde-4f15-9262-b9aee28059d3"/>
+        <card number="4" name="Lin Sivvi, Defiant Hero" setShortName="NEM" collectorNumber="12" uuid="e574e522-2632-4cd4-8545-c582ac3b641f"/>
+        <card number="2" name="Ramosian Lieutenant" setShortName="MMQ" collectorNumber="37" uuid="debe840a-ebc9-43c4-9bf7-7eb292b65bf9"/>
+        <card number="3" name="Ramosian Sergeant" setShortName="MMQ" collectorNumber="39" uuid="ef2b036d-5721-4a6e-bf43-69148b90da10"/>
+        <card number="1" name="Ramosian Sky Marshal" setShortName="MMQ" collectorNumber="40" uuid="16638976-8a78-4233-8ebc-42ea9bb49e0a"/>
+        <card number="4" name="Steadfast Guard" setShortName="MMQ" collectorNumber="50" uuid="6381774b-fb91-46cc-9bf6-6eeb4d67a165"/>
+        <card number="3" name="Voice of Truth" setShortName="NEM" collectorNumber="25" uuid="40377e3d-77d9-4d86-ac8c-4e27803e48d8"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Topple" setShortName="NEM" collectorNumber="24" uuid="a7c25c67-4214-4318-a718-7d351e713f80"/>
+        <card number="4" name="Defender en-Vec" setShortName="NEM" collectorNumber="5" uuid="e7b224b7-d5f7-4515-beca-523f305ee3b8"/>
+        <card number="1" name="Distorting Lens" setShortName="MMQ" collectorNumber="293" uuid="ab196d8d-5d1c-4f0e-a924-37774db02821"/>
+        <card number="1" name="Lightbringer" setShortName="NEM" collectorNumber="11" uuid="19451993-7a53-4a50-bfca-ddc9cdfbe168"/>
+        <card number="1" name="Nightwind Glider" setShortName="MMQ" collectorNumber="31" uuid="0968401d-522f-4def-92a1-d504471ac54e"/>
+        <card number="1" name="Voice of Truth" setShortName="NEM" collectorNumber="25" uuid="40377e3d-77d9-4d86-ac8c-4e27803e48d8"/>
+        <card number="1" name="Seal of Cleansing" setShortName="NEM" collectorNumber="18" uuid="af6c921e-1b82-412c-9979-adfdf83440f7"/>
+        <card number="2" name="Disenchant" setShortName="MMQ" collectorNumber="18" uuid="366407d8-3ed9-4809-b9bb-388ebb9ea815"/>
+    </zone>
+</cockatrice_deck>
