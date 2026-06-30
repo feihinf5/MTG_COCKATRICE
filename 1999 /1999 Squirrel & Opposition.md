@@ -1,5 +1,5 @@
 Reference 
-- http://mtgwiki.com/wiki/%E3%83%AA%E3%82%B9%E5%AF%BE%E7%AB%8B#.E3.82.A6.E3.83.AB.E3.82.B6.E3.83.BB.E3.83.96.E3.83.AD.E3.83.83.E3.82.AF.E6.A7.8B.E7.AF.89.E7.89.88
+- http://www.mtghistory.info/Docs/WizardsArticles/20020726%20-%20feature75%20-%20Scurrying%20to%20the%20Top.pdf
 
 Format
 - UDS
