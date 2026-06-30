@@ -2,7 +2,9 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%B9%E3%83%8A%E3%83%95%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%80%E3%83%BC%E3%83%A0
 
 Format
-- CARD_SET
+- PCY
+- NEM
+- MMQ
 
 Note
 - INFO
