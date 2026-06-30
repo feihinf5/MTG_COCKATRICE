@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2000 Aggro Water</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2000 Masques Block Constructed top 8 deck by Brian Davis</comments>
+    <tags/>
+    <zone name="main">
+        <card number="5" name="Island" setShortName="MMQ" collectorNumber="335" uuid="5bae77e8-1230-4a6e-8c75-c99d2741a509"/>
+        <card number="5" name="Island" setShortName="MMQ" collectorNumber="336" uuid="9a38509a-2b74-42a0-af91-ed453e463b95"/>
+        <card number="6" name="Island" setShortName="MMQ" collectorNumber="337" uuid="b2d83856-2201-4c30-bfcf-9cab62545201"/>
+        <card number="6" name="Island" setShortName="MMQ" collectorNumber="338" uuid="e0fedd66-e547-492c-ad0d-9c7b527bdd17"/>
+        <card number="1" name="Rath's Edge" setShortName="NEM" collectorNumber="142" uuid="42681dce-5c63-4e56-955e-39f085ea6ae9"/>
+        <card number="4" name="Chimeric Idol" setShortName="PCY" collectorNumber="136" uuid="fd0fb30e-e4d0-4271-a712-db40fa7650c3"/>
+        <card number="4" name="Eye of Ramos" setShortName="MMQ" collectorNumber="294" uuid="78d22400-39f6-444d-b508-783a7df7e945"/>
+        <card number="4" name="Rising Waters" setShortName="NEM" collectorNumber="38" uuid="ec9c84db-cf45-43e1-b38f-8bbf53cf088b"/>
+        <card number="1" name="Foil" setShortName="PCY" collectorNumber="34" uuid="870fb793-3107-4cb2-ba78-34fbf5c9da2f"/>
+        <card number="4" name="Gush" setShortName="MMQ" collectorNumber="82" uuid="e755bbef-bf34-49c0-ae72-d70e3599de52"/>
+        <card number="4" name="Thwart" setShortName="MMQ" collectorNumber="108" uuid="c12a0717-e9ea-4be3-a29f-179671ed4489"/>
+        <card number="2" name="Daze" setShortName="NEM" collectorNumber="30" uuid="d03bff25-0d5e-4dcf-8d75-6df846afea3b"/>
+        <card number="1" name="Rishadan Airship" setShortName="MMQ" collectorNumber="91" uuid="5d8e596b-f5ef-405a-8910-c5d0b5c8c0fc"/>
+        <card number="2" name="Spiketail Hatchling" setShortName="PCY" collectorNumber="49" uuid="9988f0fe-a7d4-44f9-b37c-fa30014ea215"/>
+        <card number="3" name="Stronghold Zeppelin" setShortName="NEM" collectorNumber="47" uuid="d672110d-b7c4-4233-9c46-73323be7204d"/>
+        <card number="4" name="Troublesome Spirit" setShortName="PCY" collectorNumber="52" uuid="23d7e856-6852-4b97-ae0e-a4becdfc8166"/>
+        <card number="4" name="Waterfront Bouncer" setShortName="MMQ" collectorNumber="114" uuid="8dbdce9e-94fa-4ed5-9b97-d2026cffe7cb"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Distorting Lens" setShortName="MMQ" collectorNumber="293" uuid="ab196d8d-5d1c-4f0e-a924-37774db02821"/>
+        <card number="1" name="Bribery" setShortName="MMQ" collectorNumber="62" uuid="dfc0ea8a-62f6-49e8-8eec-9748870bc596"/>
+        <card number="2" name="Daze" setShortName="NEM" collectorNumber="30" uuid="d03bff25-0d5e-4dcf-8d75-6df846afea3b"/>
+        <card number="1" name="Foil" setShortName="PCY" collectorNumber="34" uuid="870fb793-3107-4cb2-ba78-34fbf5c9da2f"/>
+        <card number="2" name="Submerge" setShortName="NEM" collectorNumber="48" uuid="d2741fe4-37fe-427f-ae85-5107991d4eee"/>
+        <card number="3" name="Rishadan Airship" setShortName="MMQ" collectorNumber="91" uuid="5d8e596b-f5ef-405a-8910-c5d0b5c8c0fc"/>
+        <card number="3" name="Saprazzan Outrigger" setShortName="MMQ" collectorNumber="101" uuid="b28048f1-4cf5-4389-9e69-9b5e1bc95396"/>
+        <card number="1" name="Stronghold Zeppelin" setShortName="NEM" collectorNumber="47" uuid="d672110d-b7c4-4233-9c46-73323be7204d"/>
+    </zone>
+</cockatrice_deck>
