@@ -8,8 +8,8 @@ Format
 
 Note
 - Grand Prix-Kyushu 1999 winning deck by Komiya Tadayoshi
-- [**Grim Monolith**] are utilized to fast-mana out threats like [**Masticore**] and [**Treachery**]
-- [**Morphling**] or [**Palinchron**] serve as finishers, while [**Stroke of Genius**] handles card draw
+- [**Grim Monolith**](https://api.scryfall.com/cards/9ddc9fe1-17c8-4e1d-aeb8-c4214e881280?format=image) are utilized to fast-mana out threats like [**Masticore**](https://api.scryfall.com/cards/908a2215-7231-43a4-8fec-5d1e4233c028?format=image) and [**Treachery**](https://api.scryfall.com/cards/613694aa-b169-400d-8063-2b83d8303611?format=image)
+- [**Morphling**](https://api.scryfall.com/cards/812f4d5c-aacf-4bd8-849d-80a357a7804d?format=image) or [**Palinchron**](https://api.scryfall.com/cards/5621db3f-a9e7-4350-9c6a-0ba04a628947?format=image) serve as finishers, while [**Stroke of Genius**](https://api.scryfall.com/cards/5e977755-8ea4-4a8b-90c4-dd175321e05d?format=image) handles card draw
 
 Deck
 - 2 Morphling
