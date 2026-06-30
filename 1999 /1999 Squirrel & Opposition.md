@@ -29,6 +29,7 @@ Deck
 - 1 Stroke of Genius
 - 1 Annul
 - 1 Sunder
+- 2 Power Sink
 
 Sideboard
 - 1 Masticore
@@ -37,3 +38,4 @@ Sideboard
 - 4 Gaea's Embrace
 - 2 Sunder
 - 3 Harmonic Convergence
+- 1 Delusions of Mediocrity
