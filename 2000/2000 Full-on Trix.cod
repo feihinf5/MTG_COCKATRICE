@@ -1,1 +1,55 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2000 Full-on Trix</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix Philadelphia 2000 top 4 deck by Scott McCord</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Gemstone Mine" setShortName="WTH" collectorNumber="164" uuid="09507f7f-c58f-4f57-b878-b39811a5b619"/>
+        <card number="1" name="Island" setShortName="ICE" collectorNumber="368" uuid="ef2d6fc9-ddad-4dd2-b218-afa1a5449b7e"/>
+        <card number="1" name="Island" setShortName="ICE" collectorNumber="369" uuid="61a467ab-4460-4e5e-94c1-8150bfe0c954"/>
+        <card number="1" name="Island" setShortName="ICE" collectorNumber="370" uuid="82f11c42-9d67-4833-9519-e165e6a7e9c4"/>
+        <card number="1" name="Swamp" setShortName="ICE" collectorNumber="373" uuid="4695653a-5c4c-4ff3-b80c-f4b6c685f370"/>
+        <card number="1" name="Swamp" setShortName="ICE" collectorNumber="374" uuid="6a90b49f-53b3-4ce0-92c1-bcd76d6981ea"/>
+        <card number="1" name="Swamp" setShortName="ICE" collectorNumber="375" uuid="ddca7e2e-bb0a-47ed-ade3-31900da992dc"/>
+        <card number="1" name="Swamp" setShortName="MIR" collectorNumber="339" uuid="f2d28477-8be1-4caf-8185-64f47905ccb1"/>
+        <card number="1" name="Swamp" setShortName="MIR" collectorNumber="340" uuid="2c4be2d6-d168-4e67-8d75-a04f637b56dd"/>
+        <card number="1" name="Swamp" setShortName="MIR" collectorNumber="341" uuid="65181db5-3fc5-497b-ba61-385efdf740ed"/>
+        <card number="2" name="Underground River" setShortName="ICE" collectorNumber="362" uuid="92369d7e-5e5a-46f9-bb31-c57d62410283"/>
+        <card number="1" name="Underground River" setShortName="5ED" collectorNumber="426" uuid="be9efd79-1b1d-4e02-8922-0154ad20e4d4"/>
+        <card number="1" name="Underground River" setShortName="6ED" collectorNumber="330" uuid="142dd41a-0e98-41d7-9de9-63cda1cf8915"/>
+        <card number="1" name="Underground Sea" setShortName="LEA" collectorNumber="285" uuid="ff76ac86-8a8a-47fe-9388-8950ca3e26c3"/>
+        <card number="1" name="Underground Sea" setShortName="LEB" collectorNumber="286" uuid="5e91ce41-053e-4203-8860-49cbf854cc18"/>
+        <card number="1" name="Underground Sea" setShortName="2ED" collectorNumber="286" uuid="bc98d888-4af3-43a3-b035-40c651057b6e"/>
+        <card number="1" name="Underground Sea" setShortName="3ED" collectorNumber="290" uuid="1f35877c-e66c-4ef0-842a-f68cd233ae4b"/>
+        <card number="4" name="Illusions of Grandeur" setShortName="ICE" collectorNumber="79" uuid="17eeeef2-2ced-42b8-a5e0-1095c9e13b02"/>
+        <card number="2" name="Necropotence" setShortName="5ED" collectorNumber="182" uuid="222cfbec-8839-43fa-95a0-2ea91b59515c"/>
+        <card number="2" name="Necropotence" setShortName="ICE" collectorNumber="154" uuid="54d7a0c1-efb4-4a8d-ad92-a96d43835052"/>
+        <card number="4" name="Mana Vault" setShortName="5ED" collectorNumber="388" uuid="05e9fec4-1e0a-4206-ab2b-cc2543cba667"/>
+        <card number="1" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="1" name="Brainstorm" setShortName="ICE" collectorNumber="61" uuid="8d42d7aa-7f53-4cfc-842a-086aab2448d1"/>
+        <card number="1" name="Contagion" setShortName="ALL" collectorNumber="45" uuid="00c8f94a-7690-47f5-b664-61411a32ab74"/>
+        <card number="1" name="Dark Ritual" setShortName="ICE" collectorNumber="120" uuid="4ebcd681-1871-4914-bcd7-6bd95829f6e0"/>
+        <card number="1" name="Dark Ritual" setShortName="MIR" collectorNumber="116" uuid="1b5fc7ce-0618-4145-b8aa-bc871e4afa99"/>
+        <card number="1" name="Dark Ritual" setShortName="5ED" collectorNumber="153" uuid="fae25afd-0d16-431c-a85e-7ac91cef9050"/>
+        <card number="1" name="Dark Ritual" setShortName="TMP" collectorNumber="118" uuid="bf4708e8-2149-4990-987c-2ea55fc6c508"/>
+        <card number="4" name="Demonic Consultation" setShortName="ICE" collectorNumber="121" uuid="8d727b9b-6114-414d-9172-16b6e1db41cc"/>
+        <card number="4" name="Force of Will" setShortName="ALL" collectorNumber="28" uuid="9a879b60-4381-447d-8a5a-8e0b6a1d49ca"/>
+        <card number="1" name="Hoodwink" setShortName="MMQ" collectorNumber="84" uuid="8d505fbb-ec85-475b-a0e1-6670627ec017"/>
+        <card number="1" name="Vampiric Tutor" setShortName="6ED" collectorNumber="161" uuid="c8505bc8-218f-4b56-be78-ebde535ebaa0"/>
+        <card number="2" name="Vampiric Tutor" setShortName="VIS" collectorNumber="72" uuid="0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d"/>
+        <card number="4" name="Donate" setShortName="UDS" collectorNumber="31" uuid="7f6d8ce9-f8c8-45ad-b74c-97fba0e2982e"/>
+        <card number="4" name="Duress" setShortName="USG" collectorNumber="132" uuid="ca367f49-0f4a-4b7f-8104-851893fbcd8a"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Unmask" setShortName="MMQ" collectorNumber="168" uuid="2db7a0e6-eea5-4fa6-ac14-401411b106cc"/>
+        <card number="3" name="Annul" setShortName="USG" collectorNumber="59" uuid="3f8c73ff-be92-41ca-93a7-76f9823adb38"/>
+        <card number="4" name="Phyrexian Negator" setShortName="UDS" collectorNumber="65" uuid="45a02d67-5931-49ae-a28e-57aa6f9c7f83"/>
+        <card number="2" name="Hydroblast" setShortName="ICE" collectorNumber="72" uuid="f62716f0-fde2-49ef-b8a4-c1b03f451194"/>
+        <card number="1" name="Hydroblast" setShortName="5ED" collectorNumber="94" uuid="89a30b8f-6594-42ea-8e60-13ccb1e7efc0"/>
+        <card number="2" name="Contagion" setShortName="ALL" collectorNumber="45" uuid="00c8f94a-7690-47f5-b664-61411a32ab74"/>
+        <card number="1" name="Hoodwink" setShortName="MMQ" collectorNumber="84" uuid="8d505fbb-ec85-475b-a0e1-6670627ec017"/>
+    </zone>
+</cockatrice_deck>
