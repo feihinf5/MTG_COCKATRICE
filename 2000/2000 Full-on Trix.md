@@ -8,7 +8,28 @@ Note
 - INFO
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Duress
+- 4 Donate
+- 4 Dark Ritual
+- 4 Demonic Consultation
+- 3 Vampiric Tutor
+- 1 Hoodwink
+- 1 Contagion
+- 4 Force of Will
+- 2 Brainstorm
+- 4 Mana Vault
+- 4 Necropotence
+- 4 Illusions of Grandeur
+- 4 Underground Sea
+- 4 Underground River
+- 4 Gemstone Mine
+- 3 Island
+- 6 Swamp
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Hoodwink
+- 2 Contagion
+- 4 Phyrexian Negator
+- 3 Annul
+- 2 Unmask
+- 3 Hydroblast
