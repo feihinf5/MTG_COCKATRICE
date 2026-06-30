@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2000 Snuff-o'-Derm</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2000 Masques Block Constructed top 8 by Eduardo Simoa Texeira</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Forest" setShortName="MMQ" collectorNumber="347" uuid="695de19e-801f-4f08-b44c-b0726e4aced0"/>
+        <card number="3" name="Forest" setShortName="MMQ" collectorNumber="349" uuid="c1973049-2d42-4091-9703-189ba374254d"/>
+        <card number="3" name="Forest" setShortName="MMQ" collectorNumber="350" uuid="98c4806b-a31a-4026-9876-eab4d0d1694b"/>
+        <card number="3" name="Forest" setShortName="MMQ" collectorNumber="348" uuid="a38e4ee7-6965-4e12-95d4-c9de1dbb014c"/>
+        <card number="3" name="Swamp" setShortName="MMQ" collectorNumber="339" uuid="72020810-bfa3-42d5-ad0d-6d02a6fe1b31"/>
+        <card number="3" name="Swamp" setShortName="MMQ" collectorNumber="340" uuid="c2436ceb-05c0-40e6-b370-a6f02f4adbe4"/>
+        <card number="3" name="Swamp" setShortName="MMQ" collectorNumber="342" uuid="4a0243d2-5fde-489f-8113-4ece0511cb5c"/>
+        <card number="3" name="Swamp" setShortName="MMQ" collectorNumber="341" uuid="1017347b-6b1a-4a2f-9147-98acad779616"/>
+        <card number="4" name="Chimeric Idol" setShortName="PCY" collectorNumber="136" uuid="fd0fb30e-e4d0-4271-a712-db40fa7650c3"/>
+        <card number="4" name="Snuff Out" setShortName="MMQ" collectorNumber="162" uuid="18a3cca1-e50e-49b6-9e1a-f86640e3b177"/>
+        <card number="4" name="Saproling Burst" setShortName="NEM" collectorNumber="113" uuid="de3a293d-08d8-49e4-b0fa-91afa0a5591d"/>
+        <card number="1" name="Haunted Crossroads" setShortName="MMQ" collectorNumber="138" uuid="3c065cae-1ed5-445e-ace3-e81cf4c773de"/>
+        <card number="4" name="Seal of Doom" setShortName="NEM" collectorNumber="70" uuid="396d9f58-a4ca-4197-94be-0f115427224e"/>
+        <card number="3" name="Vendetta" setShortName="MMQ" collectorNumber="170" uuid="67ced38e-0f33-4bda-8e18-09f6ac03a3d7"/>
+        <card number="4" name="Blastoderm" setShortName="NEM" collectorNumber="102" uuid="9db5d6c2-b11f-442a-b172-c0c99c9bec07"/>
+        <card number="2" name="Primeval Shambler" setShortName="MMQ" collectorNumber="152" uuid="5d6ed1fb-2f7d-4a21-bbf3-660cad631975"/>
+        <card number="4" name="Silt Crawler" setShortName="PCY" collectorNumber="123" uuid="f334e864-4e62-4bc3-9470-661be3d879e2"/>
+        <card number="4" name="Thrashing Wumpus" setShortName="MMQ" collectorNumber="166" uuid="86bc07c6-2ba7-41f8-90ab-f9bbac86dd08"/>
+        <card number="2" name="Vine Trellis" setShortName="MMQ" collectorNumber="285" uuid="e660241f-0976-4206-8149-7dac8466a2a3"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Distorting Lens" setShortName="MMQ" collectorNumber="293" uuid="ab196d8d-5d1c-4f0e-a924-37774db02821"/>
+        <card number="3" name="Forced March" setShortName="MMQ" collectorNumber="136" uuid="36eae0e1-7100-449d-a259-7abfcd429117"/>
+        <card number="4" name="Massacre" setShortName="NEM" collectorNumber="58" uuid="f05f5d93-50d1-4aa6-af05-383a6808345b"/>
+        <card number="4" name="Reverent Silence" setShortName="NEM" collectorNumber="111" uuid="b82d3432-2167-4a65-8221-cb7b338e60d0"/>
+    </zone>
+</cockatrice_deck>
