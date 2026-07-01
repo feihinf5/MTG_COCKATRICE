@@ -13,6 +13,10 @@ Format
 
 Note
 - Pro Tour-Columbus 2004 winning deck by Pierre Canali
+- Minimizes creature mana costs to maximize [**Aether Vial**] to enabling tricky, instant-speed creature casting
+- Unneeded copies of [**Aether Vial**] are sacrificed to power up [**Arcbound Ravager**]
+- [**Aether Vial**] bypasses colored mana requirements, allowing to cheat out [**Disciple of the Vault**] even when black mana is completely unavailable
+- [**Aether Vial**] and [**Disciple of the Vault**] were banned in the Extended format on September 2005 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2005
 
 Deck
 - 4 Disciple of the Vault
