@@ -6,6 +6,10 @@ Format
 
 Note
 - Grand Prix-Sydney 2000 winning deck by Gordon Lin
+- [**Pandemonium**] and [**Saproling Burst**] on the battlefield allow to deal 21 damage instantly by creating Saproling tokens
+- [**Replenish**] is commonly used to bring both enchantments from the graveyard to the battlefield simultaneously
+- Utilizing [**Intuition**] significantly reduces the number of deck slots needed for combo pieces
+- [**Replenish**] was banned during March 2001 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2001
 
 Deck
 - 4 Brainstorm
