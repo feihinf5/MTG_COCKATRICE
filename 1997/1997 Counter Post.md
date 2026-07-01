@@ -4,15 +4,9 @@ Reference
 Format
 - WTH
 - 5ED
-- VIS
-- MIR
-- ALL
-- HML
-- ICE
-- CHR
+- VIS / MIR / ALL / HML / ICE / CHR
 - 4ED
-- FEM
-- DRK
+- FEM / DRK
 - 3ED
 
 Note
