@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>1998 Tax Rack</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Rio de Janeiro 1998 winning deck by Jon Finkel</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Plains" setShortName="3ED" collectorNumber="292" uuid="275c03f9-f9d2-45c5-a332-b3bee54e7065"/>
+        <card number="1" name="Plains" setShortName="3ED" collectorNumber="293" uuid="cc0bcdbe-be63-446a-8838-8790bda308a3"/>
+        <card number="1" name="Plains" setShortName="3ED" collectorNumber="294" uuid="a4901260-073a-4d06-8167-c322c55ab210"/>
+        <card number="1" name="Plains" setShortName="4ED" collectorNumber="364" uuid="639e47dc-c90f-4f55-9b3a-721240ec04ed"/>
+        <card number="1" name="Plains" setShortName="4ED" collectorNumber="366" uuid="ad1317da-9e81-4aff-8c04-9155d14be90c"/>
+        <card number="1" name="Plains" setShortName="4ED" collectorNumber="365" uuid="d17f8abd-c087-4039-8dfd-c6168f7db0a6"/>
+        <card number="1" name="Plains" setShortName="ICE" collectorNumber="364" uuid="7b68bdb0-41cc-48f6-905e-7da1ff4ba5e0"/>
+        <card number="1" name="Plains" setShortName="ICE" collectorNumber="365" uuid="df3e94f7-9f97-4652-a1f1-381feb15f688"/>
+        <card number="1" name="Plains" setShortName="ICE" collectorNumber="366" uuid="27ac1fc7-0698-4a94-8353-cc4c13bd6ffa"/>
+        <card number="1" name="Plains" setShortName="MIR" collectorNumber="331" uuid="888f32ad-3bdd-4c46-b3f0-522ac9763591"/>
+        <card number="4" name="Plateau" setShortName="3ED" collectorNumber="284" uuid="c6ae9cff-8646-4069-8761-df734e067beb"/>
+        <card number="1" name="Undiscovered Paradise" setShortName="VIS" collectorNumber="167" uuid="5f6e8830-5e62-4945-8b73-60f0628d38e7"/>
+        <card number="4" name="Empyrial Armor" setShortName="WTH" collectorNumber="13" uuid="5518a79f-bcae-417a-b01b-b6ff572be0be"/>
+        <card number="4" name="Land Tax" setShortName="4ED" collectorNumber="34" uuid="1301e203-7d9a-4735-8db3-7882ad70d343"/>
+        <card number="2" name="Scroll Rack" setShortName="TMP" collectorNumber="308" uuid="5f7346d8-1aef-4618-88e6-74bd8865e0f3"/>
+        <card number="1" name="Disenchant" setShortName="3ED" collectorNumber="17" uuid="41859c6f-1017-42ae-9061-050fe0db9731"/>
+        <card number="1" name="Disenchant" setShortName="4ED" collectorNumber="22" uuid="a915f261-2cdc-499c-9163-da5b628b0127"/>
+        <card number="1" name="Disenchant" setShortName="ICE" collectorNumber="20" uuid="b6085d0c-ab2b-445d-bf9d-0fa0a19183a2"/>
+        <card number="1" name="Firestorm" setShortName="WTH" collectorNumber="101" uuid="e674aa8a-668a-4345-95ee-73a0b87bbcb1"/>
+        <card number="2" name="Lightning Bolt" setShortName="3ED" collectorNumber="162" uuid="cb9b9a9d-ae4c-4e04-bf9d-cae48f01292c"/>
+        <card number="2" name="Lightning Bolt" setShortName="4ED" collectorNumber="208" uuid="9521375e-0bc1-45ef-b513-6d332a25f9d2"/>
+        <card number="2" name="Swords to Plowshares" setShortName="3ED" collectorNumber="41" uuid="057d2410-30d3-4b7a-9dc3-f2512c1cf31c"/>
+        <card number="1" name="Swords to Plowshares" setShortName="4ED" collectorNumber="52" uuid="8bd501ae-5814-4336-a45b-2b88cb85d29e"/>
+        <card number="1" name="Swords to Plowshares" setShortName="ICE" collectorNumber="54" uuid="375fd2cb-443b-4be4-ad60-6d1a8e74f510"/>
+        <card number="4" name="Tithe" setShortName="VIS" collectorNumber="23" uuid="aae08938-e563-4322-b2eb-db81913ea730"/>
+        <card number="1" name="Armageddon" setShortName="3ED" collectorNumber="2" uuid="605e9a62-53e4-4771-9730-56c78237004a"/>
+        <card number="1" name="Order of Leitbur" setShortName="FEM" collectorNumber="16a" uuid="ebd6e51e-f042-4673-a898-291607105829"/>
+        <card number="1" name="Order of Leitbur" setShortName="FEM" collectorNumber="16b" uuid="fb537b5a-d725-420d-bc15-0d54ba23331c"/>
+        <card number="1" name="Order of Leitbur" setShortName="FEM" collectorNumber="16c" uuid="1373dea4-3565-4612-8505-ab8fba3ddb67"/>
+        <card number="1" name="Phyrexian War Beast" setShortName="ALL" collectorNumber="127a" uuid="e7a83384-8762-4028-8cab-b690593790a6"/>
+        <card number="2" name="Phyrexian War Beast" setShortName="ALL" collectorNumber="127b" uuid="e7d651f6-50be-4df9-80f8-4c62bb860e71"/>
+        <card number="2" name="Savannah Lions" setShortName="3ED" collectorNumber="39" uuid="ad41b1aa-1482-4d71-990b-031b30685cb1"/>
+        <card number="2" name="Savannah Lions" setShortName="4ED" collectorNumber="48" uuid="a2ee9127-d007-48e8-b797-88ef72bc7c8b"/>
+        <card number="4" name="Soltari Priest" setShortName="TMP" collectorNumber="46" uuid="35a71390-3fa8-43eb-ad86-67de2a7aeab8"/>
+        <card number="2" name="White Knight" setShortName="3ED" collectorNumber="44" uuid="ce573cee-40e0-4740-8b86-538ad8a16bce"/>
+        <card number="1" name="White Knight" setShortName="4ED" collectorNumber="56" uuid="2e8f8a10-6984-46a7-a641-5f712dab5c57"/>
+        <card number="1" name="White Knight" setShortName="5ED" collectorNumber="68" uuid="ef8529a0-0259-4ccd-a481-8ad1b5feadf9"/>
+    </zone>
+</cockatrice_deck>
