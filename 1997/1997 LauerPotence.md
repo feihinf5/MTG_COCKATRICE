@@ -4,18 +4,11 @@ Reference
 - http://www.mtghistory.info/Docs/WizardsArticles/20021206%20-%20The%20Power%20of%20the%20Skull.pdf
 
 Format
-- TMP
-- WTH
+- TMP / WTH
 - 5ED
-- VIS
-- MIR
-- ALL
-- HML
-- ICE
-- CHR
+- VIS / MIR / ALL / HML / ICE / CHR
 - 4ED
-- FEM
-- DRK
+- FEM / DRK
 - 3ED
 
 Note
