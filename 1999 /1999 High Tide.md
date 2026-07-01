@@ -6,7 +6,7 @@ Format
 - 5ED
 - VIS / MIR / ALL / HML / ICE / CHR
 - 4ED
-- FEM / DRK / LEG
+- FEM / DRK
 - 3ED
 
 Note
