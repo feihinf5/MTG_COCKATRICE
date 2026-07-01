@@ -6,11 +6,11 @@ Format
 
 Note
 - Pro Tour-Chicago 1997 top 4 deck by David Mill
-- Incorporates counter-magic elements via [**Disrupt**] alongside board wipes like [**Earthquake**]
-- [**Suq'Ata Firewalker**] effectively shuts down opposing copies of [**Frenetic Efreet**] or [**Kjeldoran Outpost**]
-- Employs [**Frenetic Efreet**] as a finisher, alongside [**Wildfire Emissary**], which boasts protection from premier removal white spells
-- Utilizes [**Kjeldoran Outpost**] without being entirely reliant on it, making it much more resilient against [**Wasteland**]
-- Originally ran 4 copies of [**Force of Will**], substituted 1 copy each for [**Disrupt**] and [**Desertion**]
+- Incorporates counter-magic elements via [**Disrupt**](https://api.scryfall.com/cards/c6cc89b0-9acf-452b-ac1a-bc7e90eb32fc?format=image) alongside board wipes like [**Earthquake**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Suq'Ata Firewalker**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) effectively shuts down opposing copies of [**Frenetic Efreet**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Kjeldoran Outpost**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Employs [**Frenetic Efreet**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as a finisher, alongside [**Wildfire Emissary**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), which boasts protection from premier removal white spells
+- Utilizes [**Kjeldoran Outpost**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) without being entirely reliant on it, making it much more resilient against [**Wasteland**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Originally ran 4 copies of [**Force of Will**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), substituted 1 copy each for [**Disrupt**](https://api.scryfall.com/cards/c6cc89b0-9acf-452b-ac1a-bc7e90eb32fc?format=image) and [**Desertion**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
 Deck
 - 4 Frenetic Efreet
