@@ -2,7 +2,12 @@ Reference
 - https://magic.wizards.com/en/news/feature/top-10-extended-decks-all-time-2008-02-07
 
 Format
-- CARD_SET
+- TMP / WTH
+- 5ED
+- VIS / MIR / ALL / HML / ICE / CHR
+- 4ED
+- FEM / DRK
+- 3ED
 
 Note
 - Pro Tour-Chicago 1997 top 4 deck by David Mill
