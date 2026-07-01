@@ -10,7 +10,7 @@ Format
 - 3ED
 
 Note
-- INFO
+- Built around the card advantage engine of [**Land Tax**] and [**Scroll Rack**]
 
 Deck
 - 3 Phyrexian War Beast
