@@ -11,11 +11,11 @@ Format
 
 Note
 - Pro Tour-Chicago 1997 top 4 deck by David Mill
-- Incorporates counter-magic elements via [**Disrupt**](https://api.scryfall.com/cards/c6cc89b0-9acf-452b-ac1a-bc7e90eb32fc?format=image) alongside board wipes like [**Earthquake**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
-- [**Suq'Ata Firewalker**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) effectively shuts down opposing copies of [**Frenetic Efreet**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Kjeldoran Outpost**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
-- Employs [**Frenetic Efreet**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as a finisher, alongside [**Wildfire Emissary**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), which boasts protection from premier removal white spells
-- Utilizes [**Kjeldoran Outpost**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) without being entirely reliant on it, making it much more resilient against [**Wasteland**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
-- Originally ran 4 copies of [**Force of Will**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), substituted 1 copy each for [**Disrupt**](https://api.scryfall.com/cards/c6cc89b0-9acf-452b-ac1a-bc7e90eb32fc?format=image) and [**Desertion**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Incorporates counter-magic elements via [**Disrupt**](https://api.scryfall.com/cards/c6cc89b0-9acf-452b-ac1a-bc7e90eb32fc?format=image) alongside board wipes like [**Earthquake**](https://api.scryfall.com/cards/603d1f86-2098-4af5-a038-c5a314ba7184?format=image)
+- [**Suq'Ata Firewalker**](https://api.scryfall.com/cards/b8a7c22e-fe96-4960-96d4-ee85abec3281?format=image) effectively shuts down opposing copies of [**Frenetic Efreet**](https://api.scryfall.com/cards/50d4468b-f7de-44fe-898a-4125d26d242f?format=image) or Soldier token from [**Kjeldoran Outpost**](https://api.scryfall.com/cards/e0769fc7-50b5-4b49-8aff-af04536288fb?format=image)
+- Employs [**Frenetic Efreet**](https://api.scryfall.com/cards/50d4468b-f7de-44fe-898a-4125d26d242f?format=image) as a finisher, alongside [**Wildfire Emissary**](https://api.scryfall.com/cards/6d99204c-b42d-48bc-9a93-fae5660665c7?format=image), which boasts protection from premier removal white spells
+- Utilizes [**Kjeldoran Outpost**](https://api.scryfall.com/cards/e0769fc7-50b5-4b49-8aff-af04536288fb?format=image) without being entirely reliant on it, making it much more resilient against [**Wasteland**](https://api.scryfall.com/cards/99ff731b-8399-40c8-b539-ba6ba5783771?format=image)
+- Originally ran 4 copies of [**Force of Will**](https://api.scryfall.com/cards/9a879b60-4381-447d-8a5a-8e0b6a1d49ca?format=image), substituted 1 copy each for [**Disrupt**](https://api.scryfall.com/cards/c6cc89b0-9acf-452b-ac1a-bc7e90eb32fc?format=image) and [**Desertion**](https://api.scryfall.com/cards/9a2a1779-af08-4a9a-aba4-e6892ce2332c?format=image)
 
 Deck
 - 4 Frenetic Efreet
