@@ -2,23 +2,11 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%8F%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%89#.E3.82.B5.E3.83.B3.E3.83.97.E3.83.AB.E3.83.AA.E3.82.B9.E3.83.88
 
 Format
-- ULG
-- USG
-- EXO
-- STH
-- TMP
-- WTH
+- ULG / USG / EXO / STH / TMP / WTH
 - 5ED
-- VIS
-- MIR
-- ALL
-- HML
-- ICE
-- CHR
+- VIS / MIR / ALL / HML / ICE / CHR
 - 4ED
-- FEM
-- DRK
-- LEG
+- FEM / DRK / LEG
 - 3ED
 
 Note
