@@ -12,10 +12,35 @@ Format
 - Dual-land allowed
 
 Note
-- INFO
+- 2001 Grand Prix Sendai top 4 deck by Mike Long
+- The deck operates with an exceptionally low land count
+- Utilizes cheap card draw, pitch spells, [**Land Grant**] to sustain the low mana base and [**Quirion Dryad**] as the primary finisher
+- [**Werebear**] provides mana acceleration and benefits from a rapidly filled graveyard
+- Disruption features [**Winter Orb**] and [**Waterfront Bouncer**] (which synergizes perfectly with the Orb to bounce threats)
+- Bounce its own lands via [**Gush**] or [**Daze**] allow it to completely bypass the resource lock imposed by its own [**Winter Orb**]
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Quirion Dryad
+- 2 Waterfront Bouncer
+- 4 Wild Mongrel
+- 4 Werebear
+- 4 Gush
+- 4 Brainstorm
+- 4 Sleight of Hand
+- 4 Daze
+- 2 Foil
+- 2 Opt
+- 4 Winter Orb
+- 4 Land Grant
+- 4 Curiosity
+- 4 Force of Will
+- 4 Tropical Island
+- 6 Island
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 4 Chill
+- 2 Submerge
+- 2 Hydroblast
+- 1 Annul
+- 4 Legacy's Allure
+- 2 Phyrexian Furnace
