@@ -14,10 +14,10 @@ Format
 Note
 - 2001 Grand Prix Sendai top 4 deck by Mike Long
 - The deck operates with an exceptionally low land count
-- Utilizes cheap card draw, pitch spells, [**Land Grant**] to sustain the low mana base and [**Quirion Dryad**] as the primary finisher
-- [**Werebear**] provides mana acceleration and benefits from a rapidly filled graveyard
-- Disruption features [**Winter Orb**] and [**Waterfront Bouncer**] (which synergizes perfectly with the Orb to bounce threats)
-- Bounce its own lands via [**Gush**] or [**Daze**] allow it to completely bypass the resource lock imposed by its own [**Winter Orb**]
+- Utilizes cheap card draw, pitch spells, [**Land Grant**](https://api.scryfall.com/cards/d6862005-32d1-473e-a28b-5dfc4b7782cd?format=image) to sustain the low mana base and [**Quirion Dryad**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as the primary finisher
+- [**Werebear**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) provides mana acceleration and benefits from a rapidly filled graveyard
+- Disruption features [**Winter Orb**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Waterfront Bouncer**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) (which synergizes perfectly with the Orb to bounce threats)
+- Bounce its own lands via [**Gush**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Daze**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) allow it to completely bypass the resource lock imposed by its own [**Winter Orb**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
 Deck
 - 4 Quirion Dryad
