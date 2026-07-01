@@ -2,24 +2,11 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%91%E3%83%B3%E3%83%87%E3%83%90%E3%83%BC%E3%82%B9%E3%83%88
 
 Format
-- INV
-- PCY
-- NEM
-- MMQ
-- UDS
+- INV / PCY / NEM / MMQ / UDS
 - 6ED
-- ULG
-- USG
-- EXO
-- STH
-- TMP
-- WTH
+- ULG / USG / EXO / STH / TMP / WTH
 - 5ED
-- VIS
-- MIR
-- ALL
-- HML
-- ICE
+- VIS / MIR / ALL / HML / ICE
 - Dual-land allowed
 
 Note
