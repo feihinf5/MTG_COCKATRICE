@@ -3,21 +3,11 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%A1%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B9
 
 Format
-- MMQ
-- UDS
+- MMQ / UDS
 - 6ED
-- ULG
-- USG
-- EXO
-- STH
-- TMP
-- WTH
+- ULG / USG / EXO / STH / TMP / WTH
 - 5ED
-- VIS
-- MIR
-- ALL
-- HML
-- ICE
+- VIS / MIR / ALL / HML / ICE
 - Dual-land allowed
 
 Note
