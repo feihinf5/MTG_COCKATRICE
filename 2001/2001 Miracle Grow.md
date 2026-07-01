@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://magic.wizards.com/en/news/feature/top-10-extended-decks-all-time-2008-02-07
 
 Format
 - CARD_SET
