@@ -6,7 +6,7 @@ Format
 - 7ED
 - PLS / INV / PCY / NEM / MMQ / UDS
 - 6ED
-- ULG / USG / EXO / STH / TMP /WTH
+- ULG / USG / EXO / STH / TMP / WTH
 - 5ED
 - VIS / MIR / ALL / HML / ICE
 - Dual-land allowed
