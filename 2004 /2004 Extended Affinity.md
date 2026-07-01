@@ -3,7 +3,13 @@ Reference
 - http://mtgwiki.com/wiki/%E8%96%AC%E7%93%B6%E8%A6%AA%E5%92%8C#.E3.82.A8.E3.82.AF.E3.82.B9.E3.83.86.E3.83.B3.E3.83.87.E3.83.83.E3.83.89.E7.89.88
 
 Format
-- CARD_SET
+- CHK / 5DN / DST / MRD
+- 8ED
+- SCG / LGN / ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP
 
 Note
 - Pro Tour-Columbus 2004 winning deck by Pierre Canali
