@@ -11,6 +11,10 @@ Format
 
 Note
 - Built around the card advantage engine of [**Land Tax**] and [**Scroll Rack**]
+- Converts the massive land advantage from [**Land Tax**] by swapping those lands for fresh cards via [**Scroll Rack**]
+- [**Tithe**] is often included for additional land searching
+- Leverages the massive hand size to massively buff creatures with [**Empyrial Armor**] or discards the excess lands to fuel a board-wiping [**Firestorm**]
+- [**Land Tax**] was banned in the Extended format on July 1998 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#1998
 
 Deck
 - 3 Phyrexian War Beast
