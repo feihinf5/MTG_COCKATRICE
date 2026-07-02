@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 14 08:29:41 2026</lastLoadedTimestamp>
+    <deckname>2001 Machine Head</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2001 winning deck by Tom van de Logt</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Duress" setShortName="7ED" collectorNumber="131" uuid="15c8d82e-6e65-4d36-bf09-b24dde016581"/>
+        <card number="4" name="Terminate" setShortName="PLS" collectorNumber="128" uuid="190ca502-672d-4cc0-b6e0-b9de517058d0"/>
+        <card number="3" name="Urza's Rage" setShortName="INV" collectorNumber="178" uuid="61a25a35-3ae4-471e-adcd-d8baf2f77b68"/>
+        <card number="3" name="Vendetta" setShortName="MMQ" collectorNumber="170" uuid="67ced38e-0f33-4bda-8e18-09f6ac03a3d7"/>
+        <card number="4" name="Dark Ritual" setShortName="MMQ" collectorNumber="129" uuid="a6aacc3e-fe37-4a08-83e6-7ee8c0c0af74"/>
+        <card number="4" name="Blazing Specter" setShortName="INV" collectorNumber="236" uuid="3bd397be-0e61-4f41-b0cf-f0c9d2440da7"/>
+        <card number="2" name="Crypt Angel" setShortName="INV" collectorNumber="97" uuid="522ddc6f-ec13-4a70-8f4c-b3c846b102fd"/>
+        <card number="2" name="Flametongue Kavu" setShortName="PLS" collectorNumber="60" uuid="e5056bca-bd90-4b50-8630-105558f8ef92"/>
+        <card number="3" name="Phyrexian Scuta" setShortName="PLS" collectorNumber="51" uuid="eb57e656-c94e-4cc2-ae8d-9300f51f941f"/>
+        <card number="4" name="Plague Spitter" setShortName="INV" collectorNumber="119" uuid="8845e6bd-40ee-45ca-a099-53f19ff20a8a"/>
+        <card number="3" name="Skizzik" setShortName="INV" collectorNumber="169" uuid="dc7732bc-e168-44d9-923a-db7e985bd6db"/>
+        <card number="1" name="Mountain" setShortName="MMQ" collectorNumber="346" uuid="423f4311-9feb-4c63-8b4c-32ddd38382e0"/>
+        <card number="1" name="Mountain" setShortName="MMQ" collectorNumber="345" uuid="1921ce16-8ed8-41d7-a2b4-9e62f44ac8d6"/>
+        <card number="1" name="Mountain" setShortName="MMQ" collectorNumber="344" uuid="4dbd12ed-e512-43d8-919d-478b18674deb"/>
+        <card number="1" name="Mountain" setShortName="MMQ" collectorNumber="343" uuid="19b5fff1-7a60-4e50-893a-8177cd62bf82"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="346" uuid="7e8ae541-98e2-4a84-90a6-b17502f4442d"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="345" uuid="68df89dc-3909-4051-adc1-a86589d0e99d"/>
+        <card number="4" name="Rishadan Port" setShortName="MMQ" collectorNumber="324" uuid="477a1f53-5cdf-4b45-b584-2e36b31a3fdb"/>
+        <card number="4" name="Sulfurous Springs" setShortName="7ED" collectorNumber="345" uuid="d31327f6-f076-4366-9c7a-b084516ba215"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="342" uuid="31a756b0-f430-4286-afe1-97c641e4f3b4"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="341" uuid="99b2bba7-8889-460c-a18f-fcd1e350ef4e"/>
+        <card number="1" name="Swamp" setShortName="MMQ" collectorNumber="342" uuid="4a0243d2-5fde-489f-8113-4ece0511cb5c"/>
+        <card number="1" name="Swamp" setShortName="MMQ" collectorNumber="341" uuid="1017347b-6b1a-4a2f-9147-98acad779616"/>
+        <card number="1" name="Swamp" setShortName="MMQ" collectorNumber="340" uuid="c2436ceb-05c0-40e6-b370-a6f02f4adbe4"/>
+        <card number="1" name="Swamp" setShortName="MMQ" collectorNumber="339" uuid="72020810-bfa3-42d5-ad0d-6d02a6fe1b31"/>
+        <card number="4" name="Urborg Volcano" setShortName="INV" collectorNumber="330" uuid="c76f346c-ae34-4f5f-8e3b-6c77b0c4d530"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Phyrexian Arena" setShortName="APC" collectorNumber="47" uuid="84e19975-e3e1-453b-b902-a1b1fc1d8504"/>
+        <card number="1" name="Crypt Angel" setShortName="INV" collectorNumber="97" uuid="522ddc6f-ec13-4a70-8f4c-b3c846b102fd"/>
+        <card number="4" name="Scoria Cat" setShortName="PCY" collectorNumber="101" uuid="7274f791-c9f1-49a1-9002-10e94caee96e"/>
+        <card number="1" name="Pyroclasm" setShortName="7ED" collectorNumber="209" uuid="7afce33f-2ead-4943-9655-bff6eaa9fe6b"/>
+        <card number="2" name="Persecute" setShortName="7ED" collectorNumber="154" uuid="de21334b-f06c-4525-89e1-dc3f148210ef"/>
+        <card number="1" name="Flametongue Kavu" setShortName="PLS" collectorNumber="60" uuid="e5056bca-bd90-4b50-8630-105558f8ef92"/>
+        <card number="3" name="Addle" setShortName="INV" collectorNumber="91" uuid="e8afb9d0-affa-4599-bf29-729cfe64703b"/>
+    </zone>
+</cockatrice_deck>
