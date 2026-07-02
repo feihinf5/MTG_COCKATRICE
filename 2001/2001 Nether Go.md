@@ -3,7 +3,13 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_2001
 
 Format
-- CARD_SET
+- APC
+- 7ED
+- PLS
+- INV
+- PCY
+- NEM
+- MMQ
 
 Note
 - INFO
