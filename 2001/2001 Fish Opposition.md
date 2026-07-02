@@ -13,8 +13,8 @@ Format
 
 Note
 - World Championships 2001 top 4 deck by Alex Borteh
-- [**Opposition**] deck that utilizes Merfolk as the primary creature base
-- [**Lord of Atlantis**] boosting the stats of creatures and granting them Islandwalk
+- [**Opposition**](https://api.scryfall.com/cards/8980e292-1384-4662-aa72-bc4f6ca30d51?format=image) deck that utilizes Merfolk as the primary creature base
+- [**Lord of Atlantis**](https://api.scryfall.com/cards/fd279366-8de2-47c5-9ac0-f41f8f81c643?format=image) boosting the stats of creatures and granting them Islandwalk
 
 Deck
 - 20 Island
