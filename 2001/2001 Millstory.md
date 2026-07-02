@@ -10,7 +10,10 @@ Format
 - MMQ
 
 Note
-- INFO
+- Asia Pacific Championship 2001 winning deck by Okamoto Jin
+- Uses [**Wrath of God**] and [**Story Circle**] for defense, with a few copies of [**Millstone**] as the win condition
+- Aggressive sideboarding that boards in additional finishers like [**Mahamoti Djinn**]
+- [**Last Breath**] to counter [**Lin Sivvi, Defiant Hero**] and [**Nether Spirit**]
 
 Deck
 - 4 Wrath of God
