@@ -11,6 +11,11 @@ Format
 
 Note
 - 2001 German National Championship winning deck by Daniel Zink
+- [**Lin Sivvi, Defiant Hero**] features a flexible mana-cost recruitment ability alongside Rebel-exclusive graveyard retrieval
+- [**Brainstorm**] put drawn Rebels back into the library, which pairs perfectly with the Rebel recruitment ability to shuffle them back in, especially useful if [**Rebel Informer**] is drawn
+- [**Ramosian Sky Marshal**] is primary offensive creature
+- [**Defiant Vanguard**] is an effective blocker against [**Blastoderm**] and [**Chimeric Idol**]
+- Splashing [**Meddling Mage**] into the deck became highly popular
 
 Deck
 - 4 Adarkar Wastes
