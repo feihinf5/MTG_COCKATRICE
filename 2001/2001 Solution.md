@@ -2,7 +2,8 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
 
 Format
-- CARD_SET
+- PLS
+- INV
 
 Note
 - Pro Tour-Tokyo 2001 winning deck by Zvi Mowshowitz
