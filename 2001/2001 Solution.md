@@ -10,6 +10,7 @@ Note
 - Named the deck as Solution because it was the answer to the meta-game at the time
 - Dominant against Red decks due to protection abilities
 - Running four copies of seemingly underpowered cards like [**Crimson Acolyte**](https://api.scryfall.com/cards/c1718028-3009-4bdd-9f6f-59c17edd1344?format=image)
+- [**Pure Reflection**](https://api.scryfall.com/cards/bbff85a6-a51b-424e-a86b-da52c9b3a9da?format=image) was included in the sideboard to counter low-creature control decks and it generates tokens even if the creature spells are countered
 
 Deck
 - 4 Crimson Acolyte
