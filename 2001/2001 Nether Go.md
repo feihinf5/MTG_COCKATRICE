@@ -13,9 +13,9 @@ Format
 
 Note
 - World Championships 2001 top 4 deck by Antoine Ruel
-- Uses [**Nether Spirit**] as a recurring early-game defender that eventually transitions into the finisher
-- Using spells like [**Fact or Fiction**] to gain advantages
-- Dominates and dictates the pace of the match through a steady stream of counter-spells and removal-spells
+- Uses [**Nether Spirit**](https://api.scryfall.com/cards/220217c5-408c-40df-8133-da16b13d4f21?format=image) as a recurring early-game defender that eventually transitions into the finisher
+- Using spells like [**Fact or Fiction**](https://api.scryfall.com/cards/7fd4d018-dcf3-4439-8445-02d66e44f7d3?format=image) to gain advantages
+- Dominates and dictates the pace of the match through a steady stream of counter and removal spells
 
 Deck
 - 8 Island
