@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 14 08:48:18 2026</lastLoadedTimestamp>
+    <deckname>2001 Fish Opposition</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2001 top 4 deck by Alex Borteh</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Static Orb" setShortName="7ED" collectorNumber="319" uuid="86bf43b1-8d4e-4759-bb2d-0b2e03ba7012"/>
+        <card number="4" name="Opposition" setShortName="7ED" collectorNumber="92" uuid="8980e292-1384-4662-aa72-bc4f6ca30d51"/>
+        <card number="2" name="Counterspell" setShortName="7ED" collectorNumber="67" uuid="29bb1b85-9444-4bfa-b622-092a6873631c"/>
+        <card number="4" name="Thwart" setShortName="MMQ" collectorNumber="108" uuid="c12a0717-e9ea-4be3-a29f-179671ed4489"/>
+        <card number="2" name="Counterspell" setShortName="MMQ" collectorNumber="69" uuid="7bd03c80-7812-4704-9e07-9cf73b49c01f"/>
+        <card number="4" name="Gush" setShortName="MMQ" collectorNumber="82" uuid="e755bbef-bf34-49c0-ae72-d70e3599de52"/>
+        <card number="2" name="Darting Merfolk" setShortName="MMQ" collectorNumber="72" uuid="438e15f7-59bb-4047-af1f-ef92cc1866b8"/>
+        <card number="4" name="Lord of Atlantis" setShortName="7ED" collectorNumber="83" uuid="fd279366-8de2-47c5-9ac0-f41f8f81c643"/>
+        <card number="4" name="Merfolk Looter" setShortName="7ED" collectorNumber="89" uuid="4ec07b20-9768-4c21-90d5-70d57959c698"/>
+        <card number="4" name="Merfolk of the Pearl Trident" setShortName="7ED" collectorNumber="90" uuid="a2e7d1a5-b8ad-48e8-9b54-3663310eca33"/>
+        <card number="4" name="Vodalian Merchant" setShortName="INV" collectorNumber="85" uuid="c1c0effa-a4b8-4166-a66a-90cf01c6ea0d"/>
+        <card number="2" name="Waterfront Bouncer" setShortName="MMQ" collectorNumber="114" uuid="8dbdce9e-94fa-4ed5-9b97-d2026cffe7cb"/>
+        <card number="2" name="Island" setShortName="MMQ" collectorNumber="338" uuid="e0fedd66-e547-492c-ad0d-9c7b527bdd17"/>
+        <card number="2" name="Island" setShortName="MMQ" collectorNumber="337" uuid="b2d83856-2201-4c30-bfcf-9cab62545201"/>
+        <card number="2" name="Island" setShortName="MMQ" collectorNumber="336" uuid="9a38509a-2b74-42a0-af91-ed453e463b95"/>
+        <card number="2" name="Island" setShortName="MMQ" collectorNumber="335" uuid="5bae77e8-1230-4a6e-8c75-c99d2741a509"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="335" uuid="ff68b640-e194-4894-b9c0-76ed619c764d"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="334" uuid="cfb83039-9a06-4d79-abcc-6f36eec6f29e"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="333" uuid="28a0a9ae-a1ae-41da-8308-d49e4afca3c1"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="332" uuid="a45610b3-9e9b-4ef9-aab2-426f85a6cce3"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Wash Out" setShortName="INV" collectorNumber="87" uuid="7719d043-5827-4479-825b-23d9e979ead7"/>
+        <card number="2" name="Prodigal Sorcerer" setShortName="7ED" collectorNumber="94" uuid="d30a846e-a5b1-4603-af4f-6494f3c4fbb3"/>
+        <card number="3" name="Mana Maze" setShortName="INV" collectorNumber="59" uuid="0d62cc17-8fa3-495c-a098-ffbbec89fa53"/>
+        <card number="1" name="Rushing River" setShortName="PLS" collectorNumber="30" uuid="52ddf7bf-de9c-4657-8d5b-79869d36fa63"/>
+        <card number="2" name="Teferi's Response" setShortName="INV" collectorNumber="78" uuid="f3bb2df8-c559-4a34-83b0-d48fbc694cc8"/>
+        <card number="2" name="Misdirection" setShortName="MMQ" collectorNumber="87" uuid="581ad59c-29e9-4498-a6fd-33bf21e8e7c4"/>
+        <card number="3" name="Hibernation" setShortName="7ED" collectorNumber="79" uuid="a8f7d826-ec78-48dd-bed1-e3768e8fa324"/>
+    </zone>
+</cockatrice_deck>
