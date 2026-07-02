@@ -6,6 +6,9 @@ Format
 
 Note
 - Pro Tour-Tokyo 2001 winning deck by Zvi Mowshowitz
+- Named the deck as Solution because it was the answer to the meta-game at the time
+- Dominant against Red decks due to protection abilities
+- Running four copies of seemingly underpowered cards like [**Crimson Acolyte**]
 
 Deck
 - 4 Crimson Acolyte
