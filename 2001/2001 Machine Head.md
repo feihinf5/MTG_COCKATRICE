@@ -13,6 +13,11 @@ Format
 
 Note
 - World Championships 2001 winning deck by Tom van de Logt
+- Mana acceleration powered up significantly by [**Dark Ritual**]
+- [**Plague Spitter**] served as a devastating counter against the toughness 1 mana-creatures
+- Deploys a massive [**Phyrexian Scourge**] to start beating down, followed by a [**Skizzik**] which can then be recovered by [**Crypt Angel**]
+- Hand disruption from [**Blazing Specter**] is brutal while any opposing creatures that manage to hit the board are immediately taken out by [**Flametongue Kavu**]
+- Built to completely crush opposing creature decks, it can also overpower control decks by using [**Duress**]
 
 Deck
 - 6 Mountain
