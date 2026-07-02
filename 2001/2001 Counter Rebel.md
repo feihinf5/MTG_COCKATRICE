@@ -2,7 +2,12 @@ Reference
 - https://www.mtgtop8.com/event?e=54040&d=601355&f=ST
 
 Format
-- CARD_SET
+- 7ED
+- PLS
+- INV
+- PCY
+- NEM
+- MMQ
 
 Note
 - 2001 German National Championship winning deck by Daniel Zink
