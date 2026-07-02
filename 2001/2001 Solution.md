@@ -1,1 +1,29 @@
+Reference 
+- http://mtgwiki.com/wiki/%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
 
+Format
+- CARD_SET
+
+Note
+- Pro Tour-Tokyo 2001 winning deck by Zvi Mowshowitz
+
+Deck
+- 4 Crimson Acolyte
+- 4 Galina's Knight
+- 4 Meddling Mage
+- 4 Stormscape Apprentice
+- 4 Voice of All
+- 4 Absorb
+- 4 Exclude
+- 4 Fact or Fiction
+- 4 Repulse
+- 10 Plains
+- 10 Island
+- 4 Coastal Tower
+
+Sideboard
+- 2 Aura Blast
+- 3 Crusading Knight
+- 3 Pure Reflection
+- 4 Disrupt
+- 3 Gainsay
