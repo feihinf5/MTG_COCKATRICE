@@ -13,11 +13,11 @@ Format
 
 Note
 - World Championships 2001 winning deck by Tom van de Logt
-- Mana acceleration powered up significantly by [**Dark Ritual**]
-- [**Plague Spitter**] served as a devastating counter against the toughness 1 mana-creatures
-- Deploys a massive [**Phyrexian Scourge**] to start beating down, followed by a [**Skizzik**] which can then be recovered by [**Crypt Angel**]
-- Hand disruption from [**Blazing Specter**] is brutal while any opposing creatures that manage to hit the board are immediately taken out by [**Flametongue Kavu**]
-- Built to completely crush opposing creature decks, it can also overpower control decks by using [**Duress**]
+- Mana acceleration powered up significantly by [**Dark Ritual**](https://api.scryfall.com/cards/a6aacc3e-fe37-4a08-83e6-7ee8c0c0af74?format=image)
+- [**Plague Spitter**](https://api.scryfall.com/cards/8845e6bd-40ee-45ca-a099-53f19ff20a8a?format=image) served as a devastating counter against the toughness 1 mana-creatures
+- Deploys a massive [**Phyrexian Scuta**](https://api.scryfall.com/cards/eb57e656-c94e-4cc2-ae8d-9300f51f941f?format=image) to start beating down, followed by a [**Skizzik**](https://api.scryfall.com/cards/dc7732bc-e168-44d9-923a-db7e985bd6db?format=image) which can then be recovered by [**Crypt Angel**](https://api.scryfall.com/cards/522ddc6f-ec13-4a70-8f4c-b3c846b102fd?format=image)
+- Hand disruption from [**Blazing Specter**](https://api.scryfall.com/cards/3bd397be-0e61-4f41-b0cf-f0c9d2440da7?format=image) is brutal while any opposing creatures that manage to hit the board are immediately taken out by [**Flametongue Kavu**](https://api.scryfall.com/cards/e5056bca-bd90-4b50-8630-105558f8ef92?format=image)
+- Built to completely crush opposing creature decks, it can also overpower control decks by using [**Duress**](https://api.scryfall.com/cards/15c8d82e-6e65-4d36-bf09-b24dde016581?format=image)
 
 Deck
 - 6 Mountain
