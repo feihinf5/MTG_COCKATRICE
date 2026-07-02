@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2001 Millstory</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Asia Pacific Championship 2001 winning deck by Okamoto Jin</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Adarkar Wastes" setShortName="7ED" collectorNumber="325" uuid="9bd991b2-8c18-4c5f-9b70-461012fee61e"/>
+        <card number="4" name="Coastal Tower" setShortName="INV" collectorNumber="321" uuid="d115dbff-e35b-495f-a1e3-19651895927e"/>
+        <card number="1" name="Island" setShortName="MMQ" collectorNumber="335" uuid="5bae77e8-1230-4a6e-8c75-c99d2741a509"/>
+        <card number="1" name="Island" setShortName="MMQ" collectorNumber="336" uuid="9a38509a-2b74-42a0-af91-ed453e463b95"/>
+        <card number="1" name="Island" setShortName="MMQ" collectorNumber="338" uuid="e0fedd66-e547-492c-ad0d-9c7b527bdd17"/>
+        <card number="1" name="Island" setShortName="MMQ" collectorNumber="337" uuid="b2d83856-2201-4c30-bfcf-9cab62545201"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="1" name="Plains" setShortName="MMQ" collectorNumber="331" uuid="2edf5042-d185-424e-922d-c0bd4ce3e8b0"/>
+        <card number="1" name="Plains" setShortName="MMQ" collectorNumber="332" uuid="44214f36-8bb3-4a32-8046-3ecdfff8407b"/>
+        <card number="1" name="Plains" setShortName="MMQ" collectorNumber="334" uuid="3a8fd867-8be1-4ee7-bb67-32c3f22db59e"/>
+        <card number="1" name="Plains" setShortName="MMQ" collectorNumber="333" uuid="e3e536cc-e724-43d4-9fe3-dfb4952613cb"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="331" uuid="5ba9ef2e-d3ec-41f7-802e-e1414f14dd10"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="333" uuid="87a66868-2efa-4985-b4fc-405d7fa8d410"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="334" uuid="b5b4963b-c706-439f-9800-ff5d70003dcf"/>
+        <card number="3" name="Millstone" setShortName="7ED" collectorNumber="308" uuid="1da21381-38bf-49d0-98d3-81eb9c99ce82"/>
+        <card number="3" name="Tsabo's Web" setShortName="INV" collectorNumber="317" uuid="0dee69f8-cceb-41b9-a0ee-6b2ac9f4bad9"/>
+        <card number="3" name="Story Circle" setShortName="MMQ" collectorNumber="51" uuid="675378bb-7dc1-4bc8-b026-27e6e8e72e18"/>
+        <card number="4" name="Absorb" setShortName="INV" collectorNumber="226" uuid="5d6a0f3e-457f-41f5-be26-5fb249874f1a"/>
+        <card number="4" name="Accumulated Knowledge" setShortName="NEM" collectorNumber="26" uuid="ab061406-38f4-40e7-a9ea-e3cbcaabc127"/>
+        <card number="4" name="Counterspell" setShortName="7ED" collectorNumber="67" uuid="29bb1b85-9444-4bfa-b622-092a6873631c"/>
+        <card number="3" name="Dismantling Blow" setShortName="INV" collectorNumber="14" uuid="39514d54-cb6c-4b3b-a3be-46db991be4d4"/>
+        <card number="3" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="2" name="Last Breath" setShortName="MMQ" collectorNumber="27" uuid="3b540da2-f8c6-48d6-af6d-db78958f0a17"/>
+        <card number="4" name="Opt" setShortName="INV" collectorNumber="64" uuid="958262ec-8e52-40cf-a9fd-a60e42643e15"/>
+        <card number="4" name="Wrath of God" setShortName="7ED" collectorNumber="57" uuid="0d223e83-0d3c-459e-96f5-ba9227fe49dd"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Disenchant" setShortName="MMQ" collectorNumber="18" uuid="366407d8-3ed9-4809-b9bb-388ebb9ea815"/>
+        <card number="2" name="Rout" setShortName="INV" collectorNumber="34" uuid="94bc55ed-b89b-4e22-b3f1-4ce0f8d180d7"/>
+        <card number="1" name="Last Breath" setShortName="MMQ" collectorNumber="27" uuid="3b540da2-f8c6-48d6-af6d-db78958f0a17"/>
+        <card number="2" name="Misdirection" setShortName="MMQ" collectorNumber="87" uuid="581ad59c-29e9-4498-a6fd-33bf21e8e7c4"/>
+        <card number="2" name="Mageta the Lion" setShortName="PCY" collectorNumber="13" uuid="5861dffc-5afa-44a3-a3fa-9fd440093377"/>
+        <card number="3" name="Gainsay" setShortName="PLS" collectorNumber="26" uuid="a70a2092-5048-49c0-9351-a3f882c2f56e"/>
+        <card number="4" name="Mahamoti Djinn" setShortName="7ED" collectorNumber="84" uuid="5d464226-5607-4db2-bd43-7855efb92628"/>
+    </zone>
+</cockatrice_deck>
