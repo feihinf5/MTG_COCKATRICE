@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2001 Solution</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Tokyo 2001 winning deck by Zvi Mowshowitz</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Coastal Tower" setShortName="INV" collectorNumber="321" uuid="d115dbff-e35b-495f-a1e3-19651895927e"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="3" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="3" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="3" name="Plains" setShortName="INV" collectorNumber="331" uuid="5ba9ef2e-d3ec-41f7-802e-e1414f14dd10"/>
+        <card number="2" name="Plains" setShortName="INV" collectorNumber="332" uuid="bc73d7ff-bbef-4df9-ae7f-aa2ac8ac7025"/>
+        <card number="3" name="Plains" setShortName="INV" collectorNumber="334" uuid="b5b4963b-c706-439f-9800-ff5d70003dcf"/>
+        <card number="2" name="Plains" setShortName="INV" collectorNumber="333" uuid="87a66868-2efa-4985-b4fc-405d7fa8d410"/>
+        <card number="4" name="Absorb" setShortName="INV" collectorNumber="226" uuid="5d6a0f3e-457f-41f5-be26-5fb249874f1a"/>
+        <card number="4" name="Exclude" setShortName="INV" collectorNumber="56" uuid="aeb359c8-209c-455f-84b2-970e5678a9fa"/>
+        <card number="4" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="4" name="Repulse" setShortName="INV" collectorNumber="70" uuid="9a04e9be-48be-440e-9825-cfffd4c2b1a4"/>
+        <card number="4" name="Crimson Acolyte" setShortName="INV" collectorNumber="11" uuid="c1718028-3009-4bdd-9f6f-59c17edd1344"/>
+        <card number="4" name="Galina's Knight" setShortName="INV" collectorNumber="248" uuid="11b492d6-5e28-4f4b-942c-080d03cb0e92"/>
+        <card number="4" name="Meddling Mage" setShortName="PLS" collectorNumber="116" uuid="176f84c6-aa5e-449c-bd2b-cc91a898f0c7"/>
+        <card number="4" name="Stormscape Apprentice" setShortName="INV" collectorNumber="75" uuid="1eb42f39-9187-44e4-aa34-14ab31977199"/>
+        <card number="4" name="Voice of All" setShortName="PLS" collectorNumber="19" uuid="75f37536-db3d-4726-9e45-b9108247d0e6"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Pure Reflection" setShortName="INV" collectorNumber="27" uuid="bbff85a6-a51b-424e-a86b-da52c9b3a9da"/>
+        <card number="4" name="Disrupt" setShortName="INV" collectorNumber="51" uuid="c000a02f-6b7e-4925-a938-59e645e980d7"/>
+        <card number="3" name="Gainsay" setShortName="PLS" collectorNumber="26" uuid="a70a2092-5048-49c0-9351-a3f882c2f56e"/>
+        <card number="3" name="Crusading Knight" setShortName="INV" collectorNumber="12" uuid="a4ab4640-1871-41dd-bd21-64741e21ba37"/>
+        <card number="2" name="Aura Blast" setShortName="PLS" collectorNumber="1" uuid="090f5ad6-e10e-49b3-8643-51a4e792517c"/>
+    </zone>
+</cockatrice_deck>
