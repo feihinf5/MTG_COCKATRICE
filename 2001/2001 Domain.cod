@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2001 Domain</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-London 2001 winning deck by Kai Budde</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Forest" setShortName="INV" collectorNumber="347" uuid="f82d0a1c-5812-4254-a000-e4ff9aece3d9"/>
+        <card number="2" name="Forest" setShortName="INV" collectorNumber="350" uuid="cfacc498-f089-4ae4-8ce8-697cc671f445"/>
+        <card number="2" name="Forest" setShortName="INV" collectorNumber="349" uuid="0b741c86-a563-4180-a857-7850de6ee366"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="348" uuid="24788990-42ff-4b2b-8d01-fa2d0ec66a03"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="2" name="Llanowar Wastes" setShortName="APC" collectorNumber="141" uuid="610b7cd5-5532-45a9-acfe-24a818034d1c"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="344" uuid="977527da-2953-493f-8e8c-ffc64ddeaf10"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="343" uuid="ba6694bb-f3b7-48ff-9d93-cbed84fac210"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="331" uuid="5ba9ef2e-d3ec-41f7-802e-e1414f14dd10"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="339" uuid="2a7ce037-e04d-404a-afde-9122518e6a31"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="340" uuid="7cdb8b9d-2573-4162-9255-50a281dfb775"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="341" uuid="99b2bba7-8889-460c-a18f-fcd1e350ef4e"/>
+        <card number="1" name="Yavimaya Coast" setShortName="APC" collectorNumber="143" uuid="177ee102-d981-4fc3-9f09-9dd07755f22c"/>
+        <card number="4" name="Chromatic Sphere" setShortName="INV" collectorNumber="299" uuid="920cd17f-9274-443e-906f-c9904f0658d5"/>
+        <card number="1" name="Legacy Weapon" setShortName="APC" collectorNumber="137" uuid="385d8691-b9bd-4b4d-86db-7a7cc6181104"/>
+        <card number="4" name="Allied Strategies" setShortName="PLS" collectorNumber="20" uuid="51d4f211-10e8-486d-b982-287ab0c060c9"/>
+        <card number="2" name="Destructive Flow" setShortName="PLS" collectorNumber="102" uuid="7db86e34-c3ec-4a29-8779-81350a985644"/>
+        <card number="1" name="Goblin Trenches" setShortName="APC" collectorNumber="104" uuid="2100844c-6a41-40f5-b7f8-9b426d5a6945"/>
+        <card number="1" name="Overgrown Estate" setShortName="APC" collectorNumber="113" uuid="c1c48c58-3532-4022-9eec-1a870385cbf3"/>
+        <card number="2" name="Pernicious Deed" setShortName="APC" collectorNumber="114" uuid="ae4cbb33-4947-49f0-b612-a92141fbfaa6"/>
+        <card number="4" name="Harrow" setShortName="INV" collectorNumber="189" uuid="ed0f633e-7238-4d02-ad8b-06dd20453030"/>
+        <card number="1" name="Ordered Migration" setShortName="INV" collectorNumber="258" uuid="04d83a07-6054-45f1-bdf9-07f2006238d2"/>
+        <card number="2" name="Void" setShortName="INV" collectorNumber="287" uuid="62dc1df7-b9db-4f5f-a340-08287cd3d9e5"/>
+        <card number="4" name="Lay of the Land" setShortName="APC" collectorNumber="81" uuid="90b10608-8917-4337-ad60-ab31ab8c0fc4"/>
+        <card number="1" name="Yawgmoth's Agenda" setShortName="INV" collectorNumber="135" uuid="50f7ea7f-4f17-4f78-b68e-693e265ca829"/>
+        <card number="4" name="Collective Restraint" setShortName="INV" collectorNumber="49" uuid="d71daa57-ac02-4dd9-8c90-d38bdd45fb51"/>
+        <card number="4" name="Evasive Action" setShortName="APC" collectorNumber="23" uuid="5d0b4f29-ada4-41d2-8292-b5af537c6fd2"/>
+        <card number="4" name="Worldly Counsel" setShortName="CON_" collectorNumber="39" uuid="b454cbdc-b2ff-4b6a-acaf-b7cf52359f0b"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Legacy Weapon" setShortName="APC" collectorNumber="137" uuid="385d8691-b9bd-4b4d-86db-7a7cc6181104"/>
+        <card number="3" name="Spiritmonger" setShortName="APC" collectorNumber="121" uuid="b96d6e67-f690-4f19-bb25-a7c2d2aaf42f"/>
+        <card number="1" name="Destructive Flow" setShortName="PLS" collectorNumber="102" uuid="7db86e34-c3ec-4a29-8779-81350a985644"/>
+        <card number="1" name="Overgrown Estate" setShortName="APC" collectorNumber="113" uuid="c1c48c58-3532-4022-9eec-1a870385cbf3"/>
+        <card number="2" name="Pernicious Deed" setShortName="APC" collectorNumber="114" uuid="ae4cbb33-4947-49f0-b612-a92141fbfaa6"/>
+        <card number="3" name="Addle" setShortName="INV" collectorNumber="91" uuid="e8afb9d0-affa-4599-bf29-729cfe64703b"/>
+        <card number="1" name="Void" setShortName="INV" collectorNumber="287" uuid="62dc1df7-b9db-4f5f-a340-08287cd3d9e5"/>
+        <card number="3" name="Penumbra Bobcat" setShortName="APC" collectorNumber="82" uuid="21049fee-a748-4856-99ae-3a225a168532"/>
+    </zone>
+</cockatrice_deck>
