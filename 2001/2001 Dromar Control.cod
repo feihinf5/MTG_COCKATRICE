@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2001 Dromar Control</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Minneapolis 2001 winning deck by David Humpherys</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Caves of Koilos" setShortName="APC" collectorNumber="140" uuid="144dd08e-451e-4438-b572-7a138e1a15f3"/>
+        <card number="4" name="Coastal Tower" setShortName="INV" collectorNumber="321" uuid="d115dbff-e35b-495f-a1e3-19651895927e"/>
+        <card number="2" name="Dromar's Cavern" setShortName="PLS" collectorNumber="138" uuid="85f10cee-6a63-438e-a9df-6b902dd025b8"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="2" name="Plains" setShortName="INV" collectorNumber="331" uuid="5ba9ef2e-d3ec-41f7-802e-e1414f14dd10"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="333" uuid="87a66868-2efa-4985-b4fc-405d7fa8d410"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="334" uuid="b5b4963b-c706-439f-9800-ff5d70003dcf"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="332" uuid="bc73d7ff-bbef-4df9-ae7f-aa2ac8ac7025"/>
+        <card number="4" name="Salt Marsh" setShortName="INV" collectorNumber="326" uuid="ed64934b-0e64-4b2f-97aa-c3fb7e6ce0b0"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="339" uuid="2a7ce037-e04d-404a-afde-9122518e6a31"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="340" uuid="7cdb8b9d-2573-4162-9255-50a281dfb775"/>
+        <card number="2" name="Swamp" setShortName="INV" collectorNumber="342" uuid="31a756b0-f430-4286-afe1-97c641e4f3b4"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="341" uuid="99b2bba7-8889-460c-a18f-fcd1e350ef4e"/>
+        <card number="2" name="Yawgmoth's Agenda" setShortName="INV" collectorNumber="135" uuid="50f7ea7f-4f17-4f78-b68e-693e265ca829"/>
+        <card number="4" name="Gerrard's Verdict" setShortName="APC" collectorNumber="102" uuid="583740c0-68cf-4205-b682-2f97c0880d42"/>
+        <card number="2" name="Rout" setShortName="INV" collectorNumber="34" uuid="94bc55ed-b89b-4e22-b3f1-4ce0f8d180d7"/>
+        <card number="4" name="Vindicate" setShortName="APC" collectorNumber="126" uuid="2a1bfefd-dae8-49e9-9d56-cc852e3dc93b"/>
+        <card number="4" name="Dromar's Charm" setShortName="PLS" collectorNumber="105" uuid="c7a1894c-af4e-4530-960f-2225916be8cb"/>
+        <card number="3" name="Recoil" setShortName="INV" collectorNumber="264" uuid="b6a77be3-e3b0-40f5-a470-414bac49da60"/>
+        <card number="4" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="2" name="Desolation Angel" setShortName="APC" collectorNumber="38" uuid="445127d4-8afb-47cf-b2a1-564540b1fdae"/>
+        <card number="2" name="Dodecapod" setShortName="TSB" collectorNumber="108" uuid="c562b66f-d661-4535-b9da-e1c35a650324"/>
+        <card number="3" name="Phyrexian Rager" setShortName="APC" collectorNumber="49" uuid="3addf34c-ea54-42a3-bccd-b73453d964d2"/>
+        <card number="4" name="Spectral Lynx" setShortName="APC" collectorNumber="17" uuid="13099abe-721e-42b4-9666-9e6b5f1d75c9"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Hobble" setShortName="PLS" collectorNumber="7" uuid="54c76a22-f9e3-408b-a5bd-403add57e31a"/>
+        <card number="2" name="Dodecapod" setShortName="TSB" collectorNumber="108" uuid="c562b66f-d661-4535-b9da-e1c35a650324"/>
+        <card number="1" name="Phyrexian Rager" setShortName="APC" collectorNumber="49" uuid="3addf34c-ea54-42a3-bccd-b73453d964d2"/>
+        <card number="3" name="Emblazoned Golem" setShortName="APC" collectorNumber="136" uuid="98527fc6-4f4c-4ded-9e72-49186b7e5bd3"/>
+        <card number="3" name="Dismantling Blow" setShortName="INV" collectorNumber="14" uuid="39514d54-cb6c-4b3b-a3be-46db991be4d4"/>
+        <card number="3" name="Addle" setShortName="INV" collectorNumber="91" uuid="e8afb9d0-affa-4599-bf29-729cfe64703b"/>
+    </zone>
+</cockatrice_deck>
