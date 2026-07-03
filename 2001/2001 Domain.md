@@ -8,6 +8,9 @@ Format
 
 Note
 - Grand Prix-London 2001 winning deck by Kai Budde
+- Maxing out basic land types makes [**Collective Restraint**] an incredibly powerful defensive tool
+- Fully utilizes other Domain cards like [**Evasive Action**] and [**Allied Strategies**] alongside heavy multicolor spells like [**Legacy Weapon**]
+- Finishers typically favors threats with high removal resilience such as [**Ordered Migration**] or [**Goblin Trenches**]
 
 Deck
 - 4 Evasive Action
