@@ -1,1 +1,14 @@
+Reference 
+- http://mtgwiki.com/wiki/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3#.E3.82.B5.E3.83.B3.E3.83.97.E3.83.AB.E3.83.AC.E3.82.B7.E3.83.94_2
 
+Format
+- CARD_SET
+
+Note
+- INFO
+
+Deck
+- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+
+Sideboard
+- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
