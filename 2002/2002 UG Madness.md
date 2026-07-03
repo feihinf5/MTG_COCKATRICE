@@ -8,6 +8,8 @@ Format
 
 Note
 - Pro Tour-Osaka 2002 winning deck by Ken Ho
+- Beatdown control deck due to its powerful countermagic capabilities, specifically utilizing the card [**Circular Logic**]
+- Use of [**Standstill**] to draw cards
 
 Deck
 - 4 Aquamoeba
