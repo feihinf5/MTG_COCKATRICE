@@ -8,6 +8,8 @@ Format
 
 Note
 - Grand Prix-Kobe 2001 winning deck by Ishida Itaru
+- Control deck using [**Goblin Trenches**] as the win condition
+- Utilizes aggressive sideboarding by swapping into efficient threats like [**Meddling Mage**], [**Lightning Angel**] and [**Rakavolver**] to catch opponents off guard
 
 Deck
 - 3 Evasive Action
