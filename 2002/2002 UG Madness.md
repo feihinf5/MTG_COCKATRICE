@@ -3,7 +3,8 @@ Reference
 - 
 
 Format
-- CARD_SET
+- LGN
+- ONS
 
 Note
 - Pro Tour-Osaka 2002 winning deck by Ken Ho
