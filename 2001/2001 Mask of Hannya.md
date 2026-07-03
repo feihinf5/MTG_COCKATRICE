@@ -10,7 +10,7 @@ Format
 
 Note
 - The Finals01 winning deck by Ishida Itaru
-- Nearly every dominant deck splashed blue, to counter this, anti-blue creatures like [**Yavimaya Barbarian**](https://api.scryfall.com/cards/8e17377d-4dad-4144-b0ce-c849636096a2?format=image) and [**Spellbane Centaur**](https://api.scryfall.com/cards/72194a6e-481d-4b07-922b-53f919bfa316.?format=image) neutralized the opponent's [**Repulse**](https://api.scryfall.com/cards/9a04e9be-48be-440e-9825-cfffd4c2b1a4?format=image) spells, allowing the deck to win through fast combat damage
+- Nearly every dominant deck splashed blue, to counter this, anti-blue creatures like [**Yavimaya Barbarian**](https://api.scryfall.com/cards/8e17377d-4dad-4144-b0ce-c849636096a2?format=image) and [**Spellbane Centaur**](https://api.scryfall.com/cards/72194a6e-481d-4b07-922b-53f919bfa316?format=image) neutralized the opponent's [**Repulse**](https://api.scryfall.com/cards/9a04e9be-48be-440e-9825-cfffd4c2b1a4?format=image) spells, allowing the deck to win through fast combat damage
 
 Deck
 - 4 Llanowar Elves
