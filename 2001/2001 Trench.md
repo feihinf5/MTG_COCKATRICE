@@ -2,7 +2,9 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%81
 
 Format
-- CARD_SET
+- APC
+- PLS
+- INV
 
 Note
 - Grand Prix-Kobe 2001 winning deck by Ishida Itaru
