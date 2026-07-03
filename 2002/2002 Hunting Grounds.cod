@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2002 Hunting Grounds</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Taipei 2002 winning deck by Hsia Sheng Hsum</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Adarkar Wastes" setShortName="7ED" collectorNumber="325" uuid="9bd991b2-8c18-4c5f-9b70-461012fee61e"/>
+        <card number="2" name="Brushland" setShortName="7ED" collectorNumber="326" uuid="8b983b45-e8be-49e1-84c1-cec204395264"/>
+        <card number="3" name="Coastal Tower" setShortName="INV" collectorNumber="321" uuid="d115dbff-e35b-495f-a1e3-19651895927e"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="349" uuid="0b741c86-a563-4180-a857-7850de6ee366"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="332" uuid="a45610b3-9e9b-4ef9-aab2-426f85a6cce3"/>
+        <card number="2" name="Nantuko Monastery" setShortName="JUD" collectorNumber="142" uuid="cb870406-9d59-4493-9f81-0f4b84642001"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="334" uuid="b5b4963b-c706-439f-9800-ff5d70003dcf"/>
+        <card number="2" name="Skycloud Expanse" setShortName="ODY" collectorNumber="327" uuid="c8c0da61-59c5-4206-83d9-c4676e169f01"/>
+        <card number="3" name="Sungrass Prairie" setShortName="ODY" collectorNumber="328" uuid="7bfa27ee-553e-4c6e-a79c-9757bd74c057"/>
+        <card number="3" name="Yavimaya Coast" setShortName="APC" collectorNumber="143" uuid="177ee102-d981-4fc3-9f09-9dd07755f22c"/>
+        <card number="3" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="2" name="Living Wish" setShortName="JUD" collectorNumber="124" uuid="2478a8d2-ca44-4c42-8d75-dd9cb1b59f61"/>
+        <card number="3" name="Wrath of God" setShortName="7ED" collectorNumber="57" uuid="0d223e83-0d3c-459e-96f5-ba9227fe49dd"/>
+        <card number="4" name="Absorb" setShortName="INV" collectorNumber="226" uuid="5d6a0f3e-457f-41f5-be26-5fb249874f1a"/>
+        <card number="4" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="4" name="Counterspell" setShortName="7ED" collectorNumber="67" uuid="29bb1b85-9444-4bfa-b622-092a6873631c"/>
+        <card number="4" name="Repulse" setShortName="INV" collectorNumber="70" uuid="9a04e9be-48be-440e-9825-cfffd4c2b1a4"/>
+        <card number="2" name="Exclude" setShortName="INV" collectorNumber="56" uuid="aeb359c8-209c-455f-84b2-970e5678a9fa"/>
+        <card number="3" name="Memory Lapse" setShortName="7ED" collectorNumber="88" uuid="2d85cc30-ccae-4af8-834a-f7870dace679"/>
+        <card number="2" name="Hunting Grounds" setShortName="JUD" collectorNumber="138" uuid="5b14a736-5223-457b-9d4e-f4a2d6ed9a8d"/>
+        <card number="1" name="Genesis" setShortName="JUD" collectorNumber="117" uuid="b43aee5e-b12e-43ea-9fae-16310acdc640"/>
+        <card number="1" name="Mystic Enforcer" setShortName="ODY" collectorNumber="290" uuid="eb68983d-fd8c-4844-8ceb-afd3cae7e4df"/>
+        <card number="3" name="Mystic Snake" setShortName="APC" collectorNumber="112" uuid="f098a28c-5f9b-4a2c-b109-c342365eb948"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Circle of Protection: Green" setShortName="7ED" collectorNumber="8" uuid="f7e0b146-4241-436b-b8b0-45a9be21ead7"/>
+        <card number="3" name="Seedtime" setShortName="JUD" collectorNumber="130" uuid="4ffd5c52-f260-400c-b088-8792282509a5"/>
+        <card number="3" name="Tangle" setShortName="INV" collectorNumber="213" uuid="6b37e39c-8aa4-4938-a492-7dac5de98dfb"/>
+        <card number="1" name="Aven Cloudchaser" setShortName="ODY" collectorNumber="7" uuid="08afe190-368e-4259-9959-00beaccee7ba"/>
+        <card number="3" name="Meddling Mage" setShortName="PLS" collectorNumber="116" uuid="176f84c6-aa5e-449c-bd2b-cc91a898f0c7"/>
+        <card number="1" name="Mystic Snake" setShortName="APC" collectorNumber="112" uuid="f098a28c-5f9b-4a2c-b109-c342365eb948"/>
+        <card number="1" name="Nantuko Tracer" setShortName="JUD" collectorNumber="125" uuid="16b93c93-5944-4289-bc5a-30b6e73b0dfd"/>
+        <card number="1" name="Phantom Nishoba" setShortName="JUD" collectorNumber="140" uuid="56ebc372-aabd-4174-a943-c7bf59e5028d"/>
+        <card number="1" name="Thornscape Battlemage" setShortName="PLS" collectorNumber="94" uuid="13f24f89-3996-4740-a6c9-d26b8869554b"/>
+    </zone>
+</cockatrice_deck>
