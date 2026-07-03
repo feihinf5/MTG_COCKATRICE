@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2001 Trench</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Kobe 2001 winning deck by Ishida Itaru</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Battlefield Forge" setShortName="APC" collectorNumber="139" uuid="a9c25e71-0140-48fe-8b9e-33b4b50c5c12"/>
+        <card number="4" name="Coastal Tower" setShortName="INV" collectorNumber="321" uuid="d115dbff-e35b-495f-a1e3-19651895927e"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="343" uuid="ba6694bb-f3b7-48ff-9d93-cbed84fac210"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="344" uuid="977527da-2953-493f-8e8c-ffc64ddeaf10"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="346" uuid="7e8ae541-98e2-4a84-90a6-b17502f4442d"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="345" uuid="68df89dc-3909-4051-adc1-a86589d0e99d"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="331" uuid="5ba9ef2e-d3ec-41f7-802e-e1414f14dd10"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="332" uuid="bc73d7ff-bbef-4df9-ae7f-aa2ac8ac7025"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="334" uuid="b5b4963b-c706-439f-9800-ff5d70003dcf"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="333" uuid="87a66868-2efa-4985-b4fc-405d7fa8d410"/>
+        <card number="4" name="Shivan Reef" setShortName="APC" collectorNumber="142" uuid="c3403143-2b4e-4408-b138-c856bbc1e9a5"/>
+        <card number="3" name="Goblin Trenches" setShortName="APC" collectorNumber="104" uuid="2100844c-6a41-40f5-b7f8-9b426d5a6945"/>
+        <card number="4" name="Absorb" setShortName="INV" collectorNumber="226" uuid="5d6a0f3e-457f-41f5-be26-5fb249874f1a"/>
+        <card number="3" name="Evasive Action" setShortName="APC" collectorNumber="23" uuid="5d0b4f29-ada4-41d2-8292-b5af537c6fd2"/>
+        <card number="4" name="Exclude" setShortName="INV" collectorNumber="56" uuid="aeb359c8-209c-455f-84b2-970e5678a9fa"/>
+        <card number="4" name="Fire // Ice" setShortName="APC" collectorNumber="128" uuid="f98f4538-5b5b-475d-b98f-49d01dae6f04"/>
+        <card number="4" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="4" name="Prophetic Bolt" setShortName="APC" collectorNumber="116" uuid="79f74291-c452-4a60-bf5f-73efad6583d4"/>
+        <card number="4" name="Repulse" setShortName="INV" collectorNumber="70" uuid="9a04e9be-48be-440e-9825-cfffd4c2b1a4"/>
+        <card number="4" name="Urza's Rage" setShortName="INV" collectorNumber="178" uuid="61a25a35-3ae4-471e-adcd-d8baf2f77b68"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Breath of Darigaaz" setShortName="INV" collectorNumber="138" uuid="480bb7e3-df03-454d-ada0-592ef8a4a6f0"/>
+        <card number="2" name="Disrupt" setShortName="INV" collectorNumber="51" uuid="c000a02f-6b7e-4925-a938-59e645e980d7"/>
+        <card number="4" name="Gainsay" setShortName="PLS" collectorNumber="26" uuid="a70a2092-5048-49c0-9351-a3f882c2f56e"/>
+        <card number="2" name="Lightning Angel" setShortName="APC" collectorNumber="108" uuid="6518d0c5-58ee-4089-bf19-5030d4319681"/>
+        <card number="4" name="Meddling Mage" setShortName="PLS" collectorNumber="116" uuid="176f84c6-aa5e-449c-bd2b-cc91a898f0c7"/>
+        <card number="1" name="Rakavolver" setShortName="APC" collectorNumber="68" uuid="43787e24-0b7d-4005-8db4-68544476bd34"/>
+    </zone>
+</cockatrice_deck>
