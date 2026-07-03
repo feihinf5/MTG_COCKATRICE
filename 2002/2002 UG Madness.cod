@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2002 UG Madness</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Osaka 2002 winning deck by Ken Ho</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Forest" setShortName="ONS" collectorNumber="347" uuid="b361b42d-401f-440a-bae9-35338b5dde0e"/>
+        <card number="3" name="Forest" setShortName="ONS" collectorNumber="348" uuid="4d8edfee-7837-450a-bcf3-a7bb25670056"/>
+        <card number="3" name="Forest" setShortName="ONS" collectorNumber="349" uuid="7b0af992-80e0-4ac6-a828-5eaac47eaff6"/>
+        <card number="3" name="Forest" setShortName="ONS" collectorNumber="350" uuid="835a4eed-a308-428d-ac85-e385b5d47d8e"/>
+        <card number="2" name="Island" setShortName="ONS" collectorNumber="335" uuid="36e062ec-df51-40c0-ad8a-2ee1cb8f8f17"/>
+        <card number="2" name="Island" setShortName="ONS" collectorNumber="336" uuid="6e8c0e52-8482-4c33-bc5d-26eaad922e72"/>
+        <card number="2" name="Island" setShortName="ONS" collectorNumber="337" uuid="1dac3bfe-884b-4875-bc7d-df564eb014cd"/>
+        <card number="3" name="Island" setShortName="ONS" collectorNumber="338" uuid="189a09b8-46d2-4ef6-b7cc-9e510d1ea0b8"/>
+        <card number="1" name="Tarnished Citadel" setShortName="ODY" collectorNumber="329" uuid="30375d24-ccfe-47a2-babd-1bda0a6298fe"/>
+        <card number="3" name="Squirrel Nest" setShortName="ODY" collectorNumber="274" uuid="22eccb27-1723-4c5a-96b8-85e6e5739c30"/>
+        <card number="4" name="Standstill" setShortName="ODY" collectorNumber="102" uuid="3ede3f6f-e642-4fe4-aa37-0f01cdf4d149"/>
+        <card number="4" name="Roar of the Wurm" setShortName="ODY" collectorNumber="266" uuid="ddf54317-4c08-4a66-9fd2-9983384e2374"/>
+        <card number="3" name="Upheaval" setShortName="ODY" collectorNumber="113" uuid="9e201229-34a6-48c8-a07c-d8aefcf5f8a7"/>
+        <card number="4" name="Circular Logic" setShortName="TOR" collectorNumber="33" uuid="cd9198d6-201d-4175-8f70-eef92d7d5bb5"/>
+        <card number="4" name="Aquamoeba" setShortName="TOR" collectorNumber="24" uuid="1243552a-ca57-42ce-817e-d6268fc673e0"/>
+        <card number="4" name="Arrogant Wurm" setShortName="TOR" collectorNumber="120" uuid="11b849c7-c91d-4c67-a357-f7d17f9b187a"/>
+        <card number="4" name="Basking Rootwalla" setShortName="TOR" collectorNumber="121" uuid="1a67768a-6cd9-4163-b941-752f29c87a8d"/>
+        <card number="3" name="Werebear" setShortName="ODY" collectorNumber="282" uuid="964cf7e3-932d-432f-8ad4-9bd651aada96"/>
+        <card number="4" name="Wild Mongrel" setShortName="ODY" collectorNumber="283" uuid="5bb8dd5c-a79a-4afc-80b2-64645bb17a34"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Persuasion" setShortName="ODY" collectorNumber="92" uuid="7db5d930-23b4-4726-8f5c-3c690b36f4a4"/>
+        <card number="3" name="Still Life" setShortName="ODY" collectorNumber="275" uuid="12be33d7-f25e-4dbf-9706-74403103b127"/>
+        <card number="3" name="Nantuko Blightcutter" setShortName="TOR" collectorNumber="131" uuid="42a6f1b6-e1ed-497a-b50e-1bfa257c18c0"/>
+        <card number="4" name="Aura Graft" setShortName="ODY" collectorNumber="62" uuid="c7553877-7df2-42f7-98a3-1a07f66a4905"/>
+        <card number="3" name="Moment's Peace" setShortName="ODY" collectorNumber="251" uuid="40ebe935-ccf9-435e-8fe8-53bcbf3526e7"/>
+    </zone>
+</cockatrice_deck>
