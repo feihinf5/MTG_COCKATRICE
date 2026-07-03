@@ -2,7 +2,13 @@ Reference
 - http://mtgwiki.com/wiki/%E7%8B%A9%E7%8C%9F%E5%A0%B4
 
 Format
-- CARD_SET
+- JUD
+- TOR
+- ODY
+- APC
+- 7ED
+- PLS
+- INV
 
 Note
 - Grand Prix-Taipei 2002 winning deck by Hsia Sheng Hsum
