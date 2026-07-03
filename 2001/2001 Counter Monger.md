@@ -8,9 +8,9 @@ Format
 
 Note
 - Grand Prix-Denver 2001 winning deck by Brett Shears
-- [**Mystic Snake**] and [**Undermine**] to counter
-- [**Pernicious Deed**] for mass removal
-- [**Spiritmonger**] to close out the game and can survive the deck's own [**Pernicious Deed**] board wipes by using its built-in regeneration ability
+- [**Mystic Snake**](https://api.scryfall.com/cards/f098a28c-5f9b-4a2c-b109-c342365eb948?format=image) and [**Undermine**](https://api.scryfall.com/cards/2334bc71-5f85-47ff-b393-601a1e746a4e?format=image) to counter opponet's spells
+- [**Pernicious Deed**](https://api.scryfall.com/cards/ae4cbb33-4947-49f0-b612-a92141fbfaa6?format=image) for mass removal
+- [**Spiritmonger**](https://api.scryfall.com/cards/b96d6e67-f690-4f19-bb25-a7c2d2aaf42f?format=image) to close out the game and can survive the deck's own [**Pernicious Deed**](https://api.scryfall.com/cards/ae4cbb33-4947-49f0-b612-a92141fbfaa6?format=image) board wipes by using its built-in regeneration ability
 
 Deck
 - 3 Spiritmonger
