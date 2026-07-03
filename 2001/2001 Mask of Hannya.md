@@ -2,7 +2,11 @@ Reference
 - http://mtgwiki.com/wiki/%E8%88%AC%E8%8B%A5%E3%81%AE%E9%9D%A2
 
 Format
-- CARD_SET
+- ODY
+- APC
+- 7ED
+- PLS
+- INV
 
 Note
 - The Finals01 winning deck by Ishida Itaru
