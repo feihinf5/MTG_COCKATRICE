@@ -7,10 +7,38 @@ Format
 - INV
 
 Note
-- INFO
+- Grand Prix-London 2001 winning deck by Kai Budde
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Evasive Action
+- 4 Worldly Counsel
+- 4 Collective Restraint
+- 4 Allied Strategies
+- 1 Yawgmoth's Agenda
+- 4 Lay of the Land
+- 4 Harrow
+- 1 Ordered Migration
+- 2 Void
+- 2 Pernicious Deed
+- 1 Goblin Trenches
+- 2 Destructive Flow
+- 1 Overgrown Estate
+- 4 Chromatic Sphere
+- 1 Legacy Weapon
+- 1 Plains
+- 5 Island
+- 3 Swamp
+- 2 Mountain
+- 7 Forest
+- 2 Llanowar Wastes
+- 1 Yavimaya Coast
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 3 Penumbra Bobcat
+- 3 Addle
+- 1 Void
+- 2 Pernicious Deed
+- 1 Destructive Flow
+- 1 Overgrown Estate
+- 1 Legacy Weapon
+- 3 Spiritmonger
