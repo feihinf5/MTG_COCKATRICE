@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2001 Counter Monger</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Denver 2001 winning deck by Brett Shears</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="347" uuid="f82d0a1c-5812-4254-a000-e4ff9aece3d9"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="348" uuid="24788990-42ff-4b2b-8d01-fa2d0ec66a03"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="349" uuid="0b741c86-a563-4180-a857-7850de6ee366"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="2" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="4" name="Llanowar Wastes" setShortName="APC" collectorNumber="141" uuid="610b7cd5-5532-45a9-acfe-24a818034d1c"/>
+        <card number="4" name="Salt Marsh" setShortName="INV" collectorNumber="326" uuid="ed64934b-0e64-4b2f-97aa-c3fb7e6ce0b0"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="339" uuid="2a7ce037-e04d-404a-afde-9122518e6a31"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="340" uuid="7cdb8b9d-2573-4162-9255-50a281dfb775"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="342" uuid="31a756b0-f430-4286-afe1-97c641e4f3b4"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="341" uuid="99b2bba7-8889-460c-a18f-fcd1e350ef4e"/>
+        <card number="4" name="Yavimaya Coast" setShortName="APC" collectorNumber="143" uuid="177ee102-d981-4fc3-9f09-9dd07755f22c"/>
+        <card number="3" name="Exclude" setShortName="INV" collectorNumber="56" uuid="aeb359c8-209c-455f-84b2-970e5678a9fa"/>
+        <card number="3" name="Pernicious Deed" setShortName="APC" collectorNumber="114" uuid="ae4cbb33-4947-49f0-b612-a92141fbfaa6"/>
+        <card number="4" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="2" name="Spite // Malice" setShortName="INV" collectorNumber="293" uuid="054f1845-196f-41c1-9682-042171cccd49"/>
+        <card number="4" name="Undermine" setShortName="INV" collectorNumber="282" uuid="2334bc71-5f85-47ff-b393-601a1e746a4e"/>
+        <card number="4" name="Repulse" setShortName="INV" collectorNumber="70" uuid="9a04e9be-48be-440e-9825-cfffd4c2b1a4"/>
+        <card number="4" name="Mystic Snake" setShortName="APC" collectorNumber="112" uuid="f098a28c-5f9b-4a2c-b109-c342365eb948"/>
+        <card number="3" name="Plague Spitter" setShortName="INV" collectorNumber="119" uuid="8845e6bd-40ee-45ca-a099-53f19ff20a8a"/>
+        <card number="3" name="Spiritmonger" setShortName="APC" collectorNumber="121" uuid="b96d6e67-f690-4f19-bb25-a7c2d2aaf42f"/>
+        <card number="4" name="Vodalian Zombie" setShortName="INV" collectorNumber="286" uuid="f30a5a06-32ce-4d71-b71f-e3e1d8d4511a"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Pernicious Deed" setShortName="APC" collectorNumber="114" uuid="ae4cbb33-4947-49f0-b612-a92141fbfaa6"/>
+        <card number="4" name="Addle" setShortName="INV" collectorNumber="91" uuid="e8afb9d0-affa-4599-bf29-729cfe64703b"/>
+        <card number="3" name="Disrupt" setShortName="INV" collectorNumber="51" uuid="c000a02f-6b7e-4925-a938-59e645e980d7"/>
+        <card number="4" name="Gainsay" setShortName="PLS" collectorNumber="26" uuid="a70a2092-5048-49c0-9351-a3f882c2f56e"/>
+        <card number="3" name="Jungle Barrier" setShortName="APC" collectorNumber="106" uuid="4eb114a4-44e5-4375-92b8-00a0b0acbe94"/>
+    </zone>
+</cockatrice_deck>
