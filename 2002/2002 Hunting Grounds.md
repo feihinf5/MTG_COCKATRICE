@@ -12,6 +12,13 @@ Format
 
 Note
 - Grand Prix-Taipei 2002 winning deck by Hsia Sheng Hsum
+- Built around [**Hunting Grounds**] that allow creatures onto the battlefield for free under specific conditions
+- Control the board using [**Counterspell**], [**Memory Lapse**] and [**Wrath of God**] then once mana is established and Threshold is achieved, [**Hunting Grounds**] is deployed
+- [**Mystic Snake**] put into play via [**Hunting Grounds**] is repeatedly reused using [**Repulse**] or [**Genesis**] to naturally generate massive card advantage
+- Aside from [**Mystic Snake**], other finishers exist like [**Ancestor's Chosen**], [**Mystic Enforcer**] or [**Phantom Nishoba
+- [**Nantuko Monastery**] is universally run as a utility land
+- Highly effective against to counter a lethal Upheaval
+- To guarantee achieving Threshold, the deck utilized [**Fact or Fiction**]
 
 Deck
 - 3 Mystic Snake
