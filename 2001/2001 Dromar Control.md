@@ -9,8 +9,8 @@ Format
 Note
 - Grand Prix-Minneapolis 2001 winning deck by David Humpherys
 - White-Green-Black control deck and relies on various creature removal and hand-destruction discard spells
-- [**Dromar's Charm**] as an excellent, versatile utility card
-- [**Desolation Angel**] casting it with kicker after establishing board control creates an land wipe effect alongside a 5/4 flying creature to effectively end the game
+- [**Dromar's Charm**](https://api.scryfall.com/cards/c7a1894c-af4e-4530-960f-2225916be8cb?format=image) as an excellent, versatile utility card
+- [**Desolation Angel**](https://api.scryfall.com/cards/445127d4-8afb-47cf-b2a1-564540b1fdae?format=image) casting it with kicker after establishing board control creates an land wipe effect alongside a 5/4 flying creature to effectively end the game
 
 Deck
 - 2 Desolation Angel
