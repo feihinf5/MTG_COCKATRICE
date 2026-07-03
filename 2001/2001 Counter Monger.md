@@ -8,6 +8,9 @@ Format
 
 Note
 - Grand Prix-Denver 2001 winning deck by Brett Shears
+- [**Mystic Snake**] and [**Undermine**] to counter
+- [**Pernicious Deed**] for mass removal
+- [**Spiritmonger**] to close out the game and can survive the deck's own [**Pernicious Deed**] board wipes by using its built-in regeneration ability
 
 Deck
 - 3 Spiritmonger
