@@ -10,6 +10,7 @@ Format
 
 Note
 - The Finals01 winning deck by Ishida Itaru
+- Nearly every dominant deck splashed blue, to counter this, anti-blue creatures like [**Yavimaya Barbarian**] and [**Spellbane Centaur**] neutralized the opponent's [**Repulse**] spells, allowing the deck to win through fast combat damage
 
 Deck
 - 4 Llanowar Elves
