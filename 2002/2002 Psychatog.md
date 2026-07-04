@@ -12,7 +12,7 @@ Format
 - INV
 
 Note
-- World Championships 2002 winning deck by Carlos Romao
+- World Championships 2002 winning deck by Carlos Romão
 - [**Cunning Wish**](https://api.scryfall.com/cards/ca097675-5e82-493d-beab-9fc11efd7492?format=image) greatly increased flexibility and adaptability
 - Heavily driven by the incredibly powerful draw spell [**Fact or Fiction**](https://api.scryfall.com/cards/7fd4d018-dcf3-4439-8445-02d66e44f7d3?format=image)
 - [**Nightscape Familiar**](https://api.scryfall.com/cards/24fa6853-09b0-4c9f-a138-9dd005780255?format=image) serve as an early blocker, accelerate tempo, generate card advantage and discount the mana cost of Upheaval
