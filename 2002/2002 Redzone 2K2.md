@@ -2,10 +2,16 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_2002
 
 Format
-- CARD_SET
+- JUD
+- TOR
+- ODY
+- APC
+- 7ED
+- PLS
+- INV
 
 Note
-- INFO
+- 
 
 Deck
 - 4 Anurid Brushhopper
