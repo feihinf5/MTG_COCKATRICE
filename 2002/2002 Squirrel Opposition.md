@@ -2,13 +2,19 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_2002
 
 Format
-- CARD_SET
+- JUD
+- TOR
+- ODY
+- APC
+- 7ED
+- PLS
+- INV
 
 Note
 - World Championships 2002 top 8 deck by Sim Han How
-- Relied on [**Opposition**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to tap down an opponent's land, creature or artifact during the opponent's upkeep
-- [**Squirrel Nest**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) ensure always had more creatures than the opponent had permanents
-- Splashing red addressed the "mid-range bottleneck" mentioned like [**Fire // Ice**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for flexible removal or tempo
+- Relied on [**Opposition**](https://api.scryfall.com/cards/8980e292-1384-4662-aa72-bc4f6ca30d51?format=image) to tap down an opponent's land, creature or artifact during the opponent's upkeep
+- [**Squirrel Nest**](https://api.scryfall.com/cards/22eccb27-1723-4c5a-96b8-85e6e5739c30?format=image) ensure always had more creatures than the opponent had permanents
+- Splashing red addressed the "mid-range bottleneck" mentioned like [**Fire // Ice**](https://api.scryfall.com/cards/f98f4538-5b5b-475d-b98f-49d01dae6f04.webp?format=image) for flexible removal or tempo
 
 Deck
 - 4 Birds of Paradise
