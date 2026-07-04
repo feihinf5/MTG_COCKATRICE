@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2002 Punisher White</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2002 Odyssey Block Constructed deck by Tomi Walamies</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Island" setShortName="ODY" collectorNumber="335" uuid="527f36a0-80b8-4492-b1c3-20a34953ceb7"/>
+        <card number="2" name="Island" setShortName="ODY" collectorNumber="336" uuid="ef57bbe1-8507-4284-8d08-6b10b7894f96"/>
+        <card number="1" name="Island" setShortName="ODY" collectorNumber="338" uuid="bf964c1b-941f-4a02-895b-0608bddc1ce7"/>
+        <card number="1" name="Island" setShortName="ODY" collectorNumber="337" uuid="ba30bfc3-5aec-480d-a80a-fe71b098b14b"/>
+        <card number="3" name="Plains" setShortName="ODY" collectorNumber="332" uuid="014efd6a-5b0c-41d1-b7de-78eab5b62917"/>
+        <card number="3" name="Plains" setShortName="ODY" collectorNumber="334" uuid="7ee52bef-0586-46b8-a405-f4e0741f0059"/>
+        <card number="4" name="Plains" setShortName="ODY" collectorNumber="333" uuid="51b0dd0f-8ad8-4292-9df6-7b28ab4605e3"/>
+        <card number="3" name="Plains" setShortName="ODY" collectorNumber="331" uuid="eecfb420-ace3-4627-a2e0-62a701d025c9"/>
+        <card number="4" name="Skycloud Expanse" setShortName="ODY" collectorNumber="327" uuid="c8c0da61-59c5-4206-83d9-c4676e169f01"/>
+        <card number="2" name="Envelop" setShortName="JUD" collectorNumber="39" uuid="e7ed250e-12d0-4ebc-9410-5711e71c6d1f"/>
+        <card number="1" name="Prismatic Strands" setShortName="JUD" collectorNumber="18" uuid="3454ef42-2e0b-4ce4-945f-e4ec3e83c39d"/>
+        <card number="4" name="Quiet Speculation" setShortName="JUD" collectorNumber="49" uuid="71a314fa-293b-486f-95d8-267d340e4d8e"/>
+        <card number="4" name="Divine Sacrament" setShortName="ODY" collectorNumber="19" uuid="f69ecef5-4f1a-4463-8908-7c0ef955b02d"/>
+        <card number="4" name="Battle Screech" setShortName="JUD" collectorNumber="3" uuid="c3c38264-0d79-47d4-bca2-a20a991bbac9"/>
+        <card number="2" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="4" name="Beloved Chaplain" setShortName="ODY" collectorNumber="11" uuid="decec62b-7ac4-4097-9215-5db18db2dec6"/>
+        <card number="3" name="Glory" setShortName="JUD" collectorNumber="11" uuid="7a414f0e-b157-4570-8213-1c58a96bf7a5"/>
+        <card number="3" name="Patrol Hound" setShortName="ODY" collectorNumber="38" uuid="e216a539-152b-4a83-98ef-1996182a5714"/>
+        <card number="4" name="Spurnmage Advocate" setShortName="JUD" collectorNumber="27" uuid="008c8d72-097e-472d-88c8-78bf29e42e32"/>
+        <card number="2" name="Suntail Hawk" setShortName="JUD" collectorNumber="28" uuid="5fbdae0b-b4aa-40ff-9017-b4349bd6b627"/>
+        <card number="4" name="Tireless Tribe" setShortName="ODY" collectorNumber="56" uuid="1d23e47a-21d5-4d7e-8aa0-3b3064da5967"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Kirtar's Desire" setShortName="ODY" collectorNumber="27" uuid="7f1e36fe-ecbe-46aa-9ee8-2ba4daba7d31"/>
+        <card number="2" name="Stern Judge" setShortName="TOR" collectorNumber="16" uuid="436044d7-981c-4273-a0b4-6dd455608c47"/>
+        <card number="2" name="Sphere of Truth" setShortName="ODY" collectorNumber="52" uuid="7c3de9f5-a05c-4341-a2c2-a1a475d400fd"/>
+        <card number="2" name="Envelop" setShortName="JUD" collectorNumber="39" uuid="e7ed250e-12d0-4ebc-9410-5711e71c6d1f"/>
+        <card number="2" name="Prismatic Strands" setShortName="JUD" collectorNumber="18" uuid="3454ef42-2e0b-4ce4-945f-e4ec3e83c39d"/>
+        <card number="1" name="Ray of Distortion" setShortName="ODY" collectorNumber="42" uuid="9940f593-021f-44cd-9725-0779a2808b6c"/>
+        <card number="1" name="Frantic Purification" setShortName="TOR" collectorNumber="6" uuid="04f156d1-2655-42aa-a785-d8eb15cb5422"/>
+        <card number="2" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="1" name="Commander Eesha" setShortName="JUD" collectorNumber="9" uuid="3607f6a9-b8d2-4119-9f70-95dcedc0662d"/>
+    </zone>
+</cockatrice_deck>
