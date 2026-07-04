@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2002 Suicide Oath</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Houston 2002 winning deck by Justin Gary</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Forest" setShortName="TMP" collectorNumber="349" uuid="6b667225-a808-43e9-955e-6c4e7ecd53f2"/>
+        <card number="1" name="Forest" setShortName="TMP" collectorNumber="348" uuid="72bac71a-c326-4640-bdf8-43682f59060b"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="335" uuid="22578bc8-10c6-4598-82bc-70e970a8f518"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="336" uuid="3f891c3f-82e2-4f9d-ae4b-443fce0bdd71"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="338" uuid="5e6e59d7-5038-46b4-9f60-3d9d0cbf0a4e"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="337" uuid="b38e48ff-17c8-470c-ba8b-966da1777e77"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="335" uuid="8e4ce9ff-c295-475b-b9fa-88ed65a84f35"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="337" uuid="92724530-9c7a-44ab-9381-ee56bfccb641"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="336" uuid="bbf69bc5-8ee3-4b17-a3b1-51e35dd2d0dc"/>
+        <card number="4" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="341" uuid="c96dbfea-3b79-4e5b-a356-3c04d1e78e83"/>
+        <card number="4" name="Treetop Village" setShortName="ULG" collectorNumber="143" uuid="02212bd8-0c0f-4e8e-99f1-a8477476c03a"/>
+        <card number="1" name="Underground River" setShortName="6ED" collectorNumber="330" uuid="142dd41a-0e98-41d7-9de9-63cda1cf8915"/>
+        <card number="1" name="Underground River" setShortName="7ED" collectorNumber="350" uuid="1b496660-5a5d-4dec-93ca-60e6b1286221"/>
+        <card number="4" name="Yavimaya Coast" setShortName="APC" collectorNumber="143" uuid="177ee102-d981-4fc3-9f09-9dd07755f22c"/>
+        <card number="4" name="Accumulated Knowledge" setShortName="NEM" collectorNumber="26" uuid="ab061406-38f4-40e7-a9ea-e3cbcaabc127"/>
+        <card number="4" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="1" name="Counterspell" setShortName="TMP" collectorNumber="57" uuid="dacdd380-71cf-4832-bd02-3697501325f3"/>
+        <card number="1" name="Counterspell" setShortName="MMQ" collectorNumber="69" uuid="7bd03c80-7812-4704-9e07-9cf73b49c01f"/>
+        <card number="1" name="Counterspell" setShortName="6ED" collectorNumber="61" uuid="ee0d3f5f-7790-4772-bead-5d7114a23e94"/>
+        <card number="1" name="Counterspell" setShortName="7ED" collectorNumber="67" uuid="29bb1b85-9444-4bfa-b622-092a6873631c"/>
+        <card number="3" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="1" name="Foil" setShortName="PCY" collectorNumber="34" uuid="870fb793-3107-4cb2-ba78-34fbf5c9da2f"/>
+        <card number="2" name="Forbid" setShortName="EXO" collectorNumber="35" uuid="29df5ef7-d679-4543-bdb7-3984155c87e0"/>
+        <card number="3" name="Force Spike" setShortName="7ED" collectorNumber="76" uuid="1d03d73f-0530-4125-8689-1c43e502e331"/>
+        <card number="2" name="Intuition" setShortName="TMP" collectorNumber="70" uuid="c99f6785-e5a1-4fdc-9fb5-e1a372e7e848"/>
+        <card number="1" name="Krosan Reclamation" setShortName="JUD" collectorNumber="122" uuid="5b3c5144-7e15-46c6-b819-d729ecb30bb1"/>
+        <card number="1" name="Mana Leak" setShortName="STH" collectorNumber="36" uuid="abcaf16d-aa02-43e2-aa38-bb1835d47a05"/>
+        <card number="2" name="Living Wish" setShortName="JUD" collectorNumber="124" uuid="2478a8d2-ca44-4c42-8d75-dd9cb1b59f61"/>
+        <card number="4" name="Oath of Druids" setShortName="EXO" collectorNumber="115" uuid="cf14de50-d123-400c-862e-2c95fd2aa23f"/>
+        <card number="3" name="Pernicious Deed" setShortName="APC" collectorNumber="114" uuid="ae4cbb33-4947-49f0-b612-a92141fbfaa6"/>
+        <card number="2" name="Cognivore" setShortName="ODY" collectorNumber="77" uuid="7de76ff6-d065-4db1-b28d-4a4ccb1cc0fa"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Dust Bowl" setShortName="MMQ" collectorNumber="316" uuid="75b03c30-c2b8-4207-b675-26c59c40a7e5"/>
+        <card number="3" name="Naturalize" setShortName="ONS" collectorNumber="275" uuid="c0acc41f-b55b-47cb-8803-d39d72788799"/>
+        <card number="1" name="Engineered Plague" setShortName="ULG" collectorNumber="51" uuid="27e158d5-efb2-4f90-8898-60ede98f7d29"/>
+        <card number="2" name="Masticore" setShortName="UDS" collectorNumber="134" uuid="908a2215-7231-43a4-8fec-5d1e4233c028"/>
+        <card number="1" name="Engineered Plague" setShortName="7ED" collectorNumber="133" uuid="b669e43e-3b11-42c9-8f20-0acce129e63c"/>
+        <card number="2" name="Powder Keg" setShortName="UDS" collectorNumber="136" uuid="4d9715c2-9036-4ae2-a5b4-1b190d50c963"/>
+        <card number="2" name="Gilded Drake" setShortName="USG" collectorNumber="76" uuid="8de3fdae-cc2c-4a14-b15b-4fe1a983dfbf"/>
+        <card number="2" name="Palinchron" setShortName="ULG" collectorNumber="38" uuid="5621db3f-a9e7-4350-9c6a-0ba04a628947"/>
+    </zone>
+</cockatrice_deck>
