@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2003 Elf Beat</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2003 German National Championship winning deck by Dirk Baberowski</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="328" uuid="a8ba6d68-19da-4b85-9852-681c0fc1e400"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="329" uuid="1def1ac1-652c-4160-9092-46549e577570"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="330" uuid="172e55c6-b797-4b49-94f1-cc93e4f5b939"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="331" uuid="a69545e9-7219-43f1-8a31-5035d87dca68"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="347" uuid="73029d4b-f073-4df0-a6cc-8014284a1ced"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="348" uuid="9397010b-6116-4612-993a-11ec2a5d3115"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="349" uuid="318b15ea-80b9-48df-b010-aa1aabcf51ea"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="350" uuid="65e8080f-9e4a-4fad-9ea3-09d5e0e1c816"/>
+        <card number="4" name="Karplusan Forest" setShortName="7ED" collectorNumber="336" uuid="4c393b6f-2421-4d77-9025-dac9dfaaae36"/>
+        <card number="4" name="Wirewood Lodge" setShortName="ONS" collectorNumber="329" uuid="3d251490-41bb-4ad3-bfd0-a5e66ee42598"/>
+        <card number="4" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+        <card number="1" name="Coat of Arms" setShortName="7ED" collectorNumber="290" uuid="9642852b-8736-4fce-9f91-37594cbc3f71"/>
+        <card number="4" name="Wirewood Pride" setShortName="ONS" collectorNumber="303" uuid="a559e844-06c9-4953-bc2c-a58e4170fe47"/>
+        <card number="4" name="Birchlore Rangers" setShortName="ONS" collectorNumber="248" uuid="8ce3a3a1-3569-4909-a604-f78d4888781e"/>
+        <card number="4" name="Bloodline Shaman" setShortName="ONS" collectorNumber="249" uuid="5fdfc473-8477-4c04-a4e7-ecac1b0a5716"/>
+        <card number="1" name="Caller of the Claw" setShortName="LGN" collectorNumber="121" uuid="a073459e-1f00-47e0-a1b3-d30203aa35d1"/>
+        <card number="4" name="Llanowar Elves" setShortName="7ED" collectorNumber="253" uuid="ed8a8cfd-baef-4198-b1f3-4926139588b2"/>
+        <card number="4" name="Seeker of Skybreak" setShortName="7ED" collectorNumber="268" uuid="d1f20175-8bfa-417a-912b-d6d472f091ab"/>
+        <card number="2" name="Taunting Elf" setShortName="ONS" collectorNumber="290" uuid="6b24af94-9632-47da-9bf3-e81bb743cd43"/>
+        <card number="4" name="Timberwatch Elf" setShortName="LGN" collectorNumber="140" uuid="045ae4ec-07f2-4098-a2d9-4bfcbd0273b2"/>
+        <card number="4" name="Wellwisher" setShortName="ONS" collectorNumber="300" uuid="be95ab7c-0e77-4293-aa48-ee54902a363f"/>
+        <card number="4" name="Wirewood Herald" setShortName="ONS" collectorNumber="302" uuid="35724e9f-efa6-47e7-ab4d-7defe38ba576"/>
+        <card number="4" name="Wirewood Hivemaster" setShortName="LGN" collectorNumber="145" uuid="ea55b4fc-366f-4906-9eaa-9085f6a22612"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Caller of the Claw" setShortName="LGN" collectorNumber="121" uuid="a073459e-1f00-47e0-a1b3-d30203aa35d1"/>
+        <card number="2" name="Goblin Sharpshooter" setShortName="ONS" collectorNumber="207" uuid="7e689df7-b85d-4346-bee8-5e978b5cbbbc"/>
+        <card number="2" name="Naturalize" setShortName="ONS" collectorNumber="275" uuid="c0acc41f-b55b-47cb-8803-d39d72788799"/>
+        <card number="1" name="Coat of Arms" setShortName="7ED" collectorNumber="290" uuid="9642852b-8736-4fce-9f91-37594cbc3f71"/>
+        <card number="4" name="Flaring Pain" setShortName="JUD" collectorNumber="89" uuid="eeb5c96a-1d16-459d-9968-ced9a8f1c520"/>
+        <card number="1" name="Mountain" setShortName="7ED" collectorNumber="337" uuid="fe14fc96-f33a-4bd2-8b04-c339936d3c24"/>
+        <card number="4" name="Phantom Centaur" setShortName="JUD" collectorNumber="127" uuid="c421c2f1-2137-41bd-9a89-74d8a76fb5c5"/>
+    </zone>
+</cockatrice_deck>
