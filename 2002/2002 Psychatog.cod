@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 14 10:32:07 2026</lastLoadedTimestamp>
+    <deckname>2002 Psychatog</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2002 winning deck by Carlos Romão</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Cephalid Coliseum" setShortName="ODY" collectorNumber="317" uuid="d5d74112-7244-4c3f-a5eb-b6be671aefe8"/>
+        <card number="1" name="Darkwater Catacombs" setShortName="ODY" collectorNumber="319" uuid="2583b941-6156-4c4b-a068-0d0ac75a3dd3"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="335" uuid="ff68b640-e194-4894-b9c0-76ed619c764d"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="334" uuid="cfb83039-9a06-4d79-abcc-6f36eec6f29e"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="333" uuid="28a0a9ae-a1ae-41da-8308-d49e4afca3c1"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="332" uuid="a45610b3-9e9b-4ef9-aab2-426f85a6cce3"/>
+        <card number="1" name="Island" setShortName="ODY" collectorNumber="338" uuid="bf964c1b-941f-4a02-895b-0608bddc1ce7"/>
+        <card number="1" name="Island" setShortName="ODY" collectorNumber="337" uuid="ba30bfc3-5aec-480d-a80a-fe71b098b14b"/>
+        <card number="4" name="Salt Marsh" setShortName="INV" collectorNumber="326" uuid="ed64934b-0e64-4b2f-97aa-c3fb7e6ce0b0"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="342" uuid="31a756b0-f430-4286-afe1-97c641e4f3b4"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="341" uuid="99b2bba7-8889-460c-a18f-fcd1e350ef4e"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="340" uuid="7cdb8b9d-2573-4162-9255-50a281dfb775"/>
+        <card number="4" name="Underground River" setShortName="7ED" collectorNumber="350" uuid="1b496660-5a5d-4dec-93ca-60e6b1286221"/>
+        <card number="3" name="Circular Logic" setShortName="TOR" collectorNumber="33" uuid="cd9198d6-201d-4175-8f70-eef92d7d5bb5"/>
+        <card number="3" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="2" name="Upheaval" setShortName="ODY" collectorNumber="113" uuid="9e201229-34a6-48c8-a07c-d8aefcf5f8a7"/>
+        <card number="4" name="Counterspell" setShortName="7ED" collectorNumber="67" uuid="29bb1b85-9444-4bfa-b622-092a6873631c"/>
+        <card number="3" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="3" name="Memory Lapse" setShortName="7ED" collectorNumber="88" uuid="2d85cc30-ccae-4af8-834a-f7870dace679"/>
+        <card number="4" name="Repulse" setShortName="INV" collectorNumber="70" uuid="9a04e9be-48be-440e-9825-cfffd4c2b1a4"/>
+        <card number="3" name="Cunning Wish" setShortName="JUD" collectorNumber="37" uuid="ca097675-5e82-493d-beab-9fc11efd7492"/>
+        <card number="3" name="Chainer's Edict" setShortName="TOR" collectorNumber="57" uuid="014af391-3b4a-4aab-a3e9-f60e61016985"/>
+        <card number="4" name="Nightscape Familiar" setShortName="PLS" collectorNumber="48" uuid="24fa6853-09b0-4c9f-a138-9dd005780255"/>
+        <card number="4" name="Psychatog" setShortName="ODY" collectorNumber="292" uuid="6757bf0e-489f-4be2-9e41-463b59f00dd1"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Coffin Purge" setShortName="ODY" collectorNumber="124" uuid="541e06cb-5616-40b4-9d36-89471a795ac8"/>
+        <card number="4" name="Duress" setShortName="7ED" collectorNumber="131" uuid="15c8d82e-6e65-4d36-bf09-b24dde016581"/>
+        <card number="1" name="Gainsay" setShortName="PLS" collectorNumber="26" uuid="a70a2092-5048-49c0-9351-a3f882c2f56e"/>
+        <card number="3" name="Ghastly Demise" setShortName="ODY" collectorNumber="139" uuid="d9d2bfa3-0499-43ea-a76d-b12fddbc104e"/>
+        <card number="1" name="Hibernation" setShortName="7ED" collectorNumber="79" uuid="a8f7d826-ec78-48dd-bed1-e3768e8fa324"/>
+        <card number="1" name="Mana Short" setShortName="7ED" collectorNumber="86" uuid="a0486784-de03-47a7-949d-550fd23492bc"/>
+        <card number="1" name="Recoil" setShortName="INV" collectorNumber="264" uuid="b6a77be3-e3b0-40f5-a470-414bac49da60"/>
+        <card number="1" name="Slay" setShortName="PLS" collectorNumber="55" uuid="eccda747-2680-4793-8a13-35e49b4de12f"/>
+        <card number="1" name="Teferi's Response" setShortName="INV" collectorNumber="78" uuid="f3bb2df8-c559-4a34-83b0-d48fbc694cc8"/>
+        <card number="1" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+    </zone>
+</cockatrice_deck>
