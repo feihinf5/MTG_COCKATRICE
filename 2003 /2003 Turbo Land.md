@@ -6,11 +6,11 @@ Format
 
 Note
 - Grand Prix-New Orleans 2003 winning deck by Zvi Mowshowitz
-- Control deck features [**Oath of Druids**], [**Exploration**] and [**Horn of Greed**]
-- Drops a massive number of lands via [**Exploration**] and triggers [**Horn of Greed**] simultaneously to draw a massive number of cards
-- Uses [**Battlefield Scrounger**] to restock the library
-- Loops [**Time Warp**] via [**Scroll Rack**] to lock down infinite turns
-- Repeatedly cast [**Capsize**] with buyback, completely locking down the battlefield
+- Control deck features [**Oath of Druids**](https://api.scryfall.com/cards/cf14de50-d123-400c-862e-2c95fd2aa23f?format=image), [**Exploration**](https://api.scryfall.com/cards/2f09e451-0246-45a2-8bfd-07d3c65ddfe6?format=image) and [**Horn of Greed**](https://api.scryfall.com/cards/950660f9-b185-4979-a08b-cce4ec6ce07d?format=image)
+- Drops a massive number of lands via [**Exploration**](https://api.scryfall.com/cards/2f09e451-0246-45a2-8bfd-07d3c65ddfe6?format=image) and triggers [**Horn of Greed**](https://api.scryfall.com/cards/950660f9-b185-4979-a08b-cce4ec6ce07d?format=image) simultaneously to draw a massive number of cards
+- Uses [**Battlefield Scrounger**](https://api.scryfall.com/cards/f5ac74bc-1198-4a9a-bcde-668cca08b274?format=image) to restock the library
+- Loops [**Time Warp**](https://api.scryfall.com/cards/3447aeaf-3b26-442a-99d4-0a7ee76c8e76?format=image) via [**Scroll Rack**](https://api.scryfall.com/cards/5f7346d8-1aef-4618-88e6-74bd8865e0f3?format=image) to lock down infinite turns
+- Repeatedly cast [**Capsize**](https://api.scryfall.com/cards/e538b359-d893-422d-9d60-5f3e8ee0fa9e?format=image) with buyback, completely locking down the battlefield
 
 Deck
 - 1 Battlefield Scrounger
