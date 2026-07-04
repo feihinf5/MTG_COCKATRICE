@@ -12,8 +12,8 @@ Format
 
 Note
 - World Championships 2002 11th deck by Brian Kibler
-- Splashing white to incorporate [**Anurid Brushhopper**] and [**Glory**]
-- [**Birds of Paradise**] and [**City of Brass**] to cast [**Fire // Ice**] and pay the black kicker cost for [**Thunderscape Battlemage**]
+- Splashing white to incorporate [**Anurid Brushhopper**](https://api.scryfall.com/cards/b09204c7-3e3d-484a-a4f7-da1b818e3884?format=image) and [**Glory**](https://api.scryfall.com/cards/7a414f0e-b157-4570-8213-1c58a96bf7a5?format=image)
+- [**Birds of Paradise**](https://api.scryfall.com/cards/a2985857-fee5-42a6-9b5d-e157ada52a03?format=image) and [**City of Brass**](https://api.scryfall.com/cards/2ac29c5c-3c55-4778-9bcd-642d38a0d3f9?format=image) to cast [**Fire // Ice**](https://api.scryfall.com/cards/f98f4538-5b5b-475d-b98f-49d01dae6f04?format=image) and pay the black kicker cost for [**Thunderscape Battlemage**](https://api.scryfall.com/cards/d707243e-7f11-44bc-b8b8-af635ab1dc87?format=image)
 
 Deck
 - 4 Anurid Brushhopper
