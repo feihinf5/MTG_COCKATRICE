@@ -11,6 +11,11 @@ Format
 
 Note
 - 2003 German National Championship winning deck by Dirk Baberowski
+- Achieved tournament-level status by gaining [**Timberwatch Elf**] and [**Caller of the Claw**]
+- Accelerate mana with [**Llanowar Elves**] then flood the board with Elves at high speed and swing
+- Uses [**Timberwatch Elf**] for targeted pumps and [**Coat of Arms**] for a massive, game-ending board buff
+- Utilizes the [**Wirewood Herald**] into [**Caller of the Claw**] combo to survive and recover from mass removal
+- Splashing red in the sideboard for [**Flaring Pain**] for Wake deck and [**Goblin Sharpshooter**] to defeat [**Phantom Centaur**]
 
 Deck
 - 4 Birchlore Rangers
