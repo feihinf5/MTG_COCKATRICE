@@ -11,6 +11,8 @@ Format
 
 Note
 - 2003 Japan National Championship winning deck by Ootsuka Koutarou
+- Utilized [**Smother**] to destroy [**Psychatog**] and [**Engineered Plague**] to shut down Goblin and Elf aggro strategies
+- Leveraged black cards not just for removal but also for [**Zombie Infestation**] to combo by running [**Upheaval**] to float mana, bounce the board, and immediately flood it with Zombie tokens
 
 Deck
 - 4 Arrogant Wurm
