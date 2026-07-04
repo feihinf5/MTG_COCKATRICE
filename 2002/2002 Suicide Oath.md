@@ -10,9 +10,10 @@ Format
 
 Note
 - Pro Tour-Houston 2002 winning deck by Justin Gary
-- Uses [**Cognivore**] as the finisher, capitalizing on [**Oath of Druids**] to rapidly dump the library into the graveyard alongside cheap draw spells
-- Splashing black for Pernicious Deed which is features excellent synergy with [**Treetop Village**]
-- Against creatureless decks, it adapts using [**Treetop Village**] or [**Living Wish**]
+- Uses [**Cognivore**](https://api.scryfall.com/cards/7de76ff6-d065-4db1-b28d-4a4ccb1cc0fa?format=image) as the finisher, capitalizing on [**Oath of Druids**](https://api.scryfall.com/cards/cf14de50-d123-400c-862e-2c95fd2aa23f?format=image) to rapidly dump the library into the graveyard alongside cheap draw spells
+- Splashing black for Pernicious Deed which is features excellent synergy with [**Treetop Village**](https://api.scryfall.com/cards/02212bd8-0c0f-4e8e-99f1-a8477476c03a?format=image)
+- Against creatureless decks, it adapts using [**Treetop Village**](https://api.scryfall.com/cards/02212bd8-0c0f-4e8e-99f1-a8477476c03a?format=image) or [**Living Wish**](https://api.scryfall.com/cards/2478a8d2-ca44-4c42-8d75-dd9cb1b59f61?format=image)
+- [**Oath of Druids**](https://api.scryfall.com/cards/cf14de50-d123-400c-862e-2c95fd2aa23f?format=image) was banned in the Extended format, effective December 2003 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2003
 
 Deck
 - 2 Cognivore
