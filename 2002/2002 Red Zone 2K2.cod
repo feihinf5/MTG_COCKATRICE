@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 14 11:07:40 2026</lastLoadedTimestamp>
+    <deckname>2002 Red Zone 2K2</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2002 11th deck by Brian Kibler</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Brushland" setShortName="7ED" collectorNumber="326" uuid="8b983b45-e8be-49e1-84c1-cec204395264"/>
+        <card number="2" name="City of Brass" setShortName="7ED" collectorNumber="327" uuid="2ac29c5c-3c55-4778-9bcd-642d38a0d3f9"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="350" uuid="cfacc498-f089-4ae4-8ce8-697cc671f445"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="349" uuid="0b741c86-a563-4180-a857-7850de6ee366"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="348" uuid="24788990-42ff-4b2b-8d01-fa2d0ec66a03"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="347" uuid="f82d0a1c-5812-4254-a000-e4ff9aece3d9"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="331" uuid="a69545e9-7219-43f1-8a31-5035d87dca68"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="330" uuid="172e55c6-b797-4b49-94f1-cc93e4f5b939"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="329" uuid="1def1ac1-652c-4160-9092-46549e577570"/>
+        <card number="4" name="Karplusan Forest" setShortName="7ED" collectorNumber="336" uuid="4c393b6f-2421-4d77-9025-dac9dfaaae36"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="346" uuid="7e8ae541-98e2-4a84-90a6-b17502f4442d"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="345" uuid="68df89dc-3909-4051-adc1-a86589d0e99d"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="334" uuid="b5b4963b-c706-439f-9800-ff5d70003dcf"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="333" uuid="87a66868-2efa-4985-b4fc-405d7fa8d410"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="332" uuid="bc73d7ff-bbef-4df9-ae7f-aa2ac8ac7025"/>
+        <card number="3" name="Fire // Ice" setShortName="APC" collectorNumber="128" uuid="f98f4538-5b5b-475d-b98f-49d01dae6f04"/>
+        <card number="2" name="Wax // Wane" setShortName="INV" collectorNumber="296" uuid="19859061-f5ec-4b7f-86a1-196f98648e0a"/>
+        <card number="3" name="Living Wish" setShortName="JUD" collectorNumber="124" uuid="2478a8d2-ca44-4c42-8d75-dd9cb1b59f61"/>
+        <card number="4" name="Call of the Herd" setShortName="ODY" collectorNumber="231" uuid="429a88cc-53db-4c5e-a061-f0f49a38c675"/>
+        <card number="4" name="Anurid Brushhopper" setShortName="JUD" collectorNumber="137" uuid="b09204c7-3e3d-484a-a4f7-da1b818e3884"/>
+        <card number="4" name="Birds of Paradise" setShortName="7ED" collectorNumber="231" uuid="a2985857-fee5-42a6-9b5d-e157ada52a03"/>
+        <card number="4" name="Flametongue Kavu" setShortName="PLS" collectorNumber="60" uuid="e5056bca-bd90-4b50-8630-105558f8ef92"/>
+        <card number="3" name="Glory" setShortName="JUD" collectorNumber="11" uuid="7a414f0e-b157-4570-8213-1c58a96bf7a5"/>
+        <card number="3" name="Llanowar Elves" setShortName="7ED" collectorNumber="253" uuid="ed8a8cfd-baef-4198-b1f3-4926139588b2"/>
+        <card number="4" name="Phantom Centaur" setShortName="JUD" collectorNumber="127" uuid="c421c2f1-2137-41bd-9a89-74d8a76fb5c5"/>
+        <card number="4" name="Wild Mongrel" setShortName="ODY" collectorNumber="283" uuid="5bb8dd5c-a79a-4afc-80b2-64645bb17a34"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Reprisal" setShortName="7ED" collectorNumber="33" uuid="3868f7ff-8a84-4153-bf5a-ff001d34e0f0"/>
+        <card number="2" name="Simoon" setShortName="INV" collectorNumber="272" uuid="84b1930d-2e4b-472f-98a9-008fd632f3be"/>
+        <card number="2" name="Global Ruin" setShortName="INV" collectorNumber="18" uuid="336474b4-2cf5-44c0-b72c-f75f1a7ed928"/>
+        <card number="1" name="Glory" setShortName="JUD" collectorNumber="11" uuid="7a414f0e-b157-4570-8213-1c58a96bf7a5"/>
+        <card number="1" name="Sylvan Safekeeper" setShortName="JUD" collectorNumber="133" uuid="f1b8413f-c9fc-4cea-b416-a1fcf651b009"/>
+        <card number="1" name="Thornscape Battlemage" setShortName="TSB" collectorNumber="87" uuid="5d71335d-cf06-4769-a1ce-f7d103703818"/>
+        <card number="1" name="Thunderscape Battlemage" setShortName="PLS" collectorNumber="75" uuid="d707243e-7f11-44bc-b8b8-af635ab1dc87"/>
+        <card number="1" name="Intrepid Hero" setShortName="7ED" collectorNumber="22" uuid="49430d37-03af-4088-a92b-9e0ff3defe29"/>
+        <card number="1" name="Phantom Nishoba" setShortName="JUD" collectorNumber="140" uuid="56ebc372-aabd-4174-a943-c7bf59e5028d"/>
+        <card number="1" name="Genesis" setShortName="JUD" collectorNumber="117" uuid="b43aee5e-b12e-43ea-9fae-16310acdc640"/>
+        <card number="1" name="City of Brass" setShortName="7ED" collectorNumber="327" uuid="2ac29c5c-3c55-4778-9bcd-642d38a0d3f9"/>
+    </zone>
+</cockatrice_deck>
