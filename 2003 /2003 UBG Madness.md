@@ -2,7 +2,12 @@ Reference
 - http://mtgwiki.com/wiki/%E9%9D%92%E9%BB%92%E7%B7%91%E3%83%9E%E3%83%83%E3%83%89%E3%83%8D%E3%82%B9#.E3.82.B9.E3.82.BF.E3.83.B3.E3.83.80.E3.83.BC.E3.83.89
 
 Format
-- CARD_SET
+- LGN
+- ONS
+- JUD
+- TOR
+- ODY
+- 7ED
 
 Note
 - INFO
