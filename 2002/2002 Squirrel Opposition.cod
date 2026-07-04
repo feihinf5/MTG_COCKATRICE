@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 14 12:16:52 2026</lastLoadedTimestamp>
+    <deckname>2002 Squirrel Opposition</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2002 top 8 deck by Sim Han How</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="350" uuid="cfacc498-f089-4ae4-8ce8-697cc671f445"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="349" uuid="0b741c86-a563-4180-a857-7850de6ee366"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="348" uuid="24788990-42ff-4b2b-8d01-fa2d0ec66a03"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="347" uuid="f82d0a1c-5812-4254-a000-e4ff9aece3d9"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="331" uuid="a69545e9-7219-43f1-8a31-5035d87dca68"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="330" uuid="172e55c6-b797-4b49-94f1-cc93e4f5b939"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="329" uuid="1def1ac1-652c-4160-9092-46549e577570"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="328" uuid="a8ba6d68-19da-4b85-9852-681c0fc1e400"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="332" uuid="a45610b3-9e9b-4ef9-aab2-426f85a6cce3"/>
+        <card number="3" name="Karplusan Forest" setShortName="7ED" collectorNumber="336" uuid="4c393b6f-2421-4d77-9025-dac9dfaaae36"/>
+        <card number="2" name="Shivan Reef" setShortName="APC" collectorNumber="142" uuid="c3403143-2b4e-4408-b138-c856bbc1e9a5"/>
+        <card number="4" name="Yavimaya Coast" setShortName="APC" collectorNumber="143" uuid="177ee102-d981-4fc3-9f09-9dd07755f22c"/>
+        <card number="4" name="Opposition" setShortName="7ED" collectorNumber="92" uuid="8980e292-1384-4662-aa72-bc4f6ca30d51"/>
+        <card number="3" name="Squirrel Nest" setShortName="ODY" collectorNumber="274" uuid="22eccb27-1723-4c5a-96b8-85e6e5739c30"/>
+        <card number="3" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="3" name="Fire // Ice" setShortName="APC" collectorNumber="128" uuid="f98f4538-5b5b-475d-b98f-49d01dae6f04"/>
+        <card number="4" name="Circular Logic" setShortName="TOR" collectorNumber="33" uuid="cd9198d6-201d-4175-8f70-eef92d7d5bb5"/>
+        <card number="4" name="Birds of Paradise" setShortName="7ED" collectorNumber="231" uuid="a2985857-fee5-42a6-9b5d-e157ada52a03"/>
+        <card number="3" name="Flametongue Kavu" setShortName="PLS" collectorNumber="60" uuid="e5056bca-bd90-4b50-8630-105558f8ef92"/>
+        <card number="3" name="Llanowar Elves" setShortName="7ED" collectorNumber="253" uuid="ed8a8cfd-baef-4198-b1f3-4926139588b2"/>
+        <card number="4" name="Merfolk Looter" setShortName="7ED" collectorNumber="89" uuid="4ec07b20-9768-4c21-90d5-70d57959c698"/>
+        <card number="3" name="Phantom Centaur" setShortName="JUD" collectorNumber="127" uuid="c421c2f1-2137-41bd-9a89-74d8a76fb5c5"/>
+        <card number="4" name="Wild Mongrel" setShortName="ODY" collectorNumber="283" uuid="5bb8dd5c-a79a-4afc-80b2-64645bb17a34"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Quiet Speculation" setShortName="JUD" collectorNumber="49" uuid="71a314fa-293b-486f-95d8-267d340e4d8e"/>
+        <card number="4" name="Roar of the Wurm" setShortName="ODY" collectorNumber="266" uuid="ddf54317-4c08-4a66-9fd2-9983384e2374"/>
+        <card number="2" name="Simoon" setShortName="INV" collectorNumber="272" uuid="84b1930d-2e4b-472f-98a9-008fd632f3be"/>
+        <card number="2" name="Ray of Revelation" setShortName="JUD" collectorNumber="20" uuid="6d762c8c-6172-4dc0-8fcc-d0f6dd8ca013"/>
+        <card number="3" name="Gainsay" setShortName="PLS" collectorNumber="26" uuid="a70a2092-5048-49c0-9351-a3f882c2f56e"/>
+        <card number="1" name="Flametongue Kavu" setShortName="PLS" collectorNumber="60" uuid="e5056bca-bd90-4b50-8630-105558f8ef92"/>
+    </zone>
+</cockatrice_deck>
