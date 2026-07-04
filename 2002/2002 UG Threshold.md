@@ -3,10 +3,16 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_2002
 
 Format
-- CARD_SET
+- JUD
+- TOR
+- ODY
+- APC
+- 7ED
+- PLS
+- INV
 
 Note
-- INFO
+- World Championships 2002 16th deck by Raphaël Lévy
 
 Deck
 - 2 Genesis
