@@ -1,1 +1,40 @@
+Reference 
+- http://mtgwiki.com/wiki/%E3%82%B5%E3%82%A4%E3%82%AB%E3%83%88%E3%82%B0#.E3.82.A4.E3.83.B3.E3.83.99.E3.82.A4.E3.82.B8.E3.83.A7.E3.83.B3.E3.83.BB.E3.83.96.E3.83.AD.E3.83.83.E3.82.AF.EF.BC.8B.E3.82.AA.E3.83.87.E3.83.83.E3.82.BB.E3.82.A4.E3.83.BB.E3.83.96.E3.83.AD.E3.83.83.E3.82.AF.E6.9C.9F
+- http://mtgwiki.com/wiki/World_Championship_Decks_2002
 
+Format
+- CARD_SET
+
+Note
+- INFO
+
+Deck
+- 4 Nightscape Familiar
+- 4 Psychatog
+- 3 Chainer's Edict
+- 3 Circular Logic
+- 4 Counterspell
+- 3 Cunning Wish
+- 3 Deep Analysis
+- 3 Fact or Fiction
+- 3 Memory Lapse
+- 4 Repulse
+- 2 Upheaval
+- 2 Cephalid Coliseum
+- 1 Darkwater Catacombs
+- 10 Island
+- 4 Salt Marsh
+- 3 Swamp
+- 4 Underground River
+
+Sideboard
+- 1 Coffin Purge
+- 4 Duress
+- 1 Fact or Fiction
+- 1 Gainsay
+- 3 Ghastly Demise
+- 1 Hibernation
+- 1 Mana Short
+- 1 Recoil
+- 1 Slay
+- 1 Teferi's Response
