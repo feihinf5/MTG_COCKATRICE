@@ -11,7 +11,9 @@ Format
 - INV
 
 Note
-- 
+- World Championships 2002 11th deck by Brian Kibler
+- Splashing white to incorporate [**Anurid Brushhopper**] and [**Glory**]
+- [**Birds of Paradise**] and [**City of Brass**] to cast [**Fire // Ice**] and pay the black kicker cost for [**Thunderscape Battlemage**]
 
 Deck
 - 4 Anurid Brushhopper
