@@ -3,10 +3,20 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_2002
 
 Format
-- CARD_SET
+- JUD
+- TOR
+- ODY
+- APC
+- 7ED
+- PLS
+- INV
 
 Note
-- INFO
+- World Championships 2002 winning deck by Carlos Romao
+- [**Cunning Wish**] greatly increased flexibility and adaptability
+- Heavily driven by the incredibly powerful draw spell [**Fact or Fiction**]
+- [**Nightscape Familiar**] serve as an early blocker, accelerate tempo, generate card advantage, and discount the mana cost of Upheaval
+- The deck survived the early game with cheap counters and removal, stabilized the mid-game with card draw and hard counters and executed its signature finisher once enough mana accumulated, [**Cunning Wish**] -> [**Mana Short**] -> [**Upheaval**] -> [**Psychatog**]
 
 Deck
 - 4 Nightscape Familiar
