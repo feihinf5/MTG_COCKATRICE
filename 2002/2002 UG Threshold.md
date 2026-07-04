@@ -13,6 +13,9 @@ Format
 
 Note
 - World Championships 2002 16th deck by Raphaël Lévy
+- Three star creatures [**Wild Mongrel**], [**Wonder**] and [**Nimble Mongoose**]
+- Inclusion of [**Careful Study**] and [**Mental Note**] as draw spells
+- Because the deck was incredibly vulnerable to graveyard hate, running a full four copies of [**Compost**] in the sideboard was a standard requirement
 
 Deck
 - 2 Genesis
