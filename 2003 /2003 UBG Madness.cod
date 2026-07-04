@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2003 UBG Madness</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2003 Japan National Championship winning deck by Ootsuka Koutarou</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="City of Brass" setShortName="7ED" collectorNumber="327" uuid="2ac29c5c-3c55-4778-9bcd-642d38a0d3f9"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="328" uuid="a8ba6d68-19da-4b85-9852-681c0fc1e400"/>
+        <card number="1" name="Ray of Revelation" setShortName="DKA" collectorNumber="17" uuid="d7e2c5a4-cf92-46bd-9033-8036436488cb"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="329" uuid="1def1ac1-652c-4160-9092-46549e577570"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="330" uuid="172e55c6-b797-4b49-94f1-cc93e4f5b939"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="331" uuid="a69545e9-7219-43f1-8a31-5035d87dca68"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="347" uuid="73029d4b-f073-4df0-a6cc-8014284a1ced"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="349" uuid="318b15ea-80b9-48df-b010-aa1aabcf51ea"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="348" uuid="9397010b-6116-4612-993a-11ec2a5d3115"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="350" uuid="65e8080f-9e4a-4fad-9ea3-09d5e0e1c816"/>
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="349" uuid="7b0af992-80e0-4ac6-a828-5eaac47eaff6"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="332" uuid="a45610b3-9e9b-4ef9-aab2-426f85a6cce3"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="333" uuid="28a0a9ae-a1ae-41da-8308-d49e4afca3c1"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="334" uuid="cfb83039-9a06-4d79-abcc-6f36eec6f29e"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="335" uuid="ff68b640-e194-4894-b9c0-76ed619c764d"/>
+        <card number="4" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="1" name="Swamp" setShortName="7ED" collectorNumber="346" uuid="de7b6238-752d-49b7-8cdc-56587676e52d"/>
+        <card number="2" name="Underground River" setShortName="7ED" collectorNumber="350" uuid="1b496660-5a5d-4dec-93ca-60e6b1286221"/>
+        <card number="2" name="Zombie Infestation" setShortName="ODY" collectorNumber="170" uuid="ccd5f98a-7ab5-44b3-850c-b50963dace66"/>
+        <card number="2" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="3" name="Smother" setShortName="ONS" collectorNumber="170" uuid="9a8321af-d667-44e7-8c03-3957286604b9"/>
+        <card number="1" name="Upheaval" setShortName="ODY" collectorNumber="113" uuid="9e201229-34a6-48c8-a07c-d8aefcf5f8a7"/>
+        <card number="2" name="Roar of the Wurm" setShortName="ODY" collectorNumber="266" uuid="ddf54317-4c08-4a66-9fd2-9983384e2374"/>
+        <card number="2" name="Quiet Speculation" setShortName="JUD" collectorNumber="49" uuid="71a314fa-293b-486f-95d8-267d340e4d8e"/>
+        <card number="4" name="Circular Logic" setShortName="TOR" collectorNumber="33" uuid="cd9198d6-201d-4175-8f70-eef92d7d5bb5"/>
+        <card number="4" name="Arrogant Wurm" setShortName="TOR" collectorNumber="120" uuid="11b849c7-c91d-4c67-a357-f7d17f9b187a"/>
+        <card number="3" name="Basking Rootwalla" setShortName="TOR" collectorNumber="121" uuid="1a67768a-6cd9-4163-b941-752f29c87a8d"/>
+        <card number="4" name="Merfolk Looter" setShortName="7ED" collectorNumber="89" uuid="4ec07b20-9768-4c21-90d5-70d57959c698"/>
+        <card number="3" name="Phantom Centaur" setShortName="JUD" collectorNumber="127" uuid="c421c2f1-2137-41bd-9a89-74d8a76fb5c5"/>
+        <card number="4" name="Wild Mongrel" setShortName="ODY" collectorNumber="283" uuid="5bb8dd5c-a79a-4afc-80b2-64645bb17a34"/>
+        <card number="2" name="Wonder" setShortName="JUD" collectorNumber="54" uuid="44670666-9028-4b4a-a5af-a3bf35fc6a21"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Compost" setShortName="7ED" collectorNumber="235" uuid="91fc8eca-7549-45b5-b3db-89a58d7d2a4a"/>
+        <card number="1" name="Ray of Revelation" setShortName="JUD" collectorNumber="20" uuid="6d762c8c-6172-4dc0-8fcc-d0f6dd8ca013"/>
+        <card number="2" name="Turbulent Dreams" setShortName="TOR" collectorNumber="49" uuid="d879226b-8ee3-4a48-b03a-d183594dc586"/>
+        <card number="1" name="Smother" setShortName="ONS" collectorNumber="170" uuid="9a8321af-d667-44e7-8c03-3957286604b9"/>
+        <card number="3" name="Engineered Plague" setShortName="7ED" collectorNumber="133" uuid="b669e43e-3b11-42c9-8f20-0acce129e63c"/>
+        <card number="2" name="Duress" setShortName="7ED" collectorNumber="131" uuid="15c8d82e-6e65-4d36-bf09-b24dde016581"/>
+        <card number="1" name="Coffin Purge" setShortName="ODY" collectorNumber="124" uuid="541e06cb-5616-40b4-9d36-89471a795ac8"/>
+        <card number="2" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+    </zone>
+</cockatrice_deck>
