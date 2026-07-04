@@ -15,7 +15,7 @@ Note
 - World Championships 2002 winning deck by Carlos Romao
 - [**Cunning Wish**](https://api.scryfall.com/cards/ca097675-5e82-493d-beab-9fc11efd7492?format=image) greatly increased flexibility and adaptability
 - Heavily driven by the incredibly powerful draw spell [**Fact or Fiction**](https://api.scryfall.com/cards/7fd4d018-dcf3-4439-8445-02d66e44f7d3?format=image)
-- [**Nightscape Familiar**](https://api.scryfall.com/cards/24fa6853-09b0-4c9f-a138-9dd005780255?format=image) serve as an early blocker, accelerate tempo, generate card advantage, and discount the mana cost of Upheaval
+- [**Nightscape Familiar**](https://api.scryfall.com/cards/24fa6853-09b0-4c9f-a138-9dd005780255?format=image) serve as an early blocker, accelerate tempo, generate card advantage and discount the mana cost of Upheaval
 - The deck survived the early game with cheap counters and removal, stabilized the mid-game with card draw and hard counters and executed its signature finisher once enough mana accumulated, [**Cunning Wish**](https://api.scryfall.com/cards/ca097675-5e82-493d-beab-9fc11efd7492?format=image) -> [**Mana Short**](https://api.scryfall.com/cards/a0486784-de03-47a7-949d-550fd23492bc?format=image) -> [**Upheaval**](https://api.scryfall.com/cards/9e201229-34a6-48c8-a07c-d8aefcf5f8a7?format=image) -> [**Psychatog**](https://api.scryfall.com/cards/6757bf0e-489f-4be2-9e41-463b59f00dd1?format=image)
 
 Deck
