@@ -7,6 +7,7 @@ Format
 - JUD
 - TOR
 - ODY
+- 7ED
 
 Note
 - 2003 French National Championship winning deck by Stephane Damizet
