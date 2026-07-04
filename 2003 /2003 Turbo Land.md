@@ -6,6 +6,11 @@ Format
 
 Note
 - Grand Prix-New Orleans 2003 winning deck by Zvi Mowshowitz
+- Control deck features [**Oath of Druids**], [**Exploration**] and [**Horn of Greed**]
+- Drops a massive number of lands via [**Exploration**] and triggers [**Horn of Greed**] simultaneously to draw a massive number of cards
+- Uses [**Battlefield Scrounger**] to restock the library
+- Loops [**Time Warp**] via [**Scroll Rack**] to lock down infinite turns
+- Repeatedly cast [**Capsize**] with buyback, completely locking down the battlefield
 
 Deck
 - 1 Battlefield Scrounger
