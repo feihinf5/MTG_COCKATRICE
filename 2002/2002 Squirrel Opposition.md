@@ -6,9 +6,9 @@ Format
 
 Note
 - World Championships 2002 top 8 deck by Sim Han How
-- Relied on [**Opposition**] to tap down an opponent's land, creature or artifact during the opponent's upkeep
-- [**Squirrel Nest**] ensure always had more creatures than the opponent had permanents
-- Splashing red addressed the "mid-range bottleneck" mentioned like [**Fire // Ice**] for flexible removal or tempo
+- Relied on [**Opposition**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to tap down an opponent's land, creature or artifact during the opponent's upkeep
+- [**Squirrel Nest**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) ensure always had more creatures than the opponent had permanents
+- Splashing red addressed the "mid-range bottleneck" mentioned like [**Fire // Ice**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for flexible removal or tempo
 
 Deck
 - 4 Birds of Paradise
