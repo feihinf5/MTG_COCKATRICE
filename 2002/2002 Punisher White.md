@@ -2,10 +2,12 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%91%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88
 
 Format
-- CARD_SET
+- JUD
+- TOR
+- ODY
 
 Note
-- INFO
+- World Championships 2002 Odyssey Block Constructed deck by Tomi Walamies
 
 Deck
 - 4 Beloved Chaplain
