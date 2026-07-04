@@ -2,7 +2,11 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%89_(%E3%83%87%E3%83%83%E3%82%AD)
 
 Format
-- CARD_SET
+- ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP
 
 Note
 - Grand Prix-New Orleans 2003 winning deck by Zvi Mowshowitz
