@@ -10,6 +10,7 @@ Format
 - ULG / USG / EXO / STH / TMP / WTH
 - 5ED
 - VIS / MIR / ALL / HML / ICE
+- Dual-land allowed
 
 Note
 - Masters-Nice 2002 winning deck by Alexander Witt
