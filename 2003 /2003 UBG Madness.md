@@ -10,10 +10,36 @@ Format
 - 7ED
 
 Note
-- INFO
+- 2003 Japan National Championship winning deck by Ootsuka Koutarou
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Arrogant Wurm
+- 3 Basking Rootwalla
+- 4 Merfolk Looter
+- 3 Phantom Centaur
+- 4 Wild Mongrel
+- 2 Wonder
+- 4 Circular Logic
+- 2 Deep Analysis
+- 2 Quiet Speculation
+- 1 Ray of Revelation
+- 2 Roar of the Wurm
+- 3 Smother
+- 1 Upheaval
+- 2 Zombie Infestation
+- 9 Forest
+- 4 Island
+- 1 Swamp
+- 4 Polluted Delta
+- 3 City of Brass
+- 2 Underground River
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Cabal Therapy
+- 1 Coffin Purge
+- 3 Compost
+- 2 Duress
+- 3 Engineered Plague
+- 1 Ray of Revelation
+- 1 Smother
+- 2 Turbulent Dreams
