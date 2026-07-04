@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2002 Super Grow</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Masters-Nice 2002 winning deck by Alexander Witt</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Flood Plain" setShortName="MIR" collectorNumber="326" uuid="7b7610f3-f182-404e-80b9-ccd94e174db0"/>
+        <card number="1" name="Savannah" setShortName="LEA" collectorNumber="280" uuid="94f7e24c-2546-41b6-81ad-5e920b07e64e"/>
+        <card number="1" name="Savannah" setShortName="LEB" collectorNumber="281" uuid="0e9aeaa8-9a75-4719-992f-cbb316f72175"/>
+        <card number="1" name="Tropical Island" setShortName="LEA" collectorNumber="283" uuid="a9c6c759-aabf-44e7-ba8c-33c5df232b56"/>
+        <card number="1" name="Tropical Island" setShortName="LEB" collectorNumber="284" uuid="ac19c5a1-ca13-4443-920b-83b567167ed4"/>
+        <card number="1" name="Tropical Island" setShortName="2ED" collectorNumber="284" uuid="856bf0ba-e5a5-47eb-9a6a-111935088c31"/>
+        <card number="1" name="Tropical Island" setShortName="3ED" collectorNumber="288" uuid="a0f5c6bc-65dc-42a1-a62d-a0b101310a1f"/>
+        <card number="1" name="Tundra" setShortName="LEA" collectorNumber="284" uuid="a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb"/>
+        <card number="1" name="Tundra" setShortName="LEB" collectorNumber="285" uuid="1b93ce48-219c-49ea-9ad0-b7357bea4606"/>
+        <card number="1" name="Tundra" setShortName="2ED" collectorNumber="285" uuid="0d08f5e4-d2d3-4659-86d4-a983d80e3b2c"/>
+        <card number="1" name="Tundra" setShortName="3ED" collectorNumber="289" uuid="9c9d5f72-e199-4d5b-ae7e-cc5b9bdfae99"/>
+        <card number="4" name="Winter Orb" setShortName="5ED" collectorNumber="408" uuid="3a674ec8-5531-4d06-aa57-929c6ac29238"/>
+        <card number="2" name="Brainstorm" setShortName="ICE" collectorNumber="61" uuid="8d42d7aa-7f53-4cfc-842a-086aab2448d1"/>
+        <card number="1" name="Brainstorm" setShortName="5ED" collectorNumber="76" uuid="1d6603e3-0680-4ba3-951b-cd9919eefd4f"/>
+        <card number="1" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="3" name="Daze" setShortName="NEM" collectorNumber="30" uuid="d03bff25-0d5e-4dcf-8d75-6df846afea3b"/>
+        <card number="2" name="Foil" setShortName="PCY" collectorNumber="34" uuid="870fb793-3107-4cb2-ba78-34fbf5c9da2f"/>
+        <card number="4" name="Force of Will" setShortName="ALL" collectorNumber="28" uuid="9a879b60-4381-447d-8a5a-8e0b6a1d49ca"/>
+        <card number="4" name="Gush" setShortName="MMQ" collectorNumber="82" uuid="e755bbef-bf34-49c0-ae72-d70e3599de52"/>
+        <card number="4" name="Swords to Plowshares" setShortName="ICE" collectorNumber="54" uuid="375fd2cb-443b-4be4-ad60-6d1a8e74f510"/>
+        <card number="4" name="Land Grant" setShortName="MMQ" collectorNumber="255" uuid="d6862005-32d1-473e-a28b-5dfc4b7782cd"/>
+        <card number="4" name="Sleight of Hand" setShortName="7ED" collectorNumber="98" uuid="181fff80-4dea-47ee-a020-d8dc9ea7acdf"/>
+        <card number="4" name="Meddling Mage" setShortName="PLS" collectorNumber="116" uuid="176f84c6-aa5e-449c-bd2b-cc91a898f0c7"/>
+        <card number="2" name="Mystic Enforcer" setShortName="ODY" collectorNumber="290" uuid="eb68983d-fd8c-4844-8ceb-afd3cae7e4df"/>
+        <card number="3" name="Quirion Dryad" setShortName="PLS" collectorNumber="89" uuid="f6841ae6-b15f-488e-9cae-2cc5ec668278"/>
+        <card number="4" name="Werebear" setShortName="ODY" collectorNumber="282" uuid="964cf7e3-932d-432f-8ad4-9bd651aada96"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Waterfront Bouncer" setShortName="MMQ" collectorNumber="114" uuid="8dbdce9e-94fa-4ed5-9b97-d2026cffe7cb"/>
+        <card number="2" name="Wax // Wane" setShortName="INV" collectorNumber="296" uuid="19859061-f5ec-4b7f-86a1-196f98648e0a"/>
+        <card number="2" name="Submerge" setShortName="NEM" collectorNumber="48" uuid="d2741fe4-37fe-427f-ae85-5107991d4eee"/>
+        <card number="2" name="Chill" setShortName="TMP" collectorNumber="56" uuid="5a7bd777-6f11-441e-887f-9cee1ef96035"/>
+        <card number="2" name="Chill" setShortName="6ED" collectorNumber="60" uuid="24846eba-e085-4d1d-8c7a-d4faf11034a6"/>
+        <card number="2" name="Legacy's Allure" setShortName="TMP" collectorNumber="71" uuid="649a89c5-71bd-4fee-ae35-78081e4e0353"/>
+        <card number="3" name="Seal of Cleansing" setShortName="NEM" collectorNumber="18" uuid="af6c921e-1b82-412c-9979-adfdf83440f7"/>
+    </zone>
+</cockatrice_deck>
