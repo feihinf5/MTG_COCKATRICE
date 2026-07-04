@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 14 11:46:37 2026</lastLoadedTimestamp>
+    <deckname>2002 UG Threshold</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2002 16th deck by Raphaël Lévy</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="350" uuid="cfacc498-f089-4ae4-8ce8-697cc671f445"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="349" uuid="0b741c86-a563-4180-a857-7850de6ee366"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="348" uuid="24788990-42ff-4b2b-8d01-fa2d0ec66a03"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="347" uuid="f82d0a1c-5812-4254-a000-e4ff9aece3d9"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="331" uuid="a69545e9-7219-43f1-8a31-5035d87dca68"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="330" uuid="172e55c6-b797-4b49-94f1-cc93e4f5b939"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="329" uuid="1def1ac1-652c-4160-9092-46549e577570"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="328" uuid="a8ba6d68-19da-4b85-9852-681c0fc1e400"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="335" uuid="ff68b640-e194-4894-b9c0-76ed619c764d"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="334" uuid="cfb83039-9a06-4d79-abcc-6f36eec6f29e"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="333" uuid="28a0a9ae-a1ae-41da-8308-d49e4afca3c1"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="332" uuid="a45610b3-9e9b-4ef9-aab2-426f85a6cce3"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="1" name="Island" setShortName="ODY" collectorNumber="338" uuid="bf964c1b-941f-4a02-895b-0608bddc1ce7"/>
+        <card number="1" name="Island" setShortName="ODY" collectorNumber="337" uuid="ba30bfc3-5aec-480d-a80a-fe71b098b14b"/>
+        <card number="4" name="Yavimaya Coast" setShortName="APC" collectorNumber="143" uuid="177ee102-d981-4fc3-9f09-9dd07755f22c"/>
+        <card number="4" name="Mental Note" setShortName="JUD" collectorNumber="46" uuid="1f343724-6ecd-494f-8bfc-93676af4e173"/>
+        <card number="1" name="Rushing River" setShortName="PLS" collectorNumber="30" uuid="52ddf7bf-de9c-4657-8d5b-79869d36fa63"/>
+        <card number="4" name="Breakthrough" setShortName="TOR" collectorNumber="26" uuid="a59a2cea-3b65-43da-bc6e-0e3c82f25b3c"/>
+        <card number="4" name="Roar of the Wurm" setShortName="ODY" collectorNumber="266" uuid="ddf54317-4c08-4a66-9fd2-9983384e2374"/>
+        <card number="4" name="Careful Study" setShortName="ODY" collectorNumber="70" uuid="dea15b53-2940-40e7-8d48-8ec11341da83"/>
+        <card number="2" name="Genesis" setShortName="JUD" collectorNumber="117" uuid="b43aee5e-b12e-43ea-9fae-16310acdc640"/>
+        <card number="4" name="Nimble Mongoose" setShortName="ODY" collectorNumber="258" uuid="99e5ecf5-a662-4df0-a6ba-9177c62b6503"/>
+        <card number="3" name="Seton's Scout" setShortName="TOR" collectorNumber="138" uuid="732bf7bb-5326-4742-8311-96ddbfe14b38"/>
+        <card number="4" name="Werebear" setShortName="ODY" collectorNumber="282" uuid="964cf7e3-932d-432f-8ad4-9bd651aada96"/>
+        <card number="4" name="Wild Mongrel" setShortName="ODY" collectorNumber="283" uuid="5bb8dd5c-a79a-4afc-80b2-64645bb17a34"/>
+        <card number="4" name="Wonder" setShortName="JUD" collectorNumber="54" uuid="44670666-9028-4b4a-a5af-a3bf35fc6a21"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Phantom Centaur" setShortName="JUD" collectorNumber="127" uuid="c421c2f1-2137-41bd-9a89-74d8a76fb5c5"/>
+        <card number="2" name="Ray of Revelation" setShortName="JUD" collectorNumber="20" uuid="6d762c8c-6172-4dc0-8fcc-d0f6dd8ca013"/>
+        <card number="2" name="Repulse" setShortName="INV" collectorNumber="70" uuid="9a04e9be-48be-440e-9825-cfffd4c2b1a4"/>
+        <card number="1" name="Rushing River" setShortName="PLS" collectorNumber="30" uuid="52ddf7bf-de9c-4657-8d5b-79869d36fa63"/>
+        <card number="3" name="Disrupt" setShortName="INV" collectorNumber="51" uuid="c000a02f-6b7e-4925-a938-59e645e980d7"/>
+        <card number="4" name="Compost" setShortName="7ED" collectorNumber="235" uuid="91fc8eca-7549-45b5-b3db-89a58d7d2a4a"/>
+    </zone>
+</cockatrice_deck>
