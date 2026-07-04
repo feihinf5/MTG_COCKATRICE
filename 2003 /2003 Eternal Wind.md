@@ -10,6 +10,15 @@ Format
 
 Note
 - Grand Prix-Hiroshima 2003 winning deck by Azuma Motokiyo
+- A near-lock deck built around [**Argothian Enchantress**] and [**Words of Wind**]
+- Accelerates mana via various enchantments and [**Serra's Sanctum**] while drawing cards via [**Argothian Enchantress**]
+- Combo requires two or more [**Argothian Enchantress**], [**Cloud of Faeries**] and two enchanted lands with [**Wild Growth**] capable of producing at least 6 mana
+- Step 1, tap lands for mana and cast [**Wild Growth**]
+- Step 2, trigger draw from the [**Argothian Enchantress**] and triggers [**Words of Wind**] to bounce [**Cloud of Faeries**] and another [**Wild Growth**] to hand
+- Step 3, cast [**Cloud of Faeries**] to untap the lands
+- Step 4, repeat above steps 1–3 for infinite mana and to bounce all opposing permanents
+- Uses [**Living Wish**] to fetch [**Ambassador Laquatus**] to mill the opponent out with infinite mana
+- Highly vulnerable to mass enchantment destruction, typically runs 4 copies of [**Lilting Refrain**] in the sideboard to counter it
 
 Deck
 - 3 Argothian Enchantress
