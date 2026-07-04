@@ -3,7 +3,13 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B0%E3%83%AD%E3%82%A6
 
 Format
-- CARD_SET
+- TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP / WTH
+- 5ED
+- VIS / MIR / ALL / HML / ICE
 
 Note
 - Masters-Nice 2002 winning deck by Alexander Witt
