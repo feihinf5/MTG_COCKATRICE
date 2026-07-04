@@ -2,7 +2,11 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%B9%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%89%E3%82%AA%E3%83%BC%E3%82%B9#.E3.82.A8.E3.82.AF.E3.82.B9.E3.83.86.E3.83.B3.E3.83.87.E3.83.83.E3.83.89
 
 Format
-- CARD_SET
+- ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP
 
 Note
 - Pro Tour-Houston 2002 winning deck by Justin Gary
