@@ -2,7 +2,11 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%A8%E3%82%BF%E3%83%BC%E3%83%8A%E3%83%AB%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89
 
 Format
-- CARD_SET
+- ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP
 
 Note
 - Grand Prix-Hiroshima 2003 winning deck by Azuma Motokiyo
