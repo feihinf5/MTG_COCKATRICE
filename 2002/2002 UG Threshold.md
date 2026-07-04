@@ -13,9 +13,9 @@ Format
 
 Note
 - World Championships 2002 16th deck by Raphaël Lévy
-- Three star creatures [**Wild Mongrel**], [**Wonder**] and [**Nimble Mongoose**]
-- Inclusion of [**Careful Study**] and [**Mental Note**] as draw spells
-- Because the deck was incredibly vulnerable to graveyard hate, running a full four copies of [**Compost**] in the sideboard was a standard requirement
+- Three star creatures [**Wild Mongrel**](https://api.scryfall.com/cards/5bb8dd5c-a79a-4afc-80b2-64645bb17a34?format=image), [**Wonder**](https://api.scryfall.com/cards/44670666-9028-4b4a-a5af-a3bf35fc6a21?format=image) and [**Nimble Mongoose**](https://api.scryfall.com/cards/99e5ecf5-a662-4df0-a6ba-9177c62b6503?format=image)
+- Inclusion of [**Careful Study**](https://api.scryfall.com/cards/dea15b53-2940-40e7-8d48-8ec11341da83?format=image) and [**Mental Note**](https://api.scryfall.com/cards/1f343724-6ecd-494f-8bfc-93676af4e173?format=image) as draw spells
+- Because the deck was incredibly vulnerable to graveyard hate, running a full four copies of [**Compost**](https://api.scryfall.com/cards/91fc8eca-7549-45b5-b3db-89a58d7d2a4a?format=image) in the sideboard was a standard requirement that drew so many extra cards off their black hate spells that could easily re-fill your graveyard
 
 Deck
 - 2 Genesis
