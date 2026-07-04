@@ -7,8 +7,8 @@ Format
 
 Note
 - Masters-Nice 2002 winning deck by Alexander Witt
-- Main cards [**Quirion Dryad**], [**Mystic Enforcer**] and [**Land Grant**]
-- Adding white provided creature removal via Swords to Plowshares, disruption with Meddling Mage and an additional finisher [**Mystic Enforcer**]
+- Main cards [**Quirion Dryad**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Mystic Enforcer**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Land Grant**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Adding white provided creature removal via Swords to Plowshares, disruption with Meddling Mage and an additional finisher [**Mystic Enforcer**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 - Splashing a third color required more lands the land count remained exceptionally low
 
 Deck
