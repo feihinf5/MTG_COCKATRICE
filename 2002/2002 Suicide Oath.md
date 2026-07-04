@@ -10,6 +10,9 @@ Format
 
 Note
 - Pro Tour-Houston 2002 winning deck by Justin Gary
+- Uses [**Cognivore**] as the finisher, capitalizing on [**Oath of Druids**] to rapidly dump the library into the graveyard alongside cheap draw spells
+- Splashing black for Pernicious Deed which is features excellent synergy with [**Treetop Village**]
+- Against creatureless decks, it adapts using [**Treetop Village**] or [**Living Wish**]
 
 Deck
 - 2 Cognivore
