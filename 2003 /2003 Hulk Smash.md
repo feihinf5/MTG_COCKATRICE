@@ -3,19 +3,7 @@ Reference
 - https://articles.starcitygames.com/articles/the-vintage-world-championships-report-winner/
 
 Format
-- SCG / LGN / ONS / JUD / TOR / ODY / APC
-- 7ED
-- PLS / INV / PCY / NEM / MMQ / UDS
-- 6ED
-- ULG / USG / EXO / STH / TMP / WTH
-- 5ED
-- VIS / MIR / ALL / HML / ICE / CHR
-- 4ED
-- FEM / DRK / LEG
-- 3ED
-- ATQ / ARN
-- 2ED
-- LEB / LEA
+- SCG <--> LEA
 
 Note
 - Type 1 World Championships 2003 winning deck by Carl Winter
