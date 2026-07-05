@@ -11,6 +11,8 @@ Format
 
 Note
 - 2003 Canadian National Championship winning deck by Josh Rider
+- Control beatdown deck to utilize [**Oversold Cemetery**] for recurring powerful creatures like [**Nantuko Shade**] and synergizes perfectly with sacrifice-based activated abilities, such as [**Ravenous Baloth**] and [**Stronghold Assassin**]
+- Enables a "silver bullet" toolbox strategy using [**Living Wish**]
 
 Deck
 - 4 Birds of Paradise
