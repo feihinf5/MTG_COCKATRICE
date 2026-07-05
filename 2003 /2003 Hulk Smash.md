@@ -1,5 +1,6 @@
 Reference 
 - http://mtgwiki.com/wiki/%E3%83%8F%E3%83%AB%E3%82%AF%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5
+- https://articles.starcitygames.com/articles/the-vintage-world-championships-report-winner/
 
 Format
 - SCG / LGN / ONS / JUD / TOR / ODY / APC
@@ -17,6 +18,7 @@ Format
 - LEB / LEA
 
 Note
+- Type 1 World Championships 2003 winning deck by Carl Winter
 - Disrupts the opponent's plays using [**Force of Will**](https://api.scryfall.com/cards/9a879b60-4381-447d-8a5a-8e0b6a1d49ca?format=image) and [**Duress**](https://api.scryfall.com/cards/ca367f49-0f4a-4b7f-8104-851893fbcd8a?format=image)
 - Wipes resolved threats from the battlefield using [**Pernicious Deed**](https://api.scryfall.com/cards/ae4cbb33-4947-49f0-b612-a92141fbfaa6?format=image)
 - Features efficient, low-cost spot removal, including [**Diabolic Edict**](https://api.scryfall.com/cards/a2ecf2ee-1e2d-4ab2-8b2c-717c794b09b2?format=image) and [**Naturalize**](https://api.scryfall.com/cards/c0acc41f-b55b-47cb-8803-d39d72788799?format=image)
