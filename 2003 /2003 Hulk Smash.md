@@ -20,7 +20,7 @@ Note
 - Disrupts the opponent's plays using [**Force of Will**](https://api.scryfall.com/cards/9a879b60-4381-447d-8a5a-8e0b6a1d49ca?format=image) and [**Duress**](https://api.scryfall.com/cards/ca367f49-0f4a-4b7f-8104-851893fbcd8a?format=image)
 - Wipes resolved threats from the battlefield using [**Pernicious Deed**](https://api.scryfall.com/cards/ae4cbb33-4947-49f0-b612-a92141fbfaa6?format=image)
 - Features efficient, low-cost spot removal, including [**Diabolic Edict**](https://api.scryfall.com/cards/a2ecf2ee-1e2d-4ab2-8b2c-717c794b09b2?format=image) and [**Naturalize**](https://api.scryfall.com/cards/c0acc41f-b55b-47cb-8803-d39d72788799?format=image)
-- Bides time to grab [**Berserk**](https://api.scryfall.com/cards/e173c8ce-2352-405e-ad00-e3bb94ced1ad?format=image) out of the sideboard via a [**Cunning Wish**](https://api.scryfall.com/cards/ca097675-5e82-493d-beab-9fc11efd7492?format=image) allowing [**Psychatog**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to pull off an instant-kill
+- Bides time to grab [**Berserk**](https://api.scryfall.com/cards/e173c8ce-2352-405e-ad00-e3bb94ced1ad?format=image) out of the sideboard via a [**Cunning Wish**](https://api.scryfall.com/cards/ca097675-5e82-493d-beab-9fc11efd7492?format=image) allowing [**Psychatog**](https://api.scryfall.com/cards/6757bf0e-489f-4be2-9e41-463b59f00dd1?format=image) to pull off an instant-kill
 
 Deck
 - 1 Library of Alexandria
