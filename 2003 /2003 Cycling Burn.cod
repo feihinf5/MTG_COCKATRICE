@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2003 Cycling Burn</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Detroit 2003 winning deck by Bob Maher</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Forgotten Cave" setShortName="ONS" collectorNumber="317" uuid="c5202668-a32c-4473-b272-e86264992576"/>
+        <card number="2" name="Mountain" setShortName="ONS" collectorNumber="343" uuid="05f9bdca-0d54-46c7-b803-9083dfc9ee24"/>
+        <card number="2" name="Mountain" setShortName="ONS" collectorNumber="344" uuid="b6d39f35-c7b2-43b2-aee3-4ff2cd3e37e7"/>
+        <card number="2" name="Mountain" setShortName="ONS" collectorNumber="345" uuid="e8aade2d-5cf5-44f6-9095-aa3756b1c1dd"/>
+        <card number="2" name="Mountain" setShortName="ONS" collectorNumber="346" uuid="fd194fb1-0d3a-4eff-a446-240d18dad43c"/>
+        <card number="3" name="Plains" setShortName="ONS" collectorNumber="331" uuid="7bf7d68a-dbd0-45f3-acbb-59ee38e6057e"/>
+        <card number="3" name="Plains" setShortName="ONS" collectorNumber="332" uuid="e52ed647-bd30-40a5-b648-0b98d1a3fd4a"/>
+        <card number="3" name="Plains" setShortName="ONS" collectorNumber="333" uuid="854a255e-fd89-4c5d-b97b-416a9ac70960"/>
+        <card number="2" name="Plains" setShortName="ONS" collectorNumber="334" uuid="fd7babbe-f8c1-4e7c-8de2-2224dd357de4"/>
+        <card number="4" name="Secluded Steppe" setShortName="ONS" collectorNumber="324" uuid="ea454280-f7f4-4315-bb46-b56050c02c97"/>
+        <card number="3" name="Renewed Faith" setShortName="ONS" collectorNumber="50" uuid="1ea572b5-ff68-45aa-8200-78ee7f64a0ce"/>
+        <card number="4" name="Starstorm" setShortName="ONS" collectorNumber="238" uuid="b54d72ba-05ce-4299-a7c3-a9e9f126fffb"/>
+        <card number="4" name="Wing Shards" setShortName="SCG" collectorNumber="25" uuid="65efa443-666a-45c1-8784-e98c510854b5"/>
+        <card number="4" name="Lightning Rift" setShortName="ONS" collectorNumber="217" uuid="d775d729-0ad9-4b14-9d44-6282f6936e07"/>
+        <card number="4" name="Akroma's Vengeance" setShortName="ONS" collectorNumber="2" uuid="5e33aaf7-7490-4b64-a966-82fbf7ca8686"/>
+        <card number="3" name="Decree of Justice" setShortName="SCG" collectorNumber="8" uuid="5e8a7e5c-f252-4de8-94d7-e7327210bf26"/>
+        <card number="3" name="Akroma, Angel of Wrath" setShortName="LGN" collectorNumber="1" uuid="814245de-6105-43ef-acbf-d12d304b6331"/>
+        <card number="4" name="Eternal Dragon" setShortName="SCG" collectorNumber="12" uuid="0596928c-2b20-4dbb-aa78-3ab6c3ce0d72"/>
+        <card number="4" name="Silver Knight" setShortName="SCG" collectorNumber="23" uuid="93f559da-08ad-402d-8c6b-3050bce5867b"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Temple of the False God" setShortName="SCG" collectorNumber="143" uuid="d7036f51-10a6-4036-8650-9bc12d2a55cb"/>
+        <card number="2" name="Oblation" setShortName="ONS" collectorNumber="46" uuid="58561356-4a97-467b-88e5-412e633715fb"/>
+        <card number="4" name="Wipe Clean" setShortName="SCG" collectorNumber="26" uuid="cf7c14c9-cb5a-49f0-be2c-eb3166f02510"/>
+        <card number="4" name="Shock" setShortName="7ED" collectorNumber="219" uuid="ea653772-a5fe-4416-bef3-fd41133371db"/>
+        <card number="2" name="Decree of Annihilation" setShortName="SCG" collectorNumber="85" uuid="73744717-518c-478e-9da9-201c49124f37"/>
+        <card number="1" name="Decree of Justice" setShortName="SCG" collectorNumber="8" uuid="5e8a7e5c-f252-4de8-94d7-e7327210bf26"/>
+    </zone>
+</cockatrice_deck>
