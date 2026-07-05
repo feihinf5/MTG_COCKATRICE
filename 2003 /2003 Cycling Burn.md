@@ -8,6 +8,8 @@ Format
 
 Note
 - Grand Prix-Detroit 2003 winning deck by Bob Maher
+- Control deck built around a massive package of cycling cards combined with [**Lightning Rift**]
+- Features high-impact cycling threats and board wipes, specifically [**Akroma's Vengeance**], [**Starstorm**] and [**Eternal Dragon**]
 
 Deck
 - 3 Akroma, Angel of Wrath
