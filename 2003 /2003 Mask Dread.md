@@ -2,7 +2,7 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%9E%E3%82%B9%E3%82%AF%E3%83%BB%E3%83%89%E3%83%AC%E3%83%83%E3%83%89
 
 Format
-- CARD_SET
+- SCG <--> LEA
 
 Note
 - INFO
