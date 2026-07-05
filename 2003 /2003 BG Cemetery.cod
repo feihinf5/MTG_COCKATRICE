@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2003 BG Cemetery</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2003 Canadian National Championship winning deck by Josh Rider</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="City of Brass" setShortName="7ED" collectorNumber="327" uuid="2ac29c5c-3c55-4778-9bcd-642d38a0d3f9"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="328" uuid="a8ba6d68-19da-4b85-9852-681c0fc1e400"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="329" uuid="1def1ac1-652c-4160-9092-46549e577570"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="330" uuid="172e55c6-b797-4b49-94f1-cc93e4f5b939"/>
+        <card number="1" name="Forest" setShortName="7ED" collectorNumber="331" uuid="a69545e9-7219-43f1-8a31-5035d87dca68"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="347" uuid="73029d4b-f073-4df0-a6cc-8014284a1ced"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="348" uuid="9397010b-6116-4612-993a-11ec2a5d3115"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="349" uuid="318b15ea-80b9-48df-b010-aa1aabcf51ea"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="350" uuid="65e8080f-9e4a-4fad-9ea3-09d5e0e1c816"/>
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="347" uuid="b361b42d-401f-440a-bae9-35338b5dde0e"/>
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="348" uuid="4d8edfee-7837-450a-bcf3-a7bb25670056"/>
+        <card number="1" name="Swamp" setShortName="7ED" collectorNumber="346" uuid="de7b6238-752d-49b7-8cdc-56587676e52d"/>
+        <card number="1" name="Swamp" setShortName="7ED" collectorNumber="347" uuid="6cfae795-d3d2-4758-9717-ed33cd0f3bfb"/>
+        <card number="1" name="Swamp" setShortName="7ED" collectorNumber="348" uuid="c956611e-5748-42ff-b8ea-bca0c3d94de4"/>
+        <card number="1" name="Swamp" setShortName="7ED" collectorNumber="349" uuid="cebdd6db-9434-4e60-bdf2-234e21ccbb10"/>
+        <card number="1" name="Swamp" setShortName="ODY" collectorNumber="339" uuid="276b18fb-66cb-4dc0-9c67-60cee1502c7f"/>
+        <card number="1" name="Swamp" setShortName="ODY" collectorNumber="340" uuid="907ff242-885f-4948-b95c-61cf033d0969"/>
+        <card number="1" name="Swamp" setShortName="ODY" collectorNumber="341" uuid="5a4a9736-da37-4327-b9ee-e9a38fbe8a19"/>
+        <card number="1" name="Swamp" setShortName="ODY" collectorNumber="342" uuid="82f74cd0-cd73-4b08-8544-5f56b6d96f78"/>
+        <card number="1" name="Swamp" setShortName="ONS" collectorNumber="340" uuid="a6285f63-a5d8-4b8b-a6dd-51ce7968fbaf"/>
+        <card number="4" name="Smother" setShortName="ONS" collectorNumber="170" uuid="9a8321af-d667-44e7-8c03-3957286604b9"/>
+        <card number="3" name="Oversold Cemetery" setShortName="ONS" collectorNumber="160" uuid="3bbfd715-0772-4516-8cd8-89495dbccf4a"/>
+        <card number="4" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="4" name="Living Wish" setShortName="JUD" collectorNumber="124" uuid="2478a8d2-ca44-4c42-8d75-dd9cb1b59f61"/>
+        <card number="4" name="Birds of Paradise" setShortName="7ED" collectorNumber="231" uuid="a2985857-fee5-42a6-9b5d-e157ada52a03"/>
+        <card number="2" name="Braids, Cabal Minion" setShortName="ODY" collectorNumber="117" uuid="4dcdcad5-e4fb-480e-984f-1ac5cdc986b9"/>
+        <card number="1" name="Caller of the Claw" setShortName="LGN" collectorNumber="121" uuid="a073459e-1f00-47e0-a1b3-d30203aa35d1"/>
+        <card number="2" name="Faceless Butcher" setShortName="TOR" collectorNumber="60" uuid="4073be21-c54a-4eee-9109-f3adfe757c4e"/>
+        <card number="3" name="Llanowar Elves" setShortName="7ED" collectorNumber="253" uuid="ed8a8cfd-baef-4198-b1f3-4926139588b2"/>
+        <card number="3" name="Phantom Centaur" setShortName="JUD" collectorNumber="127" uuid="c421c2f1-2137-41bd-9a89-74d8a76fb5c5"/>
+        <card number="2" name="Ravenous Baloth" setShortName="ONS" collectorNumber="278" uuid="c98182d6-5b25-4493-9286-f29633e1bec4"/>
+        <card number="3" name="Stronghold Assassin" setShortName="7ED" collectorNumber="166" uuid="f388ad92-fa79-4a1a-b75c-e340dba016f4"/>
+        <card number="3" name="Wirewood Herald" setShortName="ONS" collectorNumber="302" uuid="35724e9f-efa6-47e7-ab4d-7defe38ba576"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Ray of Revelation" setShortName="JUD" collectorNumber="20" uuid="6d762c8c-6172-4dc0-8fcc-d0f6dd8ca013"/>
+        <card number="2" name="Engineered Plague" setShortName="7ED" collectorNumber="133" uuid="b669e43e-3b11-42c9-8f20-0acce129e63c"/>
+        <card number="1" name="Faceless Butcher" setShortName="TOR" collectorNumber="60" uuid="4073be21-c54a-4eee-9109-f3adfe757c4e"/>
+        <card number="1" name="Genesis" setShortName="JUD" collectorNumber="117" uuid="b43aee5e-b12e-43ea-9fae-16310acdc640"/>
+        <card number="1" name="Mindslicer" setShortName="ODY" collectorNumber="149" uuid="895b1c9b-b1a1-457b-92cd-3469a38b69a3"/>
+        <card number="1" name="Nantuko Vigilante" setShortName="LGN" collectorNumber="132" uuid="e7474849-a6b4-4f3b-a836-37b88c26047b"/>
+        <card number="1" name="Phantom Centaur" setShortName="JUD" collectorNumber="127" uuid="c421c2f1-2137-41bd-9a89-74d8a76fb5c5"/>
+        <card number="1" name="Stronghold Assassin" setShortName="7ED" collectorNumber="166" uuid="f388ad92-fa79-4a1a-b75c-e340dba016f4"/>
+        <card number="1" name="Withered Wretch" setShortName="LGN" collectorNumber="86" uuid="b8a82948-503f-4ad4-9e3c-c080c16afd63"/>
+        <card number="1" name="Ravenous Baloth" setShortName="ONS" collectorNumber="278" uuid="c98182d6-5b25-4493-9286-f29633e1bec4"/>
+        <card number="1" name="City of Brass" setShortName="7ED" collectorNumber="327" uuid="2ac29c5c-3c55-4778-9bcd-642d38a0d3f9"/>
+        <card number="2" name="Braids, Cabal Minion" setShortName="ODY" collectorNumber="117" uuid="4dcdcad5-e4fb-480e-984f-1ac5cdc986b9"/>
+    </zone>
+</cockatrice_deck>
