@@ -6,6 +6,8 @@ Format
 
 Note
 - Type 1 World Championships 2003 top 4 deck by Mark Hornung
+- Casting [**Phyrexian Dreadnought**] face-down via [**Illusionary Mask**] bypasses its severe penalty ability
+- [**Illusionary Mask**] was banned during September 2004 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2004
 
 Deck
 - 4 Wooded Foothills
