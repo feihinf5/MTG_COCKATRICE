@@ -12,10 +12,43 @@ Format
 - ODY
 
 Note
-- INFO
+- World Championships 2003 top 8 deck by Peer Kroger
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 1 Anger
+- 1 Arcanis the Omnipotent
+- 4 Doomed Necromancer
+- 1 Phantom Nishoba
+- 1 Symbiotic Wurm
+- 1 Undead Gladiator
+- 1 Visara the Dreadful
+- 3 Buried Alive
+- 4 Burning Wish
+- 1 Cabal Therapy
+- 1 Chainer's Edict
+- 3 Entomb
+- 3 Innocent Blood
+- 1 Recoup
+- 2 Smother
+- 3 Stitch Together
+- 4 Zombify
+- 6 Mountain
+- 9 Swamp
+- 4 Barren Moor
+- 4 Bloodstained Mire
+- 2 Shadowblood Ridge 	
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Buried Alive
+- 3 Cabal Therapy
+- 1 Decompose
+- 1 Demolish
+- 1 Guiltfeeder
+- 1 Haunting Echoes
+- 1 Last Rites
+- 1 Patriarch's Bidding
+- 1 Pyroclasm
+- 1 Recoup
+- 1 Sickening Dreams
+- 1 Soul Feast
+- 1 Stitch Together
