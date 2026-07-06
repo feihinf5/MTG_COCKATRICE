@@ -12,9 +12,9 @@ Format
 
 Note
 - World Championships 2003 top 8 deck by Wolfgang Eder
-- [**Patriarch's Bidding**] is to completely counter mass removal spells
-- If [**Goblin Warchief**] is among the resurrected Goblins, the swing in momentum often allo to attack and win immediately on that turn
-- Leverages [**Skirk Prospector**] and [**Siege-Gang Commander**] to convert Goblins into mana and direct damage, as Goblins consistently head to the graveyard during this process, it repeatedly untaps and triggers [**Goblin Sharpshooter**]'s ability for massive damage
+- [**Patriarch's Bidding**](https://api.scryfall.com/cards/2deba175-8c02-492d-b404-5d842910c095?format=image) is to completely counter mass removal spells
+- If [**Goblin Warchief**](https://api.scryfall.com/cards/66864a4b-8924-40ef-a337-15b12413a158?format=image) is among the resurrected Goblins, the swing in momentum often allo to attack and win immediately on that turn
+- Leverages [**Skirk Prospector**](https://api.scryfall.com/cards/eb545dcd-3a7a-46a7-9c35-d28faebc6d17?format=image) and [**Siege-Gang Commander**](https://api.scryfall.com/cards/92e78cec-aaf9-4fe8-887b-b7e356d63315?format=image) to convert Goblins into mana and direct damage, as Goblins consistently head to the graveyard during this process, it repeatedly untaps and triggers [**Goblin Sharpshooter**](https://api.scryfall.com/cards/7e689df7-b85d-4346-bee8-5e978b5cbbbc?format=image)'s ability for massive damage
 
 Deck
 - 3 Gempalm Incinerator
