@@ -6,9 +6,9 @@ Format
 
 Note
 - Pro Tour-New Orleans 2003 top 4 deck by Gabriel Nassif
-- Activates [**Goblin Charbelcher**] after using [**Mana Severance**] to exile all lands from the library, dealing massive damage
+- Activates [**Goblin Charbelcher**](https://api.scryfall.com/cards/b6c37fc1-4842-4bc5-93ed-83fff9e420f2?format=image) after using [**Mana Severance**](https://api.scryfall.com/cards/854dc5e6-63f7-4c8b-83e5-a364f41c9a15?format=image) to exile all lands from the library, dealing massive damage
 - Because the combo requires only two cards, the rest of the deck can dedicate ample space to counter and card-draw
-- Uses [**Tinker**] as a powerful tutor and runs [**Mystical Tutor**] as an additional search tool to guarantee access to the crucial [**Tinker**]
+- Uses [**Tinker**](https://api.scryfall.com/cards/7da23b15-dfb8-4267-9b33-d7a4c035c434?format=image) as a powerful tutor and runs [**Mystical Tutor**](https://api.scryfall.com/cards/1571b584-9007-45ee-a3c3-6c72f227fee2?format=image) as an additional search tool to guarantee access to the crucial [**Tinker**](https://api.scryfall.com/cards/7da23b15-dfb8-4267-9b33-d7a4c035c434?format=image)
 -  [**Tinker**](https://api.scryfall.com/cards/7da23b15-dfb8-4267-9b33-d7a4c035c434?format=image) was swiftly banned from the Extended format during December 2003 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2003
 
 Deck
