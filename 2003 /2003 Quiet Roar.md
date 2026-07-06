@@ -13,8 +13,8 @@ Format
 
 Note
 - World Championships 2003 top 4 deck by David Humpherys
-- Use [**Quiet Speculation**] to dump [**Roar of the Wurm**] directly into the graveyard, allowing to cast it early for its cheap flashback cost
-- [**Quiet Speculation**] provides great flexibility, allow to search up [**Deep Analysis**] for card draw or post-sideboard answers like [**Ray of Revelation**] and [**Krosan Reclamation**]
+- Use [**Quiet Speculation**](https://api.scryfall.com/cards/71a314fa-293b-486f-95d8-267d340e4d8e?format=image) to dump [**Roar of the Wurm**](https://api.scryfall.com/cards/ddf54317-4c08-4a66-9fd2-9983384e2374?format=image) directly into the graveyard, allowing to cast it early for its cheap flashback cost
+- [**Quiet Speculation**](https://api.scryfall.com/cards/71a314fa-293b-486f-95d8-267d340e4d8e?format=image) provides great flexibility, allow to search up [**Deep Analysis**](https://api.scryfall.com/cards/01e3c2e9-d8df-4a7a-be86-7be8c6254fa2?format=image) for card draw or post-sideboard answers like [**Ray of Revelation**](https://api.scryfall.com/cards/6d762c8c-6172-4dc0-8fcc-d0f6dd8ca013?format=image) and [**Krosan Reclamation**](https://api.scryfall.com/cards/5b3c5144-7e15-46c6-b819-d729ecb30bb1?format=image)
 
 Deck
 - 4 Aquamoeba
