@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 14 15:00:52 2026</lastLoadedTimestamp>
+    <deckname>2003 Goblin Bidding</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2003 top 8 deck by Wolfgang Eder</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="1" name="City of Brass" setShortName="8ED" collectorNumber="322" uuid="03220cab-fc78-4323-bd34-b8dbebe35597"/>
+        <card number="1" name="Mountain" setShortName="ODY" collectorNumber="346" uuid="9b396f90-92b1-4cc0-9be8-2f724b39fbc6"/>
+        <card number="1" name="Mountain" setShortName="ODY" collectorNumber="345" uuid="025e57e4-d088-4ad9-b872-cba327f63e9c"/>
+        <card number="1" name="Mountain" setShortName="ODY" collectorNumber="344" uuid="e1e88b41-7ae5-40fc-8947-5f5aa03388be"/>
+        <card number="1" name="Mountain" setShortName="ODY" collectorNumber="343" uuid="3c22765e-a131-4be6-ba48-64b84564ea51"/>
+        <card number="1" name="Mountain" setShortName="ONS" collectorNumber="346" uuid="fd194fb1-0d3a-4eff-a446-240d18dad43c"/>
+        <card number="1" name="Mountain" setShortName="ONS" collectorNumber="345" uuid="e8aade2d-5cf5-44f6-9095-aa3756b1c1dd"/>
+        <card number="1" name="Mountain" setShortName="ONS" collectorNumber="344" uuid="b6d39f35-c7b2-43b2-aee3-4ff2cd3e37e7"/>
+        <card number="1" name="Mountain" setShortName="ONS" collectorNumber="343" uuid="05f9bdca-0d54-46c7-b803-9083dfc9ee24"/>
+        <card number="1" name="Mountain" setShortName="8ED" collectorNumber="343" uuid="f243292a-e8a6-43c2-805c-15715fcebd67"/>
+        <card number="1" name="Mountain" setShortName="8ED" collectorNumber="344" uuid="e49c0db1-5acc-48ed-a0f0-0510433d6d34"/>
+        <card number="3" name="Shadowblood Ridge" setShortName="ODY" collectorNumber="326" uuid="69a5f84a-9e9b-42b6-a973-864409d6e564"/>
+        <card number="1" name="Swamp" setShortName="ODY" collectorNumber="342" uuid="82f74cd0-cd73-4b08-8544-5f56b6d96f78"/>
+        <card number="1" name="Swamp" setShortName="ODY" collectorNumber="341" uuid="5a4a9736-da37-4327-b9ee-e9a38fbe8a19"/>
+        <card number="1" name="Swamp" setShortName="ODY" collectorNumber="340" uuid="907ff242-885f-4948-b95c-61cf033d0969"/>
+        <card number="1" name="Swamp" setShortName="ODY" collectorNumber="339" uuid="276b18fb-66cb-4dc0-9c67-60cee1502c7f"/>
+        <card number="3" name="Smother" setShortName="ONS" collectorNumber="170" uuid="9a8321af-d667-44e7-8c03-3957286604b9"/>
+        <card number="3" name="Patriarch's Bidding" setShortName="ONS" collectorNumber="161" uuid="2deba175-8c02-492d-b404-5d842910c095"/>
+        <card number="3" name="Gempalm Incinerator" setShortName="LGN" collectorNumber="94" uuid="2687c311-fd0c-4fe0-bce8-e3f412216796"/>
+        <card number="1" name="Goblin Grappler" setShortName="LGN" collectorNumber="100" uuid="5c948872-295c-41b9-8094-db7db7578b0d"/>
+        <card number="4" name="Goblin Piledriver" setShortName="ONS" collectorNumber="205" uuid="f6c4df1f-f148-42ec-8e22-e7114216927d"/>
+        <card number="2" name="Goblin Sharpshooter" setShortName="ONS" collectorNumber="207" uuid="7e689df7-b85d-4346-bee8-5e978b5cbbbc"/>
+        <card number="4" name="Goblin Sledder" setShortName="ONS" collectorNumber="209" uuid="3a9a1ecf-29f6-474e-bbcf-3455d388aa94"/>
+        <card number="3" name="Goblin Taskmaster" setShortName="ONS" collectorNumber="210" uuid="feff65ca-aedf-4434-b701-590d600d1a0b"/>
+        <card number="4" name="Goblin Warchief" setShortName="SCG" collectorNumber="97" uuid="66864a4b-8924-40ef-a337-15b12413a158"/>
+        <card number="4" name="Siege-Gang Commander" setShortName="SCG" collectorNumber="103" uuid="92e78cec-aaf9-4fe8-887b-b7e356d63315"/>
+        <card number="3" name="Skirk Prospector" setShortName="ONS" collectorNumber="230" uuid="eb545dcd-3a7a-46a7-9c35-d28faebc6d17"/>
+        <card number="4" name="Sparksmith" setShortName="ONS" collectorNumber="235" uuid="15a4460d-3fe8-4b1f-9990-0a19c3345367"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Sulfuric Vortex" setShortName="SCG" collectorNumber="106" uuid="79955e27-eef7-43bd-9895-e9209ed1537f"/>
+        <card number="2" name="Dark Banishing" setShortName="8ED" collectorNumber="123" uuid="0c42a59e-f916-48a7-8721-091ee47a6ea1"/>
+        <card number="2" name="Flaring Pain" setShortName="JUD" collectorNumber="89" uuid="eeb5c96a-1d16-459d-9968-ced9a8f1c520"/>
+        <card number="1" name="Smother" setShortName="ONS" collectorNumber="170" uuid="9a8321af-d667-44e7-8c03-3957286604b9"/>
+        <card number="4" name="Starstorm" setShortName="ONS" collectorNumber="238" uuid="b54d72ba-05ce-4299-a7c3-a9e9f126fffb"/>
+        <card number="2" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+    </zone>
+</cockatrice_deck>
