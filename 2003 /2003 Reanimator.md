@@ -13,6 +13,8 @@ Format
 
 Note
 - World Championships 2003 top 8 deck by Peer Kroger
+- Uses [**Entomb**] or [**Buried Alive**] to dump massive creatures directly into the graveyard
+- It cheats those creatures into play by bringing them back with reanimation spells like [**Zombify**] or [**Doomed Necromancer**]
 
 Deck
 - 1 Anger
