@@ -6,6 +6,13 @@ Format
 
 Note
 - Pro Tour-New Orleans 2003 winning deck by Richard Osterberg
+- Uses [**Tinker**] to tutor out oppressive control artifacts like [**Tangle Wire**] or [**Mindslaver**] then recycles them using [**Goblin Welder**].
+- The ultimate goal is to assemble [**Goblin Welder**], [**Mindslaver**] and [**Pentavus**] to establish a permanent, infinite turn-lock over the opponent
+- [**Thirst for Knowledge**] serves as a discard outlet to set up quick artifact reanimation via [**Goblin Welder**]
+- Potential turn-3 kill, turn 1, play [**Ancient Tomb**] and deploy [**Lightning Greaves**]
+- Potential turn-3 kill, turn 2, play and sacrifice [**Seat of the Synod**] to cast [**Tinker**], tutoring [**Bosh, Iron Golem**] directly onto the battlefield then equip the [**Lightning Greaves**] and swing for 6
+- Potential turn-3 kill, turn 3, play red-mana land or artifact then attack with [**Bosh, Iron Golem**] again (totaling 12 combat damage) and use red-mana and [**Grim Monolith**] to activate [**Bosh, Iron Golem**]'s ability, by sacrificing [**Bosh, Iron Golem**] itself to deal 8 direct damage, reaching exactly 20 damage for the win
+- [**Tinker**], [**Ancient Tomb**] and [**Grim Monolith**] were swiftly banned from the Extended format during December 2003 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2003
 
 Deck
 - 4 Goblin Welder
