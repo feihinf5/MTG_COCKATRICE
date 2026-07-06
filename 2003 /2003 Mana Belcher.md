@@ -2,7 +2,13 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%9E%E3%83%8A%E3%83%99%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC
 
 Format
-- CARD_SET
+- MRD
+- 8ED
+- SCG / LGN / ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP
 
 Note
 - Pro Tour-New Orleans 2003 top 4 deck by Gabriel Nassif
