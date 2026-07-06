@@ -13,8 +13,8 @@ Format
 
 Note
 - World Championships 2003 top 8 deck by Peer Kroger
-- Uses [**Entomb**] or [**Buried Alive**] to dump massive creatures directly into the graveyard
-- It cheats those creatures into play by bringing them back with reanimation spells like [**Zombify**] or [**Doomed Necromancer**]
+- Uses [**Entomb**](https://api.scryfall.com/cards/f60a2091-fb97-4f04-911b-fce9b6351044?format=image) or [**Buried Alive**](https://api.scryfall.com/cards/7db3697e-a31b-45a5-b742-fdfb00ce3929?format=image) to dump massive creatures directly into the graveyard
+- It cheats those creatures into play by bringing them back with reanimation spells like [**Zombify**](https://api.scryfall.com/cards/513a2a6f-9ae6-42cb-b75f-6b45fc35f36e?format=image) or [**Doomed Necromancer**](https://api.scryfall.com/cards/3ca3e348-47cc-41d6-999a-60d1206aaf06?format=image)
 
 Deck
 - 1 Anger
