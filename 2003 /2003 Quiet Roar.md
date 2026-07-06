@@ -13,6 +13,8 @@ Format
 
 Note
 - World Championships 2003 top 4 deck by David Humpherys
+- Use [**Quiet Speculation**] to dump [**Roar of the Wurm**] directly into the graveyard, allowing to cast it early for its cheap flashback cost
+- [**Quiet Speculation**] provides great flexibility, allow to search up [**Deep Analysis**] for card draw or post-sideboard answers like [**Ray of Revelation**] and [**Krosan Reclamation**]
 
 Deck
 - 4 Aquamoeba
