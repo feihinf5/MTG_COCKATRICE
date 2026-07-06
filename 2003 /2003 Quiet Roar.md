@@ -3,13 +3,44 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_2003
 
 Format
-- CARD_SET
+- 8ED
+- SCG
+- LGN
+- ONS
+- JUD
+- TOR
+- ODY
 
 Note
-- INFO
+- World Championships 2003 top 4 deck by David Humpherys
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Aquamoeba
+- 3 Arrogant Wurm
+- 4 Basking Rootwalla
+- 4 Wild Mongrel
+- 3 Wonder
+- 4 Careful Study
+- 4 Circular Logic
+- 2 Deep Analysis
+- 1 Krosan Reclamation
+- 2 Quiet Speculation
+- 1 Ray of Revelation
+- 3 Roar of the Wurm
+- 3 Unsummon
+- 8 Forest
+- 11 Island
+- 1 Centaur Garden
+- 2 City of Brass 		
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Deep Analysis
+- 2 Envelop
+- 1 Krosan Reclamation
+- 2 Mana Leak
+- 2 Nantuko Vigilante
+- 2 Phantom Centaur
+- 1 Ray of Revelation
+- 2 Stupefying Touch
+- 1 Unsummon
+- 1 Wonder
