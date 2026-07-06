@@ -8,10 +8,10 @@ Format
 
 Note
 - Grand Prix-Yokohama 2003 winning deck by Komurou Shu
-- Uses the cycling mechanic to draw cards while simultaneously triggering and utilizing [**Lightning Rift**] and [**Astral Slide**]
-- [**Lightning Rift**] functions as both cheap creature removal and a direct damage win condition
-- [**Astral Slide**] provides highly flexible utility, used to stall opposing attackers, instantly flip face-down [**Exalted Angel**] face-up, or repeatedly abuse Enter-the-Battlefield (ETB) abilities of cards
-- Using Akroma's Vengeance instead of Wrath of God
+- Uses the cycling mechanic to draw cards while simultaneously triggering and utilizing [**Lightning Rift**](https://api.scryfall.com/cards/d775d729-0ad9-4b14-9d44-6282f6936e07?format=image) and [**Astral Slide**](https://api.scryfall.com/cards/d14993b6-ed8d-4b9b-b54c-2837b343a61e?format=image)
+- [**Lightning Rift**](https://api.scryfall.com/cards/d775d729-0ad9-4b14-9d44-6282f6936e07?format=image) functions as both cheap creature removal and a direct damage win condition
+- [**Astral Slide**](https://api.scryfall.com/cards/d14993b6-ed8d-4b9b-b54c-2837b343a61e?format=image) provides highly flexible utility, used to stall opposing attackers, instantly flip face-down [**Exalted Angel**](https://api.scryfall.com/cards/c2213eac-cea4-4dfd-90c4-c1f466967e2e?format=image) face-up, or repeatedly abuse Enter-the-Battlefield (ETB) abilities of cards
+- Using [**Akroma's Vengeance**](https://api.scryfall.com/cards/5e33aaf7-7490-4b64-a966-82fbf7ca8686?format=image) instead of [**Wrath of God**](https://api.scryfall.com/cards/0619d670-7b53-4185-a25d-2fab5db1aab5?format=image)
 
 
 Deck
