@@ -8,6 +8,11 @@ Format
 
 Note
 - Grand Prix-Yokohama 2003 winning deck by Komurou Shu
+- Uses the cycling mechanic to draw cards while simultaneously triggering and utilizing [**Lightning Rift**] and [**Astral Slide**]
+- [**Lightning Rift**] functions as both cheap creature removal and a direct damage win condition
+- [**Astral Slide**] provides highly flexible utility, used to stall opposing attackers, instantly flip face-down [**Exalted Angel**] face-up, or repeatedly abuse Enter-the-Battlefield (ETB) abilities of cards
+- Using Akroma's Vengeance instead of Wrath of God
+
 
 Deck
 - 2 Akroma, Angel of Wrath
