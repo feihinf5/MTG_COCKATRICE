@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 14 14:02:58 2026</lastLoadedTimestamp>
+    <deckname>2003 Wake</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2003 winning deck by Daniel Zink</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Elfhame Palace" setShortName="8ED" collectorNumber="324" uuid="66e7061a-3b13-466e-b4d0-2769a179b985"/>
+        <card number="2" name="Flooded Strand" setShortName="ONS" collectorNumber="316" uuid="b4e3d844-d3b4-41d8-921d-c1cb3af343f8"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="350" uuid="65e8080f-9e4a-4fad-9ea3-09d5e0e1c816"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="349" uuid="318b15ea-80b9-48df-b010-aa1aabcf51ea"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="348" uuid="9397010b-6116-4612-993a-11ec2a5d3115"/>
+        <card number="1" name="Forest" setShortName="ODY" collectorNumber="347" uuid="73029d4b-f073-4df0-a6cc-8014284a1ced"/>
+        <card number="1" name="Island" setShortName="ODY" collectorNumber="338" uuid="bf964c1b-941f-4a02-895b-0608bddc1ce7"/>
+        <card number="1" name="Island" setShortName="ODY" collectorNumber="337" uuid="ba30bfc3-5aec-480d-a80a-fe71b098b14b"/>
+        <card number="1" name="Island" setShortName="ODY" collectorNumber="336" uuid="ef57bbe1-8507-4284-8d08-6b10b7894f96"/>
+        <card number="1" name="Island" setShortName="ODY" collectorNumber="335" uuid="527f36a0-80b8-4492-b1c3-20a34953ceb7"/>
+        <card number="1" name="Island" setShortName="ONS" collectorNumber="338" uuid="189a09b8-46d2-4ef6-b7cc-9e510d1ea0b8"/>
+        <card number="1" name="Island" setShortName="ONS" collectorNumber="337" uuid="1dac3bfe-884b-4875-bc7d-df564eb014cd"/>
+        <card number="1" name="Island" setShortName="ONS" collectorNumber="336" uuid="6e8c0e52-8482-4c33-bc5d-26eaad922e72"/>
+        <card number="4" name="Krosan Verge" setShortName="JUD" collectorNumber="141" uuid="bae25abc-22c2-436d-9e08-f123543a0911"/>
+        <card number="1" name="Plains" setShortName="ODY" collectorNumber="334" uuid="7ee52bef-0586-46b8-a405-f4e0741f0059"/>
+        <card number="1" name="Plains" setShortName="ODY" collectorNumber="333" uuid="51b0dd0f-8ad8-4292-9df6-7b28ab4605e3"/>
+        <card number="1" name="Plains" setShortName="ODY" collectorNumber="332" uuid="014efd6a-5b0c-41d1-b7de-78eab5b62917"/>
+        <card number="1" name="Plains" setShortName="ODY" collectorNumber="331" uuid="eecfb420-ace3-4627-a2e0-62a701d025c9"/>
+        <card number="4" name="Skycloud Expanse" setShortName="ODY" collectorNumber="327" uuid="c8c0da61-59c5-4206-83d9-c4676e169f01"/>
+        <card number="1" name="Mirari" setShortName="ODY" collectorNumber="303" uuid="3cbaad4f-fb66-4e56-b383-32f55552c8b2"/>
+        <card number="3" name="Mirari's Wake" setShortName="JUD" collectorNumber="139" uuid="b5ddad46-5e2e-43c9-8c91-7aca6ca23562"/>
+        <card number="4" name="Wrath of God" setShortName="8ED" collectorNumber="58" uuid="0619d670-7b53-4185-a25d-2fab5db1aab5"/>
+        <card number="2" name="Decree of Justice" setShortName="SCG" collectorNumber="8" uuid="5e8a7e5c-f252-4de8-94d7-e7327210bf26"/>
+        <card number="3" name="Moment's Peace" setShortName="ODY" collectorNumber="251" uuid="40ebe935-ccf9-435e-8fe8-53bcbf3526e7"/>
+        <card number="3" name="Renewed Faith" setShortName="ONS" collectorNumber="50" uuid="1ea572b5-ff68-45aa-8200-78ee7f64a0ce"/>
+        <card number="2" name="Vengeful Dreams" setShortName="TOR" collectorNumber="21" uuid="48bfe8b2-cc98-4430-b576-085163bdf0b6"/>
+        <card number="4" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="4" name="Mana Leak" setShortName="8ED" collectorNumber="89" uuid="56707af4-eb74-4b33-8741-6cc9b547d919"/>
+        <card number="3" name="Compulsion" setShortName="TOR" collectorNumber="34" uuid="2d1f56e8-55cb-4b81-9946-9f0f813e3d4a"/>
+        <card number="3" name="Cunning Wish" setShortName="JUD" collectorNumber="37" uuid="ca097675-5e82-493d-beab-9fc11efd7492"/>
+        <card number="1" name="Circular Logic" setShortName="TOR" collectorNumber="33" uuid="cd9198d6-201d-4175-8f70-eef92d7d5bb5"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Anurid Brushhopper" setShortName="JUD" collectorNumber="137" uuid="b09204c7-3e3d-484a-a4f7-da1b818e3884"/>
+        <card number="1" name="Hunting Pack" setShortName="SCG" collectorNumber="121" uuid="8b0f5d29-5342-4591-bdc9-c2bc9289ed41"/>
+        <card number="1" name="Krosan Reclamation" setShortName="JUD" collectorNumber="122" uuid="5b3c5144-7e15-46c6-b819-d729ecb30bb1"/>
+        <card number="1" name="Ray of Distortion" setShortName="ODY" collectorNumber="42" uuid="9940f593-021f-44cd-9725-0779a2808b6c"/>
+        <card number="3" name="Ray of Revelation" setShortName="JUD" collectorNumber="20" uuid="6d762c8c-6172-4dc0-8fcc-d0f6dd8ca013"/>
+        <card number="1" name="Renewed Faith" setShortName="ONS" collectorNumber="50" uuid="1ea572b5-ff68-45aa-8200-78ee7f64a0ce"/>
+        <card number="2" name="Exalted Angel" setShortName="ONS" collectorNumber="28" uuid="c2213eac-cea4-4dfd-90c4-c1f466967e2e"/>
+        <card number="1" name="Wing Shards" setShortName="SCG" collectorNumber="25" uuid="65efa443-666a-45c1-8784-e98c510854b5"/>
+        <card number="1" name="Circular Logic" setShortName="TOR" collectorNumber="33" uuid="cd9198d6-201d-4175-8f70-eef92d7d5bb5"/>
+        <card number="1" name="Vengeful Dreams" setShortName="TOR" collectorNumber="21" uuid="48bfe8b2-cc98-4430-b576-085163bdf0b6"/>
+    </zone>
+</cockatrice_deck>
