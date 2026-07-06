@@ -2,7 +2,13 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%86%E3%82%A3%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9
 
 Format
-- CARD_SET
+- MRD
+- 8ED
+- SCG / LGN / ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP
 
 Note
 - Pro Tour-New Orleans 2003 winning deck by Richard Osterberg
