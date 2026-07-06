@@ -1,1 +1,35 @@
+Reference 
+- http://mtgwiki.com/wiki/World_Championship_Decks_2003
 
+Format
+- CARD_SET
+
+Note
+- INFO
+
+Deck
+- 3 Gempalm Incinerator
+- 1 Goblin Grappler
+- 4 Goblin Piledriver
+- 2 Goblin Sharpshooter
+- 4 Goblin Sledder
+- 3 Goblin Taskmaster
+- 4 Goblin Warchief
+- 4 Siege-Gang Commander
+- 3 Skirk Prospector
+- 4 Sparksmith
+- 3 Patriarch's Bidding
+- 3 Smother
+- 10 Mountain
+- 4 Swamp
+- 4 Bloodstained Mire
+- 1 City of Brass
+- 3 Shadowblood Ridge 	
+
+Sideboard
+- 2 Cabal Therapy
+- 2 Dark Banishing
+- 2 Flaring Pain
+- 1 Smother
+- 4 Starstorm
+- 4 Sulfuric Vortex
