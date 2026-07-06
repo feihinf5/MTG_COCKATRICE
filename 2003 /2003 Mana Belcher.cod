@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2003 Mana Belcher</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-New Orleans 2003 top 4 deck by Gabriel Nassif</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Ancient Tomb" setShortName="TMP" collectorNumber="315" uuid="30e401e3-282b-4524-87e1-c6cd50cd6d00"/>
+        <card number="4" name="City of Traitors" setShortName="EXO" collectorNumber="143" uuid="a7a8b6b8-b95f-4014-b17a-a6d44d965995"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="335" uuid="22578bc8-10c6-4598-82bc-70e970a8f518"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="336" uuid="3f891c3f-82e2-4f9d-ae4b-443fce0bdd71"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="338" uuid="5e6e59d7-5038-46b4-9f60-3d9d0cbf0a4e"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="337" uuid="b38e48ff-17c8-470c-ba8b-966da1777e77"/>
+        <card number="4" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="4" name="Rishadan Port" setShortName="MMQ" collectorNumber="324" uuid="477a1f53-5cdf-4b45-b584-2e36b31a3fdb"/>
+        <card number="4" name="Mana Severance" setShortName="TMP" collectorNumber="73" uuid="854dc5e6-63f7-4c8b-83e5-a364f41c9a15"/>
+        <card number="4" name="Tinker" setShortName="ULG" collectorNumber="45" uuid="7da23b15-dfb8-4267-9b33-d7a4c035c434"/>
+        <card number="4" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="4" name="Force Spike" setShortName="7ED" collectorNumber="76" uuid="1d03d73f-0530-4125-8689-1c43e502e331"/>
+        <card number="4" name="Mystical Tutor" setShortName="6ED" collectorNumber="83" uuid="1571b584-9007-45ee-a3c3-6c72f227fee2"/>
+        <card number="1" name="Rushing River" setShortName="PLS" collectorNumber="30" uuid="52ddf7bf-de9c-4657-8d5b-79869d36fa63"/>
+        <card number="2" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="1" name="Gilded Lotus" setShortName="MRD" collectorNumber="175" uuid="a1d5e4c8-dfd0-45bc-8000-ebfaccfefec3"/>
+        <card number="4" name="Goblin Charbelcher" setShortName="MRD" collectorNumber="176" uuid="b6c37fc1-4842-4bc5-93ed-83fff9e420f2"/>
+        <card number="4" name="Grim Monolith" setShortName="ULG" collectorNumber="126" uuid="9ddc9fe1-17c8-4e1d-aeb8-c4214e881280"/>
+        <card number="1" name="Mindslaver" setShortName="MRD" collectorNumber="206" uuid="98fb1eaa-2871-491a-a4f5-3e358778ba40"/>
+        <card number="2" name="Talisman of Dominance" setShortName="MRD" collectorNumber="253" uuid="991037a2-fea2-49f5-8ace-ebbf9f678cff"/>
+        <card number="3" name="Talisman of Progress" setShortName="MRD" collectorNumber="256" uuid="41ff849e-2439-4690-8aa4-769039b6da4c"/>
+        <card number="2" name="Voltaic Key" setShortName="USG" collectorNumber="314" uuid="1aa4baf7-4693-4c55-af04-2fa5d901d701"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="3" name="Annul" setShortName="USG" collectorNumber="59" uuid="3f8c73ff-be92-41ca-93a7-76f9823adb38"/>
+        <card number="1" name="Chain of Vapor" setShortName="ONS" collectorNumber="73" uuid="30f6b4a2-5780-46e9-b239-459d2cf37743"/>
+        <card number="2" name="Chill" setShortName="TMP" collectorNumber="56" uuid="5a7bd777-6f11-441e-887f-9cee1ef96035"/>
+        <card number="2" name="Chill" setShortName="6ED" collectorNumber="60" uuid="24846eba-e085-4d1d-8c7a-d4faf11034a6"/>
+        <card number="1" name="Platinum Angel" setShortName="MRD" collectorNumber="228" uuid="59bb5aee-b334-4c24-875b-56751d4add02"/>
+        <card number="1" name="Ensnaring Bridge" setShortName="7ED" collectorNumber="294" uuid="97d4fb56-7f63-4087-9ab3-a0df66655886"/>
+        <card number="3" name="Quicksilver Dragon" setShortName="ONS" collectorNumber="103" uuid="e93577bd-2711-443c-aa88-a235345d7800"/>
+    </zone>
+</cockatrice_deck>
