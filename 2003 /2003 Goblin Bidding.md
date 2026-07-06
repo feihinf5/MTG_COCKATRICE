@@ -2,10 +2,16 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_2003
 
 Format
-- CARD_SET
+- 8ED
+- SCG
+- LGN
+- ONS
+- JUD
+- TOR
+- ODY
 
 Note
-- INFO
+- World Championships 2003 top 8 deck by Wolfgang Eder
 
 Deck
 - 3 Gempalm Incinerator
