@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2003 Tinker Stax</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-New Orleans 2003 winning deck by Richard Osterberg</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Ancient Tomb" setShortName="TMP" collectorNumber="315" uuid="30e401e3-282b-4524-87e1-c6cd50cd6d00"/>
+        <card number="1" name="City of Brass" setShortName="8ED" collectorNumber="322" uuid="03220cab-fc78-4323-bd34-b8dbebe35597"/>
+        <card number="1" name="City of Brass" setShortName="6ED" collectorNumber="321" uuid="81ff64e0-e7bd-4e82-8495-2cc8889c4107"/>
+        <card number="1" name="City of Brass" setShortName="7ED" collectorNumber="327" uuid="2ac29c5c-3c55-4778-9bcd-642d38a0d3f9"/>
+        <card number="4" name="City of Traitors" setShortName="EXO" collectorNumber="143" uuid="a7a8b6b8-b95f-4014-b17a-a6d44d965995"/>
+        <card number="2" name="Great Furnace" setShortName="MRD" collectorNumber="282" uuid="2877281d-c85d-4f32-b40d-828b93c4ee8e"/>
+        <card number="4" name="Seat of the Synod" setShortName="MRD" collectorNumber="283" uuid="5da5587d-6b6c-4645-8cc9-2866d1e6911b"/>
+        <card number="4" name="Shivan Reef" setShortName="APC" collectorNumber="142" uuid="c3403143-2b4e-4408-b138-c856bbc1e9a5"/>
+        <card number="4" name="Tinker" setShortName="ULG" collectorNumber="45" uuid="7da23b15-dfb8-4267-9b33-d7a4c035c434"/>
+        <card number="4" name="Thirst for Knowledge" setShortName="MRD" collectorNumber="53" uuid="0ff1f608-203e-4413-8753-37fc49731c87"/>
+        <card number="1" name="Chromatic Sphere" setShortName="MRD" collectorNumber="151" uuid="f31a6dfd-93d2-49c8-a357-9a707b9c42bd"/>
+        <card number="1" name="Chromatic Sphere" setShortName="INV" collectorNumber="299" uuid="920cd17f-9274-443e-906f-c9904f0658d5"/>
+        <card number="1" name="Citanul Flute" setShortName="USG" collectorNumber="289" uuid="bf71fab2-d936-40f0-bda2-b0630948e1fa"/>
+        <card number="1" name="Gilded Lotus" setShortName="MRD" collectorNumber="175" uuid="a1d5e4c8-dfd0-45bc-8000-ebfaccfefec3"/>
+        <card number="4" name="Grim Monolith" setShortName="ULG" collectorNumber="126" uuid="9ddc9fe1-17c8-4e1d-aeb8-c4214e881280"/>
+        <card number="3" name="Lightning Greaves" setShortName="MRD" collectorNumber="199" uuid="61a28870-cf78-4323-9d82-cee764067764"/>
+        <card number="1" name="Mindslaver" setShortName="MRD" collectorNumber="206" uuid="98fb1eaa-2871-491a-a4f5-3e358778ba40"/>
+        <card number="4" name="Tangle Wire" setShortName="NEM" collectorNumber="139" uuid="ad62f313-8a8a-4ffa-ada2-b12b76288729"/>
+        <card number="3" name="Voltaic Key" setShortName="USG" collectorNumber="314" uuid="1aa4baf7-4693-4c55-af04-2fa5d901d701"/>
+        <card number="1" name="Bosh, Iron Golem" setShortName="MRD" collectorNumber="147" uuid="9bfe325c-8d3d-4543-9fcd-214525d4ab2a"/>
+        <card number="4" name="Goblin Welder" setShortName="ULG" collectorNumber="80" uuid="6171e136-1167-4329-acb2-6853d3a814e5"/>
+        <card number="1" name="Masticore" setShortName="UDS" collectorNumber="134" uuid="908a2215-7231-43a4-8fec-5d1e4233c028"/>
+        <card number="4" name="Metalworker" setShortName="UDS" collectorNumber="135" uuid="2050d414-71c7-4c42-a1ff-4c04068ba7f2"/>
+        <card number="1" name="Pentavus" setShortName="MRD" collectorNumber="226" uuid="32a11f0a-7547-4fda-a8ed-caf76ce98f10"/>
+        <card number="1" name="Platinum Angel" setShortName="MRD" collectorNumber="228" uuid="59bb5aee-b334-4c24-875b-56751d4add02"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Rack and Ruin" setShortName="ULG" collectorNumber="89" uuid="a46e8f6a-3a1a-4c30-9348-4b31882267eb"/>
+        <card number="2" name="Shattering Pulse" setShortName="EXO" collectorNumber="102" uuid="89d3b846-6071-4d65-86ba-da08c4bd0aa1"/>
+        <card number="2" name="Defense Grid" setShortName="ULG" collectorNumber="125" uuid="5c2592c9-7e64-40c1-a9cb-c0994094a1e0"/>
+        <card number="1" name="Defense Grid" setShortName="8ED" collectorNumber="296" uuid="61527b06-bbc9-4f3c-a5db-98ef02063482"/>
+        <card number="1" name="Mindslaver" setShortName="MRD" collectorNumber="206" uuid="98fb1eaa-2871-491a-a4f5-3e358778ba40"/>
+        <card number="4" name="Welding Jar" setShortName="MRD" collectorNumber="274" uuid="42b7b73b-4800-4fc7-9a5c-93e00ea88498"/>
+        <card number="1" name="Elf Replica" setShortName="MRD" collectorNumber="167" uuid="b92cce55-22ee-40a7-bb94-4889093f142c"/>
+        <card number="1" name="Triskelion" setShortName="MRD" collectorNumber="269" uuid="8b997abd-8eae-4e87-97fc-36dde95ef8c7"/>
+    </zone>
+</cockatrice_deck>
