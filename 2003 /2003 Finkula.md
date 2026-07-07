@@ -35,7 +35,7 @@ Deck
 - 4 Flooded Strand
 - 4 Polluted Delta
 - 3 Island
-- 2Plains
+- 2 Plains
 - 2 Swamp
 - 4 Caves of Koilos
 
