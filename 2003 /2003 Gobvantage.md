@@ -7,11 +7,11 @@ Format
 
 Note
 - World Championships 2003 Extended format deck by Okamoto Jin
-- Uses [**Goblin Recruiter**] to stack four copies of [**Goblin Piledriver**] on top of the library then draws them all using [**Goblin Ringleader**]
-- Deploys the stacked Goblins and uses [**Rites of Initiation**] to consistently deal over 20 damage in a single turn
-- [**Goblin Warchief**] reduces casting costs and grants haste, allowing the deck to win before the opponent can cast board wipes
-- Utilizes [**Skirk Prospector**] for fast mana acceleration and [**Goblin Matron**] as a reliable tutor
-- [**Goblin Lackey**]] and [**Goblin Recruiter**] were banned in Extended format during September and December 2003 repectively https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2003
+- Uses [**Goblin Recruiter**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to stack four copies of [**Goblin Piledriver**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) on top of the library then draws them all using [**Goblin Ringleader**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Deploys the stacked Goblins and uses [**Rites of Initiation**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to consistently deal over 20 damage in a single turn
+- [**Goblin Warchief**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) reduces casting costs and grants haste, allowing the deck to win before the opponent can cast board wipes
+- Utilizes [**Skirk Prospector**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for fast mana acceleration and [**Goblin Matron**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as a reliable tutor
+- [**Goblin Lackey**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Goblin Recruiter**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) were banned in Extended format during September and December 2003 repectively https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2003
 
 Deck
 - 3 Gempalm Incinerator
