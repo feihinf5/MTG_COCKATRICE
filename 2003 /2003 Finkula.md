@@ -1,1 +1,14 @@
+Reference 
+- http://mtgwiki.com/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%A9
 
+Format
+- CARD_SET
+
+Note
+- INFO
+
+Deck
+- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+
+Sideboard
+- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
