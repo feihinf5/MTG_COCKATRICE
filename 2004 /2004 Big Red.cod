@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2004 Big Red</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Kobe 2004 winning deck by Kuroda Masasiro</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Blinkmoth Nexus" setShortName="DST" collectorNumber="163" uuid="bf51c665-7823-4d6a-b1da-8c2d93dae10b"/>
+        <card number="4" name="Darksteel Citadel" setShortName="DST" collectorNumber="164" uuid="c5d0e808-d67b-4ea3-9c04-d20269fe692c"/>
+        <card number="4" name="Mountain" setShortName="MRD" collectorNumber="299" uuid="b082f22f-6c01-4e8c-80ad-6fdae5c3f22f"/>
+        <card number="4" name="Mountain" setShortName="MRD" collectorNumber="300" uuid="4399a832-4406-4a12-a5e5-81744d02ceec"/>
+        <card number="4" name="Mountain" setShortName="MRD" collectorNumber="302" uuid="22965406-d8d7-46ad-992e-7fc0e994698d"/>
+        <card number="4" name="Mountain" setShortName="MRD" collectorNumber="301" uuid="ba50901e-a030-4f52-8369-f4c9ca6b9c7a"/>
+        <card number="4" name="Detonate" setShortName="MRD" collectorNumber="88" uuid="237eedf5-8a8f-4668-a911-e2bf66f8221e"/>
+        <card number="4" name="Fireball" setShortName="DST" collectorNumber="60" uuid="967465c4-619a-4407-bffc-ffadb89726cd"/>
+        <card number="4" name="Barbed Lightning" setShortName="DST" collectorNumber="55" uuid="2509482a-68d8-4e94-9d1e-5b069ebdc2e4"/>
+        <card number="4" name="Damping Matrix" setShortName="MRD" collectorNumber="161" uuid="e2214e75-e469-41ae-8412-df725c097d08"/>
+        <card number="4" name="Pulse of the Forge" setShortName="DST" collectorNumber="66" uuid="ea3ed9c8-b552-4a9a-b77a-8b148638b4f0"/>
+        <card number="4" name="Shrapnel Blast" setShortName="MRD" collectorNumber="106" uuid="056affab-4e2a-4b68-b864-d879becd3c45"/>
+        <card number="4" name="Electrostatic Bolt" setShortName="MRD" collectorNumber="89" uuid="c455c8d4-6f20-4dcb-8e82-c2bb70d6bc3e"/>
+        <card number="4" name="Arc-Slogger" setShortName="MRD" collectorNumber="85" uuid="d3dd67e0-72b4-4c55-b49b-c69950feccb1"/>
+        <card number="4" name="Solemn Simulacrum" setShortName="MRD" collectorNumber="245" uuid="00f9955f-a522-47bf-b064-92dd21a76b18"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Echoing Ruin" setShortName="DST" collectorNumber="59" uuid="01f842c8-cd6c-4f4d-9aa8-417a92b37867"/>
+        <card number="4" name="Molten Rain" setShortName="MRD" collectorNumber="101" uuid="f888b4d4-31f9-4322-8225-4d7e7a9f4dd5"/>
+        <card number="2" name="Talisman of Impulse" setShortName="MRD" collectorNumber="254" uuid="a00b65f7-70d0-4bbd-ac13-be24cc3374ee"/>
+        <card number="2" name="Talisman of Indulgence" setShortName="MRD" collectorNumber="255" uuid="e14011b3-56ce-4b93-833f-d8403809159c"/>
+        <card number="3" name="Furnace Dragon" setShortName="DST" collectorNumber="62" uuid="62f5c675-b629-45ec-907c-36594f5fe54a"/>
+    </zone>
+</cockatrice_deck>
