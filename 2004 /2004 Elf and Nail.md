@@ -3,13 +3,38 @@ Reference
 - http://mtgwiki.com/wiki/%E3%82%A8%E3%83%AB%E3%83%95%EF%BC%86%E3%83%8D%E3%82%A4%E3%83%AB
 
 Format
-- CARD_SET
+- DST
+- MRD
+- 8ED
+- SCG
+- LGN
+- ONS
 
 Note
-- INFO
+- 2004 United States National Championship winning deck by Craig Krempels
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Birds of Paradise
+- 4 Vine Trellis
+- 4 Wirewood Symbiote
+- 4 Wood Elves
+- 4 Viridian Shaman
+- 2 Wirewood Herald
+- 1 Darksteel Colossus
+- 3 Triskelion
+- 2 Duplicant
+- 1 Kamahl, Fist of Krosa
+- 4 Skullclamp
+- 4 Vernal Bloom
+- 3 Tooth and Nail
+- 15 Forest
+- 1 Mountain
+- 4 Wooded Foothills
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 4 Oxidize
+- 4 Pyroclasm
+- 2 Sundering Titan
+- 1 Triskelion
+- 2 Forgotten Ancient
+- 2 Naturalize
