@@ -2,7 +2,8 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%93%E3%83%83%E3%82%B0%E3%83%BB%E3%83%AC%E3%83%83%E3%83%89#.E3.83.9F.E3.83.A9.E3.83.87.E3.82.A3.E3.83.B3.E3.83.BB.E3.83.96.E3.83.AD.E3.83.83.E3.82.AF.E6.A7.8B.E7.AF.89.E7.89.88.EF.BC.88.E5.88.9D.E6.9C.9F.E5.9E.8B.EF.BC.89
 
 Format
-- CARD_SET
+- DST
+- MRD
 
 Note
 - Pro Tour-Kobe 2004 winning deck by Kuroda Masasiro
