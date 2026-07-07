@@ -23,7 +23,7 @@ Deck
 - 4 Fireball
 - 16 Mountain
 - 4 Blinkmoth Nexus
-- 4 Darksteel Citade
+- 4 Darksteel Citadel
 
 Sideboard
 - 3 Furnace Dragon
