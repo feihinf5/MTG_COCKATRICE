@@ -3,7 +3,11 @@ Reference
 - https://web.archive.org/web/20210806040327/https://magic.wizards.com/en/articles/archive/event-coverage/extended-get-gob-vantage-2003-08-08
 
 Format
-- CARD_SET
+- SCG / LGN / ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP
 
 Note
 - World Championships 2003 Extended format deck by Okamoto Jin
