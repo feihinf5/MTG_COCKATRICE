@@ -13,7 +13,7 @@ Format
 
 Note
 - Pro Tour-New Orleans 2003 11th deck by Kaji Tomohiro
-- A Reanimate-style instant-kill combo deck optimized after the banning of [**Entomb**](https://api.scryfall.com/cards/f60a2091-fb97-4f04-911b-fce9b6351044?format=image)
+- A Reanimate-style instant-kill combo deck optimized after the banning of [**Entomb**](https://api.scryfall.com/cards/f60a2091-fb97-4f04-911b-fce9b6351044?format=image) in Extended format during September 2003 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2003
 - Uses [**Hermit Druid**](https://api.scryfall.com/cards/3efc0622-ac2c-4722-ba05-961cc98c5940?format=image) to dump almost the entire library into the graveyard
 - Reanimates [**Sutured Ghoul**](https://api.scryfall.com/cards/f769536f-def1-40b8-863f-ba12c7cb0d87?format=image), exile-eating massive creatures like [**Krosan Cloudscraper**](https://api.scryfall.com/cards/51ef4cda-e55b-45a8-9c02-4e77e5b15a9e?format=image) from the graveyard to give it lethal power and swings for an immediate kill
 - [**Dragon Breath**](https://api.scryfall.com/cards/1832aaed-e164-4f78-9bc9-ec6c015835f5?format=image) is automatically milled into the graveyard and attaches to [**Sutured Ghoul**](https://api.scryfall.com/cards/f769536f-def1-40b8-863f-ba12c7cb0d87?format=image) upon reanimation to grant it haste
