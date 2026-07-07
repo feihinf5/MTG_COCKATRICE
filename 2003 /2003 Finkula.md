@@ -12,6 +12,9 @@ Format
 
 Note
 - Grand Prix-Anaheim 2003 winning deck by Ben Rubin
+- Uses creatures like [**Meddling Mage**] and [**Shadowmage Infiltrator**] to disrupt opponents and secure card advantage
+- Features a synergy between [**Peek**] and [**Meddling Mage**]
+- Sideboard utilizes [**Vampiric Tutor**] and runs [**Chrome Mox**] to accelerate into a turn-one [**Chill**]
 
 Deck
 - 4 Meddling Mage
