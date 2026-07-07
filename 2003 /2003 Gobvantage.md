@@ -7,6 +7,11 @@ Format
 
 Note
 - World Championships 2003 Extended format deck by Okamoto Jin
+- Uses [**Goblin Recruiter**] to stack four copies of [**Goblin Piledriver**] on top of the library then draws them all using [**Goblin Ringleader**]
+- Deploys the stacked Goblins and uses [**Rites of Initiation**] to consistently deal over 20 damage in a single turn
+- [**Goblin Warchief**] reduces casting costs and grants haste, allowing the deck to win before the opponent can cast board wipes
+- Utilizes [**Skirk Prospector**] for fast mana acceleration and [**Goblin Matron**] as a reliable tutor
+- 
 
 Deck
 - 3 Gempalm Incinerator
