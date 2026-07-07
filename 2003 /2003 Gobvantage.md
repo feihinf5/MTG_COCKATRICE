@@ -11,7 +11,7 @@ Note
 - Deploys the stacked Goblins and uses [**Rites of Initiation**] to consistently deal over 20 damage in a single turn
 - [**Goblin Warchief**] reduces casting costs and grants haste, allowing the deck to win before the opponent can cast board wipes
 - Utilizes [**Skirk Prospector**] for fast mana acceleration and [**Goblin Matron**] as a reliable tutor
-- 
+- [**Goblin Lackey**]] and [**Goblin Recruiter**] were banned in Extended format during September and December 2003 repectively https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2003
 
 Deck
 - 3 Gempalm Incinerator
