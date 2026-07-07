@@ -12,6 +12,8 @@ Format
 
 Note
 - 2004 United States National Championship winning deck by Craig Krempels
+- Reuse [**Wirewood Herald**] and [**Wood Elves**] by bouncing them with [**Wirewood Symbiote**] or sacrifice them to [**Skullclamp**] to draw cards rapidly
+- Generate massive mana using [**Vernal Bloom**] to cast [**Tooth and Nail**] for [**Darksteel Colossus**] or a disruptive combo of [**Kamahl, Fist of Krosa**] and [**Triskelion** to destroy the opponent's lands
 
 Deck
 - 4 Birds of Paradise
