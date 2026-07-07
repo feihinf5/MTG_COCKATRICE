@@ -2,7 +2,13 @@ Reference
 - http://mtgwiki.com/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%A9
 
 Format
-- CARD_SET
+- MRD
+- 8ED
+- SCG / LGN / ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP
 
 Note
 - INFO
