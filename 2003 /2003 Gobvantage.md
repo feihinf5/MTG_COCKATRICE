@@ -18,6 +18,7 @@ Note
 - If [**Goblin Lackey**](https://api.scryfall.com/cards/9b848caa-aad8-4060-8f86-304a8556de2d?format=image) connects on turn two, it lets you put a high-cost Goblin like [**Goblin Ringleader**](https://api.scryfall.com/cards/b6b2cd77-9552-48b1-80cb-26966323c1ea?format=image) or [**Siege-Gang Commander**](https://api.scryfall.com/cards/92e78cec-aaf9-4fe8-887b-b7e356d63315?format=image) directly into play for free
 - [**Ancient Tomb**](https://api.scryfall.com/cards/30e401e3-282b-4524-87e1-c6cd50cd6d00?format=image) or [**City of Traitors**](https://api.scryfall.com/cards/a7a8b6b8-b95f-4014-b17a-a6d44d965995?format=image) allow a turn-one [**Goblin Recruiter**](https://api.scryfall.com/cards/6ee791d5-1d48-40e8-b65f-b6aa889f3467?format=image) or an incredibly fast [**Goblin Warchief**](https://api.scryfall.com/cards/66864a4b-8924-40ef-a337-15b12413a158?format=image)
 - [**Goblin Lackey**](https://api.scryfall.com/cards/9b848caa-aad8-4060-8f86-304a8556de2d?format=image) and [**Goblin Recruiter**](https://api.scryfall.com/cards/6ee791d5-1d48-40e8-b65f-b6aa889f3467?format=image) were banned in Extended format during September and December 2003 repectively https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2003
+- [**Ancient Tomb**](https://api.scryfall.com/cards/30e401e3-282b-4524-87e1-c6cd50cd6d00?format=image) was banned in Extended format during December 2003 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2003
 
 Deck
 - 3 Gempalm Incinerator
