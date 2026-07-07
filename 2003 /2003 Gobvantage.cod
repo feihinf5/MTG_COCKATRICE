@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2003 Gobvantage</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2003 Extended format deck by Okamoto Jin</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Ancient Tomb" setShortName="TMP" collectorNumber="315" uuid="30e401e3-282b-4524-87e1-c6cd50cd6d00"/>
+        <card number="1" name="City of Traitors" setShortName="EXO" collectorNumber="143" uuid="a7a8b6b8-b95f-4014-b17a-a6d44d965995"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="343" uuid="9d6dc341-89dc-4e99-baa2-ad0ae59f0e94"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="344" uuid="676fb0ed-5a19-4fde-b2c4-f46c7e0915f8"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="346" uuid="23e043bf-a6d7-4778-8460-13bdf38b7d39"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="345" uuid="9515ced4-b679-48f0-bf62-8b7baef5e1c2"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="343" uuid="e9d34a2f-09ed-4fb4-891a-890f450699bd"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="344" uuid="be7e4b30-7f45-4109-b5ed-9223a9422d95"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="345" uuid="3d811021-40b1-43b1-88f1-04d711c2ab57"/>
+        <card number="1" name="Mountain" setShortName="USG" collectorNumber="346" uuid="29b39c91-e367-487d-9820-893870df23b1"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="343" uuid="f2e450ae-3ed8-424f-b974-7d9a8e8ac7e4"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="344" uuid="50e7681b-37e3-4f6c-8415-ab9613446ccc"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="345" uuid="a5c17b3c-6f3b-4952-a06b-0df5a5a18f0d"/>
+        <card number="1" name="Mountain" setShortName="6ED" collectorNumber="346" uuid="95585c69-6474-432e-b80a-489a2b69d4e6"/>
+        <card number="1" name="Mountain" setShortName="MMQ" collectorNumber="343" uuid="19b5fff1-7a60-4e50-893a-8177cd62bf82"/>
+        <card number="1" name="Mountain" setShortName="MMQ" collectorNumber="344" uuid="4dbd12ed-e512-43d8-919d-478b18674deb"/>
+        <card number="1" name="Mountain" setShortName="MMQ" collectorNumber="345" uuid="1921ce16-8ed8-41d7-a2b4-9e62f44ac8d6"/>
+        <card number="1" name="Mountain" setShortName="MMQ" collectorNumber="346" uuid="423f4311-9feb-4c63-8b4c-32ddd38382e0"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="343" uuid="ba6694bb-f3b7-48ff-9d93-cbed84fac210"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="344" uuid="977527da-2953-493f-8e8c-ffc64ddeaf10"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="345" uuid="68df89dc-3909-4051-adc1-a86589d0e99d"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="346" uuid="7e8ae541-98e2-4a84-90a6-b17502f4442d"/>
+        <card number="3" name="Rites of Initiation" setShortName="ODY" collectorNumber="217" uuid="6f2fc246-2e95-456f-aa4e-97768c4f4bb4"/>
+        <card number="3" name="Gempalm Incinerator" setShortName="LGN" collectorNumber="94" uuid="2687c311-fd0c-4fe0-bce8-e3f412216796"/>
+        <card number="4" name="Goblin Lackey" setShortName="USG" collectorNumber="190" uuid="9b848caa-aad8-4060-8f86-304a8556de2d"/>
+        <card number="2" name="Goblin Matron" setShortName="USG" collectorNumber="191" uuid="9e9e2e5d-ad06-4378-9afb-ffb174e6a5b4"/>
+        <card number="1" name="Goblin Matron" setShortName="7ED" collectorNumber="191" uuid="862409e1-33e0-474c-8627-b03d25b654b9"/>
+        <card number="4" name="Goblin Piledriver" setShortName="ONS" collectorNumber="205" uuid="f6c4df1f-f148-42ec-8e22-e7114216927d"/>
+        <card number="4" name="Goblin Recruiter" setShortName="6ED" collectorNumber="186" uuid="61bd1548-2ffa-4705-ba88-913f37d4ce92"/>
+        <card number="3" name="Goblin Ringleader" setShortName="APC" collectorNumber="62" uuid="b6b2cd77-9552-48b1-80cb-26966323c1ea"/>
+        <card number="3" name="Goblin Warchief" setShortName="SCG" collectorNumber="97" uuid="66864a4b-8924-40ef-a337-15b12413a158"/>
+        <card number="4" name="Mogg Fanatic" setShortName="TMP" collectorNumber="190" uuid="ca2ecfd4-c874-4468-8601-87aa110d5a00"/>
+        <card number="2" name="Siege-Gang Commander" setShortName="SCG" collectorNumber="103" uuid="92e78cec-aaf9-4fe8-887b-b7e356d63315"/>
+        <card number="3" name="Skirk Prospector" setShortName="ONS" collectorNumber="230" uuid="eb545dcd-3a7a-46a7-9c35-d28faebc6d17"/>
+        <card number="1" name="Sparksmith" setShortName="ONS" collectorNumber="235" uuid="15a4460d-3fe8-4b1f-9990-0a19c3345367"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Pyrostatic Pillar" setShortName="SCG" collectorNumber="100" uuid="5973cd53-f6cd-4edc-b952-f6d3eef97988"/>
+        <card number="4" name="Seal of Fire" setShortName="NEM" collectorNumber="98" uuid="37eaf1f6-4bdc-4669-9a15-50b65e016ccf"/>
+        <card number="2" name="Pillage" setShortName="7ED" collectorNumber="207" uuid="9792efaa-1f73-48de-8c10-5d20c2856f3d"/>
+        <card number="2" name="Pillage" setShortName="6ED" collectorNumber="198" uuid="d04eeaba-7db8-49e8-b775-fbe9c89413fd"/>
+        <card number="1" name="Gempalm Incinerator" setShortName="LGN" collectorNumber="94" uuid="2687c311-fd0c-4fe0-bce8-e3f412216796"/>
+        <card number="1" name="Goblin Assassin" setShortName="LGN" collectorNumber="95" uuid="57ec836f-6dcf-45f9-8e95-487762742a1e"/>
+        <card number="1" name="Goblin Sharpshooter" setShortName="ONS" collectorNumber="207" uuid="7e689df7-b85d-4346-bee8-5e978b5cbbbc"/>
+    </zone>
+</cockatrice_deck>
