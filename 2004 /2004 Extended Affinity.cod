@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2004 Extended Affinity</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Columbus 2004 winning deck by Pierre Canali</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Ancient Den" setShortName="MRD" collectorNumber="278" uuid="cc857fbd-8e0f-4bff-8f14-561c9925c484"/>
+        <card number="2" name="Blinkmoth Nexus" setShortName="DST" collectorNumber="163" uuid="bf51c665-7823-4d6a-b1da-8c2d93dae10b"/>
+        <card number="1" name="City of Brass" setShortName="6ED" collectorNumber="321" uuid="81ff64e0-e7bd-4e82-8495-2cc8889c4107"/>
+        <card number="4" name="Darksteel Citadel" setShortName="DST" collectorNumber="164" uuid="c5d0e808-d67b-4ea3-9c04-d20269fe692c"/>
+        <card number="2" name="Glimmervoid" setShortName="MRD" collectorNumber="281" uuid="e2ab98a1-664c-4775-a3dd-22a15e2f836b"/>
+        <card number="4" name="Seat of the Synod" setShortName="MRD" collectorNumber="283" uuid="5da5587d-6b6c-4645-8cc9-2866d1e6911b"/>
+        <card number="4" name="Vault of Whispers" setShortName="MRD" collectorNumber="286" uuid="73866487-33f4-4f64-b100-2c4ddadcd74e"/>
+        <card number="4" name="Thoughtcast" setShortName="MRD" collectorNumber="54" uuid="efb965a7-877a-4302-b507-25b0a9e32d9b"/>
+        <card number="4" name="Aether Vial" setShortName="DST" collectorNumber="91" uuid="741c479b-5e92-4837-9673-9bc72aa11d26"/>
+        <card number="2" name="Chromatic Sphere" setShortName="INV" collectorNumber="299" uuid="920cd17f-9274-443e-906f-c9904f0658d5"/>
+        <card number="2" name="Chromatic Sphere" setShortName="MRD" collectorNumber="151" uuid="f31a6dfd-93d2-49c8-a357-9a707b9c42bd"/>
+        <card number="3" name="Cranial Plating" setShortName="5DN" collectorNumber="113" uuid="90ea95d0-9f95-462b-a080-22a5da7b2e97"/>
+        <card number="4" name="Arcbound Ravager" setShortName="DST" collectorNumber="100" uuid="72c1a731-7854-42b1-8719-ac3c2a269c1f"/>
+        <card number="4" name="Arcbound Worker" setShortName="DST" collectorNumber="104" uuid="75561093-8892-4b51-813a-c933a06d8cbd"/>
+        <card number="4" name="Disciple of the Vault" setShortName="MRD" collectorNumber="62" uuid="644359dc-3c4c-4291-876d-7390dc466877"/>
+        <card number="4" name="Frogmite" setShortName="MRD" collectorNumber="172" uuid="ff504dcb-2eb8-4b3c-a8b9-29697739b649"/>
+        <card number="4" name="Meddling Mage" setShortName="PLS" collectorNumber="116" uuid="176f84c6-aa5e-449c-bd2b-cc91a898f0c7"/>
+        <card number="3" name="Myr Enforcer" setShortName="MRD" collectorNumber="211" uuid="eeeef899-a8b5-4416-a208-3bd5a0c7177b"/>
+        <card number="3" name="Somber Hoverguard" setShortName="MRD" collectorNumber="51" uuid="83a46ac2-d96d-4d5a-94fc-a9fc83a9ea1d"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="City of Brass" setShortName="7ED" collectorNumber="327" uuid="2ac29c5c-3c55-4778-9bcd-642d38a0d3f9"/>
+        <card number="3" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="1" name="Chill" setShortName="6ED" collectorNumber="60" uuid="24846eba-e085-4d1d-8c7a-d4faf11034a6"/>
+        <card number="2" name="Chill" setShortName="TMP" collectorNumber="56" uuid="5a7bd777-6f11-441e-887f-9cee1ef96035"/>
+        <card number="2" name="Engineered Plague" setShortName="ULG" collectorNumber="51" uuid="27e158d5-efb2-4f90-8898-60ede98f7d29"/>
+        <card number="1" name="Engineered Plague" setShortName="7ED" collectorNumber="133" uuid="b669e43e-3b11-42c9-8f20-0acce129e63c"/>
+        <card number="2" name="Seal of Removal" setShortName="NEM" collectorNumber="42" uuid="487becfe-a9b1-4029-a487-2a32561570cb"/>
+        <card number="3" name="Kami of Ancient Law" setShortName="CHK" collectorNumber="21" uuid="b7cb7fdc-fa47-4485-b268-7c2ddff28568"/>
+    </zone>
+</cockatrice_deck>
