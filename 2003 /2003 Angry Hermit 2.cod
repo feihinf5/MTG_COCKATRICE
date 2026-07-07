@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2003 Angry Hermit 2</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-New Orleans 2003 11th deck by Kaji Tomohiro</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Ancient Tomb" setShortName="TMP" collectorNumber="315" uuid="30e401e3-282b-4524-87e1-c6cd50cd6d00"/>
+        <card number="2" name="City of Brass" setShortName="6ED" collectorNumber="321" uuid="81ff64e0-e7bd-4e82-8495-2cc8889c4107"/>
+        <card number="2" name="City of Brass" setShortName="7ED" collectorNumber="327" uuid="2ac29c5c-3c55-4778-9bcd-642d38a0d3f9"/>
+        <card number="4" name="City of Traitors" setShortName="EXO" collectorNumber="143" uuid="a7a8b6b8-b95f-4014-b17a-a6d44d965995"/>
+        <card number="4" name="Llanowar Wastes" setShortName="APC" collectorNumber="141" uuid="610b7cd5-5532-45a9-acfe-24a818034d1c"/>
+        <card number="2" name="Underground River" setShortName="6ED" collectorNumber="330" uuid="142dd41a-0e98-41d7-9de9-63cda1cf8915"/>
+        <card number="2" name="Underground River" setShortName="7ED" collectorNumber="350" uuid="1b496660-5a5d-4dec-93ca-60e6b1286221"/>
+        <card number="4" name="Vault of Whispers" setShortName="MRD" collectorNumber="286" uuid="73866487-33f4-4f64-b100-2c4ddadcd74e"/>
+        <card number="1" name="Yavimaya Coast" setShortName="APC" collectorNumber="143" uuid="177ee102-d981-4fc3-9f09-9dd07755f22c"/>
+        <card number="4" name="Mox Diamond" setShortName="STH" collectorNumber="138" uuid="28028830-83ed-45e2-b495-3b9ad9d3e988"/>
+        <card number="1" name="Dragon Breath" setShortName="SCG" collectorNumber="86" uuid="1832aaed-e164-4f78-9bc9-ec6c015835f5"/>
+        <card number="2" name="Mystical Tutor" setShortName="6ED" collectorNumber="83" uuid="1571b584-9007-45ee-a3c3-6c72f227fee2"/>
+        <card number="4" name="Vampiric Tutor" setShortName="6ED" collectorNumber="161" uuid="c8505bc8-218f-4b56-be78-ebde535ebaa0"/>
+        <card number="1" name="Krosan Reclamation" setShortName="JUD" collectorNumber="122" uuid="5b3c5144-7e15-46c6-b819-d729ecb30bb1"/>
+        <card number="1" name="Reanimate" setShortName="TMP" collectorNumber="151" uuid="ae1ef31c-8ca5-444c-8f39-e1d1827318f5"/>
+        <card number="4" name="Corpse Dance" setShortName="TMP" collectorNumber="116" uuid="76ae81ea-13e3-4ab8-b956-4c7b139a5e9c"/>
+        <card number="4" name="Duress" setShortName="USG" collectorNumber="132" uuid="ca367f49-0f4a-4b7f-8104-851893fbcd8a"/>
+        <card number="2" name="Exhume" setShortName="USG" collectorNumber="134" uuid="a88b23ce-ce19-47da-b9f2-055a4d6bdc79"/>
+        <card number="4" name="Buried Alive" setShortName="ODY" collectorNumber="118" uuid="7db3697e-a31b-45a5-b742-fdfb00ce3929"/>
+        <card number="1" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="4" name="Hermit Druid" setShortName="STH" collectorNumber="108" uuid="3efc0622-ac2c-4722-ba05-961cc98c5940"/>
+        <card number="3" name="Krosan Cloudscraper" setShortName="LGN" collectorNumber="130" uuid="51ef4cda-e55b-45a8-9c02-4e77e5b15a9e"/>
+        <card number="2" name="Sutured Ghoul" setShortName="JUD" collectorNumber="73" uuid="f769536f-def1-40b8-863f-ba12c7cb0d87"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Woodripper" setShortName="NEM" collectorNumber="125" uuid="5126b782-d74c-40ca-a9b2-a6c78f94d138"/>
+        <card number="2" name="Defense Grid" setShortName="ULG" collectorNumber="125" uuid="5c2592c9-7e64-40c1-a9cb-c0994094a1e0"/>
+        <card number="4" name="Propaganda" setShortName="TMP" collectorNumber="80" uuid="f67dde4d-3df1-480d-a8b8-ab22c768bb12"/>
+        <card number="1" name="Krosan Reclamation" setShortName="JUD" collectorNumber="122" uuid="5b3c5144-7e15-46c6-b819-d729ecb30bb1"/>
+        <card number="1" name="Ray of Revelation" setShortName="JUD" collectorNumber="20" uuid="6d762c8c-6172-4dc0-8fcc-d0f6dd8ca013"/>
+        <card number="1" name="Naturalize" setShortName="ONS" collectorNumber="275" uuid="c0acc41f-b55b-47cb-8803-d39d72788799"/>
+        <card number="1" name="Defense Grid" setShortName="8ED" collectorNumber="296" uuid="61527b06-bbc9-4f3c-a5db-98ef02063482"/>
+        <card number="1" name="Coffin Purge" setShortName="ODY" collectorNumber="124" uuid="541e06cb-5616-40b4-9d36-89471a795ac8"/>
+        <card number="1" name="Crippling Fatigue" setShortName="TOR" collectorNumber="58" uuid="0bb53a87-ba48-4c77-b284-3be321c8836e"/>
+        <card number="1" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="1" name="Arcane Laboratory" setShortName="USG" collectorNumber="60" uuid="2f4a88e8-aab0-488a-a0b8-fa3feedbf278"/>
+    </zone>
+</cockatrice_deck>
