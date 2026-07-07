@@ -6,7 +6,9 @@ Format
 
 Note
 - Pro Tour-Kobe 2004 winning deck by Kuroda Masasiro
-- 
+- Mono red mid-range deck.
+- [**Arc-Slogger**] exile the top 10 cards of your library (in a deck with no specific combo pieces to lose) to deal 2 damage to any target.
+- [**Damping Matrix**] completely shuts down critical activated abilities of opposing artifact decks
   
 Deck
 - 4 Solemn Simulacrum
