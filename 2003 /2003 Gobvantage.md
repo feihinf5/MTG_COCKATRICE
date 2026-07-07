@@ -1,1 +1,34 @@
+Reference 
+- http://mtgwiki.com/wiki/%E3%82%B4%E3%83%96%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8
+- https://web.archive.org/web/20210806040327/https://magic.wizards.com/en/articles/archive/event-coverage/extended-get-gob-vantage-2003-08-08
 
+Format
+- CARD_SET
+
+Note
+- World Championships 2003 Extended format deck by Okamoto Jin
+
+Deck
+- 3 Gempalm Incinerator
+- 4 Goblin Lackey
+- 3 Goblin Matron
+- 4 Goblin Piledriver
+- 4 Goblin Recruiter
+- 3 Goblin Ringleader
+- 3 Goblin Warchief
+- 4 Mogg Fanatic
+- 2 Siege-Gang Commander
+- 3 Skirk Prospector
+- 1 Sparksmith
+- 3 Rites of Initiation
+- 20 Mountain
+- 2 Ancient Tomb
+- 1 City of Traitors
+
+Sideboard
+- 1 Gempalm Incinerator
+- 1 Goblin Assassin
+- 1 Goblin Sharpshooter
+- 4 Pillage
+- 4 Pyrostatic Pillar
+- 4 Seal of Fire
