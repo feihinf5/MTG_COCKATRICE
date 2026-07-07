@@ -14,7 +14,7 @@ Note
 - Grand Prix-Anaheim 2003 winning deck by Ben Rubin
 - Uses creatures like [**Meddling Mage**](https://api.scryfall.com/cards/176f84c6-aa5e-449c-bd2b-cc91a898f0c7?format=image) and [**Shadowmage Infiltrator**](https://api.scryfall.com/cards/932ce702-565f-4d8c-b9fc-2d7c939ef7d7?format=image) to disrupt opponents and secure card advantage
 - Features a synergy between [**Peek**](https://api.scryfall.com/cards/f50843cc-20ac-4746-816e-f2630aa31594?format=image) and [**Meddling Mage**](https://api.scryfall.com/cards/176f84c6-aa5e-449c-bd2b-cc91a898f0c7?format=image)
-- Sideboard utilizes [**Vampiric Tutor**](https://api.scryfall.com/cards/c8505bc8-218f-4b56-be78-ebde535ebaa0?format=image) and runs [**Chrome Mox**](https://api.scryfall.com/cards/6a058e68-70af-4a64-859c-c881e5578368.webp?format=image) to accelerate into a turn-one [**Chill**](https://api.scryfall.com/cards/24846eba-e085-4d1d-8c7a-d4faf11034a6.?format=image)
+- Sideboard utilizes [**Vampiric Tutor**](https://api.scryfall.com/cards/c8505bc8-218f-4b56-be78-ebde535ebaa0?format=image) and runs [**Chrome Mox**](https://api.scryfall.com/cards/6a058e68-70af-4a64-859c-c881e5578368?format=image) to accelerate into a turn-one [**Chill**](https://api.scryfall.com/cards/24846eba-e085-4d1d-8c7a-d4faf11034a6?format=image)
 
 Deck
 - 4 Meddling Mage
