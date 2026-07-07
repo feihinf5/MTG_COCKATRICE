@@ -11,10 +11,37 @@ Format
 - ULG / USG / EXO / STH / TMP
 
 Note
-- INFO
+- Grand Prix-Anaheim 2003 winning deck by Ben Rubin
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Meddling Mage
+- 4 Shadowmage Infiltrator
+- 3 Exalted Angel
+- 4 Duress
+- 3 Seal of Cleansing
+- 4 Brainstorm
+- 1	Smother
+- 3 Diabolic Edict
+- 1 Disenchant
+- 3 Deep Analysis
+- 4 Vindicate
+- 2 Peek
+- 1 Tsabo's Web
+- 2 Underground River
+- 2 Skycloud Expanse
+- 4 Flooded Strand
+- 4 Polluted Delta
+- 3 Island
+- 2Plains
+- 2 Swamp
+- 4 Caves of Koilos
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Energy Flux
+- 1 Upheaval
+- 1 Lobotomy
+- 1 Damping Matrix
+- 4 Chill
+- 3 Chrome Mox
+- 3 Vampiric Tutor
+- 1 Sphere of Resistance
