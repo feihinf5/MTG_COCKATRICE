@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2003 Finkula</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Anaheim 2003 winning deck by Ben Rubin</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Caves of Koilos" setShortName="APC" collectorNumber="140" uuid="144dd08e-451e-4438-b572-7a138e1a15f3"/>
+        <card number="4" name="Flooded Strand" setShortName="ONS" collectorNumber="316" uuid="b4e3d844-d3b4-41d8-921d-c1cb3af343f8"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="335" uuid="22578bc8-10c6-4598-82bc-70e970a8f518"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="337" uuid="b38e48ff-17c8-470c-ba8b-966da1777e77"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="338" uuid="5e6e59d7-5038-46b4-9f60-3d9d0cbf0a4e"/>
+        <card number="1" name="Plains" setShortName="TMP" collectorNumber="333" uuid="3bd35bef-1702-4b3d-b149-8761c5cc5ed9"/>
+        <card number="1" name="Plains" setShortName="TMP" collectorNumber="334" uuid="c7f7baf6-de14-40f8-871f-dda889672608"/>
+        <card number="4" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="2" name="Skycloud Expanse" setShortName="ODY" collectorNumber="327" uuid="c8c0da61-59c5-4206-83d9-c4676e169f01"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="341" uuid="c96dbfea-3b79-4e5b-a356-3c04d1e78e83"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="342" uuid="9330376c-0242-4e28-b535-26c84b43c3e6"/>
+        <card number="1" name="Underground River" setShortName="6ED" collectorNumber="330" uuid="142dd41a-0e98-41d7-9de9-63cda1cf8915"/>
+        <card number="1" name="Underground River" setShortName="7ED" collectorNumber="350" uuid="1b496660-5a5d-4dec-93ca-60e6b1286221"/>
+        <card number="1" name="Tsabo's Web" setShortName="INV" collectorNumber="317" uuid="0dee69f8-cceb-41b9-a0ee-6b2ac9f4bad9"/>
+        <card number="3" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="4" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="3" name="Diabolic Edict" setShortName="TMP" collectorNumber="128" uuid="a2ecf2ee-1e2d-4ab2-8b2c-717c794b09b2"/>
+        <card number="2" name="Peek" setShortName="ODY" collectorNumber="91" uuid="f50843cc-20ac-4746-816e-f2630aa31594"/>
+        <card number="4" name="Vindicate" setShortName="APC" collectorNumber="126" uuid="2a1bfefd-dae8-49e9-9d56-cc852e3dc93b"/>
+        <card number="1" name="Disenchant" setShortName="TMP" collectorNumber="16" uuid="8a65e678-dcb9-4c6c-9a30-8332030dead6"/>
+        <card number="1" name="Smother" setShortName="ONS" collectorNumber="170" uuid="9a8321af-d667-44e7-8c03-3957286604b9"/>
+        <card number="3" name="Seal of Cleansing" setShortName="NEM" collectorNumber="18" uuid="af6c921e-1b82-412c-9979-adfdf83440f7"/>
+        <card number="2" name="Duress" setShortName="USG" collectorNumber="132" uuid="ca367f49-0f4a-4b7f-8104-851893fbcd8a"/>
+        <card number="2" name="Duress" setShortName="7ED" collectorNumber="131" uuid="15c8d82e-6e65-4d36-bf09-b24dde016581"/>
+        <card number="3" name="Exalted Angel" setShortName="ONS" collectorNumber="28" uuid="c2213eac-cea4-4dfd-90c4-c1f466967e2e"/>
+        <card number="4" name="Meddling Mage" setShortName="PLS" collectorNumber="116" uuid="176f84c6-aa5e-449c-bd2b-cc91a898f0c7"/>
+        <card number="4" name="Shadowmage Infiltrator" setShortName="ODY" collectorNumber="294" uuid="932ce702-565f-4d8c-b9fc-2d7c939ef7d7"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Vampiric Tutor" setShortName="6ED" collectorNumber="161" uuid="c8505bc8-218f-4b56-be78-ebde535ebaa0"/>
+        <card number="3" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="1" name="Sphere of Resistance" setShortName="EXO" collectorNumber="139" uuid="17f4d2a5-bb85-4662-b2dd-a363ec7eab9b"/>
+        <card number="2" name="Chill" setShortName="6ED" collectorNumber="60" uuid="24846eba-e085-4d1d-8c7a-d4faf11034a6"/>
+        <card number="2" name="Chill" setShortName="TMP" collectorNumber="56" uuid="5a7bd777-6f11-441e-887f-9cee1ef96035"/>
+        <card number="1" name="Damping Matrix" setShortName="MRD" collectorNumber="161" uuid="e2214e75-e469-41ae-8412-df725c097d08"/>
+        <card number="1" name="Lobotomy" setShortName="TMP" collectorNumber="267" uuid="ee7ba92d-d327-4b1c-be40-708c5abb27df"/>
+        <card number="1" name="Upheaval" setShortName="ODY" collectorNumber="113" uuid="9e201229-34a6-48c8-a07c-d8aefcf5f8a7"/>
+        <card number="1" name="Energy Flux" setShortName="MMQ" collectorNumber="78" uuid="a77b22a0-d5cc-4dbb-aec3-763b8efaee7e"/>
+    </zone>
+</cockatrice_deck>
