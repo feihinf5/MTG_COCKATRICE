@@ -13,6 +13,11 @@ Format
 
 Note
 - Pro Tour-New Orleans 2003 11th deck by Kaji Tomohiro
+- A Reanimate-style instant-kill combo deck optimized after the banning of [**Entomb**]
+- Uses [**Hermit Druid**] to dump almost the entire library into the graveyard
+- Reanimates [**Sutured Ghoul**], exile-eating massive creatures like [**Krosan Cloudscraper**] from the graveyard to give it lethal power and swings for an immediate kill
+- [**Dragon Breath**] is automatically milled into the graveyard and attaches to [**Sutured Ghoul**] upon reanimation to grant it haste
+- [**Hermit Druid**] and [**Ancient Tomb**] were banned in Extended format during December 2003 https://mtg.fandom.com/wiki/Banned_and_restricted_cards/Timeline#2003
 
 Deck
 - 4 Hermit Druid
