@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 14 17:34:03 2026</lastLoadedTimestamp>
+    <deckname>2004 Eternal Slide</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2004 winning deck by Julien Nuijten</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="350" uuid="835a4eed-a308-428d-ac85-e385b5d47d8e"/>
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="349" uuid="7b0af992-80e0-4ac6-a828-5eaac47eaff6"/>
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="348" uuid="4d8edfee-7837-450a-bcf3-a7bb25670056"/>
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="347" uuid="b361b42d-401f-440a-bae9-35338b5dde0e"/>
+        <card number="1" name="Forest" setShortName="8ED" collectorNumber="350" uuid="aec41fec-d146-40cc-8d9f-633e913f3ab3"/>
+        <card number="1" name="Forest" setShortName="8ED" collectorNumber="349" uuid="7eee631d-de1e-4c6f-b60e-0e97a5e99fe6"/>
+        <card number="1" name="Forest" setShortName="8ED" collectorNumber="348" uuid="4ce08c3b-3d08-446e-9f78-4ec22e9308db"/>
+        <card number="1" name="Plains" setShortName="ONS" collectorNumber="334" uuid="fd7babbe-f8c1-4e7c-8de2-2224dd357de4"/>
+        <card number="1" name="Plains" setShortName="ONS" collectorNumber="333" uuid="854a255e-fd89-4c5d-b97b-416a9ac70960"/>
+        <card number="1" name="Plains" setShortName="ONS" collectorNumber="332" uuid="e52ed647-bd30-40a5-b648-0b98d1a3fd4a"/>
+        <card number="1" name="Plains" setShortName="ONS" collectorNumber="331" uuid="7bf7d68a-dbd0-45f3-acbb-59ee38e6057e"/>
+        <card number="1" name="Plains" setShortName="8ED" collectorNumber="334" uuid="aa74b27d-2381-496d-a3ef-af3722c7b4e7"/>
+        <card number="1" name="Plains" setShortName="8ED" collectorNumber="333" uuid="82dd5b8c-2c2f-4185-b176-a94b43729a29"/>
+        <card number="4" name="Secluded Steppe" setShortName="ONS" collectorNumber="324" uuid="ea454280-f7f4-4315-bb46-b56050c02c97"/>
+        <card number="4" name="Tranquil Thicket" setShortName="ONS" collectorNumber="326" uuid="afcb7cef-8aeb-4c84-88e9-6df17768e292"/>
+        <card number="4" name="Windswept Heath" setShortName="ONS" collectorNumber="328" uuid="7a7c5941-9c8a-4a40-9efb-a84f05c58e53"/>
+        <card number="4" name="Astral Slide" setShortName="ONS" collectorNumber="4" uuid="d14993b6-ed8d-4b9b-b54c-2837b343a61e"/>
+        <card number="4" name="Renewed Faith" setShortName="ONS" collectorNumber="50" uuid="1ea572b5-ff68-45aa-8200-78ee7f64a0ce"/>
+        <card number="2" name="Wing Shards" setShortName="SCG" collectorNumber="25" uuid="65efa443-666a-45c1-8784-e98c510854b5"/>
+        <card number="2" name="Akroma's Vengeance" setShortName="ONS" collectorNumber="2" uuid="5e33aaf7-7490-4b64-a966-82fbf7ca8686"/>
+        <card number="2" name="Decree of Justice" setShortName="SCG" collectorNumber="8" uuid="5e8a7e5c-f252-4de8-94d7-e7327210bf26"/>
+        <card number="1" name="Plow Under" setShortName="8ED" collectorNumber="272" uuid="27128f26-0d89-4962-96e8-5fa343031a26"/>
+        <card number="4" name="Rampant Growth" setShortName="8ED" collectorNumber="274" uuid="01d56cde-e186-41e7-bcb2-80736a989678"/>
+        <card number="4" name="Wrath of God" setShortName="8ED" collectorNumber="58" uuid="0619d670-7b53-4185-a25d-2fab5db1aab5"/>
+        <card number="4" name="Eternal Dragon" setShortName="SCG" collectorNumber="12" uuid="0596928c-2b20-4dbb-aa78-3ab6c3ce0d72"/>
+        <card number="4" name="Eternal Witness" setShortName="5DN" collectorNumber="86" uuid="c7e10ca7-1e5d-4224-82cf-798a4d436d72"/>
+        <card number="4" name="Viridian Shaman" setShortName="MRD" collectorNumber="139" uuid="932bf583-efd3-42e9-8a7b-7b3fe07fbcf0"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Scrabbling Claws" setShortName="MRD" collectorNumber="237" uuid="415027f8-ccef-4b38-ace2-db4e94f066fe"/>
+        <card number="3" name="Circle of Protection: Red" setShortName="8ED" collectorNumber="13" uuid="a719732d-4370-4338-9e5b-a0e17c3b6608"/>
+        <card number="4" name="Oxidize" setShortName="DST" collectorNumber="79" uuid="1349969e-1cbe-4541-b3ed-154f5a39f1f0"/>
+        <card number="2" name="Rude Awakening" setShortName="5DN" collectorNumber="92" uuid="0164e2ed-b722-4a7d-a4fb-5401af008cbf"/>
+        <card number="3" name="Plow Under" setShortName="8ED" collectorNumber="272" uuid="27128f26-0d89-4962-96e8-5fa343031a26"/>
+    </zone>
+</cockatrice_deck>
