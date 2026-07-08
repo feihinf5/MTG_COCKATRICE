@@ -13,9 +13,9 @@ Format
 
 Note
 - World Championships 2004 winning deck by Julien Nuijten
-- Returning cycling cards with [**Eternal Witness**]'s ETB (enters-the-battlefield) ability allows for rapid deck thinning when paired with [**Astral Slide**]
-- Combining this engine with [**Eternal Dragon**] can recur itself from the graveyard—allows for the reuse of any card in the deck
-- Wiping the board with [**Wrath of God**] and then locking the opponent's draws using [**Plow Under**]
+- Returning cycling cards with [**Eternal Witness**](https://api.scryfall.com/cards/c7e10ca7-1e5d-4224-82cf-798a4d436d72?format=image)'s ETB (enters-the-battlefield) ability allows for rapid deck thinning when paired with [**Astral Slide**](https://api.scryfall.com/cards/d14993b6-ed8d-4b9b-b54c-2837b343a61e?format=image)
+- Combining this engine with [**Eternal Dragon**](https://api.scryfall.com/cards/0596928c-2b20-4dbb-aa78-3ab6c3ce0d72?format=image) can recur itself from the graveyard—allows for the reuse of any card in the deck
+- Wiping the board with [**Wrath of God**](https://api.scryfall.com/cards/0619d670-7b53-4185-a25d-2fab5db1aab5?format=image) and then locking the opponent's draws using [**Plow Under**](https://api.scryfall.com/cards/27128f26-0d89-4962-96e8-5fa343031a26?format=image)
 
 Deck
 - 4 Viridian Shaman
