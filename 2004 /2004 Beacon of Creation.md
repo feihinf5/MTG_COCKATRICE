@@ -10,6 +10,10 @@ Format
 
 Note
 - The Finals04 winning deck by Asahara Akira
+- Quickly floods the battlefield with lands using [**Kodama's Reach**] and [**Sakura-Tribe Elder**]
+- Stall for time using tokens from [**Beacon of Creation**] then finish the game with [**Rude Awakening**] or by winning via combat with [**Blanchwood Armor**]
+- Maximizes the mana advantage by maindecking [**Plow Under**], often pairing it with [**Creeping Mold**] to increase resilience against control decks
+- Repeatedly cast [**Plow Under**] via [**Eternal Witness**[ to lock the opponent out of drawing new cards
 
 Deck
 - 4 Birds of Paradise
