@@ -1,1 +1,2 @@
 - https://web.archive.org/web/20081011012607/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnj04/t8decks
+- https://web.archive.org/web/20081011012607/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnj04/welcome
