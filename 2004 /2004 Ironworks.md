@@ -3,7 +3,13 @@ Reference
 - http://mtgwiki.com/wiki/World_Championship_Decks_2004
 
 Format
-- CARD_SET
+- 5DN
+- DST
+- MRD
+- 8ED
+- SCG
+- LGN
+- ONS
 
 Note
 - INFO
