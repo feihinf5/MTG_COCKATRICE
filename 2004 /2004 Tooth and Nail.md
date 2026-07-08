@@ -1,5 +1,6 @@
 Reference 
-- http://mtgwiki.com/wiki/12post#.E5.BE.8C.E6.9C.9F.E5.9E.8B
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2004%20Grand%20Prix%20New%20Jersey%20Top%208%20Decks%20_%20Event%20Coverage%20_%20Daily%20MTG%20_%20Magic_%20The%20Gathering.pdf
+- 
 
 Format
 - 5DN
