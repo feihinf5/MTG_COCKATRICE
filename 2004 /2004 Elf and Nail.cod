@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Tue Jul 7 21:48:17 2026</lastLoadedTimestamp>
+    <deckname>2004 Elf and Nail</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2004 United States National Championship winning deck by Craig Krempels</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Forest" setShortName="ONS" collectorNumber="350" uuid="835a4eed-a308-428d-ac85-e385b5d47d8e"/>
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="349" uuid="7b0af992-80e0-4ac6-a828-5eaac47eaff6"/>
+        <card number="2" name="Forest" setShortName="ONS" collectorNumber="348" uuid="4d8edfee-7837-450a-bcf3-a7bb25670056"/>
+        <card number="2" name="Forest" setShortName="ONS" collectorNumber="347" uuid="b361b42d-401f-440a-bae9-35338b5dde0e"/>
+        <card number="1" name="Forest" setShortName="8ED" collectorNumber="350" uuid="aec41fec-d146-40cc-8d9f-633e913f3ab3"/>
+        <card number="1" name="Forest" setShortName="8ED" collectorNumber="349" uuid="7eee631d-de1e-4c6f-b60e-0e97a5e99fe6"/>
+        <card number="1" name="Forest" setShortName="8ED" collectorNumber="348" uuid="4ce08c3b-3d08-446e-9f78-4ec22e9308db"/>
+        <card number="1" name="Forest" setShortName="8ED" collectorNumber="347" uuid="ac82d07b-f8f2-4cdd-b799-98d4dc228e5c"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="306" uuid="7c4bfc1c-20d5-40f4-8863-c69a89872159"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="305" uuid="37f8d695-a3e4-4707-9db9-886849ce4c42"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="304" uuid="174cb9a0-afa3-4f45-b317-238fa9d4f55f"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="303" uuid="77aec0b2-30f2-4f35-a9a3-24d87795d177"/>
+        <card number="1" name="Mountain" setShortName="ONS" collectorNumber="346" uuid="fd194fb1-0d3a-4eff-a446-240d18dad43c"/>
+        <card number="4" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+        <card number="3" name="Tooth and Nail" setShortName="MRD" collectorNumber="134" uuid="02f0067c-2d38-46bd-b52e-070c2ce424f0"/>
+        <card number="4" name="Vernal Bloom" setShortName="8ED" collectorNumber="286" uuid="baabb73c-e3d9-4ba1-9963-986e09ef49a7"/>
+        <card number="4" name="Skullclamp" setShortName="DST" collectorNumber="140" uuid="55318397-de3c-47ea-a088-72a24df5c8fa"/>
+        <card number="4" name="Birds of Paradise" setShortName="8ED" collectorNumber="233" uuid="715eea77-a7d7-4731-b706-3ea17bded7fd"/>
+        <card number="1" name="Darksteel Colossus" setShortName="DST" collectorNumber="109" uuid="cbc27b24-f085-48b0-8757-cd11fbf25b91"/>
+        <card number="2" name="Duplicant" setShortName="MRD" collectorNumber="165" uuid="d48a96f2-738f-433f-bfae-fbf378832a3b"/>
+        <card number="1" name="Kamahl, Fist of Krosa" setShortName="ONS" collectorNumber="268" uuid="150d5229-b1a5-42cf-bf6a-04d246f1124f"/>
+        <card number="3" name="Triskelion" setShortName="MRD" collectorNumber="269" uuid="8b997abd-8eae-4e87-97fc-36dde95ef8c7"/>
+        <card number="4" name="Vine Trellis" setShortName="8ED" collectorNumber="287" uuid="ba462242-82de-4173-98d2-b1b7a1f3d8b4"/>
+        <card number="4" name="Viridian Shaman" setShortName="MRD" collectorNumber="139" uuid="932bf583-efd3-42e9-8a7b-7b3fe07fbcf0"/>
+        <card number="2" name="Wirewood Herald" setShortName="ONS" collectorNumber="302" uuid="35724e9f-efa6-47e7-ab4d-7defe38ba576"/>
+        <card number="4" name="Wirewood Symbiote" setShortName="SCG" collectorNumber="133" uuid="49488b76-abaf-4dba-b01f-7b418e4ff295"/>
+        <card number="4" name="Wood Elves" setShortName="8ED" collectorNumber="289" uuid="da7aa861-556b-43a1-bf57-1efbbd438975"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Naturalize" setShortName="8ED" collectorNumber="270" uuid="7e1e905d-a911-40a7-a793-8535e840230e"/>
+        <card number="2" name="Forgotten Ancient" setShortName="SCG" collectorNumber="120" uuid="49d3b91d-2e4f-4574-89f8-7b804f1d21bf"/>
+        <card number="2" name="Sundering Titan" setShortName="DST" collectorNumber="146" uuid="3e4bd552-e629-41a4-868f-d656187317b7"/>
+        <card number="1" name="Triskelion" setShortName="MRD" collectorNumber="269" uuid="8b997abd-8eae-4e87-97fc-36dde95ef8c7"/>
+        <card number="4" name="Pyroclasm" setShortName="8ED" collectorNumber="210" uuid="34ec6e8f-a8be-4efe-8082-d807378066b1"/>
+        <card number="4" name="Oxidize" setShortName="DST" collectorNumber="79" uuid="1349969e-1cbe-4541-b3ed-154f5a39f1f0"/>
+    </zone>
+</cockatrice_deck>
