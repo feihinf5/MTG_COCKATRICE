@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Sun Jun 14 18:29:07 2026</lastLoadedTimestamp>
+    <deckname>2004 Ironworks</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2004 top 4 deck by Manuel Bevand</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Ancient Den" setShortName="MRD" collectorNumber="278" uuid="cc857fbd-8e0f-4bff-8f14-561c9925c484"/>
+        <card number="4" name="Darksteel Citadel" setShortName="DST" collectorNumber="164" uuid="c5d0e808-d67b-4ea3-9c04-d20269fe692c"/>
+        <card number="4" name="Great Furnace" setShortName="MRD" collectorNumber="282" uuid="2877281d-c85d-4f32-b40d-828b93c4ee8e"/>
+        <card number="4" name="Seat of the Synod" setShortName="MRD" collectorNumber="283" uuid="5da5587d-6b6c-4645-8cc9-2866d1e6911b"/>
+        <card number="3" name="Tree of Tales" setShortName="MRD" collectorNumber="285" uuid="94db07aa-43d3-41b5-924e-60f1756b9c69"/>
+        <card number="2" name="Vault of Whispers" setShortName="MRD" collectorNumber="286" uuid="73866487-33f4-4f64-b100-2c4ddadcd74e"/>
+        <card number="4" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="1" name="Goblin Charbelcher" setShortName="MRD" collectorNumber="176" uuid="b6c37fc1-4842-4bc5-93ed-83fff9e420f2"/>
+        <card number="4" name="Krark-Clan Ironworks" setShortName="5DN" collectorNumber="134" uuid="c60174d6-1f9d-4870-b3db-34d6fcb3f6ab"/>
+        <card number="4" name="Myr Incubator" setShortName="MRD" collectorNumber="212" uuid="31b0f9ef-7404-4e05-b759-aaf1ebcfcb31"/>
+        <card number="4" name="Pentad Prism" setShortName="5DN" collectorNumber="143" uuid="672b9b16-daef-44e6-9a3a-cfd9f3c78bc7"/>
+        <card number="3" name="Talisman of Dominance" setShortName="MRD" collectorNumber="253" uuid="991037a2-fea2-49f5-8ace-ebbf9f678cff"/>
+        <card number="3" name="Talisman of Progress" setShortName="MRD" collectorNumber="256" uuid="41ff849e-2439-4690-8aa4-769039b6da4c"/>
+        <card number="4" name="Condescend" setShortName="5DN" collectorNumber="27" uuid="e8303b80-e29a-46b8-90b0-c0cfe551b435"/>
+        <card number="1" name="Fireball" setShortName="DST" collectorNumber="60" uuid="967465c4-619a-4407-bffc-ffadb89726cd"/>
+        <card number="3" name="Thirst for Knowledge" setShortName="MSH" collectorNumber="79" uuid="5f4f77e5-0019-4a5f-bae6-136121946929"/>
+        <card number="3" name="Fabricate" setShortName="MRD" collectorNumber="35" uuid="a742e23c-1991-4dce-b670-dea92a1cf4ec"/>
+        <card number="3" name="Serum Visions" setShortName="5DN" collectorNumber="36" uuid="4bc61952-88ba-447a-835a-f1e9643fcd0d"/>
+        <card number="4" name="Thoughtcast" setShortName="MRD" collectorNumber="54" uuid="efb965a7-877a-4302-b507-25b0a9e32d9b"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Pyroclasm" setShortName="8ED" collectorNumber="210" uuid="34ec6e8f-a8be-4efe-8082-d807378066b1"/>
+        <card number="4" name="Seething Song" setShortName="MRD" collectorNumber="104" uuid="9213d580-7953-455f-abbe-99d3db2705cf"/>
+        <card number="4" name="Furnace Dragon" setShortName="DST" collectorNumber="62" uuid="62f5c675-b629-45ec-907c-36594f5fe54a"/>
+        <card number="4" name="Mana Leak" setShortName="8ED" collectorNumber="89" uuid="56707af4-eb74-4b33-8741-6cc9b547d919"/>
+    </zone>
+</cockatrice_deck>
