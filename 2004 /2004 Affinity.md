@@ -12,7 +12,7 @@ Format
 
 Note
 - World Championships 2004 top 4 deck by Aeo Paquette
-- [**Cranial Plating**]90ea95d0-9f95-462b-a080-22a5da7b2e97 provides overwhelming explosive power
+- [**Cranial Plating**](https://api.scryfall.com/cards/90ea95d0-9f95-462b-a080-22a5da7b2e97?format=image) provides overwhelming explosive power
 
 Deck
 - 2 Somber Hoverguard
