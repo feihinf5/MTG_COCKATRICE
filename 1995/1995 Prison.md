@@ -1,6 +1,6 @@
 Reference
 - https://mtg-jp.com/reading/iwashowdeck/0034644/
-- http://mtgwiki.com/wiki/%E3%83%97%E3%83%AA%E3%82%BA%E3%83%B3#.E3.82.B9.E3.82.BF.E3.83.B3.E3.83.80.E3.83.BC.E3.83.89.EF.BC.88.E9.BB.8E.E6.98.8E.E6.9C.9F.EF.BC.89
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/1995%20World%20Championship%20Top%204%20Decks%20_%20Daily%20MTG%20_%20Magic_%20The%20Gathering.pdf
 
 Format
 - ICE
