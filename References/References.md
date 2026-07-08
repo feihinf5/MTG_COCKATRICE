@@ -3,3 +3,6 @@
 - https://web.archive.org/web/20081011012607/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnj04/welcome
 - https://web.archive.org/web/20090104155301/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gprim04/t8decks
 - https://web.archive.org/web/20081011012653/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gprim04/welcome
+## 1995
+- https://web.archive.org/web/20150601052834/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/feature/26
+- https://web.archive.org/web/20150910123103/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/25e
