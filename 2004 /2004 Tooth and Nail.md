@@ -1,6 +1,6 @@
 Reference 
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2004%20Grand%20Prix%20New%20Jersey%20Top%208%20Decks%20_%20Event%20Coverage%20_%20Daily%20MTG%20_%20Magic_%20The%20Gathering.pdf
-- 
+- https://web.archive.org/web/20081011012607/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnj04/t8decks
 
 Format
 - 5DN
