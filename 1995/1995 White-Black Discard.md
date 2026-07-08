@@ -1,6 +1,6 @@
 Reference
 - https://www.magic.gg/news/metagame-mentor-how-leyline-of-the-guildpact-transformed-modern
-- http://mtgwiki.com/wiki/%E9%BB%92%E3%81%8D%E6%8B%B7%E5%95%8F%E5%8F%B0
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/1995%20World%20Championship%20Top%204%20Decks%20_%20Daily%20MTG%20_%20Magic_%20The%20Gathering.pdf
 
 Format
 - ICE
