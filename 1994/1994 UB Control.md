@@ -1,6 +1,5 @@
 Reference
 - https://mtg-jp.com/reading/variety/0004493/
-- http://mtgwiki.com/wiki/%E9%BB%92%E3%81%8D%E6%8B%B7%E5%95%8F%E5%8F%B0#Bo_Bell.E3.81.AE.E3.83.87.E3.83.83.E3.82.AD
 
 Format
 - 3ED
