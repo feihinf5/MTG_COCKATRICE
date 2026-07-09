@@ -1,6 +1,6 @@
 Reference
 - https://mtg-jp.com/reading/iwashowdeck/0034644/
-- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/1995_World_Championship_Top_4_Decks.pdf
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/1995_World_Championships_top_4_deck_by_Marc_Hernandez.png
 
 Format
 - ICE
