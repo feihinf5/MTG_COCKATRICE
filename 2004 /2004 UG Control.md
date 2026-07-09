@@ -1,5 +1,5 @@
 Reference 
-- https://github.com/feihinf5/MTG_COCKATRICE/blob/66a599fa63f4732f93563cf455a9278a319f5c22/References/2004_Grand_Prix_Rimini_Decklists.pdf
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2004_Grand_Prix_Rimini_Decklists.pdf
 
 Format
 - CARD_SET
