@@ -1,5 +1,5 @@
 Reference 
-- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2004_Grand_Prix_New_Jersey_Top_8_Decks.pdf
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2004_Tooth_and_Nail.png
 
 Format
 - 5DN
