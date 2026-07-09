@@ -5,6 +5,8 @@
 - https://web.archive.org/web/20081011012653/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gprim04/welcome
 ## 1997
 - https://web.archive.org/web/20090604033143/http://www.wizards.com/sideboard/articleprint.asp?x=results/PTWORLDS97_Decks
+## 1996
+- https://web.archive.org/web/20161008150239/http://magic.wizards.com/en/articles/archive/arcana/1996-world-champion-2002-05-09
 ## 1995
 - https://web.archive.org/web/20150601052834/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/feature/26
 - https://web.archive.org/web/20150910123103/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/25e
