@@ -1,6 +1,6 @@
 Reference
 - https://mtg-jp.com/reading/variety/0004497/
-- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/1995%20World%20Championship%20Top%204%20Decks%20_%20Daily%20MTG%20_%20Magic_%20The%20Gathering.pdf
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/1995_World_Championship_Top_4_Decks.pdf
 
 Format
 - ICE
