@@ -1,7 +1,6 @@
 Reference
 - https://magic.gg/news/metagame-mentor-from-black-lotus-in-1994-to-aftermath-analyst-in-2024
 - https://magic.wizards.com/en/news/making-magic/different-worlds-2005-11-28
-- http://mtgwiki.com/wiki/%E4%B8%96%E7%95%8C%E9%81%B8%E6%89%8B%E6%A8%A994
 - https://articles.starcitygames.com/articles/untold-legends-early-days/
 
 Format
