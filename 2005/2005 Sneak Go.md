@@ -14,7 +14,28 @@ Note
 - Grand Prix-Seattle 2005 top 8 deck by Fujita Tsuyoshi
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Dragon Tyrant
+- 3 Symbiotic Wurm
+- 1 Serra Avatar
+- 4 Rorix Bladewing
+- 2 Crater Hellion
+- 4 Gamble
+- 4 Through the Breach
+- 4 Blazing Shoal
+- 4 Desperate Ritual
+- 4 Seething Song
+- 4 Chrome Mox
+- 4 Sneak Attack
+- 4 Dwarven Ruins
+- 4 Sandstone Needle
+- 3 Crystal Vein
+- 3 City of Traitors
+- 4 Mountain 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+-  3 Serra Avatar
+-  4 Pyrostatic Pillar
+-  4 Defense Grid
+-  2 Final Fortune
+-  1 Cave-In
+-  1 Duplicant 
