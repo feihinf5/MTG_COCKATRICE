@@ -12,6 +12,11 @@ Format
 
 Note
 - Grand Prix-Seattle 2005 winning deck by Ernie Marchesano
+- Slow, grinding control deck to resource-starve opponent through hand disruption and creature removal then finish opponent off with resilient threats
+- [**Pernicious Deed**] to detonate it to wipe out all artifacts, enchantments, and low-cost creatures
+- [**Ravenous Baloth**] acts as primary win condition and sacrifice it in response to removal to gain 4 life
+- [**Treetop Village**] to attack after a board wipe when the opponent has no blockers left
+- [**Recurring Nightmare**] to Sacrifice a creature to bring back an [**Eternal Witness**] or [**Ravenous Baloth**] from the graveyard, generating infinite value
 
 Deck
 - 4 Birds of Paradise
