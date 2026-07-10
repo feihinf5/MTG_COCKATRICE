@@ -12,6 +12,13 @@ Format
 
 Note
 - Grand Prix-Boston 2005 winning deck by Ooiso Masashi
+- Once [**Aluren**] is on the battlefield, can cast any creature with mana value 3 or less at instant speed for free
+- Step 1, cast [**Raven Familiar**] or [**Wall of Blossoms**] for free to draw/look at cards
+- Step 2, cast [**Cavern Harpy**] for free, and its enters-the-battlefield (ETB) ability bounces the [**Raven Familiar**] or [**Wall of Blossoms**] back to hand
+- Step 3, pay 1 life to activate [**Cavern Harpy**]’s own ability and return it to hand
+- Repeat Step 1 to 3 to draw entire deck
+- Find and cast [**Auriok Champion**] to gain life
+- Use [**Living Wish**] to grab [**Maggot Carrier**] from your sideboard to make opponent loses 1 life and repeat until opponent's life total hits 0
 
 Deck
 - 4 Birds of Paradise
