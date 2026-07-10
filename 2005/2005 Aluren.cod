@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Aluren</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Boston 2005 winning deck by Ooiso Masashi</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="City of Brass" setShortName="6ED" collectorNumber="321" uuid="81ff64e0-e7bd-4e82-8495-2cc8889c4107"/>
+        <card number="1" name="City of Brass" setShortName="7ED" collectorNumber="327" uuid="2ac29c5c-3c55-4778-9bcd-642d38a0d3f9"/>
+        <card number="1" name="City of Brass" setShortName="8ED" collectorNumber="322" uuid="03220cab-fc78-4323-bd34-b8dbebe35597"/>
+        <card number="4" name="Havenwood Battleground" setShortName="6ED" collectorNumber="325" uuid="ad2f7ee8-bd9b-40a7-9ae2-268b4b9f8315"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="335" uuid="22578bc8-10c6-4598-82bc-70e970a8f518"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="337" uuid="b38e48ff-17c8-470c-ba8b-966da1777e77"/>
+        <card number="4" name="Llanowar Wastes" setShortName="APC" collectorNumber="141" uuid="610b7cd5-5532-45a9-acfe-24a818034d1c"/>
+        <card number="3" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="1" name="Reflecting Pool" setShortName="TMP" collectorNumber="322" uuid="7b633ac2-bf98-42bd-8c26-8737a7d8edc7"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="339" uuid="5912d2aa-fe91-4cea-9c7a-6dca745f8560"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="340" uuid="000366c8-7a43-49d7-a103-ac5bd7efd9aa"/>
+        <card number="2" name="Yavimaya Coast" setShortName="APC" collectorNumber="143" uuid="177ee102-d981-4fc3-9f09-9dd07755f22c"/>
+        <card number="4" name="Aluren" setShortName="TMP" collectorNumber="213" uuid="268403bc-733d-446e-a7c1-abc957c42bc2"/>
+        <card number="1" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="4" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="2" name="Intuition" setShortName="TMP" collectorNumber="70" uuid="c99f6785-e5a1-4fdc-9fb5-e1a372e7e848"/>
+        <card number="3" name="Vampiric Tutor" setShortName="6ED" collectorNumber="161" uuid="c8505bc8-218f-4b56-be78-ebde535ebaa0"/>
+        <card number="4" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="3" name="Living Wish" setShortName="JUD" collectorNumber="124" uuid="2478a8d2-ca44-4c42-8d75-dd9cb1b59f61"/>
+        <card number="1" name="Auriok Champion" setShortName="5DN" collectorNumber="3" uuid="b9e6bf0b-bb39-4d0f-9035-a276e604f609"/>
+        <card number="2" name="Birds of Paradise" setShortName="6ED" collectorNumber="217" uuid="0ad85d15-e700-455d-96f4-dfd6661f9722"/>
+        <card number="1" name="Birds of Paradise" setShortName="7ED" collectorNumber="231" uuid="a2985857-fee5-42a6-9b5d-e157ada52a03"/>
+        <card number="1" name="Birds of Paradise" setShortName="8ED" collectorNumber="233" uuid="715eea77-a7d7-4731-b706-3ea17bded7fd"/>
+        <card number="3" name="Cavern Harpy" setShortName="PLS" collectorNumber="97" uuid="adfb0804-50d6-4bca-8733-72e01030a543"/>
+        <card number="1" name="Cloud of Faeries" setShortName="ULG" collectorNumber="29" uuid="4e76d04a-0038-4b5b-a026-3056ee940da9"/>
+        <card number="1" name="Eternal Witness" setShortName="5DN" collectorNumber="86" uuid="c7e10ca7-1e5d-4224-82cf-798a4d436d72"/>
+        <card number="3" name="Raven Familiar" setShortName="ULG" collectorNumber="39" uuid="b104638d-29aa-490c-8cfb-e08fc94efb59"/>
+        <card number="4" name="Wall of Blossoms" setShortName="STH" collectorNumber="125" uuid="7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Volrath's Stronghold" setShortName="STH" collectorNumber="143" uuid="43bf015b-152e-4d67-b773-e75fb2487a32"/>
+        <card number="1" name="Bone Shredder" setShortName="ULG" collectorNumber="49" uuid="ece050ad-788e-4451-b773-ca42c37549d2"/>
+        <card number="3" name="Pernicious Deed" setShortName="APC" collectorNumber="114" uuid="ae4cbb33-4947-49f0-b612-a92141fbfaa6"/>
+        <card number="2" name="Naturalize" setShortName="ONS" collectorNumber="275" uuid="c0acc41f-b55b-47cb-8803-d39d72788799"/>
+        <card number="1" name="Gilded Drake" setShortName="USG" collectorNumber="76" uuid="8de3fdae-cc2c-4a14-b15b-4fe1a983dfbf"/>
+        <card number="1" name="Maggot Carrier" setShortName="PLS" collectorNumber="45" uuid="ab2c3dc4-bb49-4ec3-a6c8-4256d1939326"/>
+        <card number="1" name="Naturalize" setShortName="8ED" collectorNumber="270" uuid="7e1e905d-a911-40a7-a793-8535e840230e"/>
+        <card number="1" name="Stern Proctor" setShortName="USG" collectorNumber="99" uuid="7042fdc8-e2dd-4f9a-97b9-00d95c9eae74"/>
+        <card number="1" name="Auriok Champion" setShortName="5DN" collectorNumber="3" uuid="b9e6bf0b-bb39-4d0f-9035-a276e604f609"/>
+        <card number="1" name="Cavern Harpy" setShortName="PLS" collectorNumber="97" uuid="adfb0804-50d6-4bca-8733-72e01030a543"/>
+        <card number="1" name="Eternal Witness" setShortName="5DN" collectorNumber="86" uuid="c7e10ca7-1e5d-4224-82cf-798a4d436d72"/>
+        <card number="1" name="Raven Familiar" setShortName="ULG" collectorNumber="39" uuid="b104638d-29aa-490c-8cfb-e08fc94efb59"/>
+    </zone>
+</cockatrice_deck>
