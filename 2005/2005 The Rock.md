@@ -14,7 +14,31 @@ Note
 - Grand Prix-Seattle 2005 winning deck by Ernie Marchesano
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Birds of Paradise
+- 3 Sakura-Tribe Elder
+- 3 Ravenous Baloth
+- 3 Eternal Witness
+- 2 Troll Ascetic
+- 4 Wall of Blossoms
+- 1 Withered Wretch
+- 4 Cabal Therapy
+- 1 Cranial Extraction
+- 1 Chainer's Edict
+- 3 Vampiric Tutor
+- 3 Smother
+- 1 Recurring Nightmare
+- 4 Pernicious Deed
+- 3 Treetop Village
+- 1 Volrath's Stronghold
+- 4 Llanowar Wastes
+- 8 Forest
+- 6 Swamp
+- 1 Dust Bowl 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+-  2 Chainer's Edict
+-  3 Duress
+-  3 Naturalize
+-  4 Engineered Plague
+-  1 Rude Awakening
+-  2 Coffin Purge 
