@@ -5,7 +5,7 @@ Format
 - CARD_SET
 
 Note
-- INFO
+- Grand Prix-Boston 2005 winning deck by Ooiso Masashi
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
