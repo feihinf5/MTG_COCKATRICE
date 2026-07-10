@@ -1,3 +1,5 @@
+## 2005
+- http://web.archive.org/web/20151205225853/http://magic.wizards.com/en/events/coverage/gpbost05
 ## 2004
 - https://web.archive.org/web/20081011012607/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnj04/t8decks
 - https://web.archive.org/web/20081011012607/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnj04/welcome
