@@ -14,7 +14,7 @@ Note
 - Grand Prix-Boston 2005 winning deck by Ooiso Masashi
 - Once [**Aluren**](https://api.scryfall.com/cards/268403bc-733d-446e-a7c1-abc957c42bc2?format=image) is on the battlefield, can cast any creature with mana value 3 or less at instant speed for free
 - Step 1, cast [**Raven Familiar**](https://api.scryfall.com/cards/b104638d-29aa-490c-8cfb-e08fc94efb59?format=image) for free to draw/look at cards
-- Step 2, cast [**Cavern Harpy**](https://api.scryfall.com/cards/adfb0804-50d6-4bca-8733-72e01030a543?format=image) for free, and its enters-the-battlefield (ETB) ability bounces the [**Raven Familiar**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) back to hand
+- Step 2, cast [**Cavern Harpy**](https://api.scryfall.com/cards/adfb0804-50d6-4bca-8733-72e01030a543?format=image) for free, and its enters-the-battlefield (ETB) ability bounces the [**Raven Familiar**](https://api.scryfall.com/cards/b104638d-29aa-490c-8cfb-e08fc94efb59?format=image) back to hand
 - Step 3, pay 1 life to activate [**Cavern Harpy**](https://api.scryfall.com/cards/adfb0804-50d6-4bca-8733-72e01030a543?format=image)’s own ability and return it to hand
 - Repeat Step 1 to 3 to draw entire deck
 - Find and cast [**Auriok Champion**](https://api.scryfall.com/cards/b9e6bf0b-bb39-4d0f-9035-a276e604f609?format=image) to gain life
