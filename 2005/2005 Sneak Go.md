@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2005_Grand_Prix_Seattle%20_top_8_deck_by_Fujita_Tsuyoshi.png
 
 Format
 - BOK / CHK / 5DN / DST / MRD
