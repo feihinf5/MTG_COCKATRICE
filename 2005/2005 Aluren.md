@@ -12,13 +12,13 @@ Format
 
 Note
 - Grand Prix-Boston 2005 winning deck by Ooiso Masashi
-- Once [**Aluren**] is on the battlefield, can cast any creature with mana value 3 or less at instant speed for free
-- Step 1, cast [**Raven Familiar**] or [**Wall of Blossoms**] for free to draw/look at cards
-- Step 2, cast [**Cavern Harpy**] for free, and its enters-the-battlefield (ETB) ability bounces the [**Raven Familiar**] or [**Wall of Blossoms**] back to hand
-- Step 3, pay 1 life to activate [**Cavern Harpy**]’s own ability and return it to hand
+- Once [**Aluren**](https://api.scryfall.com/cards/268403bc-733d-446e-a7c1-abc957c42bc2?format=image) is on the battlefield, can cast any creature with mana value 3 or less at instant speed for free
+- Step 1, cast [**Raven Familiar**](https://api.scryfall.com/cards/b104638d-29aa-490c-8cfb-e08fc94efb59?format=image) for free to draw/look at cards
+- Step 2, cast [**Cavern Harpy**](https://api.scryfall.com/cards/adfb0804-50d6-4bca-8733-72e01030a543?format=image) for free, and its enters-the-battlefield (ETB) ability bounces the [**Raven Familiar**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) back to hand
+- Step 3, pay 1 life to activate [**Cavern Harpy**](https://api.scryfall.com/cards/adfb0804-50d6-4bca-8733-72e01030a543?format=image)’s own ability and return it to hand
 - Repeat Step 1 to 3 to draw entire deck
-- Find and cast [**Auriok Champion**] to gain life
-- Use [**Living Wish**] to grab [**Maggot Carrier**] from your sideboard to make opponent loses 1 life and repeat until opponent's life total hits 0
+- Find and cast [**Auriok Champion**](https://api.scryfall.com/cards/b9e6bf0b-bb39-4d0f-9035-a276e604f609?format=image) to gain life
+- Use [**Living Wish**](https://api.scryfall.com/cards/2478a8d2-ca44-4c42-8d75-dd9cb1b59f61?format=image) to grab [**Maggot Carrier**](https://api.scryfall.com/cards/ab2c3dc4-bb49-4ec3-a6c8-4256d1939326?format=image) from sideboard to make opponent loses 1 life and repeat until opponent's life total hits 0
 
 Deck
 - 4 Birds of Paradise
