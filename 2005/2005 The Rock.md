@@ -2,7 +2,13 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2005_Grand_Prix_Seattle_winning_deck_by_Ernie_Marchesano.png
 
 Format
-- CARD_SET
+- BOK / CHK / 5DN / DST / MRD
+- 8ED
+- SCG / LGN / ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP
 
 Note
 - Grand Prix-Seattle 2005 winning deck by Ernie Marchesano
