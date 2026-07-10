@@ -2,7 +2,13 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2005_Grand_Prix_Boston_winning_deck_by_Ooiso_Masashi.png
 
 Format
-- CARD_SET
+- CHK / 5DN / DST / MRD
+- 8ED
+- SCG / LGN / ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV / PCY / NEM / MMQ / UDS
+- 6ED
+- ULG / USG / EXO / STH / TMP
 
 Note
 - Grand Prix-Boston 2005 winning deck by Ooiso Masashi
