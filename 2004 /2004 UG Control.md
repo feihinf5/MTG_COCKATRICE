@@ -1,5 +1,5 @@
 Reference 
-- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2004_UG_Control.png
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2004_Grand_Prix_Rimini_winning_deck_by_Domingo_Ottati.png
 
 Format
 - 5DN
