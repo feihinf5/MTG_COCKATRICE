@@ -2,7 +2,9 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2005_Grand_Prix_Niigata_winning_deck_by_Mori_Katsuhiro.png
 
 Format
-- CARD_SET
+- SOK
+- BOK
+- CHK
 
 Note
 - Grand Prix-Niigata 2005 winning deck by Mori Katsuhiro
