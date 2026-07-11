@@ -12,7 +12,33 @@ Note
 - [**Cunning Wish**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) gives instant access to entire sideboard mid-game for whatever situational answer
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Psychatog
+- 1 Wonder
+- 4 Gush
+- 4 Accumulated Knowledge
+- 4 Brainstorm
+- 4 Force Spike
+- 3 Foil
+- 3 Intuition
+- 4 Counterspell
+- 4 Cunning Wish
+- 1 Fact or Fiction
+- 2 Mana Leak
+- 4 Polluted Delta
+- 3 Swamp
+- 1 Flooded Strand
+- 14 Island 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+-  1 Fact or Fiction
+-  1 Meloku the Clouded Mirror
+-  3 Engineered Plague
+-  1 Stifle
+-  1 Corpse Dance
+-  1 Coffin Purge
+-  1 Ghastly Demise
+-  1 Hideous Laughter
+-  1 Ensnare
+-  1 Echoing Truth
+-  1 Thwart
+-  2 Deep Analysis 
