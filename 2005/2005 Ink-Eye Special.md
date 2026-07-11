@@ -6,12 +6,10 @@ Format
 
 Note
 - Grand Prix-Singapore 2005 winning deck by Ishida Itaru
-- Primary Finisher [**Psychatog**] and [**Wonder**]
-- [**Gush**] instantly boosting [**Psychatog**] by +3/+3
-- Use [**Intuition**] to fetch 3 copies of [**Accumulated Knowledge**] to fill the graveyard so the final copy draws 4 cards for just 2 mana
-- [**Brainstorm**] and [**Fact or Fiction**] to rapidly filter libray deck and dump cards directly into graveyard to feed the [**Psychatog**]
-- [**Foil**], [**Force Spike**], [**Mana Leak**] and [**Counterspell**] to stop opponent from establishing a board
-- [**Cunning Wish**] gives instant access to entire sideboard mid-game for whatever situational answer
+- Primary Finisher [**Psychatog**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Wonder**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Brainstorm**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Fact or Fiction**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to rapidly filter libray deck and dump cards directly into graveyard to feed the [**Psychatog**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- [**Foil**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Force Spike**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Mana Leak**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Counterspell**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to stop opponent from establishing a board
+- [**Cunning Wish**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) gives instant access to entire sideboard mid-game for whatever situational answer
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
