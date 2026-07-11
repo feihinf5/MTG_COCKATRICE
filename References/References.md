@@ -1,4 +1,5 @@
 ## 2005
+- http://web.archive.org/web/20160303192327/http://magic.wizards.com/en/events/coverage/gpsing05
 - http://web.archive.org/web/20160303190830/http://magic.wizards.com/en/events/coverage/gpsea05
 - http://web.archive.org/web/20151205225853/http://magic.wizards.com/en/events/coverage/gpbost05
 ## 2004
