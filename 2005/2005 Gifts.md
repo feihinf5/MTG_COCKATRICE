@@ -8,6 +8,9 @@ Format
 
 Note
 - Grand Prix-Minneapolis 2005 winning deck by Alex Lieberman
+- Cast [**Gifts Ungiven**] to tutor [**Kokusho, the Evening Star**] or [**Ink-Eyes, Servant of Oni**], [**Goryo's Vengeance**], [**Soulless Revival**] and [**Death Denied**]
+- Engine cards with the Arcane subtype allow to splice and recur removal indefinitely, [**Hana Kami**] + [**Soulless Revival**]
+-Close out the game with repeated life drains from [**Kokusho, the Evening Star**], massive board clears via [**Kagemaro, First to Suffer**] or spirit token floods with [**Meloku the Clouded Mirror**]
 
 Deck
 - 1 Kokusho, the Evening Star
