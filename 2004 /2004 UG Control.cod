@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2004 UG Control</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Rimini 2004 winning deck by Domingo Ottati</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Rude Awakening" setShortName="5DN" collectorNumber="92" uuid="0164e2ed-b722-4a7d-a4fb-5401af008cbf"/>
+        <card number="4" name="Serum Visions" setShortName="5DN" collectorNumber="36" uuid="4bc61952-88ba-447a-835a-f1e9643fcd0d"/>
+        <card number="4" name="March of the Machines" setShortName="MRD" collectorNumber="42" uuid="9bdcc966-7837-463f-ae26-1096f34ac8c0"/>
+        <card number="4" name="Condescend" setShortName="5DN" collectorNumber="27" uuid="e8303b80-e29a-46b8-90b0-c0cfe551b435"/>
+        <card number="1" name="Thirst for Knowledge" setShortName="MRD" collectorNumber="53" uuid="0ff1f608-203e-4413-8753-37fc49731c87"/>
+        <card number="3" name="Echoing Truth" setShortName="DST" collectorNumber="21" uuid="4aefedd7-1bf5-4148-9084-d7d8f1138140"/>
+        <card number="4" name="Oxidize" setShortName="DST" collectorNumber="79" uuid="1349969e-1cbe-4541-b3ed-154f5a39f1f0"/>
+        <card number="2" name="Last Word" setShortName="DST" collectorNumber="23" uuid="139d2ece-f656-4cac-8d77-b0f083f76c70"/>
+        <card number="1" name="Aether Spellbomb" setShortName="MRD" collectorNumber="141" uuid="f3792e8b-4ad7-4e2d-994c-c4eaac0fa55f"/>
+        <card number="4" name="Eternal Witness" setShortName="5DN" collectorNumber="86" uuid="c7e10ca7-1e5d-4224-82cf-798a4d436d72"/>
+        <card number="3" name="Solemn Simulacrum" setShortName="MRD" collectorNumber="245" uuid="00f9955f-a522-47bf-b064-92dd21a76b18"/>
+        <card number="4" name="Viridian Shaman" setShortName="MRD" collectorNumber="139" uuid="932bf583-efd3-42e9-8a7b-7b3fe07fbcf0"/>
+        <card number="3" name="Forest" setShortName="MRD" collectorNumber="306" uuid="7c4bfc1c-20d5-40f4-8863-c69a89872159"/>
+        <card number="3" name="Forest" setShortName="MRD" collectorNumber="305" uuid="37f8d695-a3e4-4707-9db9-886849ce4c42"/>
+        <card number="3" name="Forest" setShortName="MRD" collectorNumber="303" uuid="77aec0b2-30f2-4f35-a9a3-24d87795d177"/>
+        <card number="3" name="Forest" setShortName="MRD" collectorNumber="304" uuid="174cb9a0-afa3-4f45-b317-238fa9d4f55f"/>
+        <card number="3" name="Island" setShortName="MRD" collectorNumber="294" uuid="de46f610-fab8-4819-b86a-d1defed319a1"/>
+        <card number="3" name="Island" setShortName="MRD" collectorNumber="293" uuid="9db3309e-2893-4a39-876f-fd68ea057e22"/>
+        <card number="3" name="Island" setShortName="MRD" collectorNumber="292" uuid="12dd90bb-b5d1-47a3-b566-3407db04dd55"/>
+        <card number="3" name="Island" setShortName="MRD" collectorNumber="291" uuid="9a5235cd-5d25-498d-8e36-7a7c0791f212"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Troll Ascetic" setShortName="MRD" collectorNumber="135" uuid="f01233c2-6df0-4f0e-8668-3855868731ea"/>
+        <card number="4" name="Relic Barrier" setShortName="5DN" collectorNumber="147" uuid="12d760d8-030e-47d0-a555-d88ee43d3d80"/>
+        <card number="3" name="Annul" setShortName="USG" collectorNumber="59" uuid="3f8c73ff-be92-41ca-93a7-76f9823adb38"/>
+        <card number="1" name="Last Word" setShortName="DST" collectorNumber="23" uuid="139d2ece-f656-4cac-8d77-b0f083f76c70"/>
+        <card number="1" name="Thirst for Knowledge" setShortName="MRD" collectorNumber="53" uuid="0ff1f608-203e-4413-8753-37fc49731c87"/>
+        <card number="2" name="Nourish" setShortName="DST" collectorNumber="78" uuid="0597dd97-fe6f-4e74-88e5-35528ada0140"/>
+    </zone>
+</cockatrice_deck>
