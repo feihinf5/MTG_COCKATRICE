@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Ink-Eye Special</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Singapore 2005 winning deck by Ishida Itaru</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Flooded Strand" setShortName="ONS" collectorNumber="316" uuid="b4e3d844-d3b4-41d8-921d-c1cb3af343f8"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="335" uuid="22578bc8-10c6-4598-82bc-70e970a8f518"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="336" uuid="3f891c3f-82e2-4f9d-ae4b-443fce0bdd71"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="338" uuid="5e6e59d7-5038-46b4-9f60-3d9d0cbf0a4e"/>
+        <card number="1" name="Island" setShortName="TMP" collectorNumber="337" uuid="b38e48ff-17c8-470c-ba8b-966da1777e77"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="335" uuid="8e4ce9ff-c295-475b-b9fa-88ed65a84f35"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="336" uuid="bbf69bc5-8ee3-4b17-a3b1-51e35dd2d0dc"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="337" uuid="92724530-9c7a-44ab-9381-ee56bfccb641"/>
+        <card number="1" name="Island" setShortName="USG" collectorNumber="338" uuid="43297ca7-846c-4bc4-a347-997279bc73d6"/>
+        <card number="1" name="Island" setShortName="MMQ" collectorNumber="335" uuid="5bae77e8-1230-4a6e-8c75-c99d2741a509"/>
+        <card number="1" name="Island" setShortName="MMQ" collectorNumber="336" uuid="9a38509a-2b74-42a0-af91-ed453e463b95"/>
+        <card number="1" name="Island" setShortName="MMQ" collectorNumber="337" uuid="b2d83856-2201-4c30-bfcf-9cab62545201"/>
+        <card number="1" name="Island" setShortName="MMQ" collectorNumber="338" uuid="e0fedd66-e547-492c-ad0d-9c7b527bdd17"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="4" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="339" uuid="5912d2aa-fe91-4cea-9c7a-6dca745f8560"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="340" uuid="000366c8-7a43-49d7-a103-ac5bd7efd9aa"/>
+        <card number="1" name="Swamp" setShortName="TMP" collectorNumber="342" uuid="9330376c-0242-4e28-b535-26c84b43c3e6"/>
+        <card number="4" name="Accumulated Knowledge" setShortName="NEM" collectorNumber="26" uuid="ab061406-38f4-40e7-a9ea-e3cbcaabc127"/>
+        <card number="4" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="1" name="Counterspell" setShortName="5ED" collectorNumber="77" uuid="b975289d-d8b8-46b4-8c60-d6ed4b594519"/>
+        <card number="1" name="Counterspell" setShortName="TMP" collectorNumber="57" uuid="dacdd380-71cf-4832-bd02-3697501325f3"/>
+        <card number="1" name="Counterspell" setShortName="6ED" collectorNumber="61" uuid="ee0d3f5f-7790-4772-bead-5d7114a23e94"/>
+        <card number="1" name="Counterspell" setShortName="MMQ" collectorNumber="69" uuid="7bd03c80-7812-4704-9e07-9cf73b49c01f"/>
+        <card number="4" name="Cunning Wish" setShortName="JUD" collectorNumber="37" uuid="ca097675-5e82-493d-beab-9fc11efd7492"/>
+        <card number="1" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="3" name="Foil" setShortName="PCY" collectorNumber="34" uuid="870fb793-3107-4cb2-ba78-34fbf5c9da2f"/>
+        <card number="4" name="Force Spike" setShortName="7ED" collectorNumber="76" uuid="1d03d73f-0530-4125-8689-1c43e502e331"/>
+        <card number="4" name="Gush" setShortName="MMQ" collectorNumber="82" uuid="e755bbef-bf34-49c0-ae72-d70e3599de52"/>
+        <card number="3" name="Intuition" setShortName="TMP" collectorNumber="70" uuid="c99f6785-e5a1-4fdc-9fb5-e1a372e7e848"/>
+        <card number="2" name="Mana Leak" setShortName="8ED" collectorNumber="89" uuid="56707af4-eb74-4b33-8741-6cc9b547d919"/>
+        <card number="4" name="Psychatog" setShortName="ODY" collectorNumber="292" uuid="6757bf0e-489f-4be2-9e41-463b59f00dd1"/>
+        <card number="1" name="Wonder" setShortName="JUD" collectorNumber="54" uuid="44670666-9028-4b4a-a5af-a3bf35fc6a21"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="1" name="Coffin Purge" setShortName="ODY" collectorNumber="124" uuid="541e06cb-5616-40b4-9d36-89471a795ac8"/>
+        <card number="1" name="Corpse Dance" setShortName="TMP" collectorNumber="116" uuid="76ae81ea-13e3-4ab8-b956-4c7b139a5e9c"/>
+        <card number="1" name="Echoing Truth" setShortName="DST" collectorNumber="21" uuid="4aefedd7-1bf5-4148-9084-d7d8f1138140"/>
+        <card number="1" name="Ensnare" setShortName="NEM" collectorNumber="32" uuid="055b344a-4eb1-4579-ac50-973b18e12fad"/>
+        <card number="1" name="Engineered Plague" setShortName="7ED" collectorNumber="133" uuid="b669e43e-3b11-42c9-8f20-0acce129e63c"/>
+        <card number="1" name="Ghastly Demise" setShortName="ODY" collectorNumber="139" uuid="d9d2bfa3-0499-43ea-a76d-b12fddbc104e"/>
+        <card number="1" name="Hideous Laughter" setShortName="CHK" collectorNumber="115" uuid="941fd135-1c5a-4650-8faf-dfa2c93ec8c9"/>
+        <card number="1" name="Stifle" setShortName="SCG" collectorNumber="52" uuid="2d7643c0-b2db-478f-944e-b27b77bad3eb"/>
+        <card number="1" name="Thwart" setShortName="MMQ" collectorNumber="108" uuid="c12a0717-e9ea-4be3-a29f-179671ed4489"/>
+        <card number="2" name="Engineered Plague" setShortName="ULG" collectorNumber="51" uuid="27e158d5-efb2-4f90-8898-60ede98f7d29"/>
+        <card number="1" name="Meloku the Clouded Mirror" setShortName="CHK" collectorNumber="74" uuid="1caaa733-6d4c-4e18-a64e-f95851c7063b"/>
+        <card number="1" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+    </zone>
+</cockatrice_deck>
