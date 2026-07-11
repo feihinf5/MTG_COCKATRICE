@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Sneak Go</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Seattle 2005 top 8 deck by Fujita Tsuyoshi</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="City of Traitors" setShortName="EXO" collectorNumber="143" uuid="a7a8b6b8-b95f-4014-b17a-a6d44d965995"/>
+        <card number="3" name="Crystal Vein" setShortName="6ED" collectorNumber="322" uuid="2a807243-fdcd-4dfb-b9d1-a15859a15c51"/>
+        <card number="4" name="Dwarven Ruins" setShortName="6ED" collectorNumber="323" uuid="840627fa-dec9-481e-b356-56f3d079a60c"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="343" uuid="9d6dc341-89dc-4e99-baa2-ad0ae59f0e94"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="344" uuid="676fb0ed-5a19-4fde-b2c4-f46c7e0915f8"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="346" uuid="23e043bf-a6d7-4778-8460-13bdf38b7d39"/>
+        <card number="1" name="Mountain" setShortName="TMP" collectorNumber="345" uuid="9515ced4-b679-48f0-bf62-8b7baef5e1c2"/>
+        <card number="4" name="Sandstone Needle" setShortName="MMQ" collectorNumber="326" uuid="82bc7c6b-2e3d-42d1-b2bb-b37b6f34d33b"/>
+        <card number="4" name="Sneak Attack" setShortName="USG" collectorNumber="218" uuid="d07dc95d-82a8-4a58-8ea2-d4513bd7316d"/>
+        <card number="4" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="4" name="Blazing Shoal" setShortName="BOK" collectorNumber="96" uuid="8b915daa-d239-4460-bd6b-e1327fdf7f51"/>
+        <card number="4" name="Desperate Ritual" setShortName="CHK" collectorNumber="163" uuid="c8bdb92a-7bdb-434b-8cc0-873969faf566"/>
+        <card number="4" name="Seething Song" setShortName="MRD" collectorNumber="104" uuid="9213d580-7953-455f-abbe-99d3db2705cf"/>
+        <card number="4" name="Through the Breach" setShortName="CHK" collectorNumber="193" uuid="6da09e6a-2965-4855-bd41-41b41ba188fb"/>
+        <card number="4" name="Gamble" setShortName="USG" collectorNumber="188" uuid="0ee0f160-7339-4d98-8a8c-f08889ee52f5"/>
+        <card number="2" name="Crater Hellion" setShortName="USG" collectorNumber="179" uuid="2382e525-1750-484a-bf95-dbb42bbb30ae"/>
+        <card number="4" name="Dragon Tyrant" setShortName="SCG" collectorNumber="88" uuid="04d1a29b-af80-4f9a-881b-ef7374ecbce1"/>
+        <card number="4" name="Rorix Bladewing" setShortName="ONS" collectorNumber="224" uuid="7f2caba5-9f30-4b5e-833e-68c85a47ef7c"/>
+        <card number="1" name="Serra Avatar" setShortName="USG" collectorNumber="45" uuid="288b0976-78e8-4fbe-8607-2e55d8761d3e"/>
+        <card number="3" name="Symbiotic Wurm" setShortName="ONS" collectorNumber="289" uuid="a60313ca-10cc-4c33-a557-1401c5721e3b"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Duplicant" setShortName="MRD" collectorNumber="165" uuid="d48a96f2-738f-433f-bfae-fbf378832a3b"/>
+        <card number="1" name="Cave-In" setShortName="MMQ" collectorNumber="180" uuid="440d9d26-f304-467d-af79-914cc65f082e"/>
+        <card number="1" name="Final Fortune" setShortName="6ED" collectorNumber="175" uuid="627aeab7-ccdd-4b23-8e6c-976636fe308e"/>
+        <card number="1" name="Final Fortune" setShortName="7ED" collectorNumber="182" uuid="fb80afc3-4887-42a0-afb2-7fa997981fb2"/>
+        <card number="2" name="Defense Grid" setShortName="ULG" collectorNumber="125" uuid="5c2592c9-7e64-40c1-a9cb-c0994094a1e0"/>
+        <card number="2" name="Defense Grid" setShortName="8ED" collectorNumber="296" uuid="61527b06-bbc9-4f3c-a5db-98ef02063482"/>
+        <card number="4" name="Pyrostatic Pillar" setShortName="SCG" collectorNumber="100" uuid="5973cd53-f6cd-4edc-b952-f6d3eef97988"/>
+        <card number="3" name="Serra Avatar" setShortName="USG" collectorNumber="45" uuid="288b0976-78e8-4fbe-8607-2e55d8761d3e"/>
+    </zone>
+</cockatrice_deck>
