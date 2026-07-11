@@ -5,7 +5,7 @@ Format
 - CARD_SET
 
 Note
-- INFO
+- Grand Prix-Singapore 2005 winning deck by Ishida Itaru
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
