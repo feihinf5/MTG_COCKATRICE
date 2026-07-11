@@ -40,5 +40,5 @@ Sideboard
 - 1 Last Word
 - 2 Nourish
 - 4 Relic Barrier
-- 1 Thirst For Knowledge
+- 1 Thirst for Knowledge
 - 4 Troll Ascetic
