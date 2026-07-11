@@ -46,7 +46,7 @@ Deck
 -  2 Brushland
 -  1 Underground River
 -  1 Tarnished Citadel
--  4 AEther Vial 
+-  4 Aether Vial 
 
 Sideboard
 -  1 Starlit Sanctum
