@@ -25,7 +25,7 @@ Deck
 - 4 Eternal Witness
 - 3 Solemn Simulacrum
 - 4 Viridian Shaman
-- 1 AEther Spellbomb
+- 1 Aether Spellbomb
 - 4 Condescend
 - 3 Echoing Truth
 - 2 Last Word
