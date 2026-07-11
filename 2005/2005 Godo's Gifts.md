@@ -36,4 +36,16 @@ Deck
 - 1 Okina, Temple to the Grandfathers 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Hideous Laughter
+- 1 Cranial Extraction
+- 1 Wear Away
+- 1 Meloku the Clouded Mirror
+- 1 Ghost-Lit Stalker
+- 1 Mountain
+- 2 Godo, Bandit Warlord
+- 1 Umezawa's Jitte
+- 1 Tatsumasa, the Dragon's Fang
+- 1 Rending Vines
+- 1 Okiba-Gang Shinobi
+- 1 Horobi's Whisper
+- 1 Exile into Darkness 
