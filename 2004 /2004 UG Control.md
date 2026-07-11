@@ -33,7 +33,7 @@ Deck
 - 4 Oxidize
 - 2 Rude Awakening
 - 4 Serum Visions
-- 1 Thirst For Knowledge
+- 1 Thirst for Knowledge
 
 Sideboard
 - 3 Annul
