@@ -1,5 +1,5 @@
 Reference 
-- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2004_Tooth_and_Nail.png
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2004_Grand_Prix_New_Jersey_winning_deck_by_Jeff_Garza.png
 
 Format
 - 5DN
