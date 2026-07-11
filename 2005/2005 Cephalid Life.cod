@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Cephalid Life</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Seattle 2005 top 4 deck by Nakamura Shuhei</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Aether Vial" setShortName="DST" collectorNumber="91" uuid="741c479b-5e92-4837-9673-9bc72aa11d26"/>
+        <card number="1" name="Adarkar Wastes" setShortName="6ED" collectorNumber="319" uuid="764eff32-466f-4443-a3db-1007f446980b"/>
+        <card number="1" name="Adarkar Wastes" setShortName="7ED" collectorNumber="325" uuid="9bd991b2-8c18-4c5f-9b70-461012fee61e"/>
+        <card number="1" name="Brushland" setShortName="6ED" collectorNumber="320" uuid="792f4213-67ab-41d9-975d-ff783668f93d"/>
+        <card number="1" name="Brushland" setShortName="7ED" collectorNumber="326" uuid="8b983b45-e8be-49e1-84c1-cec204395264"/>
+        <card number="2" name="Caves of Koilos" setShortName="APC" collectorNumber="140" uuid="144dd08e-451e-4438-b572-7a138e1a15f3"/>
+        <card number="2" name="City of Brass" setShortName="6ED" collectorNumber="321" uuid="81ff64e0-e7bd-4e82-8495-2cc8889c4107"/>
+        <card number="1" name="City of Brass" setShortName="7ED" collectorNumber="327" uuid="2ac29c5c-3c55-4778-9bcd-642d38a0d3f9"/>
+        <card number="1" name="City of Brass" setShortName="8ED" collectorNumber="322" uuid="03220cab-fc78-4323-bd34-b8dbebe35597"/>
+        <card number="4" name="Forbidden Orchard" setShortName="CHK" collectorNumber="276" uuid="88d78261-c8c9-4e0e-b157-f70ed46c3a25"/>
+        <card number="2" name="Llanowar Wastes" setShortName="APC" collectorNumber="141" uuid="610b7cd5-5532-45a9-acfe-24a818034d1c"/>
+        <card number="2" name="Starlit Sanctum" setShortName="ONS" collectorNumber="325" uuid="ace5e601-2583-4d9c-8bdf-aa33666c717c"/>
+        <card number="1" name="Tarnished Citadel" setShortName="ODY" collectorNumber="329" uuid="30375d24-ccfe-47a2-babd-1bda0a6298fe"/>
+        <card number="1" name="Underground River" setShortName="6ED" collectorNumber="330" uuid="142dd41a-0e98-41d7-9de9-63cda1cf8915"/>
+        <card number="1" name="Dragon Breath" setShortName="SCG" collectorNumber="86" uuid="1832aaed-e164-4f78-9bc9-ec6c015835f5"/>
+        <card number="2" name="Shuko" setShortName="BOK" collectorNumber="159" uuid="a47456b8-cef8-4085-90b1-92788e16fd27"/>
+        <card number="4" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="1" name="Krosan Reclamation" setShortName="JUD" collectorNumber="122" uuid="5b3c5144-7e15-46c6-b819-d729ecb30bb1"/>
+        <card number="4" name="Vampiric Tutor" setShortName="6ED" collectorNumber="161" uuid="c8505bc8-218f-4b56-be78-ebde535ebaa0"/>
+        <card number="3" name="Worldly Tutor" setShortName="6ED" collectorNumber="269" uuid="b34d9054-5ad8-4a7d-a5c8-58bc39051834"/>
+        <card number="1" name="Worthy Cause" setShortName="TMP" collectorNumber="53" uuid="1f610d8b-1782-43a4-bfb3-40887bdedba0"/>
+        <card number="2" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="1" name="Exhume" setShortName="USG" collectorNumber="134" uuid="a88b23ce-ce19-47da-b9f2-055a4d6bdc79"/>
+        <card number="3" name="Living Wish" setShortName="JUD" collectorNumber="124" uuid="2478a8d2-ca44-4c42-8d75-dd9cb1b59f61"/>
+        <card number="2" name="Reanimate" setShortName="TMP" collectorNumber="151" uuid="ae1ef31c-8ca5-444c-8f39-e1d1827318f5"/>
+        <card number="3" name="Cephalid Illusionist" setShortName="TOR" collectorNumber="28" uuid="dceb8cf5-b31a-400e-aea5-ad0c3552d697"/>
+        <card number="3" name="Daru Spiritualist" setShortName="SCG" collectorNumber="5" uuid="18f26b88-cffc-47ed-a70a-7d704a32c8bb"/>
+        <card number="1" name="Krosan Cloudscraper" setShortName="LGN" collectorNumber="130" uuid="51ef4cda-e55b-45a8-9c02-4e77e5b15a9e"/>
+        <card number="1" name="Krosan Cloudscraper" setShortName="TSB" collectorNumber="82" uuid="9c5ac459-ebb7-44ec-bb6e-412c5ab04b75"/>
+        <card number="3" name="Nomads en-Kor" setShortName="STH" collectorNumber="9" uuid="b3a03c68-0ebe-488a-8e6c-7cbf7a448416"/>
+        <card number="1" name="Sutured Ghoul" setShortName="JUD" collectorNumber="73" uuid="f769536f-def1-40b8-863f-ba12c7cb0d87"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dragon Shadow" setShortName="SCG" collectorNumber="65" uuid="0ec35e03-022b-417c-9987-7379cf3956f9"/>
+        <card number="2" name="Defense Grid" setShortName="ULG" collectorNumber="125" uuid="5c2592c9-7e64-40c1-a9cb-c0994094a1e0"/>
+        <card number="1" name="Defense Grid" setShortName="8ED" collectorNumber="296" uuid="61527b06-bbc9-4f3c-a5db-98ef02063482"/>
+        <card number="1" name="Dosan the Falling Leaf" setShortName="CHK" collectorNumber="205" uuid="ffb190db-48fc-4c39-ae9f-5e304eabb4f4"/>
+        <card number="1" name="Disenchant" setShortName="TMP" collectorNumber="16" uuid="8a65e678-dcb9-4c6c-9a30-8332030dead6"/>
+        <card number="1" name="Ray of Revelation" setShortName="JUD" collectorNumber="20" uuid="6d762c8c-6172-4dc0-8fcc-d0f6dd8ca013"/>
+        <card number="1" name="Reanimate" setShortName="TMP" collectorNumber="151" uuid="ae1ef31c-8ca5-444c-8f39-e1d1827318f5"/>
+        <card number="1" name="Gilded Drake" setShortName="USG" collectorNumber="76" uuid="8de3fdae-cc2c-4a14-b15b-4fe1a983dfbf"/>
+        <card number="1" name="Kami of Ancient Law" setShortName="CHK" collectorNumber="21" uuid="b7cb7fdc-fa47-4485-b268-7c2ddff28568"/>
+        <card number="1" name="Cephalid Illusionist" setShortName="TOR" collectorNumber="28" uuid="dceb8cf5-b31a-400e-aea5-ad0c3552d697"/>
+        <card number="1" name="Uktabi Orangutan" setShortName="6ED" collectorNumber="260" uuid="b6a944ef-dbf2-47c9-a245-dfd2533a0680"/>
+        <card number="1" name="Daru Spiritualist" setShortName="SCG" collectorNumber="5" uuid="18f26b88-cffc-47ed-a70a-7d704a32c8bb"/>
+        <card number="1" name="Nomads en-Kor" setShortName="STH" collectorNumber="9" uuid="b3a03c68-0ebe-488a-8e6c-7cbf7a448416"/>
+        <card number="1" name="Starlit Sanctum" setShortName="ONS" collectorNumber="325" uuid="ace5e601-2583-4d9c-8bdf-aa33666c717c"/>
+    </zone>
+</cockatrice_deck>
