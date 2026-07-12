@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Stax</deckname>
+    <format>vintage</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2005 Vintage Championship winning deck by Roland Chang</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Barbarian Ring" setShortName="ODY" collectorNumber="313" uuid="1809361e-ae1a-4c47-8464-e6496e94d962"/>
+        <card number="1" name="City of Brass" setShortName="ARN" collectorNumber="71" uuid="f4e32327-380d-471e-813b-4c27477787ce"/>
+        <card number="1" name="City of Brass" setShortName="CHR" collectorNumber="112" uuid="61e9c770-f05b-40df-a01f-82b734db1733"/>
+        <card number="1" name="City of Brass" setShortName="5ED" collectorNumber="413" uuid="56816a2d-4faa-4fbd-bf1a-35fa3e90ccf6"/>
+        <card number="1" name="City of Brass" setShortName="6ED" collectorNumber="321" uuid="81ff64e0-e7bd-4e82-8495-2cc8889c4107"/>
+        <card number="3" name="Gemstone Mine" setShortName="WTH" collectorNumber="164" uuid="09507f7f-c58f-4f57-b878-b39811a5b619"/>
+        <card number="4" name="Mishra's Workshop" setShortName="ATQ" collectorNumber="81" uuid="135de5c7-6ac9-4b68-8f1a-97f120a4b125"/>
+        <card number="1" name="Strip Mine" setShortName="ATQ" collectorNumber="82a" uuid="e7880157-7f27-4f1b-9cdc-ab36a6252376"/>
+        <card number="1" name="Tolarian Academy" setShortName="USG" collectorNumber="330" uuid="ad7ac9a5-340f-4509-826c-7b9416d47887"/>
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+        <card number="1" name="Black Lotus" setShortName="LEA" collectorNumber="232" uuid="b0faa7f2-b547-42c4-a810-839da50dadfe"/>
+        <card number="3" name="Crucible of Worlds" setShortName="5DN" collectorNumber="114" uuid="312a6058-de08-487d-95bd-b3c56807fdd6"/>
+        <card number="1" name="Mana Crypt" setShortName="PHPR" collectorNumber="5" uuid="160cf235-6463-4e16-a426-8b5be76b10d2"/>
+        <card number="1" name="Mana Vault" setShortName="LEA" collectorNumber="259" uuid="19499cb7-eccb-4e69-af32-6002d447a160"/>
+        <card number="1" name="Mox Emerald" setShortName="LEA" collectorNumber="261" uuid="b0e1427c-05cd-465b-be59-97ed6e39f7ba"/>
+        <card number="1" name="Mox Jet" setShortName="LEA" collectorNumber="262" uuid="92bcd1ce-19b1-4d78-8b09-95242ca08d76"/>
+        <card number="1" name="Mox Pearl" setShortName="LEA" collectorNumber="263" uuid="8ebe4be7-e12a-4596-a899-fbd5b152e879"/>
+        <card number="1" name="Mox Ruby" setShortName="LEA" collectorNumber="264" uuid="8945585f-4773-493d-a0fe-d707db910b38"/>
+        <card number="1" name="Mox Sapphire" setShortName="LEA" collectorNumber="265" uuid="82da0972-b17b-4600-9efd-e9430a0db04b"/>
+        <card number="4" name="Smokestack" setShortName="USG" collectorNumber="309" uuid="6a37ab2d-094f-431e-878f-93aef0360413"/>
+        <card number="1" name="Sol Ring" setShortName="LEA" collectorNumber="269" uuid="c4300d24-1cae-4dd5-be7e-38cc677cf5bd"/>
+        <card number="3" name="Sphere of Resistance" setShortName="EXO" collectorNumber="139" uuid="17f4d2a5-bb85-4662-b2dd-a363ec7eab9b"/>
+        <card number="4" name="Tangle Wire" setShortName="NEM" collectorNumber="139" uuid="ad62f313-8a8a-4ffa-ada2-b12b76288729"/>
+        <card number="1" name="Trinisphere" setShortName="DST" collectorNumber="154" uuid="d465597a-362e-4bd0-b547-f11d8807e597"/>
+        <card number="1" name="Ancestral Recall" setShortName="LEA" collectorNumber="47" uuid="70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b"/>
+        <card number="1" name="Crop Rotation" setShortName="ULG" collectorNumber="98" uuid="6563f790-862c-465a-b963-7a61f2385516"/>
+        <card number="1" name="Swords to Plowshares" setShortName="LEA" collectorNumber="40" uuid="386ea9eb-abc1-4862-aa2d-8fb808d79490"/>
+        <card number="3" name="Thirst for Knowledge" setShortName="MRD" collectorNumber="53" uuid="0ff1f608-203e-4413-8753-37fc49731c87"/>
+        <card number="1" name="Vampiric Tutor" setShortName="VIS" collectorNumber="72" uuid="0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d"/>
+        <card number="1" name="Balance" setShortName="LEA" collectorNumber="3" uuid="6f9ea46a-411f-40ce-a873-a905180093f4"/>
+        <card number="1" name="Demonic Tutor" setShortName="LEA" collectorNumber="104" uuid="711d4d54-5520-4de8-9b93-79902ed8e562"/>
+        <card number="1" name="Tinker" setShortName="ULG" collectorNumber="45" uuid="7da23b15-dfb8-4267-9b33-d7a4c035c434"/>
+        <card number="4" name="Goblin Welder" setShortName="ULG" collectorNumber="80" uuid="6171e136-1167-4329-acb2-6853d3a814e5"/>
+        <card number="1" name="Gorilla Shaman" setShortName="ALL" collectorNumber="72a" uuid="bf8b213e-31ca-4eb5-bf0b-515a0ad4fd31"/>
+        <card number="1" name="Karn, Silver Golem" setShortName="USG" collectorNumber="298" uuid="811a0988-2900-426c-9413-8f1778d99678"/>
+        <card number="1" name="Sundering Titan" setShortName="DST" collectorNumber="146" uuid="3e4bd552-e629-41a4-868f-d656187317b7"/>
+        <card number="1" name="Triskelion" setShortName="ATQ" collectorNumber="73" uuid="a79c99e1-722a-44b6-8fa3-2be3f0c193d8"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Viashino Heretic" setShortName="ULG" collectorNumber="95" uuid="143e435e-e3a1-45b0-81c3-bd47916df8ac"/>
+        <card number="1" name="Red Elemental Blast" setShortName="LEA" collectorNumber="169" uuid="776ad9be-3309-4f1d-9f27-6219d9477662"/>
+        <card number="1" name="Red Elemental Blast" setShortName="LEB" collectorNumber="170" uuid="4fafd3f9-f7de-4d6e-8824-6b60866fc50f"/>
+        <card number="1" name="Tormod's Crypt" setShortName="DRK" collectorNumber="112" uuid="0f9668ba-d26d-4484-b4b8-6fb91fbfb617"/>
+        <card number="1" name="Tormod's Crypt" setShortName="CHR" collectorNumber="109" uuid="55709270-74b2-4a3f-947d-29ac7c309b0f"/>
+        <card number="2" name="Seal of Cleansing" setShortName="NEM" collectorNumber="18" uuid="af6c921e-1b82-412c-9979-adfdf83440f7"/>
+        <card number="1" name="Red Elemental Blast" setShortName="2ED" collectorNumber="170" uuid="1c69e1c9-e8ed-4497-8098-0d412a09c0f9"/>
+        <card number="1" name="Choke" setShortName="TMP" collectorNumber="219" uuid="e2f85205-3c4f-4411-b09c-d1271be56dde"/>
+        <card number="1" name="Jester's Cap" setShortName="ICE" collectorNumber="324" uuid="47ac44d0-8090-4e7b-ac47-c567294f185e"/>
+        <card number="1" name="Choke" setShortName="8ED" collectorNumber="237" uuid="e1ce4bab-6eb1-421f-b425-7bb0076defc7"/>
+        <card number="3" name="Chalice of the Void" setShortName="MRD" collectorNumber="150" uuid="1a02ca71-5e39-4a5f-aaba-a1e3e10a6a3e"/>
+    </zone>
+</cockatrice_deck>
