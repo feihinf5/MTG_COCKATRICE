@@ -1,4 +1,5 @@
 ## 2005
+- https://web.archive.org/web/20110717015153/http://www.themagictutor.com/torneospremier/nacarg2005/nacarg05mazos/nacarg05mazos.html
 - http://web.archive.org/web/20210429203913/https://magic.wizards.com/en/events/coverage/vintage05
 - http://web.archive.org/web/20210725182926/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2005-08-13
 - https://web.archive.org/web/20211202062800/https://magic.wizards.com/en/articles/archive/feature/truth-about-english-nationals-2005-2005-08-25
