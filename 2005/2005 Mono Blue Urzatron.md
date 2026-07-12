@@ -12,9 +12,9 @@ Format
 
 Note
 - 2005 United States National Championship winning deck by Antonino De Rosa
-- Huge mana supplies for power heavy artifacts like [**Oblivion Stone**] and [**Staff of Domination**]
-- Loop [**Solemn Simulacrum**] or [**Triskelion**] using [**Skeleton Shard**]
-- Finishers utilize [**Meloku the Clouded Mirror**] along with [**Memnarch**]
+- Huge mana supplies for power heavy artifacts like [**Oblivion Stone**](https://api.scryfall.com/cards/ddba1566-2778-4636-b4d3-9095fb2d83c8?format=image) and [**Staff of Domination**](https://api.scryfall.com/cards/7980fc3b-71d5-427d-bd42-087256fd2059?format=image)
+- Loop [**Solemn Simulacrum**](https://api.scryfall.com/cards/00f9955f-a522-47bf-b064-92dd21a76b18?format=image) or [**Triskelion**](https://api.scryfall.com/cards/8b997abd-8eae-4e87-97fc-36dde95ef8c7?format=image) using [**Skeleton Shard**](https://api.scryfall.com/cards/eeffcd61-ea1f-4ccd-b3d3-79efa9d4a0cf?format=image)
+- Finishers utilize [**Meloku the Clouded Mirror**](https://api.scryfall.com/cards/1caaa733-6d4c-4e18-a64e-f95851c7063b?format=image) along with [**Memnarch**](https://api.scryfall.com/cards/57ae2417-b859-4254-a3a5-6bff159447ca?format=image)
 
 Deck
 - 2 Memnarch
