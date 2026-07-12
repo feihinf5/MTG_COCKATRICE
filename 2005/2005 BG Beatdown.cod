@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 BG Beatdown</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2005 Argentina National Championship winning deck by Victor Villanueva</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="303" uuid="77aec0b2-30f2-4f35-a9a3-24d87795d177"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="304" uuid="174cb9a0-afa3-4f45-b317-238fa9d4f55f"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="306" uuid="7c4bfc1c-20d5-40f4-8863-c69a89872159"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="305" uuid="37f8d695-a3e4-4707-9db9-886849ce4c42"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="303" uuid="a3209b22-56af-45ac-9224-67574c035638"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="304" uuid="b9cf9a4b-be51-4f5d-ac0e-e4f79bbfaecd"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="305" uuid="c1629dba-02af-4586-ba59-58faac7cf59b"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="306" uuid="88f06e37-f113-4865-9ad9-13483dd15084"/>
+        <card number="1" name="Forest" setShortName="9ED" collectorNumber="347" uuid="5029a818-e076-4ae3-a246-693ec7615e15"/>
+        <card number="2" name="Llanowar Wastes" setShortName="APC" collectorNumber="141" uuid="610b7cd5-5532-45a9-acfe-24a818034d1c"/>
+        <card number="2" name="Llanowar Wastes" setShortName="9ED" collectorNumber="322" uuid="a7218c70-b170-4d23-b98f-f8fa29312994"/>
+        <card number="1" name="Okina, Temple to the Grandfathers" setShortName="CHK" collectorNumber="280" uuid="ee8cf7aa-388c-47ec-be59-6ba98f3853cb"/>
+        <card number="1" name="Swamp" setShortName="MRD" collectorNumber="295" uuid="6bae27d4-9de5-4f95-8c56-79afc6cbeb0c"/>
+        <card number="1" name="Swamp" setShortName="MRD" collectorNumber="296" uuid="45927890-52ef-448c-b302-4192afa27a04"/>
+        <card number="1" name="Swamp" setShortName="MRD" collectorNumber="298" uuid="93d48cef-cfaf-4223-9efb-d76762a896d6"/>
+        <card number="1" name="Swamp" setShortName="MRD" collectorNumber="297" uuid="c4b5147e-99b0-47fd-bec2-3baaf7e8ac4a"/>
+        <card number="1" name="Swamp" setShortName="CHK" collectorNumber="295" uuid="9d376282-adf0-4d37-b9a4-1329cd496516"/>
+        <card number="1" name="Swamp" setShortName="CHK" collectorNumber="296" uuid="f88a6fa7-58e7-459c-8e2e-be5a4692450b"/>
+        <card number="1" name="Swamp" setShortName="CHK" collectorNumber="297" uuid="d0878ac9-6a80-4412-999d-4c6549b9afd4"/>
+        <card number="1" name="Tomb of Urami" setShortName="SOK" collectorNumber="165" uuid="90fedf90-825c-4814-8f0d-170f537db44c"/>
+        <card number="2" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="3" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="2" name="Terror" setShortName="MRD" collectorNumber="79" uuid="f41651db-619a-4ab4-86cf-a0d32297dbdf"/>
+        <card number="3" name="Persecute" setShortName="9ED" collectorNumber="151" uuid="54af13f6-7a7b-431d-9dda-6492d135563f"/>
+        <card number="2" name="Ink-Eyes, Servant of Oni" setShortName="BOK" collectorNumber="71" uuid="386d391d-a3f8-49a4-802a-409944b2acf3"/>
+        <card number="3" name="Iwamori of the Open Fist" setShortName="BOK" collectorNumber="130" uuid="08c51fcf-ab5c-46fa-aa4b-14cd01c7a577"/>
+        <card number="3" name="Rend Flesh" setShortName="CHK" collectorNumber="140" uuid="92b300a3-e6a8-4ca9-bb26-03f57b5ff6ec"/>
+        <card number="4" name="Eternal Witness" setShortName="5DN" collectorNumber="86" uuid="c7e10ca7-1e5d-4224-82cf-798a4d436d72"/>
+        <card number="4" name="Llanowar Elves" setShortName="9ED" collectorNumber="253" uuid="913907e2-28dd-4080-b725-52a43868e060"/>
+        <card number="2" name="Viridian Shaman" setShortName="MRD" collectorNumber="139" uuid="932bf583-efd3-42e9-8a7b-7b3fe07fbcf0"/>
+        <card number="2" name="Viridian Shaman" setShortName="9ED" collectorNumber="280" uuid="21971049-f988-40ec-b5ae-0ac0575f1939"/>
+        <card number="4" name="Sakura-Tribe Elder" setShortName="CHK" collectorNumber="239" uuid="91c7707a-bae0-4196-bf26-d276f57b7369"/>
+        <card number="4" name="Troll Ascetic" setShortName="MRD" collectorNumber="135" uuid="f01233c2-6df0-4f0e-8668-3855868731ea"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Hideous Laughter" setShortName="CHK" collectorNumber="115" uuid="941fd135-1c5a-4650-8faf-dfa2c93ec8c9"/>
+        <card number="2" name="Okiba-Gang Shinobi" setShortName="BOK" collectorNumber="76" uuid="5cd9297e-301e-4e70-af9b-3218eacacf8d"/>
+        <card number="1" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="2" name="Naturalize" setShortName="9ED" collectorNumber="258" uuid="595f1019-2608-4d00-8b9b-7f22e87acd0d"/>
+        <card number="4" name="Aether Vial" setShortName="DST" collectorNumber="91" uuid="741c479b-5e92-4837-9673-9bc72aa11d26"/>
+        <card number="3" name="Nezumi Shortfang" setShortName="CHK" collectorNumber="131" uuid="c8265c39-d287-4c5a-baba-f2f09dd80a1c"/>
+    </zone>
+</cockatrice_deck>
