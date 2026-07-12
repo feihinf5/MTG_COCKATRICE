@@ -8,8 +8,8 @@ Format
 
 Note
 - Grand Prix-Taipei 2005 winning deck by Fujita Osamu
-- [**Honor-Worn Shaku**] accelerates mana to quickly deploy massive creatures and maximizes [**Hokori, Dust Drinker**], whose mana-lock heavily counters top-tier Gifts Control decks reliant on mana advantage
-- Blue Splash to includes [**Meloku the Clouded Mirror**] as a powerful fatty and [**Hisoka's Defiance**] in the sideboard for counter magic
+- [**Honor-Worn Shaku**](https://api.scryfall.com/cards/babe91f2-06be-4501-a95b-20968e906e1b?format=image) accelerates mana to quickly deploy massive creatures and maximizes [**Hokori, Dust Drinker**](https://api.scryfall.com/cards/5a03f5d5-d5c3-4a7d-8d44-e60b498b4ed5?format=image), whose mana-lock heavily counters top-tier Gifts Control decks reliant on mana advantage
+- Blue Splash to includes [**Meloku the Clouded Mirror**](https://api.scryfall.com/cards/1caaa733-6d4c-4e18-a64e-f95851c7063b?format=image) as a powerful fatty and [**Hisoka's Defiance**](https://api.scryfall.com/cards/09fd4d01-1204-46a3-b237-45c37985acac?format=image) in the sideboard for counter magic
 
 Deck
 - 4 Isamaru, Hound of Konda
