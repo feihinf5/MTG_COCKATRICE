@@ -12,7 +12,7 @@ Format
 
 Note
 - 2005 French National Championship winning deck by Julien Goron
-- [**Sensei's Divining Top**] allowed the deck to assemble Urza lands faster reaching and casting [**Tooth and Nail**]
+- [**Sensei's Divining Top**](https://api.scryfall.com/cards/4a08ca06-58db-4ce6-b490-be4bea8956a1?format=image) allowed the deck to assemble Urza lands faster reaching and casting [**Tooth and Nail**](https://api.scryfall.com/cards/02f0067c-2d38-46bd-b52e-070c2ce424f0?format=image)
 
 Deck
 - 3 Vine Trellis
