@@ -8,6 +8,8 @@ Format
 
 Note
 - Grand Prix-Taipei 2005 winning deck by Fujita Osamu
+- [**Honor-Worn Shaku**] accelerates mana to quickly deploy massive creatures and maximizes [**Hokori, Dust Drinker**], whose mana-lock heavily counters top-tier Gifts Control decks reliant on mana advantage
+- Blue Splash to includes [**Meloku the Clouded Mirror**] as a powerful fatty and [**Hisoka's Defiance**] in the sideboard for counter magic
 
 Deck
 - 4 Isamaru, Hound of Konda
