@@ -12,6 +12,9 @@ Format
 
 Note
 - 2005 United States National Championship winning deck by Antonino De Rosa
+- Huge mana supplies for power heavy artifacts like [**Oblivion Stone**] and [**Staff of Domination**]
+- Loop [**Solemn Simulacrum**] or [**Triskelion**] using [**Skeleton Shard**]
+- Finishers utilize [**Meloku the Clouded Mirror**] along with [**Memnarch**]
 
 Deck
 - 2 Memnarch
