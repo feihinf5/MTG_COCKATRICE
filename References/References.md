@@ -1,4 +1,5 @@
 ## 2005
+- http://web.archive.org/web/20210725182926/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2005-08-13
 - https://web.archive.org/web/20211202062800/https://magic.wizards.com/en/articles/archive/feature/truth-about-english-nationals-2005-2005-08-25
 - https://web.archive.org/web/20161201102144/https://magic.wizards.com/en/events/coverage/franat05
 - https://web.archive.org/web/20161201102144/http://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2005-07-17
