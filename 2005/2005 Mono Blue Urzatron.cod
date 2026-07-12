@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Mono Blue Urzatron</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2005 United States National Championship winning deck by Antonino De Rosa</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Island" setShortName="MRD" collectorNumber="291" uuid="9a5235cd-5d25-498d-8e36-7a7c0791f212"/>
+        <card number="1" name="Island" setShortName="MRD" collectorNumber="292" uuid="12dd90bb-b5d1-47a3-b566-3407db04dd55"/>
+        <card number="1" name="Island" setShortName="MRD" collectorNumber="294" uuid="de46f610-fab8-4819-b86a-d1defed319a1"/>
+        <card number="1" name="Island" setShortName="MRD" collectorNumber="293" uuid="9db3309e-2893-4a39-876f-fd68ea057e22"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="291" uuid="d5170ce9-2463-4fec-945b-6c2f23eb7e22"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="293" uuid="5d141922-570d-4652-9620-2b53eb68294a"/>
+        <card number="1" name="Minamo, School at Water's Edge" setShortName="CHK" collectorNumber="279" uuid="7536292c-da25-41c8-ba28-1e35758a7f3d"/>
+        <card number="1" name="Oboro, Palace in the Clouds" setShortName="SOK" collectorNumber="164" uuid="ffc2d68e-6543-43ec-b67a-afff1325a32f"/>
+        <card number="1" name="Swamp" setShortName="MRD" collectorNumber="295" uuid="6bae27d4-9de5-4f95-8c56-79afc6cbeb0c"/>
+        <card number="4" name="Urza's Mine" setShortName="9ED" collectorNumber="327" uuid="7a235785-b720-483b-bb28-6de440be2129"/>
+        <card number="4" name="Urza's Power Plant" setShortName="9ED" collectorNumber="328" uuid="3115c04a-ac26-4361-aecd-c6fb5f03a96f"/>
+        <card number="4" name="Urza's Tower" setShortName="9ED" collectorNumber="329" uuid="513e063c-b328-4e5f-8806-b232c38645f5"/>
+        <card number="3" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="3" name="Mindslaver" setShortName="MRD" collectorNumber="206" uuid="98fb1eaa-2871-491a-a4f5-3e358778ba40"/>
+        <card number="3" name="Sensei's Divining Top" setShortName="CHK" collectorNumber="268" uuid="4a08ca06-58db-4ce6-b490-be4bea8956a1"/>
+        <card number="3" name="Talisman of Dominance" setShortName="MRD" collectorNumber="253" uuid="991037a2-fea2-49f5-8ace-ebbf9f678cff"/>
+        <card number="4" name="Condescend" setShortName="5DN" collectorNumber="27" uuid="e8303b80-e29a-46b8-90b0-c0cfe551b435"/>
+        <card number="3" name="Echoing Truth" setShortName="DST" collectorNumber="21" uuid="4aefedd7-1bf5-4148-9084-d7d8f1138140"/>
+        <card number="3" name="Mana Leak" setShortName="9ED" collectorNumber="86" uuid="60e6486c-644f-4b32-b4e9-3ca29bbdb400"/>
+        <card number="4" name="Thirst for Knowledge" setShortName="MRD" collectorNumber="53" uuid="0ff1f608-203e-4413-8753-37fc49731c87"/>
+        <card number="2" name="Concentrate" setShortName="8ED" collectorNumber="68" uuid="ed69afaf-74cc-4b4f-8794-751477231cff"/>
+        <card number="3" name="Serum Visions" setShortName="5DN" collectorNumber="36" uuid="4bc61952-88ba-447a-835a-f1e9643fcd0d"/>
+        <card number="2" name="Memnarch" setShortName="DST" collectorNumber="129" uuid="57ae2417-b859-4254-a3a5-6bff159447ca"/>
+        <card number="3" name="Solemn Simulacrum" setShortName="MRD" collectorNumber="245" uuid="00f9955f-a522-47bf-b064-92dd21a76b18"/>
+        <card number="3" name="Triskelion" setShortName="MRD" collectorNumber="269" uuid="8b997abd-8eae-4e87-97fc-36dde95ef8c7"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Annul" setShortName="MRD" collectorNumber="29" uuid="8ba18ec8-e82f-41be-9ed8-b1a4ae9b7426"/>
+        <card number="4" name="Cranial Extraction" setShortName="CHK" collectorNumber="105" uuid="a8cad7a3-777e-4c84-b404-5f504844ab3b"/>
+        <card number="1" name="Duplicant" setShortName="MRD" collectorNumber="165" uuid="d48a96f2-738f-433f-bfae-fbf378832a3b"/>
+        <card number="4" name="Sun Droplet" setShortName="MRD" collectorNumber="249" uuid="9bdd01de-2ac6-4393-ad53-d52df137bc08"/>
+        <card number="3" name="Meloku the Clouded Mirror" setShortName="CHK" collectorNumber="74" uuid="1caaa733-6d4c-4e18-a64e-f95851c7063b"/>
+        <card number="1" name="Talisman of Dominance" setShortName="MRD" collectorNumber="253" uuid="991037a2-fea2-49f5-8ace-ebbf9f678cff"/>
+    </zone>
+</cockatrice_deck>
