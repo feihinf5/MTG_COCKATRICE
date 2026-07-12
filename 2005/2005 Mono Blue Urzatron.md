@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2005_United_States_National_Championship_winning_deck_by_Antonino_%20De_Rosa.png
 
 Format
 - CARD_SET
