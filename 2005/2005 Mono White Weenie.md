@@ -26,7 +26,8 @@ Deck
 - 4 Chrome Mox
 - 4 Glorious Anthem
 - 4 Blinkmoth Nexus
-- 1 Eiganjo Castle 13 Plains 
+- 1 Eiganjo Castle
+- 13 Plains 
 
 Sideboard
 - 1 Auriok Champion
