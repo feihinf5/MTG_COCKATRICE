@@ -29,7 +29,7 @@ Deck
 - 4 Nezumi Shortfang
 - 3 Chittering Rats
 - 3 Viridian Shaman
-- 2 Nékrataal
+- 2 Nekrataal
 - 2 Ink-Eyes, Servant of Oni
 - 3 Night's Whisper
 - 3 Rend Flesh
