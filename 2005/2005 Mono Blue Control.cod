@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Mono Blue Control</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Salt Lake City 2005 winning deck by Antonino De Rosa</comments>
+    <tags/>
+    <zone name="main">
+        <card number="5" name="Island" setShortName="CHK" collectorNumber="291" uuid="d5170ce9-2463-4fec-945b-6c2f23eb7e22"/>
+        <card number="5" name="Island" setShortName="CHK" collectorNumber="292" uuid="f12c5ae3-8c55-4bd9-a64f-3960d45c0563"/>
+        <card number="5" name="Island" setShortName="CHK" collectorNumber="293" uuid="5d141922-570d-4652-9620-2b53eb68294a"/>
+        <card number="5" name="Island" setShortName="CHK" collectorNumber="294" uuid="35c20f8b-6ad1-4aa2-94d3-7bd42562a1ac"/>
+        <card number="1" name="Mikokoro, Center of the Sea" setShortName="SOK" collectorNumber="162" uuid="7ef72797-328e-4303-8ffb-9686086648b8"/>
+        <card number="1" name="Minamo, School at Water's Edge" setShortName="CHK" collectorNumber="279" uuid="7536292c-da25-41c8-ba28-1e35758a7f3d"/>
+        <card number="1" name="Miren, the Moaning Well" setShortName="SOK" collectorNumber="163" uuid="53d414f0-15ae-446b-a8d7-56c1b502740c"/>
+        <card number="1" name="Oboro, Palace in the Clouds" setShortName="SOK" collectorNumber="164" uuid="ffc2d68e-6543-43ec-b67a-afff1325a32f"/>
+        <card number="1" name="Shizo, Death's Storehouse" setShortName="CHK" collectorNumber="283" uuid="2de9a046-3db1-436e-b666-ba96e2e8c5db"/>
+        <card number="3" name="Threads of Disloyalty" setShortName="BOK" collectorNumber="56" uuid="999440a5-9659-4218-8594-1950f1155975"/>
+        <card number="4" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="3" name="Consuming Vortex" setShortName="CHK" collectorNumber="54" uuid="493ee99c-74ca-4d78-ade2-c6a93b0bd4fd"/>
+        <card number="3" name="Disrupting Shoal" setShortName="BOK" collectorNumber="33" uuid="15589745-4c0a-4edf-ad45-3b7fa45e70c5"/>
+        <card number="4" name="Hinder" setShortName="CHK" collectorNumber="65" uuid="dc7befed-805b-4a02-a87d-7df3a95db8a0"/>
+        <card number="3" name="Hisoka's Defiance" setShortName="CHK" collectorNumber="67" uuid="09fd4d01-1204-46a3-b237-45c37985acac"/>
+        <card number="2" name="Minamo's Meddling" setShortName="BOK" collectorNumber="42" uuid="502c4aca-98f8-4c7d-89fd-ee42c938fac7"/>
+        <card number="3" name="Azami, Lady of Scrolls" setShortName="CHK" collectorNumber="52" uuid="15ea91b1-f2ff-4b99-8148-333aa27ea8cd"/>
+        <card number="4" name="Jushi Apprentice" setShortName="CHK" collectorNumber="70" uuid="33a8e5b9-6bfb-4ff2-a16d-3168a5412807"/>
+        <card number="3" name="Keiga, the Tide Star" setShortName="CHK" collectorNumber="72" uuid="ea83eaeb-cf82-406b-977f-2bac41925739"/>
+        <card number="3" name="Meloku the Clouded Mirror" setShortName="CHK" collectorNumber="74" uuid="1caaa733-6d4c-4e18-a64e-f95851c7063b"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Journeyer's Kite" setShortName="CHK" collectorNumber="257" uuid="3aa17062-4355-468f-b8ba-352b7511b847"/>
+        <card number="2" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="1" name="Threads of Disloyalty" setShortName="BOK" collectorNumber="56" uuid="999440a5-9659-4218-8594-1950f1155975"/>
+        <card number="2" name="Squelch" setShortName="CHK" collectorNumber="92" uuid="29421dd2-70a7-4623-afe0-ca4cb415ec87"/>
+        <card number="1" name="Overwhelming Intellect" setShortName="SOK" collectorNumber="51" uuid="cbeea686-7efc-48f5-b90b-bf1befc76a30"/>
+        <card number="4" name="River Kaijin" setShortName="CHK" collectorNumber="83" uuid="e403cad6-84b0-4a6b-a2d8-cb572ec09932"/>
+        <card number="1" name="Hisoka's Defiance" setShortName="CHK" collectorNumber="67" uuid="09fd4d01-1204-46a3-b237-45c37985acac"/>
+        <card number="1" name="Keiga, the Tide Star" setShortName="CHK" collectorNumber="72" uuid="ea83eaeb-cf82-406b-977f-2bac41925739"/>
+        <card number="1" name="Meloku the Clouded Mirror" setShortName="CHK" collectorNumber="74" uuid="1caaa733-6d4c-4e18-a64e-f95851c7063b"/>
+    </zone>
+</cockatrice_deck>
