@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Sligh</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2005 Netherlands National Championship winning deck by Douwe van Noordenburg</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Blinkmoth Nexus" setShortName="DST" collectorNumber="163" uuid="bf51c665-7823-4d6a-b1da-8c2d93dae10b"/>
+        <card number="4" name="Mountain" setShortName="MRD" collectorNumber="299" uuid="b082f22f-6c01-4e8c-80ad-6fdae5c3f22f"/>
+        <card number="4" name="Mountain" setShortName="MRD" collectorNumber="300" uuid="4399a832-4406-4a12-a5e5-81744d02ceec"/>
+        <card number="4" name="Mountain" setShortName="MRD" collectorNumber="302" uuid="22965406-d8d7-46ad-992e-7fc0e994698d"/>
+        <card number="4" name="Mountain" setShortName="MRD" collectorNumber="301" uuid="ba50901e-a030-4f52-8369-f4c9ca6b9c7a"/>
+        <card number="1" name="Shinka, the Bloodsoaked Keep" setShortName="CHK" collectorNumber="282" uuid="d2d5f30e-cc3a-46c1-82a9-2cd73705b2f5"/>
+        <card number="2" name="Genju of the Spires" setShortName="BOK" collectorNumber="105" uuid="c4302b20-d445-4ef4-a6b7-6db311aa24a2"/>
+        <card number="3" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="4" name="Magma Jet" setShortName="5DN" collectorNumber="73" uuid="51ea1728-08aa-4553-90b2-919c70712ed5"/>
+        <card number="1" name="Seething Song" setShortName="9ED" collectorNumber="216" uuid="10418027-7b05-49e7-8ff4-6a03e3fb656b"/>
+        <card number="2" name="Seething Song" setShortName="MRD" collectorNumber="104" uuid="9213d580-7953-455f-abbe-99d3db2705cf"/>
+        <card number="4" name="Shock" setShortName="9ED" collectorNumber="220" uuid="ec8b241a-a58e-440a-8591-91dce118bd95"/>
+        <card number="4" name="Molten Rain" setShortName="MRD" collectorNumber="101" uuid="f888b4d4-31f9-4322-8225-4d7e7a9f4dd5"/>
+        <card number="4" name="Arc-Slogger" setShortName="MRD" collectorNumber="85" uuid="d3dd67e0-72b4-4c55-b49b-c69950feccb1"/>
+        <card number="3" name="Frostling" setShortName="BOK" collectorNumber="103" uuid="53bb08f9-355d-443e-8f08-a20ef7322e78"/>
+        <card number="3" name="Hearth Kami" setShortName="CHK" collectorNumber="171" uuid="d7361289-5111-49c2-a786-b7181384596b"/>
+        <card number="4" name="Slith Firewalker" setShortName="MRD" collectorNumber="107" uuid="73ff7383-71da-46ae-849f-349c40815a29"/>
+        <card number="2" name="Vulshok Sorcerer" setShortName="5DN" collectorNumber="80" uuid="4a7207dd-854a-4150-b813-f60713ecfc30"/>
+        <card number="2" name="Yuki-Onna" setShortName="SOK" collectorNumber="120" uuid="63c6e1cd-e25d-41ff-a918-c495998376d8"/>
+        <card number="3" name="Zo-Zu the Punisher" setShortName="CHK" collectorNumber="200" uuid="fa4666b6-76f2-4c25-989e-d6a0e50be94d"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="1" name="Shatter" setShortName="MRD" collectorNumber="105" uuid="84b3d7e6-df52-4cd1-92e7-5dfe8b0a9d9e"/>
+        <card number="2" name="Wand of the Elements" setShortName="DST" collectorNumber="158" uuid="1131c187-8fc3-4cee-9422-355ef6622de7"/>
+        <card number="2" name="Boiling Seas" setShortName="9ED" collectorNumber="178" uuid="d08ff26e-c561-4b55-9745-50f896689d0d"/>
+        <card number="3" name="Sowing Salt" setShortName="BOK" collectorNumber="118" uuid="bd243ce5-152b-4d9c-991e-be56b6731d99"/>
+        <card number="1" name="Hidetsugu's Second Rite" setShortName="SOK" collectorNumber="102" uuid="2e48eb77-3bd7-444a-9262-799cc706c05a"/>
+        <card number="1" name="Genju of the Spires" setShortName="BOK" collectorNumber="105" uuid="c4302b20-d445-4ef4-a6b7-6db311aa24a2"/>
+        <card number="1" name="Hearth Kami" setShortName="CHK" collectorNumber="171" uuid="d7361289-5111-49c2-a786-b7181384596b"/>
+        <card number="1" name="Vulshok Sorcerer" setShortName="5DN" collectorNumber="80" uuid="4a7207dd-854a-4150-b813-f60713ecfc30"/>
+        <card number="1" name="Yuki-Onna" setShortName="SOK" collectorNumber="120" uuid="63c6e1cd-e25d-41ff-a918-c495998376d8"/>
+        <card number="1" name="Zo-Zu the Punisher" setShortName="CHK" collectorNumber="200" uuid="fa4666b6-76f2-4c25-989e-d6a0e50be94d"/>
+    </zone>
+</cockatrice_deck>
