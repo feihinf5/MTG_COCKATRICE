@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Viridian Rats</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2005 Canadian National Championship winning deck by Jason Olynyk</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Aether Vial" setShortName="DST" collectorNumber="91" uuid="741c479b-5e92-4837-9673-9bc72aa11d26"/>
+        <card number="4" name="Blinkmoth Nexus" setShortName="DST" collectorNumber="163" uuid="bf51c665-7823-4d6a-b1da-8c2d93dae10b"/>
+        <card number="2" name="Llanowar Wastes" setShortName="APC" collectorNumber="141" uuid="610b7cd5-5532-45a9-acfe-24a818034d1c"/>
+        <card number="2" name="Llanowar Wastes" setShortName="9ED" collectorNumber="322" uuid="a7218c70-b170-4d23-b98f-f8fa29312994"/>
+        <card number="1" name="Shizo, Death's Storehouse" setShortName="CHK" collectorNumber="283" uuid="2de9a046-3db1-436e-b666-ba96e2e8c5db"/>
+        <card number="3" name="Swamp" setShortName="MRD" collectorNumber="295" uuid="6bae27d4-9de5-4f95-8c56-79afc6cbeb0c"/>
+        <card number="3" name="Swamp" setShortName="MRD" collectorNumber="296" uuid="45927890-52ef-448c-b302-4192afa27a04"/>
+        <card number="3" name="Swamp" setShortName="MRD" collectorNumber="298" uuid="93d48cef-cfaf-4223-9efb-d76762a896d6"/>
+        <card number="3" name="Swamp" setShortName="MRD" collectorNumber="297" uuid="c4b5147e-99b0-47fd-bec2-3baaf7e8ac4a"/>
+        <card number="2" name="Tendo Ice Bridge" setShortName="BOK" collectorNumber="165" uuid="d246f521-b9a0-4b4f-b38c-0e4eb4066212"/>
+        <card number="2" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="4" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="3" name="Rend Flesh" setShortName="CHK" collectorNumber="140" uuid="92b300a3-e6a8-4ca9-bb26-03f57b5ff6ec"/>
+        <card number="3" name="Night's Whisper" setShortName="5DN" collectorNumber="55" uuid="61f0c6f6-b90d-4eb1-a5db-86e0a3997501"/>
+        <card number="3" name="Chittering Rats" setShortName="DST" collectorNumber="39" uuid="980135d5-dfaa-4beb-b4b3-1e256bb46e61"/>
+        <card number="3" name="Hypnotic Specter" setShortName="9ED" collectorNumber="141" uuid="205b6734-0205-4a57-ba55-2fd7ab40b8fa"/>
+        <card number="2" name="Ink-Eyes, Servant of Oni" setShortName="BOK" collectorNumber="71" uuid="386d391d-a3f8-49a4-802a-409944b2acf3"/>
+        <card number="2" name="Nekrataal" setShortName="9ED" collectorNumber="149" uuid="fc7d0ee9-3053-430a-a6a9-1202316f0648"/>
+        <card number="4" name="Nezumi Shortfang" setShortName="CHK" collectorNumber="131" uuid="c8265c39-d287-4c5a-baba-f2f09dd80a1c"/>
+        <card number="4" name="Ravenous Rats" setShortName="9ED" collectorNumber="157" uuid="a7b09e94-9504-444c-b002-7418962bf0f9"/>
+        <card number="2" name="Viridian Shaman" setShortName="MRD" collectorNumber="139" uuid="932bf583-efd3-42e9-8a7b-7b3fe07fbcf0"/>
+        <card number="1" name="Viridian Shaman" setShortName="9ED" collectorNumber="280★" uuid="d740abd3-e264-49c6-aacd-ca192c388e54"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Cranial Extraction" setShortName="CHK" collectorNumber="105" uuid="a8cad7a3-777e-4c84-b404-5f504844ab3b"/>
+        <card number="4" name="Distress" setShortName="CHK" collectorNumber="111" uuid="8130a902-3a03-4473-a64f-84cf3590f4c6"/>
+        <card number="1" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="3" name="Razormane Masticore" setShortName="5DN" collectorNumber="146" uuid="b81dbdc0-dffe-4c10-9e81-d66a77eb6c49"/>
+        <card number="2" name="Sword of Light and Shadow" setShortName="DST" collectorNumber="149" uuid="61d08a91-665e-458c-9b8f-4ebd5f54a0d6"/>
+        <card number="1" name="Hypnotic Specter" setShortName="9ED" collectorNumber="141" uuid="205b6734-0205-4a57-ba55-2fd7ab40b8fa"/>
+        <card number="1" name="Viridian Shaman" setShortName="9ED" collectorNumber="280★" uuid="d740abd3-e264-49c6-aacd-ca192c388e54"/>
+    </zone>
+</cockatrice_deck>
