@@ -48,4 +48,5 @@ Sideboard
 - 1 Pithing Needle
 - 2 Sword of Light and Shadow
 - 3 Razormane Masticore
-- 3 Cranial Extraction 4 Distress 
+- 3 Cranial Extraction
+- 4 Distress 
