@@ -9,6 +9,16 @@ Format
 Note
 - Grand Prix-Salt Lake City 2005 winning deck by Antonino De Rosa
 - Draw-Go Control deck to deny the opponent's plays with counterspells, draw a massive hand and drop an unstoppable legendary creature to finish the game.
+- [**Jushi Apprentice**] to draws extra cards early and flips into Tomoya to draw massive chunks of cards later
+- [**Azami, Lady of Scrolls**] taps herself and other Wizards (like Jushi and Meloku) to draw multiple cards instantly, ignoring summoning sickness
+- [**Minamo, School at Water's Edge**] to untap legendary creatures and use their draw abilities twice in one turn
+- [**Disrupting Shoal**] "free" counterspell used to stop threats even have no mana left open
+- [**Hinder**] counters spells and buries them at the bottom of the library to stop recursion
+- [**Threads of Disloyalty**] to permanently steals the opponent's aggressive early-game creatures
+- [**Pithing Needle**] is a 1-mana artifact that completely shuts down activated abilities of opposing cards
+- [**Meloku the Clouded Mirror**] to bounces own Islands to generate an army of 1/1 flying tokens at the end of the opponent's turn
+- [**Keiga, the Tide Star**] is a massive 5/5 flyer that permanently steals the opponent's best creature if it dies
+- [**Miren, the Moaning Well**] can sacrifices own Keiga in response to removal to gain 5 life and trigger Keiga's steal ability
 
 Deck
 - 3 Meloku the Clouded Mirror
