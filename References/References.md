@@ -1,4 +1,5 @@
 ## 2005
+- https://web.archive.org/web/20151206001705/http://magic.wizards.com/en/events/coverage/gpsl05
 - https://web.archive.org/web/20110717015153/http://www.themagictutor.com/torneospremier/nacarg2005/nacarg05mazos/nacarg05mazos.html
 - http://web.archive.org/web/20210429203913/https://magic.wizards.com/en/events/coverage/vintage05
 - http://web.archive.org/web/20210725182926/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2005-08-13
