@@ -12,8 +12,8 @@ Format
 
 Note
 - 2005 Japan National Championship winning deck by Morofuji Takuma
-- [**Sense's Divining Top**] allowed the deck to cast [**Tooth and Nail**] faster than it did
-- [**Kiki-Jiki, Mirror Breaker**] provided the deck with even greater explosive power and control capabilities
+- [**Sense's Divining Top**](https://api.scryfall.com/cards/4a08ca06-58db-4ce6-b490-be4bea8956a1?format=image) allowed the deck to cast [**Tooth and Nail**](https://api.scryfall.com/cards/02f0067c-2d38-46bd-b52e-070c2ce424f0?format=image) faster than it did
+- [**Kiki-Jiki, Mirror Breaker**](https://api.scryfall.com/cards/162018eb-5483-4fa2-9c5a-abb639eecf91?format=image) provided the deck with even greater explosive power and control capabilities
 
 Deck
 - 4 Sakura-Tribe Elder
