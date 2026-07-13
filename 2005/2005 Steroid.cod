@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Steroid</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2005 Spanish National Championship winning deck by Omar Rohner</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="303" uuid="77aec0b2-30f2-4f35-a9a3-24d87795d177"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="304" uuid="174cb9a0-afa3-4f45-b317-238fa9d4f55f"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="306" uuid="7c4bfc1c-20d5-40f4-8863-c69a89872159"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="305" uuid="37f8d695-a3e4-4707-9db9-886849ce4c42"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="303" uuid="a3209b22-56af-45ac-9224-67574c035638"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="304" uuid="b9cf9a4b-be51-4f5d-ac0e-e4f79bbfaecd"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="305" uuid="c1629dba-02af-4586-ba59-58faac7cf59b"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="306" uuid="88f06e37-f113-4865-9ad9-13483dd15084"/>
+        <card number="1" name="Forest" setShortName="9ED" collectorNumber="347" uuid="5029a818-e076-4ae3-a246-693ec7615e15"/>
+        <card number="1" name="Forest" setShortName="9ED" collectorNumber="348" uuid="2bbc9c84-348b-40f5-ab3d-bbe8c27529a4"/>
+        <card number="1" name="Forest" setShortName="9ED" collectorNumber="349" uuid="158aaaad-a217-490a-8a90-31ce592ad742"/>
+        <card number="4" name="Karplusan Forest" setShortName="9ED" collectorNumber="321" uuid="eb12ce05-cfc9-4628-a2a3-f207fd9b149a"/>
+        <card number="1" name="Mountain" setShortName="MRD" collectorNumber="299" uuid="b082f22f-6c01-4e8c-80ad-6fdae5c3f22f"/>
+        <card number="1" name="Mountain" setShortName="MRD" collectorNumber="300" uuid="4399a832-4406-4a12-a5e5-81744d02ceec"/>
+        <card number="1" name="Mountain" setShortName="MRD" collectorNumber="302" uuid="22965406-d8d7-46ad-992e-7fc0e994698d"/>
+        <card number="1" name="Mountain" setShortName="MRD" collectorNumber="301" uuid="ba50901e-a030-4f52-8369-f4c9ca6b9c7a"/>
+        <card number="1" name="Mountain" setShortName="CHK" collectorNumber="299" uuid="22262a3a-c2e0-4639-9002-361b39ea9b3a"/>
+        <card number="1" name="Mountain" setShortName="CHK" collectorNumber="301" uuid="6e1a59c7-53d9-4e2c-9596-c64394838575"/>
+        <card number="1" name="Shinka, the Bloodsoaked Keep" setShortName="CHK" collectorNumber="282" uuid="d2d5f30e-cc3a-46c1-82a9-2cd73705b2f5"/>
+        <card number="4" name="Sword of Fire and Ice" setShortName="DST" collectorNumber="148" uuid="8eb613ee-8b8b-4a34-886c-6592b27672b3"/>
+        <card number="4" name="Magma Jet" setShortName="5DN" collectorNumber="73" uuid="51ea1728-08aa-4553-90b2-919c70712ed5"/>
+        <card number="4" name="Sowing Salt" setShortName="BOK" collectorNumber="118" uuid="bd243ce5-152b-4d9c-991e-be56b6731d99"/>
+        <card number="2" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="1" name="Arc-Slogger" setShortName="MRD" collectorNumber="85" uuid="d3dd67e0-72b4-4c55-b49b-c69950feccb1"/>
+        <card number="3" name="Iwamori of the Open Fist" setShortName="BOK" collectorNumber="130" uuid="08c51fcf-ab5c-46fa-aa4b-14cd01c7a577"/>
+        <card number="4" name="Kird Ape" setShortName="9ED" collectorNumber="199" uuid="27423c7b-d1fd-471b-9648-8ea5ed9ebaf2"/>
+        <card number="4" name="Llanowar Elves" setShortName="9ED" collectorNumber="253" uuid="913907e2-28dd-4080-b725-52a43868e060"/>
+        <card number="4" name="Sakura-Tribe Elder" setShortName="CHK" collectorNumber="239" uuid="91c7707a-bae0-4196-bf26-d276f57b7369"/>
+        <card number="4" name="Troll Ascetic" setShortName="MRD" collectorNumber="135" uuid="f01233c2-6df0-4f0e-8668-3855868731ea"/>
+        <card number="2" name="Viridian Shaman" setShortName="MRD" collectorNumber="139" uuid="932bf583-efd3-42e9-8a7b-7b3fe07fbcf0"/>
+        <card number="2" name="Viridian Shaman" setShortName="9ED" collectorNumber="280" uuid="21971049-f988-40ec-b5ae-0ac0575f1939"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Naturalize" setShortName="9ED" collectorNumber="258" uuid="595f1019-2608-4d00-8b9b-7f22e87acd0d"/>
+        <card number="1" name="Arashi, the Sky Asunder" setShortName="SOK" collectorNumber="121" uuid="27d627b2-5298-45f5-acd2-56de59209820"/>
+        <card number="4" name="Pulse of the Forge" setShortName="DST" collectorNumber="66" uuid="ea3ed9c8-b552-4a9a-b77a-8b148638b4f0"/>
+        <card number="1" name="Oxidize" setShortName="DST" collectorNumber="79" uuid="1349969e-1cbe-4541-b3ed-154f5a39f1f0"/>
+        <card number="2" name="Sword of Light and Shadow" setShortName="DST" collectorNumber="149" uuid="61d08a91-665e-458c-9b8f-4ebd5f54a0d6"/>
+        <card number="3" name="Blood Moon" setShortName="9ED" collectorNumber="176" uuid="18fec1a2-20b0-4412-9392-8a5004f9027e"/>
+        <card number="2" name="Dosan the Falling Leaf" setShortName="CHK" collectorNumber="205" uuid="ffb190db-48fc-4c39-ae9f-5e304eabb4f4"/>
+    </zone>
+</cockatrice_deck>
