@@ -12,6 +12,16 @@ Format
 
 Note
 - 2005 Canadian National Championship winning deck by Jason Olynyk
+- Black Green discard & aggro deck
+- [**Ravenous Rats**] and [**Chittering Rats**] force immediate card discard or lock the opponent's next draw step
+- [**Nezumi Shortfang**] forces repeated discard every turn, flipping into Stabwhisker once the opponent is hellbent (has 0 cards) to burn them for damage each upkeep
+- [**Hypnotic Specter**] forces a random discard whenever it connects, destroying the opponent's strategy
+- [**Aether Vial**] Sits on the board and lets you flash in your Rats, Specters, or Shamans for free at instant speed, completely bypassing counterspells and ruining the opponent's combat math
+- [**Blinkmoth Nexus**] turns into a flying creature to safely carry equipment or activate Ninjutsu
+- [**Umezawa's Jitte**] primary powerhouse that turns any tiny Rat or Specter into a lethal threat by generating counters to pump the creatures, kill opposing threats or gain life
+- [**Ink-Eyes, Servant of Oni**] smuggled into play via Ninjutsu by bouncing an unblocked attacker and when she hits, she steals the best creature from the opponent's discard pile and puts it onto your battlefield
+- [**Viridian Shaman**] strictly to destroy opposing [**Umezawa's Jittes**] or [**Aether Vials**]
+- [**Nekrataal**] and [**Rend Flesh**] to clear a path for your attackers
 
 Deck
 - 3 Hypnotic Specter
