@@ -8,6 +8,7 @@ Format
 
 Note
 - Grand Prix-Salt Lake City 2005 winning deck by Antonino De Rosa
+- Draw-Go Control deck to deny the opponent's plays with counterspells, draw a massive hand and drop an unstoppable legendary creature to finish the game.
 
 Deck
 - 3 Meloku the Clouded Mirror
