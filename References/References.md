@@ -1,4 +1,5 @@
 ## 2005
+- https://web.archive.org/web/20211019002410/https://magic.wizards.com/fr/articles/archive/event-coverage/best-top-8-ever-2005-11-04
 - https://web.archive.org/web/20190718065717/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-copenhagen-top-8-decks-2005-11-06
 - http://web.archive.org/web/20191119023524/https://magic.wizards.com/en/events/coverage/spanat05
 - https://web.archive.org/web/20170719033725/http://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2005-09-11
