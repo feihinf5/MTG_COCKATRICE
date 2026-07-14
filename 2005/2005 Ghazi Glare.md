@@ -10,6 +10,10 @@ Format
 
 Note
 - World Championships 2005 winning deck by Mori Katsuhiro
+- Deploys cheap creatures and ramps lands in the early game then uses [**Glare of Subdual**] to tap down opposing blockers and beat the opponent down
+- Swarm the board with tokens using [**Vitu-Ghazi, the City-Tree**] to control-oriented variants designed to lock down the battlefield
+- Devastating lock combo against control decks consisting of [**Yosei, the Morning Star**] and [**Greater Good**]
+- [**Seedborn Muse**] to counter opposing lock strategies
 
 Deck
 - 2 Yosei, the Morning Star
