@@ -14,7 +14,33 @@ Note
 - Grand Prix-Kitakyuushuu 2005 top 8 deck by Akihara Akira
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Terravore
+- 4 Burning Wish
+- 3 Balancing Act
+- 2 Roar of the Wurm
+- 4 Fire // Ice
+- 2 Orim's Chant
+- 3 Moment's Peace
+- 2 Mana Short
+- 4 Chromatic Sphere
+- 4 Terrarion
+- 2 Sensei's Divining Top
+- 4 Ancient Spring
+- 4 Irrigation Ditch
+- 4 Tinder Farm
+- 3 Geothermal Crevice
+- 3 Timberland Ruins
+- 2 Seafloor Debris
+- 2 Abandoned Outpost
+- 4 Archaeological Dig 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Balancing Act
+- 1 Mana Short
+- 3 Pyroclasm
+- 3 Naturalize
+- 1 Innocent Blood
+- 1 Life from the Loam
+- 1 Triskelion
+- 1 Mephidross Vampire
+- 3 Tooth and Nail 
