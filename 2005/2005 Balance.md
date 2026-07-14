@@ -2,7 +2,13 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2005_Grand_Prix_Kitakyuushuu_top_8_deck_by_Akihara_Akira.png
 
 Format
-- CARD_SET
+- RAV
+- 9ED
+- SOK / BOK / CHK / 5DN / DST / MRD
+- 8ED
+- SCG / LGN / ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV
 
 Note
 - Grand Prix-Kitakyuushuu 2005 top 8 deck by Akihara Akira
