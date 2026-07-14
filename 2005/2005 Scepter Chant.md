@@ -12,9 +12,9 @@ Format
 
 Note
 - Grand Prix-Kitakyuushuu 2005 winning deck by Kaji Tomohiro
-- A permission-style control deck that gains card advantage by locking down the game with [**Isochron Scepter**] to imprint [**Fire // Ice**] (legal under rules at the time), [**Counterspell**] and [**Orim's Chant**]
-- To win, use [**Decree of Justice**] or [**Eternal Dragon**] or repeatedly burning the opponent for 2 damage using an imprinted [**Fire // Ice**]
-- [**Orim's Chant**] can be moved to the sideboard to be fetched via [**Cunning Wish**]
+- A permission-style control deck that gains card advantage by locking down the game with [**Isochron Scepter**](https://api.scryfall.com/cards/878b0159-6917-45d3-b9ea-562ac49f0b8f?format=image) to imprint [**Fire // Ice**](https://api.scryfall.com/cards/18303862-4726-4136-814f-157aa7006579?format=image) (legal under rules at the time), [**Counterspell**](https://api.scryfall.com/cards/29bb1b85-9444-4bfa-b622-092a6873631c?format=image) and [**Orim's Chant**](https://api.scryfall.com/cards/055afa78-b969-498f-a3ad-c792426e5ee6?format=image)
+- To win, use [**Decree of Justice**](https://api.scryfall.com/cards/5e8a7e5c-f252-4de8-94d7-e7327210bf26?format=image) or [**Eternal Dragon**](https://api.scryfall.com/cards/0596928c-2b20-4dbb-aa78-3ab6c3ce0d72?format=image) or repeatedly burning the opponent for 2 damage using an imprinted [**Fire // Ice**](https://api.scryfall.com/cards/18303862-4726-4136-814f-157aa7006579?format=image)
+- [**Orim's Chant**](https://api.scryfall.com/cards/055afa78-b969-498f-a3ad-c792426e5ee6?format=image) can be moved to the sideboard to be fetched via [**Cunning Wish**](https://api.scryfall.com/cards/ca097675-5e82-493d-beab-9fc11efd7492?format=image)
 
 Deck
 - 2 Exalted Angel
