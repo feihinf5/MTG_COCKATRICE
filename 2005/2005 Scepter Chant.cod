@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Scepter Chant</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Kitakyuushuu 2005 winning deck by Kaji Tomohiro</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Adarkar Wastes" setShortName="7ED" collectorNumber="325" uuid="9bd991b2-8c18-4c5f-9b70-461012fee61e"/>
+        <card number="1" name="Adarkar Wastes" setShortName="9ED" collectorNumber="317" uuid="40f61de1-4e49-4640-a495-5abefd96babf"/>
+        <card number="1" name="Ancient Den" setShortName="MRD" collectorNumber="278" uuid="cc857fbd-8e0f-4bff-8f14-561c9925c484"/>
+        <card number="4" name="Flooded Strand" setShortName="ONS" collectorNumber="316" uuid="b4e3d844-d3b4-41d8-921d-c1cb3af343f8"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="335" uuid="8a3fc29c-f5cb-49b9-aabf-a5fef97e7a7e"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="336" uuid="2fc04e1e-6a14-41cc-9fff-6dcd92cc6a3b"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="337" uuid="f849f726-c6a2-400d-9b90-fe050f8ef5eb"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="332" uuid="a45610b3-9e9b-4ef9-aab2-426f85a6cce3"/>
+        <card number="1" name="Island" setShortName="7ED" collectorNumber="335" uuid="ff68b640-e194-4894-b9c0-76ed619c764d"/>
+        <card number="1" name="Mikokoro, Center of the Sea" setShortName="SOK" collectorNumber="162" uuid="7ef72797-328e-4303-8ffb-9686086648b8"/>
+        <card number="1" name="Minamo, School at Water's Edge" setShortName="CHK" collectorNumber="279" uuid="7536292c-da25-41c8-ba28-1e35758a7f3d"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="331" uuid="5ba9ef2e-d3ec-41f7-802e-e1414f14dd10"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="333" uuid="87a66868-2efa-4985-b4fc-405d7fa8d410"/>
+        <card number="2" name="Sacred Foundry" setShortName="RAV" collectorNumber="280" uuid="168ef687-5797-4b45-b75b-393d8117cebd"/>
+        <card number="2" name="Seat of the Synod" setShortName="MRD" collectorNumber="283" uuid="5da5587d-6b6c-4645-8cc9-2866d1e6911b"/>
+        <card number="1" name="Shivan Reef" setShortName="APC" collectorNumber="142" uuid="c3403143-2b4e-4408-b138-c856bbc1e9a5"/>
+        <card number="1" name="Skycloud Expanse" setShortName="ODY" collectorNumber="327" uuid="c8c0da61-59c5-4206-83d9-c4676e169f01"/>
+        <card number="1" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="4" name="Isochron Scepter" setShortName="MRD" collectorNumber="188" uuid="878b0159-6917-45d3-b9ea-562ac49f0b8f"/>
+        <card number="2" name="Absorb" setShortName="INV" collectorNumber="226" uuid="5d6a0f3e-457f-41f5-be26-5fb249874f1a"/>
+        <card number="4" name="Counterspell" setShortName="7ED" collectorNumber="67" uuid="29bb1b85-9444-4bfa-b622-092a6873631c"/>
+        <card number="3" name="Cunning Wish" setShortName="JUD" collectorNumber="37" uuid="ca097675-5e82-493d-beab-9fc11efd7492"/>
+        <card number="3" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="3" name="Fire // Ice" setShortName="APC" collectorNumber="128" uuid="f98f4538-5b5b-475d-b98f-49d01dae6f04"/>
+        <card number="3" name="Force Spike" setShortName="7ED" collectorNumber="76" uuid="1d03d73f-0530-4125-8689-1c43e502e331"/>
+        <card number="1" name="Orim's Chant" setShortName="PLS" collectorNumber="11" uuid="055afa78-b969-498f-a3ad-c792426e5ee6"/>
+        <card number="4" name="Thirst for Knowledge" setShortName="MRD" collectorNumber="53" uuid="0ff1f608-203e-4413-8753-37fc49731c87"/>
+        <card number="2" name="Decree of Justice" setShortName="SCG" collectorNumber="8" uuid="5e8a7e5c-f252-4de8-94d7-e7327210bf26"/>
+        <card number="1" name="Wrath of God" setShortName="7ED" collectorNumber="57" uuid="0d223e83-0d3c-459e-96f5-ba9227fe49dd"/>
+        <card number="1" name="Wrath of God" setShortName="8ED" collectorNumber="58" uuid="0619d670-7b53-4185-a25d-2fab5db1aab5"/>
+        <card number="1" name="Wrath of God" setShortName="9ED" collectorNumber="56" uuid="b6c1e9e3-c947-47cc-ac60-dc032d984a67"/>
+        <card number="1" name="Eternal Dragon" setShortName="SCG" collectorNumber="12" uuid="0596928c-2b20-4dbb-aa78-3ab6c3ce0d72"/>
+        <card number="2" name="Exalted Angel" setShortName="ONS" collectorNumber="28" uuid="c2213eac-cea4-4dfd-90c4-c1f466967e2e"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Absorb" setShortName="INV" collectorNumber="226" uuid="5d6a0f3e-457f-41f5-be26-5fb249874f1a"/>
+        <card number="1" name="Brain Freeze" setShortName="SCG" collectorNumber="29" uuid="59a43ef5-08f0-44fc-802d-b6cfd56b7d1f"/>
+        <card number="2" name="Disenchant" setShortName="7ED" collectorNumber="13" uuid="402f71fc-807c-4718-956b-7ffe66c646d4"/>
+        <card number="1" name="Echoing Truth" setShortName="DST" collectorNumber="21" uuid="4aefedd7-1bf5-4148-9084-d7d8f1138140"/>
+        <card number="1" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="1" name="Fire // Ice" setShortName="APC" collectorNumber="128" uuid="f98f4538-5b5b-475d-b98f-49d01dae6f04"/>
+        <card number="1" name="Lightning Helix" setShortName="RAV" collectorNumber="213" uuid="1b2ecf55-c1cc-4b28-b7ce-e1b25305155e"/>
+        <card number="2" name="Orim's Chant" setShortName="PLS" collectorNumber="11" uuid="055afa78-b969-498f-a3ad-c792426e5ee6"/>
+        <card number="1" name="Pulse of the Fields" setShortName="DST" collectorNumber="11" uuid="bdedff5d-4c5d-4120-9d9a-4bb5b0b2d2f2"/>
+        <card number="1" name="Urza's Rage" setShortName="INV" collectorNumber="178" uuid="61a25a35-3ae4-471e-adcd-d8baf2f77b68"/>
+        <card number="1" name="Wing Shards" setShortName="SCG" collectorNumber="25" uuid="65efa443-666a-45c1-8784-e98c510854b5"/>
+        <card number="2" name="Exalted Angel" setShortName="ONS" collectorNumber="28" uuid="c2213eac-cea4-4dfd-90c4-c1f466967e2e"/>
+    </zone>
+</cockatrice_deck>
