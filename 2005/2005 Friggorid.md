@@ -13,9 +13,9 @@ Format
 
 Note
 - Grand Prix-Charlotte 2005 winning deck by Michael Krumb
-- Discards cards with the Dredge mechanic to self-mill the library, fueling a beatdown strategy powered by [**Ichorid**], which repeatedly recurs itself from the graveyard
-- Utilizes [**Putrid Imp**] and [**Careful Study**] alongside [**Tolarian Winds**] to dump cards into the graveyard
-- Due to the sheer volume of cards entering the graveyard, [**Psychatog**] can easily grow to a lethal, monstrous size
+- Discards cards with the Dredge mechanic to self-mill the library, fueling a beatdown strategy powered by [**Ichorid**](https://api.scryfall.com/cards/97431dca-54ca-47ef-ab00-943140e8e758?format=image), which repeatedly recurs itself from the graveyard
+- Utilizes [**Putrid Imp**](https://api.scryfall.com/cards/1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5?format=image) and [**Careful Study**](https://api.scryfall.com/cards/dea15b53-2940-40e7-8d48-8ec11341da83?format=image) alongside [**Tolarian Winds**](https://api.scryfall.com/cards/3fdd9981-bb5e-450d-90c3-4405a7097939?format=image) to dump cards into the graveyard
+- Due to the sheer volume of cards entering the graveyard, [**Psychatog**](https://api.scryfall.com/cards/6757bf0e-489f-4be2-9e41-463b59f00dd1?format=image) can easily grow to a lethal, monstrous size
 
 Deck
 - 2 Wonder
