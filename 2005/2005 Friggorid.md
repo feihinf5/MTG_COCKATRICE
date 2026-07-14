@@ -9,7 +9,6 @@ Format
 - SCG / LGN / ONS / JUD / TOR / ODY / APC
 - 7ED
 - PLS / INV
-- 6ED
 
 Note
 - Grand Prix-Charlotte 2005 winning deck by Michael Krumb
