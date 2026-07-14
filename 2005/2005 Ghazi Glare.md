@@ -10,10 +10,10 @@ Format
 
 Note
 - World Championships 2005 winning deck by Mori Katsuhiro
-- Deploys cheap creatures and ramps lands in the early game then uses [**Glare of Subdual**] to tap down opposing blockers and beat the opponent down
-- Swarm the board with tokens using [**Vitu-Ghazi, the City-Tree**] to control-oriented variants designed to lock down the battlefield
-- Devastating lock combo against control decks consisting of [**Yosei, the Morning Star**] and [**Greater Good**]
-- [**Seedborn Muse**] to counter opposing lock strategies
+- Deploys cheap creatures and ramps lands in the early game then uses [**Glare of Subdual**](https://api.scryfall.com/cards/ed6166c1-3c2e-47af-873e-d3b39f42bd27?format=image) to tap down opposing blockers and beat the opponent down
+- Swarm the board with tokens using [**Vitu-Ghazi, the City-Tree**](https://api.scryfall.com/cards/afc35026-a29e-4fb0-931f-5e90faf41802?format=image) to control-oriented variants designed to lock down the battlefield
+- Devastating lock combo against control decks consisting of [**Yosei, the Morning Star**](https://api.scryfall.com/cards/1b38f14a-bd10-47c1-8772-5abe0a0b243f?format=image) and [**Greater Good**](https://api.scryfall.com/cards/153d7669-9063-4fc2-b53b-480b0e741f3f?format=image)
+- [**Seedborn Muse**](https://api.scryfall.com/cards/cb1d0254-985c-4d44-9cce-1d563e11f0a4?format=image) to counter opposing lock strategies
 
 Deck
 - 2 Yosei, the Morning Star
