@@ -12,6 +12,9 @@ Format
 
 Note
 - Grand Prix-Kitakyuushuu 2005 winning deck by Kaji Tomohiro
+- A permission-style control deck that gains card advantage by locking down the game with [**Isochron Scepter**] to imprint [**Fire // Ice**] (legal under rules at the time), [**Counterspell**] and [**Orim's Chant**]
+- To win, use [**Decree of Justice**] or [**Eternal Dragon**] or repeatedly burning the opponent for 2 damage using an imprinted [**Fire // Ice**]
+- [**Orim's Chant**] can be moved to the sideboard to be fetched via [**Cunning Wish**]
 
 Deck
 - 2 Exalted Angel
