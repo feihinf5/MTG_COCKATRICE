@@ -14,7 +14,39 @@ Note
 - Grand Prix-Beijing 2005 winning deck by Dong Zhong
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 3 Dark Confidant
+- 4 Birds of Paradise
+- 4 Sakura-Tribe Elder
+- 3 Eternal Witness
+- 1 Genesis
+- 2 Duress
+- 2 Cabal Therapy
+- 3 Life from the Loam
+- 4 Burning Wish
+- 2 Sensei's Divining Top
+- 3 Solitary Confinement
+- 2 Seismic Assault
+- 1 Plains
+- 4 Forgotten Cave
+- 4 Tranquil Thicket
+- 4 Barren Moor
+- 2 Wooded Foothills
+- 4 Bloodstained Mire
+- 1 Sacred Foundry
+- 1 Overgrown Tomb
+- 2 Forest
+- 2 Mountain
+- 1 Swamp
+- 1 Windswept Heath 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Duress
+- 1 Cabal Therapy
+- 1 Life from the Loam
+- 1 Chainer's Edict
+- 2 Cranial Extraction
+- 1 Pyroclasm
+- 1 Hull Breach
+- 2 Putrefy
+- 2 Overgrown Estate
+- 3 Loxodon Hierarch 
