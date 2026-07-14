@@ -14,7 +14,42 @@ Note
 - Grand Prix-Kitakyuushuu 2005 winning deck by Kaji Tomohiro
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 2 Exalted Angel
+- 1 Eternal Dragon
+- 2 Decree of Justice
+- 3 Wrath of God
+- 3 Fire // Ice
+- 1 Orim's Chant
+- 4 Counterspell
+- 3 Fact or Fiction
+- 3 Cunning Wish
+- 4 Thirst for Knowledge
+- 3 Force Spike
+- 2 Absorb
+- 4 Isochron Scepter
+- 1 Chrome Mox
+- 2 Seat of the Synod
+- 1 Ancient Den
+- 4 Flooded Strand
+- 1 Mikokoro, Center of the Sea
+- 1 Shivan Reef
+- 3 Adarkar Wastes
+- 1 Skycloud Expanse
+- 2 Sacred Foundry
+- 1 Minamo, School at Water's Edge
+- 2 Plains
+- 6 Island 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Exalted Angel
+- 1 Fire // Ice
+- 2 Orim's Chant
+- 1 Fact or Fiction
+- 1 Absorb
+- 1 Brain Freeze
+- 1 Wing Shards
+- 1 Echoing Truth
+- 2 Disenchant
+- 1 Urza's Rage
+- 1 Lightning Helix
+- 1 Pulse of the Fields 
