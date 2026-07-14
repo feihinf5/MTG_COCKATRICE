@@ -15,7 +15,26 @@ Note
 - Grand Prix-Charlotte 2005 winning deck by Michael Krumb
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 2 Wonder
+- 4 Golgari Grave-Troll
+- 4 Ichorid
+- 4 Psychatog
+- 4 Putrid Imp
+- 4 Stinkweed Imp
+- 4 Cabal Therapy
+- 4 Deep Analysis
+- 4 Tolarian Winds
+- 4 Chrome Mox
+- 4 Zombie Infestation
+- 4 Polluted Delta
+- 3 Bloodstained Mire
+- 1 Swamp
+- 4 Watery Grave
+- 4 Cephalid Coliseum
+- 2 Overgrown Tomb 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 4 Moment's Peace
+- 4 Firemane Angel
+- 4 Coffin Purge
+- 3 Ray of Revelation 
