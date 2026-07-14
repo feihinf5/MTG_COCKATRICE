@@ -12,10 +12,10 @@ Format
 
 Note
 - Grand Prix-Beijing 2005 winning deck by Dong Zhong
-- Uses the Dredge ability of [**Life from the Loam**] to mill the library while retrieving fallen lands to develop mana and pay the upkeep cost for [**Solitary Confinement**] and by retrieving cycling lands from the graveyard and cycling them to trigger a draw, keeping the Dredge loop alive
-- [**Eternal Witness**] is included as an additional recovery tool
-- Finishes the game by casting [**Seismic Assault**] and throwing a massive handful of hoarded lands directly at the opponent
-- Integrates [**Dark Confidant**] for additional card draw
+- Uses the Dredge ability of [**Life from the Loam**](https://api.scryfall.com/cards/7ac16d09-8bc7-407c-a757-666f4707bc90?format=image) to mill the library while retrieving fallen lands to develop mana and pay the upkeep cost for [**Solitary Confinement**](https://api.scryfall.com/cards/e7a8eb7a-eb3f-405e-8f44-d8ea64d76386?format=image) and by retrieving cycling lands from the graveyard and cycling them to trigger a draw, keeping the Dredge loop alive
+- [**Eternal Witness**](https://api.scryfall.com/cards/c7e10ca7-1e5d-4224-82cf-798a4d436d72?format=image) is included as an additional recovery tool
+- Finishes the game by casting [**Seismic Assault**](https://api.scryfall.com/cards/d399a9ac-01da-44a4-8f81-084d41dfada8?format=image) and throwing a massive handful of hoarded lands directly at the opponent
+- Integrates [**Dark Confidant**](https://api.scryfall.com/cards/94f7a441-bf2d-46fb-a7b6-9bd6137f86d9?format=image) for additional card draw
 
 Deck
 - 3 Dark Confidant
