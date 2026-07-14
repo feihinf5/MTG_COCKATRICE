@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Balance</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Kitakyuushuu 2005 top 8 deck by Akihara Akira</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Abandoned Outpost" setShortName="ODY" collectorNumber="312" uuid="4945031e-1158-474c-9e50-1ec817acc767"/>
+        <card number="4" name="Ancient Spring" setShortName="INV" collectorNumber="319" uuid="004eefa4-947b-45fc-b45c-5263bfd763bc"/>
+        <card number="4" name="Archaeological Dig" setShortName="INV" collectorNumber="320" uuid="35f55af0-5a46-4900-b3d0-ca796b710e07"/>
+        <card number="3" name="Geothermal Crevice" setShortName="INV" collectorNumber="323" uuid="e744b593-13fe-4967-b492-ac02f5815e57"/>
+        <card number="4" name="Irrigation Ditch" setShortName="INV" collectorNumber="324" uuid="977f1b44-166c-4faf-8a7b-d431707e90ce"/>
+        <card number="2" name="Seafloor Debris" setShortName="ODY" collectorNumber="325" uuid="9e492399-d514-485a-8cdd-a3797a05e47a"/>
+        <card number="3" name="Timberland Ruins" setShortName="ODY" collectorNumber="330" uuid="dd2e8770-c72b-439c-8f79-3aa24646cdd5"/>
+        <card number="4" name="Tinder Farm" setShortName="INV" collectorNumber="329" uuid="989b5901-aeb0-4a48-8c53-3b0ec0e0deba"/>
+        <card number="3" name="Chromatic Sphere" setShortName="MRD" collectorNumber="151" uuid="f31a6dfd-93d2-49c8-a357-9a707b9c42bd"/>
+        <card number="1" name="Chromatic Sphere" setShortName="INV" collectorNumber="299" uuid="920cd17f-9274-443e-906f-c9904f0658d5"/>
+        <card number="2" name="Sensei's Divining Top" setShortName="CHK" collectorNumber="268" uuid="4a08ca06-58db-4ce6-b490-be4bea8956a1"/>
+        <card number="4" name="Terrarion" setShortName="RAV" collectorNumber="273" uuid="05c4b07f-c6ed-4a92-aab3-54ee6adfb793"/>
+        <card number="4" name="Fire // Ice" setShortName="APC" collectorNumber="128" uuid="f98f4538-5b5b-475d-b98f-49d01dae6f04"/>
+        <card number="2" name="Mana Short" setShortName="7ED" collectorNumber="86" uuid="a0486784-de03-47a7-949d-550fd23492bc"/>
+        <card number="3" name="Moment's Peace" setShortName="ODY" collectorNumber="251" uuid="40ebe935-ccf9-435e-8fe8-53bcbf3526e7"/>
+        <card number="2" name="Orim's Chant" setShortName="PLS" collectorNumber="11" uuid="055afa78-b969-498f-a3ad-c792426e5ee6"/>
+        <card number="3" name="Balancing Act" setShortName="ODY" collectorNumber="10" uuid="7d6cb368-43f7-4d06-9cd5-492df5766567"/>
+        <card number="4" name="Burning Wish" setShortName="JUD" collectorNumber="83" uuid="1c9b692a-e832-4612-a6ec-93b52f6a0410"/>
+        <card number="2" name="Roar of the Wurm" setShortName="ODY" collectorNumber="266" uuid="ddf54317-4c08-4a66-9fd2-9983384e2374"/>
+        <card number="4" name="Terravore" setShortName="ODY" collectorNumber="278" uuid="c39c412b-2f21-483a-b744-5d55bc007c0d"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mephidross Vampire" setShortName="5DN" collectorNumber="53" uuid="754f202f-4f08-4c39-9219-1114d8508788"/>
+        <card number="1" name="Triskelion" setShortName="MRD" collectorNumber="269" uuid="8b997abd-8eae-4e87-97fc-36dde95ef8c7"/>
+        <card number="1" name="Mana Short" setShortName="7ED" collectorNumber="86" uuid="a0486784-de03-47a7-949d-550fd23492bc"/>
+        <card number="1" name="Innocent Blood" setShortName="ODY" collectorNumber="145" uuid="d26af8f6-df64-4027-880c-f2fae2d8103f"/>
+        <card number="3" name="Tooth and Nail" setShortName="MRD" collectorNumber="134" uuid="02f0067c-2d38-46bd-b52e-070c2ce424f0"/>
+        <card number="1" name="Life from the Loam" setShortName="RAV" collectorNumber="172" uuid="7ac16d09-8bc7-407c-a757-666f4707bc90"/>
+        <card number="2" name="Naturalize" setShortName="ONS" collectorNumber="275" uuid="c0acc41f-b55b-47cb-8803-d39d72788799"/>
+        <card number="1" name="Naturalize" setShortName="8ED" collectorNumber="270" uuid="7e1e905d-a911-40a7-a793-8535e840230e"/>
+        <card number="3" name="Pyroclasm" setShortName="7ED" collectorNumber="209" uuid="7afce33f-2ead-4943-9655-bff6eaa9fe6b"/>
+        <card number="1" name="Balancing Act" setShortName="ODY" collectorNumber="10" uuid="7d6cb368-43f7-4d06-9cd5-492df5766567"/>
+    </zone>
+</cockatrice_deck>
