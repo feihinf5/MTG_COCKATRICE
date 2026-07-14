@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Dark CAL</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Beijing 2005 winning deck by Dong Zhong</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Barren Moor" setShortName="ONS" collectorNumber="312" uuid="45be3811-a223-4c45-9b24-0317f2d53c60"/>
+        <card number="4" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="350" uuid="cfacc498-f089-4ae4-8ce8-697cc671f445"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="347" uuid="f82d0a1c-5812-4254-a000-e4ff9aece3d9"/>
+        <card number="4" name="Forgotten Cave" setShortName="ONS" collectorNumber="317" uuid="c5202668-a32c-4473-b272-e86264992576"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="344" uuid="977527da-2953-493f-8e8c-ffc64ddeaf10"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="346" uuid="7e8ae541-98e2-4a84-90a6-b17502f4442d"/>
+        <card number="1" name="Overgrown Tomb" setShortName="RAV" collectorNumber="279" uuid="fce07335-cc78-4683-b2f0-9c98a06ea1d8"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="331" uuid="5ba9ef2e-d3ec-41f7-802e-e1414f14dd10"/>
+        <card number="1" name="Sacred Foundry" setShortName="RAV" collectorNumber="280" uuid="168ef687-5797-4b45-b75b-393d8117cebd"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="341" uuid="99b2bba7-8889-460c-a18f-fcd1e350ef4e"/>
+        <card number="4" name="Tranquil Thicket" setShortName="ONS" collectorNumber="326" uuid="afcb7cef-8aeb-4c84-88e9-6df17768e292"/>
+        <card number="1" name="Windswept Heath" setShortName="ONS" collectorNumber="328" uuid="7a7c5941-9c8a-4a40-9efb-a84f05c58e53"/>
+        <card number="2" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+        <card number="1" name="Seismic Assault" setShortName="7ED" collectorNumber="216" uuid="d399a9ac-01da-44a4-8f81-084d41dfada8"/>
+        <card number="1" name="Seismic Assault" setShortName="8ED" collectorNumber="219" uuid="91464144-afb8-4fff-bf5c-2d9bfca408ca"/>
+        <card number="3" name="Solitary Confinement" setShortName="JUD" collectorNumber="24" uuid="e7a8eb7a-eb3f-405e-8f44-d8ea64d76386"/>
+        <card number="2" name="Sensei's Divining Top" setShortName="CHK" collectorNumber="268" uuid="4a08ca06-58db-4ce6-b490-be4bea8956a1"/>
+        <card number="4" name="Burning Wish" setShortName="JUD" collectorNumber="83" uuid="1c9b692a-e832-4612-a6ec-93b52f6a0410"/>
+        <card number="2" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="2" name="Duress" setShortName="7ED" collectorNumber="131" uuid="15c8d82e-6e65-4d36-bf09-b24dde016581"/>
+        <card number="3" name="Life from the Loam" setShortName="RAV" collectorNumber="172" uuid="7ac16d09-8bc7-407c-a757-666f4707bc90"/>
+        <card number="2" name="Birds of Paradise" setShortName="7ED" collectorNumber="231" uuid="a2985857-fee5-42a6-9b5d-e157ada52a03"/>
+        <card number="1" name="Birds of Paradise" setShortName="8ED" collectorNumber="233" uuid="715eea77-a7d7-4731-b706-3ea17bded7fd"/>
+        <card number="1" name="Birds of Paradise" setShortName="RAV" collectorNumber="153" uuid="90a4396a-0f22-482b-ad1d-4d9b68a1ed96"/>
+        <card number="3" name="Dark Confidant" setShortName="RAV" collectorNumber="81" uuid="94f7a441-bf2d-46fb-a7b6-9bd6137f86d9"/>
+        <card number="3" name="Eternal Witness" setShortName="5DN" collectorNumber="86" uuid="c7e10ca7-1e5d-4224-82cf-798a4d436d72"/>
+        <card number="1" name="Genesis" setShortName="JUD" collectorNumber="117" uuid="b43aee5e-b12e-43ea-9fae-16310acdc640"/>
+        <card number="4" name="Sakura-Tribe Elder" setShortName="CHK" collectorNumber="239" uuid="91c7707a-bae0-4196-bf26-d276f57b7369"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Loxodon Hierarch" setShortName="RAV" collectorNumber="214" uuid="a1d3ccca-8040-4a5f-9f2b-6fdb1a033234"/>
+        <card number="2" name="Overgrown Estate" setShortName="APC" collectorNumber="113" uuid="c1c48c58-3532-4022-9eec-1a870385cbf3"/>
+        <card number="2" name="Putrefy" setShortName="RAV" collectorNumber="221" uuid="0a16086c-5a74-45d0-8b38-e832cfbc80f7"/>
+        <card number="1" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="1" name="Chainer's Edict" setShortName="TOR" collectorNumber="57" uuid="014af391-3b4a-4aab-a3e9-f60e61016985"/>
+        <card number="2" name="Cranial Extraction" setShortName="CHK" collectorNumber="105" uuid="a8cad7a3-777e-4c84-b404-5f504844ab3b"/>
+        <card number="1" name="Duress" setShortName="7ED" collectorNumber="131" uuid="15c8d82e-6e65-4d36-bf09-b24dde016581"/>
+        <card number="1" name="Hull Breach" setShortName="PLS" collectorNumber="111" uuid="6907fa19-29ed-4319-8835-68f424c92831"/>
+        <card number="1" name="Life from the Loam" setShortName="RAV" collectorNumber="172" uuid="7ac16d09-8bc7-407c-a757-666f4707bc90"/>
+        <card number="1" name="Pyroclasm" setShortName="7ED" collectorNumber="209" uuid="7afce33f-2ead-4943-9655-bff6eaa9fe6b"/>
+    </zone>
+</cockatrice_deck>
