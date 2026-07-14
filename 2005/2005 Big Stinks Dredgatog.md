@@ -12,6 +12,15 @@ Format
 
 Note
 - Grand Prix-Copenhagen 2005 winning deck by Julien Nujiten
+- [**Psychatog**] grows exponentially by eating cards in hand and graveyard, delivering a lethal strike in a single turn, often made unblockable by giving it flying via [**Wonder**] in the graveyard
+- [**Meloku the Clouded Mirror**] serves as an alternate, resilient win condition
+- [**Gifts Ungiven**] choose cards like [**Life from the Loam**], [**Genesis**] and [**Stinkweed Imp**], later can access all of them anyway via Dredge or Genesis's recursion
+- [**Life from the Loam**] pairs with the "Cycling lands" ([**Lonely Sandbar**], [**Barren Moor**]) to draw infinite cards and fuel [**Psychatog**]
+- [**Deep Analysis**] can be cast cheaply from the graveyard and [**Darkblast**] offers repeatable removal
+- Heavy counter-magic suite ([**Counterspell**], [**Force Spike**], [**Mana Leak**] and the graveyard-synergistic [**Circular Logic**]) slows down the opponent
+- [**Smother**] provides early creature removal
+- [**Mental Note**] fills the graveyard instantly at instant speed while replacing itself, accelerating and feeding Psychatog early
+- Sideboarding transitions the deck to handle faster aggro or combo decks, using [**Duress**] for hand disruption, [**Pernicious Deed**] for mass removal and [**Coffin Purge**] for opposing graveyard strategies
 
 Deck
 - 1 Meloku the Clouded Mirror
