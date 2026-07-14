@@ -12,6 +12,10 @@ Format
 
 Note
 - Grand Prix-Beijing 2005 winning deck by Dong Zhong
+- Uses the Dredge ability of [**Life from the Loam**] to mill the library while retrieving fallen lands to develop mana and pay the upkeep cost for [**Solitary Confinement**] and by retrieving cycling lands from the graveyard and cycling them to trigger a draw, keeping the Dredge loop alive
+- [**Eternal Witness**] is included as an additional recovery tool
+- Finishes the game by casting [**Seismic Assault**] and throwing a massive handful of hoarded lands directly at the opponent
+- Integrates [**Dark Confidant**] for additional card draw
 
 Deck
 - 3 Dark Confidant
