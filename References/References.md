@@ -1,4 +1,5 @@
 ## 2005
+- https://web.archive.org/web/20210503165813/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2005-12-18
 - https://web.archive.org/web/20211202111105/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2005-12-02
 - https://web.archive.org/web/20211208000901/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-final-team-decklists-2005-12-03
 - https://web.archive.org/web/20220126170555/https://magic.wizards.com/en/events/coverage/gpbei05
