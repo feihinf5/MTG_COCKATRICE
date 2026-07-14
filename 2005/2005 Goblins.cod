@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Goblins</deckname>
+    <format>legacy</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Philadelphia 2005 winning deck by Jonathan Sonne</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="1" name="Mountain" setShortName="LEA" collectorNumber="292" uuid="eace2c85-976c-425e-9800-5a6ccbd91b56"/>
+        <card number="1" name="Mountain" setShortName="LEA" collectorNumber="293" uuid="1a96315d-edc6-4d68-a260-d14f61281dc1"/>
+        <card number="1" name="Mountain" setShortName="LEB" collectorNumber="297" uuid="7af9c715-8d72-4eae-b412-fc89138ff588"/>
+        <card number="1" name="Mountain" setShortName="LEB" collectorNumber="298" uuid="7cb88a03-7092-4d31-a9f1-4f16e39bc537"/>
+        <card number="1" name="Mountain" setShortName="LEB" collectorNumber="299" uuid="af9ad645-e605-4048-bf4c-d636584f315b"/>
+        <card number="1" name="Mountain" setShortName="2ED" collectorNumber="297" uuid="2c3c0f74-485e-4b21-8f41-56666a7d0005"/>
+        <card number="4" name="Rishadan Port" setShortName="MMQ" collectorNumber="324" uuid="477a1f53-5cdf-4b45-b584-2e36b31a3fdb"/>
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+        <card number="4" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+        <card number="4" name="Aether Vial" setShortName="DST" collectorNumber="91" uuid="741c479b-5e92-4837-9673-9bc72aa11d26"/>
+        <card number="4" name="Gempalm Incinerator" setShortName="LGN" collectorNumber="94" uuid="2687c311-fd0c-4fe0-bce8-e3f412216796"/>
+        <card number="4" name="Goblin Lackey" setShortName="USG" collectorNumber="190" uuid="9b848caa-aad8-4060-8f86-304a8556de2d"/>
+        <card number="2" name="Goblin Matron" setShortName="USG" collectorNumber="191" uuid="9e9e2e5d-ad06-4378-9afb-ffb174e6a5b4"/>
+        <card number="2" name="Goblin Matron" setShortName="7ED" collectorNumber="191" uuid="862409e1-33e0-474c-8627-b03d25b654b9"/>
+        <card number="4" name="Goblin Piledriver" setShortName="ONS" collectorNumber="205" uuid="f6c4df1f-f148-42ec-8e22-e7114216927d"/>
+        <card number="4" name="Goblin Ringleader" setShortName="APC" collectorNumber="62" uuid="b6b2cd77-9552-48b1-80cb-26966323c1ea"/>
+        <card number="1" name="Goblin Sharpshooter" setShortName="ONS" collectorNumber="207" uuid="7e689df7-b85d-4346-bee8-5e978b5cbbbc"/>
+        <card number="1" name="Goblin Tinkerer" setShortName="MIR" collectorNumber="180" uuid="e6529852-8b3e-4a70-a4a1-029e012231c6"/>
+        <card number="4" name="Goblin Warchief" setShortName="SCG" collectorNumber="97" uuid="66864a4b-8924-40ef-a337-15b12413a158"/>
+        <card number="4" name="Mogg Fanatic" setShortName="TMP" collectorNumber="190" uuid="ca2ecfd4-c874-4468-8601-87aa110d5a00"/>
+        <card number="3" name="Siege-Gang Commander" setShortName="SCG" collectorNumber="103" uuid="92e78cec-aaf9-4fe8-887b-b7e356d63315"/>
+        <card number="1" name="Skirk Prospector" setShortName="ONS" collectorNumber="230" uuid="eb545dcd-3a7a-46a7-9c35-d28faebc6d17"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Price of Progress" setShortName="EXO" collectorNumber="95" uuid="8e5283db-3e22-4862-9d95-56d03d09c2ae"/>
+        <card number="4" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="2" name="Patron of the Akki" setShortName="BOK" collectorNumber="115" uuid="18325283-ace8-414b-bf48-2ed36b5a9c24"/>
+        <card number="4" name="Pyrokinesis" setShortName="ALL" collectorNumber="78" uuid="db2a5e85-6cbc-43c1-9362-4056ad017ef0"/>
+        <card number="1" name="Goblin Tinkerer" setShortName="MIR" collectorNumber="180" uuid="e6529852-8b3e-4a70-a4a1-029e012231c6"/>
+        <card number="1" name="Siege-Gang Commander" setShortName="SCG" collectorNumber="103" uuid="92e78cec-aaf9-4fe8-887b-b7e356d63315"/>
+    </zone>
+</cockatrice_deck>
