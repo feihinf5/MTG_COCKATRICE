@@ -12,6 +12,9 @@ Format
 
 Note
 - Grand Prix-Kitakyuushuu 2005 top 8 deck by Akihara Akira
+- Sacrifices lands to fuel and transition into [**Balancing Act**] then deploys [**Terravore**] as the primary finisher
+- Uses [**Burning Wish**] to guarantee highly consistent access to [**Balancing Act**] from the sideboard while utilizing [**Life from the Loam**] to easily recover sacrificed lands
+- Utilizing [**Tooth and Nail**] to catch opponents off guard after sideboarding
 
 Deck
 - 4 Terravore
