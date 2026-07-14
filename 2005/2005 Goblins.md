@@ -2,7 +2,7 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2005_Grand_Prix_Philadelphia_winning_deck_%20by_Jonathan_Sonne.png
 
 Format
-- CARD_SET
+- LEA <--> RAV
 
 Note
 - Grand Prix-Philadelphia 2005 winning deck by Jonathan Sonne
