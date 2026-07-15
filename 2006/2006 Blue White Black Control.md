@@ -32,7 +32,7 @@ Deck
 - 4 Hallowed Fountain
 - 3 Azorius Chancery
 - 1 Prahv, Spires of Order
-- 4 Trial/Error 
+- 4 Trial // Error 
 
 Sideboard
 - 2 Wit's End
