@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Annex Wildfire</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>The Finals05 winning deck by Kuroda Masashiro</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="294" uuid="35c20f8b-6ad1-4aa2-94d3-7bd42562a1ac"/>
+        <card number="1" name="Mikokoro, Center of the Sea" setShortName="SOK" collectorNumber="162" uuid="7ef72797-328e-4303-8ffb-9686086648b8"/>
+        <card number="1" name="Minamo, School at Water's Edge" setShortName="CHK" collectorNumber="279" uuid="7536292c-da25-41c8-ba28-1e35758a7f3d"/>
+        <card number="1" name="Miren, the Moaning Well" setShortName="SOK" collectorNumber="163" uuid="53d414f0-15ae-446b-a8d7-56c1b502740c"/>
+        <card number="1" name="Mountain" setShortName="CHK" collectorNumber="300" uuid="266a514a-076a-40c0-a756-c6fdd261c3cb"/>
+        <card number="1" name="Mountain" setShortName="CHK" collectorNumber="302" uuid="c15e5767-64e1-4f4e-a02e-1143db0f648e"/>
+        <card number="1" name="Shinka, the Bloodsoaked Keep" setShortName="CHK" collectorNumber="282" uuid="d2d5f30e-cc3a-46c1-82a9-2cd73705b2f5"/>
+        <card number="2" name="Shivan Reef" setShortName="APC" collectorNumber="142" uuid="c3403143-2b4e-4408-b138-c856bbc1e9a5"/>
+        <card number="2" name="Shivan Reef" setShortName="9ED" collectorNumber="324" uuid="eea38777-e67d-40a5-9301-d4e6d3819899"/>
+        <card number="1" name="Shizo, Death's Storehouse" setShortName="CHK" collectorNumber="283" uuid="2de9a046-3db1-436e-b666-ba96e2e8c5db"/>
+        <card number="1" name="Sulfurous Springs" setShortName="9ED" collectorNumber="325" uuid="d5da34c3-53c7-401a-8f7e-f3cc8a42c888"/>
+        <card number="4" name="Tendo Ice Bridge" setShortName="BOK" collectorNumber="165" uuid="d246f521-b9a0-4b4f-b38c-0e4eb4066212"/>
+        <card number="2" name="Underground River" setShortName="9ED" collectorNumber="326" uuid="be9395fc-ad8a-494a-a5bc-fea3f55b0e2c"/>
+        <card number="4" name="Watery Grave" setShortName="RAV" collectorNumber="286" uuid="139b90cd-8272-457a-be32-1298145345be"/>
+        <card number="4" name="Mana Leak" setShortName="9ED" collectorNumber="86" uuid="60e6486c-644f-4b32-b4e9-3ca29bbdb400"/>
+        <card number="3" name="Pyroclasm" setShortName="9ED" collectorNumber="208" uuid="ea6df956-0dc0-41f4-bf37-c88bcd80cc95"/>
+        <card number="2" name="Tidings" setShortName="9ED" collectorNumber="106" uuid="e28e96c6-4c48-466a-81a0-1137269db529"/>
+        <card number="4" name="Wildfire" setShortName="9ED" collectorNumber="228" uuid="81db2609-b02f-4b46-8467-eac4c7022d5c"/>
+        <card number="4" name="Annex" setShortName="9ED" collectorNumber="59" uuid="b0df72c6-4f54-43ec-a4e0-5733003f4fd7"/>
+        <card number="4" name="Dream Leash" setShortName="RAV" collectorNumber="45" uuid="0de4fa3d-a144-4918-b032-7495ab2e1c8c"/>
+        <card number="1" name="Honden of Seeing Winds" setShortName="CHK" collectorNumber="69" uuid="ad732186-eeb9-4edb-a17a-51f8bac71802"/>
+        <card number="2" name="Boros Signet" setShortName="RAV" collectorNumber="255" uuid="1bae1f86-4639-4424-b47b-fdc826bf6e97"/>
+        <card number="4" name="Dimir Signet" setShortName="RAV" collectorNumber="260" uuid="9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf"/>
+        <card number="2" name="Fellwar Stone" setShortName="9ED" collectorNumber="297" uuid="5a8fd20a-d26e-417f-b1b7-e7257cc5b22b"/>
+        <card number="3" name="Icy Manipulator" setShortName="9ED" collectorNumber="299" uuid="e3dec5eb-c391-4152-860d-68b2f09b8459"/>
+        <card number="2" name="Keiga, the Tide Star" setShortName="CHK" collectorNumber="72" uuid="ea83eaeb-cf82-406b-977f-2bac41925739"/>
+        <card number="2" name="Kokusho, the Evening Star" setShortName="CHK" collectorNumber="122" uuid="63dc0698-e92f-4134-80e4-5cc37b80e37c"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Boseiju, Who Shelters All" setShortName="CHK" collectorNumber="273" uuid="0180d9a8-992c-4d55-8ac4-33a587786993"/>
+        <card number="3" name="Bottle Gnomes" setShortName="9ED" collectorNumber="290" uuid="b6d225c1-22f7-4c98-bba0-216724f2d587"/>
+        <card number="3" name="Hinder" setShortName="CHK" collectorNumber="65" uuid="dc7befed-805b-4a02-a87d-7df3a95db8a0"/>
+        <card number="2" name="Smash" setShortName="APC" collectorNumber="69" uuid="4a6c869c-74c2-42b6-bb23-a2f481c4b673"/>
+        <card number="2" name="Cranial Extraction" setShortName="CHK" collectorNumber="105" uuid="a8cad7a3-777e-4c84-b404-5f504844ab3b"/>
+        <card number="2" name="Persecute" setShortName="9ED" collectorNumber="151" uuid="54af13f6-7a7b-431d-9dda-6492d135563f"/>
+        <card number="1" name="Pyroclasm" setShortName="9ED" collectorNumber="208" uuid="ea6df956-0dc0-41f4-bf37-c88bcd80cc95"/>
+    </zone>
+</cockatrice_deck>
