@@ -10,8 +10,8 @@ Format
 
 Note
 - The Finals05 winning deck by Kuroda Masashiro
-- Blue Red land destruction control deck, secure a mana advantage using mana artifacts, [**Annex**] then lock down the game with [**Wildfire**]
-- Utilizes [**Dream Leash**] along with [**Icy Manipulator**], which has excellent synergy with it
+- Blue Red land destruction control deck, secure a mana advantage using mana artifacts, [**Annex**](https://api.scryfall.com/cards/b0df72c6-4f54-43ec-a4e0-5733003f4fd7?format=image) then lock down the game with [**Wildfire**](https://api.scryfall.com/cards/81db2609-b02f-4b46-8467-eac4c7022d5c?format=image)
+- Utilizes [**Dream Leash**](https://api.scryfall.com/cards/0de4fa3d-a144-4918-b032-7495ab2e1c8c?format=image) along with [**Icy Manipulator**](https://api.scryfall.com/cards/e3dec5eb-c391-4152-860d-68b2f09b8459?format=image) which has excellent synergy with it
 
 Deck
 - 2 Kokusho, the Evening Star
