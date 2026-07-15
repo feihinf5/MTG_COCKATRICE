@@ -34,7 +34,7 @@ Deck
 Sideboard
 - 3 Last Gasp
 - 4 Ribbons of Night
-- 4 Bound/Determined
+- 4 Bound // Determined
 - 1 Simic Growth Chamber
 - 2 Muse Vessel
 - 1 Leyline of Singularity 
