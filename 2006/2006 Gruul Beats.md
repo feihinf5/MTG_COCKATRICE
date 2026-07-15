@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2006_Pro_Tour_Honolulu_winning_deck_by_Mark_Herberholz.png
 
 Format
 - CARD_SET
