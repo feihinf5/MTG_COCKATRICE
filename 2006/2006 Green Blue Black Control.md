@@ -8,8 +8,8 @@ Format
 
 Note
 - Pro Tour-Charleston 2006 team winning deck by Tomohiro Kaji
-- Relies on powerful flying creatures such as [**Simic Sky Swallower**] and [**Skeletal Vampire**]
-- Using ramp spells like [**Farseek**], [**Simic Signet**] and bounce lands to secure the win.
+- Relies on powerful flying creatures such as [**Simic Sky Swallower**](https://api.scryfall.com/cards/f625b270-f560-402b-b253-51951822ce42?format=image) and [**Skeletal Vampire**](https://api.scryfall.com/cards/69251d44-3038-4b64-ab78-fc87f0406ba2?format=image)
+- Using ramp spells like [**Farseek**](https://api.scryfall.com/cards/8180abec-9459-4b81-987e-b1794e45d543?format=image), [**Simic Signet**](https://api.scryfall.com/cards/90107d10-e2aa-4cb7-a000-039f0c581b47?format=image) and bounce lands to secure the win.
 
 Deck
 - 3 Skeletal Vampire
