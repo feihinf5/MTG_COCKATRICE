@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2006 Heartbeat</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2006 Canandian National Championship winning deck by Guillaume Cardin</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Sensei's Divining Top" setShortName="CHK" collectorNumber="268" uuid="4a08ca06-58db-4ce6-b490-be4bea8956a1"/>
+        <card number="4" name="Heartbeat of Spring" setShortName="CHK" collectorNumber="212" uuid="6be3ba05-dce0-463b-bfe6-d51df63cc1a8"/>
+        <card number="1" name="Invoke the Firemind" setShortName="GPT" collectorNumber="118" uuid="58d8e41a-5990-4ceb-9d41-76632faa7883"/>
+        <card number="4" name="Muddle the Mixture" setShortName="RAV" collectorNumber="60" uuid="4cc785b0-0a77-4b02-b0b4-2bda2fc621cc"/>
+        <card number="4" name="Remand" setShortName="RAV" collectorNumber="63" uuid="581f3780-c480-48c6-b15c-1618f2feccb9"/>
+        <card number="3" name="Weird Harvest" setShortName="9ED" collectorNumber="282" uuid="89bd2c25-049a-4df2-bf8f-198d1b41b01e"/>
+        <card number="1" name="Pyroclasm" setShortName="9ED" collectorNumber="208" uuid="ea6df956-0dc0-41f4-bf37-c88bcd80cc95"/>
+        <card number="4" name="Kodama's Reach" setShortName="CHK" collectorNumber="225" uuid="85d207ac-0680-47ef-85d9-4323c1321d6f"/>
+        <card number="4" name="Early Harvest" setShortName="9ED" collectorNumber="235" uuid="22113d08-ecc9-4efd-90f1-00d699582ec3"/>
+        <card number="4" name="Drift of Phantasms" setShortName="RAV" collectorNumber="46" uuid="c1096ce5-f776-4028-b231-e6eaee35014b"/>
+        <card number="1" name="Maga, Traitor to Mortals" setShortName="SOK" collectorNumber="81" uuid="2563fd68-afdd-466f-8137-0769565674bf"/>
+        <card number="4" name="Sakura-Tribe Elder" setShortName="CHK" collectorNumber="239" uuid="91c7707a-bae0-4196-bf26-d276f57b7369"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="306" uuid="88f06e37-f113-4865-9ad9-13483dd15084"/>
+        <card number="2" name="Forest" setShortName="CHK" collectorNumber="305" uuid="c1629dba-02af-4586-ba59-58faac7cf59b"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="303" uuid="a3209b22-56af-45ac-9224-67574c035638"/>
+        <card number="1" name="Forest" setShortName="9ED" collectorNumber="350" uuid="e797e006-7379-45c2-a4b7-d0ef133379df"/>
+        <card number="1" name="Forest" setShortName="9ED" collectorNumber="349" uuid="158aaaad-a217-490a-8a90-31ce592ad742"/>
+        <card number="1" name="Forest" setShortName="9ED" collectorNumber="348" uuid="2bbc9c84-348b-40f5-ab3d-bbe8c27529a4"/>
+        <card number="1" name="Forest" setShortName="9ED" collectorNumber="347" uuid="5029a818-e076-4ae3-a246-693ec7615e15"/>
+        <card number="1" name="Forest" setShortName="RAV" collectorNumber="306" uuid="ade29c12-43f6-473d-bcc8-1e3f2cf4ee8f"/>
+        <card number="1" name="Forest" setShortName="RAV" collectorNumber="305" uuid="fe2e6db4-94a4-4fa9-be52-1ec235d2b137"/>
+        <card number="1" name="Forest" setShortName="RAV" collectorNumber="304" uuid="839f63ad-476a-4344-b6c3-911c1075c2b8"/>
+        <card number="1" name="Forest" setShortName="RAV" collectorNumber="303" uuid="706be1bd-720d-4e74-b71f-568081afcab1"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="291" uuid="d5170ce9-2463-4fec-945b-6c2f23eb7e22"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="292" uuid="f12c5ae3-8c55-4bd9-a64f-3960d45c0563"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="294" uuid="35c20f8b-6ad1-4aa2-94d3-7bd42562a1ac"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="293" uuid="5d141922-570d-4652-9620-2b53eb68294a"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="335" uuid="e0eac72f-915b-41a2-a9cf-1707b65d9ac9"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="336" uuid="9d5ab443-b415-45e5-a9f7-539a5299bf27"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="337" uuid="d7d7f6bf-051c-45a4-b19e-2a50bbd6398e"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="338" uuid="c1cf7cd5-3c25-4760-b783-36e7827154e2"/>
+        <card number="1" name="Mountain" setShortName="CHK" collectorNumber="299" uuid="22262a3a-c2e0-4639-9002-361b39ea9b3a"/>
+        <card number="1" name="Swamp" setShortName="CHK" collectorNumber="297" uuid="d0878ac9-6a80-4412-999d-4c6549b9afd4"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Savage Twister" setShortName="GPT" collectorNumber="127" uuid="682ee5a9-2995-4868-b7ea-8735b2aee77e"/>
+        <card number="4" name="Vinelasher Kudzu" setShortName="RAV" collectorNumber="189" uuid="34955f52-521f-466c-9025-c117f6162e97"/>
+        <card number="2" name="Voidslime" setShortName="DIS" collectorNumber="137" uuid="97121d5a-18ab-47cd-808f-562cd865955a"/>
+        <card number="2" name="Naturalize" setShortName="9ED" collectorNumber="258" uuid="595f1019-2608-4d00-8b9b-7f22e87acd0d"/>
+        <card number="1" name="Research // Development" setShortName="DIS" collectorNumber="155" uuid="5d48ee48-aaeb-4907-b9dc-32f22e95ae4c"/>
+        <card number="3" name="Carven Caryatid" setShortName="RAV" collectorNumber="155" uuid="ba52a417-0950-4ddf-9bd5-3557f659fdf5"/>
+    </zone>
+</cockatrice_deck>
