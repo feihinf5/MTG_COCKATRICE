@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2006 Green Blue Black Control</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Charleston 2006 team winning deck by Tomohiro Kaji</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Breeding Pool" setShortName="DIS" collectorNumber="172" uuid="b98b2a35-ec2b-47fe-903d-dd292e469a3c"/>
+        <card number="1" name="Forest" setShortName="RAV" collectorNumber="303" uuid="706be1bd-720d-4e74-b71f-568081afcab1"/>
+        <card number="1" name="Forest" setShortName="RAV" collectorNumber="304" uuid="839f63ad-476a-4344-b6c3-911c1075c2b8"/>
+        <card number="1" name="Forest" setShortName="RAV" collectorNumber="306" uuid="ade29c12-43f6-473d-bcc8-1e3f2cf4ee8f"/>
+        <card number="1" name="Forest" setShortName="RAV" collectorNumber="305" uuid="fe2e6db4-94a4-4fa9-be52-1ec235d2b137"/>
+        <card number="3" name="Golgari Rot Farm" setShortName="RAV" collectorNumber="278" uuid="104364d5-ede8-4ac5-900f-19947f51bbc1"/>
+        <card number="2" name="Island" setShortName="RAV" collectorNumber="291" uuid="db6c8056-f155-434c-a4cb-a532a4707245"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="292" uuid="1d603978-3877-454e-8910-53a4cc95431d"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="294" uuid="f9cba2b8-d865-46e8-81f1-752598a0d729"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="293" uuid="42a272ca-98a7-4887-b6b7-903a1adc33e0"/>
+        <card number="4" name="Overgrown Tomb" setShortName="RAV" collectorNumber="279" uuid="fce07335-cc78-4683-b2f0-9c98a06ea1d8"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="295" uuid="2755f9f7-95f9-4907-8ec9-21853eb376f4"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="297" uuid="fbd659b0-1f79-4e3b-bc20-8f384aa43670"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="298" uuid="0d1a1df0-e6dc-4815-bb73-9d100ee6e0b2"/>
+        <card number="3" name="Simic Signet" setShortName="DIS" collectorNumber="166" uuid="90107d10-e2aa-4cb7-a000-039f0c581b47"/>
+        <card number="2" name="Clutch of the Undercity" setShortName="RAV" collectorNumber="197" uuid="24437641-85a1-4fcd-93dc-bd19a7abf969"/>
+        <card number="3" name="Putrefy" setShortName="RAV" collectorNumber="221" uuid="0a16086c-5a74-45d0-8b38-e832cfbc80f7"/>
+        <card number="4" name="Voidslime" setShortName="DIS" collectorNumber="137" uuid="97121d5a-18ab-47cd-808f-562cd865955a"/>
+        <card number="4" name="Farseek" setShortName="RAV" collectorNumber="163" uuid="8180abec-9459-4b81-987e-b1794e45d543"/>
+        <card number="2" name="Mimeofacture" setShortName="GPT" collectorNumber="30" uuid="f4ada33a-5b7c-426a-8416-4ce01bccaa5c"/>
+        <card number="4" name="Rolling Spoil" setShortName="RAV" collectorNumber="179" uuid="e6c5546f-2429-4099-a9bd-eda3f52779b7"/>
+        <card number="2" name="Twisted Justice" setShortName="RAV" collectorNumber="237" uuid="d8efa02d-c301-47e1-8cdf-26ff9e97a243"/>
+        <card number="4" name="Carven Caryatid" setShortName="RAV" collectorNumber="155" uuid="ba52a417-0950-4ddf-9bd5-3557f659fdf5"/>
+        <card number="3" name="Moroii" setShortName="RAV" collectorNumber="216" uuid="3de9ce70-67d1-4007-94ed-4545867e90c8"/>
+        <card number="3" name="Simic Sky Swallower" setShortName="DIS" collectorNumber="130" uuid="f625b270-f560-402b-b253-51951822ce42"/>
+        <card number="3" name="Skeletal Vampire" setShortName="GPT" collectorNumber="62" uuid="69251d44-3038-4b64-ab78-fc87f0406ba2"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Leyline of Singularity" setShortName="GPT" collectorNumber="29" uuid="d40d7e5c-3b6d-4e42-b495-b3cd7ae0d808"/>
+        <card number="2" name="Muse Vessel" setShortName="DIS" collectorNumber="163" uuid="10482209-19b1-4941-9133-f2764eeba092"/>
+        <card number="1" name="Simic Growth Chamber" setShortName="DIS" collectorNumber="180" uuid="407d0a0c-a6be-4bd5-8355-1715698c6bde"/>
+        <card number="4" name="Bound // Determined" setShortName="DIS" collectorNumber="149" uuid="9dc20e14-e304-4c14-a87b-322a76e214d5"/>
+        <card number="4" name="Ribbons of Night" setShortName="RAV" collectorNumber="101" uuid="c7a2e910-5a61-4ca0-8d69-0a6d4ea12ed7"/>
+        <card number="3" name="Last Gasp" setShortName="RAV" collectorNumber="93" uuid="34e035b3-bd83-43a4-8f31-d2393d29cd94"/>
+    </zone>
+</cockatrice_deck>
