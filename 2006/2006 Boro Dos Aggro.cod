@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2006 Boro Dos Aggro</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Charleston 2006 team winning deck by Saito Tomoharu</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Hit // Run" setShortName="DIS" collectorNumber="152" uuid="b44c30a9-1af4-4287-a809-d2de4e8b4070"/>
+        <card number="4" name="Blood Crypt" setShortName="DIS" collectorNumber="171" uuid="f281e16f-0fe1-4095-bd63-0a4479f75c11"/>
+        <card number="2" name="Boros Garrison" setShortName="RAV" collectorNumber="275" uuid="7dfe3f03-078f-44fb-89cd-efa3ebfaf637"/>
+        <card number="4" name="Godless Shrine" setShortName="GPT" collectorNumber="157" uuid="be010c2f-06db-47e3-80bd-df3f2a21ca34"/>
+        <card number="1" name="Mountain" setShortName="RAV" collectorNumber="299" uuid="dad3662a-f7b4-45d5-a35e-fc6c38474692"/>
+        <card number="1" name="Mountain" setShortName="RAV" collectorNumber="300" uuid="6477ebad-e1e5-4508-aa20-39b47e39a5c6"/>
+        <card number="1" name="Mountain" setShortName="RAV" collectorNumber="302" uuid="e135c9f9-5099-4029-bc19-dd9a0760d86f"/>
+        <card number="1" name="Mountain" setShortName="RAV" collectorNumber="301" uuid="4f312d7b-f505-45c3-bb87-650259e5db50"/>
+        <card number="4" name="Sacred Foundry" setShortName="RAV" collectorNumber="280" uuid="168ef687-5797-4b45-b75b-393d8117cebd"/>
+        <card number="2" name="Swamp" setShortName="RAV" collectorNumber="295" uuid="2755f9f7-95f9-4907-8ec9-21853eb376f4"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="296" uuid="f18dd43d-0d9e-4d61-90f9-63822cf0cb2d"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="298" uuid="0d1a1df0-e6dc-4815-bb73-9d100ee6e0b2"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="297" uuid="fbd659b0-1f79-4e3b-bc20-8f384aa43670"/>
+        <card number="3" name="Seal of Fire" setShortName="DIS" collectorNumber="71" uuid="82ff3740-93e2-454a-8e6b-e29d0c9d0fc2"/>
+        <card number="2" name="Boros Signet" setShortName="RAV" collectorNumber="255" uuid="1bae1f86-4639-4424-b47b-fdc826bf6e97"/>
+        <card number="4" name="Lightning Helix" setShortName="RAV" collectorNumber="213" uuid="1b2ecf55-c1cc-4b28-b7ce-e1b25305155e"/>
+        <card number="4" name="Demonfire" setShortName="DIS" collectorNumber="60" uuid="af2ad333-722e-4d7e-972a-903c24068931"/>
+        <card number="4" name="Dark Confidant" setShortName="RAV" collectorNumber="81" uuid="94f7a441-bf2d-46fb-a7b6-9bd6137f86d9"/>
+        <card number="4" name="Giant Solifuge" setShortName="GPT" collectorNumber="143" uuid="8a83dbc9-802f-4ebf-93de-b2bf4844cc9e"/>
+        <card number="4" name="Lyzolda, the Blood Witch" setShortName="DIS" collectorNumber="117" uuid="18df285f-4cb9-4998-bd26-eefbe28f80c7"/>
+        <card number="4" name="Rakdos Guildmage" setShortName="DIS" collectorNumber="145" uuid="0e01fef8-5563-4dec-ab8e-e486e19e202c"/>
+        <card number="4" name="Skyknight Legionnaire" setShortName="GRN" collectorNumber="198" uuid="3c27f2ce-702a-4ec2-a470-982171a9ec73"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Orzhov Pontiff" setShortName="GPT" collectorNumber="124" uuid="f2b5813b-955b-469a-b287-65325c589b59"/>
+        <card number="1" name="Skeletal Vampire" setShortName="GPT" collectorNumber="62" uuid="69251d44-3038-4b64-ab78-fc87f0406ba2"/>
+        <card number="3" name="Rise // Fall" setShortName="DIS" collectorNumber="156" uuid="a6bd585d-0155-4ed8-8b8a-9c0b7604e942"/>
+        <card number="4" name="Sunhome Enforcer" setShortName="RAV" collectorNumber="233" uuid="c4d5a88e-fc8f-4dd6-a1db-8e44b74ee0a1"/>
+        <card number="4" name="Char" setShortName="RAV" collectorNumber="117" uuid="ff3a24af-e995-4d05-ac2c-e9676048675d"/>
+        <card number="1" name="Seal of Fire" setShortName="DIS" collectorNumber="71" uuid="82ff3740-93e2-454a-8e6b-e29d0c9d0fc2"/>
+    </zone>
+</cockatrice_deck>
