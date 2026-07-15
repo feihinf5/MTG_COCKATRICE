@@ -8,6 +8,8 @@ Format
 
 Note
 - Pro Tour-Charleston 2006 team winning deck by Saito Tomoharu
+- Operates fundamentally like Boros Weenie, using efficient White weenie creatures backed up by Red burn spells
+- Integrates [**Dark Confidant**] for its powerful card-drawing ability
 
 Deck
 - 4 Giant Solifuge
