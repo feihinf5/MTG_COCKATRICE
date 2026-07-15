@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2006 Blue White Black Control</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Charleston 2006 team winning deck by Yasooka Shota</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Azorius Chancery" setShortName="DIS" collectorNumber="170" uuid="e58365d2-e4db-444b-b1a9-795668ad3038"/>
+        <card number="4" name="Hallowed Fountain" setShortName="DIS" collectorNumber="174" uuid="c28aea19-2a39-4934-afda-909e234fa3ba"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="291" uuid="db6c8056-f155-434c-a4cb-a532a4707245"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="292" uuid="1d603978-3877-454e-8910-53a4cc95431d"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="294" uuid="f9cba2b8-d865-46e8-81f1-752598a0d729"/>
+        <card number="4" name="Trial // Error" setShortName="DIS" collectorNumber="158" uuid="553028fc-eeab-42e2-9887-cf45ea3f01a6"/>
+        <card number="1" name="Plains" setShortName="RAV" collectorNumber="287" uuid="3d8d3cd4-0f5f-4424-82ee-d8ba81da47fd"/>
+        <card number="1" name="Plains" setShortName="RAV" collectorNumber="288" uuid="97b7beb9-0805-47b9-8e62-ff110e9e086a"/>
+        <card number="1" name="Plains" setShortName="RAV" collectorNumber="290" uuid="7c2839fa-33eb-47fb-9541-77c68612aa02"/>
+        <card number="1" name="Plains" setShortName="RAV" collectorNumber="289" uuid="7ab3d0fe-6af6-4d02-b41d-0b88b510be4f"/>
+        <card number="1" name="Prahv, Spires of Order" setShortName="DIS" collectorNumber="177" uuid="2a315f63-96ad-4a5f-8eb4-d81361797348"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="295" uuid="2755f9f7-95f9-4907-8ec9-21853eb376f4"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="296" uuid="f18dd43d-0d9e-4d61-90f9-63822cf0cb2d"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="298" uuid="0d1a1df0-e6dc-4815-bb73-9d100ee6e0b2"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="297" uuid="fbd659b0-1f79-4e3b-bc20-8f384aa43670"/>
+        <card number="4" name="Watery Grave" setShortName="RAV" collectorNumber="286" uuid="139b90cd-8272-457a-be32-1298145345be"/>
+        <card number="1" name="Debtors' Knell" setShortName="GPT" collectorNumber="141" uuid="63a76c61-fd84-458d-9bc0-583768f4275a"/>
+        <card number="4" name="Dimir Signet" setShortName="RAV" collectorNumber="260" uuid="9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf"/>
+        <card number="2" name="Convolute" setShortName="RAV" collectorNumber="41" uuid="fac88052-96a3-4a4d-95a2-c5a652fcb275"/>
+        <card number="3" name="Mortify" setShortName="GPT" collectorNumber="122" uuid="3b2c5187-71c7-4801-8a76-339c67322d35"/>
+        <card number="1" name="Overrule" setShortName="DIS" collectorNumber="120" uuid="22b83a31-f974-4a49-b9ee-92f7767f11e0"/>
+        <card number="4" name="Remand" setShortName="RAV" collectorNumber="63" uuid="581f3780-c480-48c6-b15c-1618f2feccb9"/>
+        <card number="3" name="Swift Silence" setShortName="DIS" collectorNumber="132" uuid="a1c5f733-e126-4c22-b528-18bdb90b509b"/>
+        <card number="4" name="Compulsive Research" setShortName="RAV" collectorNumber="40" uuid="20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4"/>
+        <card number="1" name="Twisted Justice" setShortName="RAV" collectorNumber="237" uuid="d8efa02d-c301-47e1-8cdf-26ff9e97a243"/>
+        <card number="3" name="Angel of Despair" setShortName="GPT" collectorNumber="101" uuid="9ae71424-df9c-481c-9305-a0c30adcfda2"/>
+        <card number="4" name="Court Hussar" setShortName="DIS" collectorNumber="22" uuid="4970f492-d4fc-4833-a083-05e422a3c456"/>
+        <card number="3" name="Grand Arbiter Augustin IV" setShortName="DIS" collectorNumber="112" uuid="a2ac328b-923f-48dd-a4f5-de389ade9125"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Muse Vessel" setShortName="DIS" collectorNumber="163" uuid="10482209-19b1-4941-9133-f2764eeba092"/>
+        <card number="1" name="Nightmare Void" setShortName="RAV" collectorNumber="100" uuid="892299e9-8ee9-4a81-b4aa-b03ad2565eb4"/>
+        <card number="2" name="Orzhov Pontiff" setShortName="GPT" collectorNumber="124" uuid="f2b5813b-955b-469a-b287-65325c589b59"/>
+        <card number="2" name="Faith's Fetters" setShortName="RAV" collectorNumber="16" uuid="5b8ffba3-44a9-41ce-a5a1-37413346db2f"/>
+        <card number="1" name="Moonlight Bargain" setShortName="RAV" collectorNumber="95" uuid="7957c37f-96da-4b7e-9581-afdf73a85edd"/>
+        <card number="3" name="Spell Snare" setShortName="DIS" collectorNumber="33" uuid="35554fdf-c70a-4baa-a35a-414caa9978be"/>
+        <card number="2" name="Keening Banshee" setShortName="RAV" collectorNumber="92" uuid="0866b383-dced-459e-9510-38248a29dd14"/>
+        <card number="2" name="Wit's End" setShortName="DIS" collectorNumber="58" uuid="68f8e20c-6d8e-45a1-aabd-176d8df843db"/>
+    </zone>
+</cockatrice_deck>
