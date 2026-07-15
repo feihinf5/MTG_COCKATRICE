@@ -12,10 +12,10 @@ Format
 
 Note
 - The Finals05 undefeated deck in Extended format by Kuroda Masashiro
-- Uses high-quality creatures like [**White Knight**], [**Silver Knight**] and [**Lightning Angel**] to execute a beatdown strategy
-- Backs up the assault with [**Umezawa's Jitte**] and removal/burn spells like [**Fire // Ice**] and [**Lightning Helix**]
-- Employs [**Meddling Mage**] as both an efficient aggro creature and a tool to shut down the opponent's key cards
-- Uses [**Trinket Mage**] to tutor for 1-mana or less artifacts like [**Pithing Needle**] or [**Engineered Explosives**] to lock down the opponent or artifact lands to stabilize the mana base
+- Uses high-quality creatures like [**White Knight**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Silver Knight**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Lightning Angel**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to execute a beatdown strategy
+- Backs up the assault with [**Umezawa's Jitte**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and removal/burn spells like [**Fire // Ice**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Lightning Helix**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Employs [**Meddling Mage**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as both an efficient aggro creature and a tool to shut down the opponent's key cards
+- Uses [**Trinket Mage**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to tutor for 1-mana or less artifacts like [**Pithing Needle**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Engineered Explosives**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to lock down the opponent or artifact lands to stabilize the mana base
 
 Deck
 - 4 White Knight
@@ -27,7 +27,7 @@ Deck
 - 4 Pithing Needle
 - 3 Umezawa's Jitte
 - 2 Engineered Explosives
-- 4	Fire+Ice
+- 4	Fire // Ice
 - 3 Lightning Helix
 - 3 Plains
 - 1 Island
