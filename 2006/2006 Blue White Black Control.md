@@ -8,9 +8,9 @@ Format
 
 Note
 - Pro Tour-Charleston 2006 team winning deck by Yasooka Shota
-- Controls the game with counters and removal while applying pressure and maintaining card flow with [**Court Hussar**]
-- Gains a major tempo advantage using [**Grand Arbiter Augustin IV**] to tax the opponent and discount friendly spells
-- Secures victory via [**Debtors' Knell**] by repeatedly reanimating and abusing the enters-the-battlefield trigger of [**Angel of Despair**]
+- Controls the game with counters and removal while applying pressure and maintaining card flow with [**Court Hussar**](https://api.scryfall.com/cards/4970f492-d4fc-4833-a083-05e422a3c456?format=image)
+- Gains a major tempo advantage using [**Grand Arbiter Augustin IV**](https://api.scryfall.com/cards/a2ac328b-923f-48dd-a4f5-de389ade9125?format=image) to tax the opponent and discount friendly spells
+- Secures victory via [**Debtors' Knell**](https://api.scryfall.com/cards/63a76c61-fd84-458d-9bc0-583768f4275a?format=image) by repeatedly reanimating and abusing the enters-the-battlefield trigger of [**Angel of Despair**](https://api.scryfall.com/cards/9ae71424-df9c-481c-9305-a0c30adcfda2?format=image)
 
 Deck
 - 4 Court Hussar
