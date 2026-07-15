@@ -10,6 +10,8 @@ Format
 
 Note
 - The Finals05 winning deck by Kuroda Masashiro
+- Blue Red land destruction control deck, secure a mana advantage using mana artifacts, [**Annex**] then lock down the game with [**Wildfire**]
+- Utilizes [**Dream Leash**] along with [**Icy Manipulator**], which has excellent synergy with it
 
 Deck
 - 2 Kokusho, the Evening Star
