@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2005 Raka Deck Wins</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>The Finals05 undefeated deck in Extended format by Kuroda Masashiro</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Adarkar Wastes" setShortName="9ED" collectorNumber="317" uuid="40f61de1-4e49-4640-a495-5abefd96babf"/>
+        <card number="1" name="Ancient Den" setShortName="MRD" collectorNumber="278" uuid="cc857fbd-8e0f-4bff-8f14-561c9925c484"/>
+        <card number="1" name="Battlefield Forge" setShortName="APC" collectorNumber="139" uuid="a9c25e71-0140-48fe-8b9e-33b4b50c5c12"/>
+        <card number="1" name="Battlefield Forge" setShortName="9ED" collectorNumber="318" uuid="d5064361-a8c7-4002-908a-992252641572"/>
+        <card number="4" name="Flooded Strand" setShortName="ONS" collectorNumber="316" uuid="b4e3d844-d3b4-41d8-921d-c1cb3af343f8"/>
+        <card number="1" name="Great Furnace" setShortName="MRD" collectorNumber="282" uuid="2877281d-c85d-4f32-b40d-828b93c4ee8e"/>
+        <card number="1" name="Island" setShortName="INV" collectorNumber="338" uuid="d07d1982-56ff-47ef-87aa-62978f1fcf30"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="331" uuid="5ba9ef2e-d3ec-41f7-802e-e1414f14dd10"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="333" uuid="87a66868-2efa-4985-b4fc-405d7fa8d410"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="334" uuid="b5b4963b-c706-439f-9800-ff5d70003dcf"/>
+        <card number="4" name="Sacred Foundry" setShortName="RAV" collectorNumber="280" uuid="168ef687-5797-4b45-b75b-393d8117cebd"/>
+        <card number="1" name="Seat of the Synod" setShortName="MRD" collectorNumber="283" uuid="5da5587d-6b6c-4645-8cc9-2866d1e6911b"/>
+        <card number="2" name="Skycloud Expanse" setShortName="ODY" collectorNumber="327" uuid="c8c0da61-59c5-4206-83d9-c4676e169f01"/>
+        <card number="4" name="Fire // Ice" setShortName="APC" collectorNumber="128" uuid="f98f4538-5b5b-475d-b98f-49d01dae6f04"/>
+        <card number="3" name="Lightning Helix" setShortName="RAV" collectorNumber="213" uuid="1b2ecf55-c1cc-4b28-b7ce-e1b25305155e"/>
+        <card number="2" name="Engineered Explosives" setShortName="5DN" collectorNumber="118" uuid="8492a272-e595-4f94-a6eb-08d29f211fd6"/>
+        <card number="4" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="3" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="2" name="Exalted Angel" setShortName="ONS" collectorNumber="28" uuid="c2213eac-cea4-4dfd-90c4-c1f466967e2e"/>
+        <card number="4" name="Lightning Angel" setShortName="APC" collectorNumber="108" uuid="6518d0c5-58ee-4089-bf19-5030d4319681"/>
+        <card number="4" name="Meddling Mage" setShortName="PLS" collectorNumber="116" uuid="176f84c6-aa5e-449c-bd2b-cc91a898f0c7"/>
+        <card number="4" name="Silver Knight" setShortName="SCG" collectorNumber="23" uuid="93f559da-08ad-402d-8c6b-3050bce5867b"/>
+        <card number="3" name="Trinket Mage" setShortName="5DN" collectorNumber="39" uuid="4c5a41ab-1840-4abb-a8bb-f0b1e7d1b450"/>
+        <card number="4" name="White Knight" setShortName="LGN" collectorNumber="27" uuid="cb9cb8ed-7abb-4e71-b42f-5041dd0c0394"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Exalted Angel" setShortName="ONS" collectorNumber="28" uuid="c2213eac-cea4-4dfd-90c4-c1f466967e2e"/>
+        <card number="2" name="Flametongue Kavu" setShortName="PLS" collectorNumber="60" uuid="e5056bca-bd90-4b50-8630-105558f8ef92"/>
+        <card number="3" name="Kataki, War's Wage" setShortName="SOK" collectorNumber="14" uuid="a5c99ac4-6551-4cc2-9a70-6e66b259b2a2"/>
+        <card number="3" name="Mystic Crusader" setShortName="ODY" collectorNumber="33" uuid="27ce1baf-8a89-4884-b0f7-19311bfc8c4c"/>
+        <card number="2" name="Devouring Light" setShortName="RAV" collectorNumber="13" uuid="53fcc46c-682c-4482-8422-811b951d96cf"/>
+        <card number="1" name="Engineered Explosives" setShortName="5DN" collectorNumber="118" uuid="8492a272-e595-4f94-a6eb-08d29f211fd6"/>
+        <card number="3" name="Scrabbling Claws" setShortName="MRD" collectorNumber="237" uuid="415027f8-ccef-4b38-ace2-db4e94f066fe"/>
+    </zone>
+</cockatrice_deck>
