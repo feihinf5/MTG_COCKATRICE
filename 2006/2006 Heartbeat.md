@@ -12,6 +12,11 @@ Format
 
 Note
 - 2006 Canandian National Championship winning deck by Guillaume Cardin
+- Play [**Heartbeat of Spring**] which causes all lands to tap for double mana and cast [**Early Harvest**] to untap all basic lands, instantly doubling available mana pool
+- Use [**Sensei's Divining Top**] to dig through library for more untap spells
+- Keep the chain going by using transmute cards like [**Drift of Phantasms**] (to tutor for [**Heartbeat of Spring**] or [**Weird Harvest**]) and [**Muddle the Mixture**] (to tutor for [**Early Harvest**])
+- Cast [**Weird Harvest**] for a large X value to tutor [**Maga, Traitor to Mortals**] to drain the opponent's life total to 0 instantly
+- [**Invoke the Firemind88**] to alternatively, point a massive X-damage spell directly at the opponent
 
 Deck
 - 12 Forest
@@ -28,7 +33,6 @@ Deck
 - 1 Pyroclasm
 - 4 Remand
 - 3 Weird Harvest
-- 8 OTHER SPELLS
 - 4 Heartbeat of Spring
 - 4 Sensei's Divining Top 
 
