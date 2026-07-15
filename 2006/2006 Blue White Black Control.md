@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2006_Pro_Tour_Charleston_team_winning_deck_by_Yasooka_Shota.png
 
 Format
 - CARD_SET
