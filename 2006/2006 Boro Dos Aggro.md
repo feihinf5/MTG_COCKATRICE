@@ -30,4 +30,9 @@ Deck
 - 4 Hit // Run 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Seal of Fire
+- 4 Sunhome Enforcer
+- 4 Char
+- 3 Rise // Fall
+- 1 Skeletal Vampire
+- 2 Orzhov Pontiff 
