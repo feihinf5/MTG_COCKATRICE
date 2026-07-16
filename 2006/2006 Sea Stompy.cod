@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2006 Sea Stompy</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2006 Netherland National Championship winning deck by Kamiel Cornelissen</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="3" name="Seal of Fire" setShortName="DIS" collectorNumber="71" uuid="82ff3740-93e2-454a-8e6b-e29d0c9d0fc2"/>
+        <card number="4" name="Mana Leak" setShortName="9ED" collectorNumber="86" uuid="60e6486c-644f-4b32-b4e9-3ca29bbdb400"/>
+        <card number="4" name="Remand" setShortName="RAV" collectorNumber="63" uuid="581f3780-c480-48c6-b15c-1618f2feccb9"/>
+        <card number="4" name="Birds of Paradise" setShortName="RAV" collectorNumber="153" uuid="90a4396a-0f22-482b-ad1d-4d9b68a1ed96"/>
+        <card number="4" name="Kird Ape" setShortName="9ED" collectorNumber="199" uuid="27423c7b-d1fd-471b-9648-8ea5ed9ebaf2"/>
+        <card number="2" name="Llanowar Elves" setShortName="9ED" collectorNumber="253" uuid="913907e2-28dd-4080-b725-52a43868e060"/>
+        <card number="2" name="Meloku the Clouded Mirror" setShortName="CHK" collectorNumber="74" uuid="1caaa733-6d4c-4e18-a64e-f95851c7063b"/>
+        <card number="4" name="Ninja of the Deep Hours" setShortName="BOK" collectorNumber="44" uuid="367a67c7-54db-4336-b55a-3fa27625172a"/>
+        <card number="3" name="Ohran Viper" setShortName="CSP" collectorNumber="115" uuid="bd5fd0ee-2350-4eb0-8417-700459879f74"/>
+        <card number="4" name="Trygon Predator" setShortName="DIS" collectorNumber="133" uuid="f31f54bf-7bf0-48f0-853d-1468713784eb"/>
+        <card number="4" name="Breeding Pool" setShortName="DIS" collectorNumber="172" uuid="b98b2a35-ec2b-47fe-903d-dd292e469a3c"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="303" uuid="a3209b22-56af-45ac-9224-67574c035638"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="304" uuid="b9cf9a4b-be51-4f5d-ac0e-e4f79bbfaecd"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="306" uuid="88f06e37-f113-4865-9ad9-13483dd15084"/>
+        <card number="1" name="Forest" setShortName="CHK" collectorNumber="305" uuid="c1629dba-02af-4586-ba59-58faac7cf59b"/>
+        <card number="2" name="Shivan Reef" setShortName="APC" collectorNumber="142" uuid="c3403143-2b4e-4408-b138-c856bbc1e9a5"/>
+        <card number="2" name="Shivan Reef" setShortName="9ED" collectorNumber="324" uuid="eea38777-e67d-40a5-9301-d4e6d3819899"/>
+        <card number="4" name="Steam Vents" setShortName="GPT" collectorNumber="164" uuid="054f2276-2dd5-43da-bb26-c57c560861fe"/>
+        <card number="4" name="Stomping Ground" setShortName="GPT" collectorNumber="165" uuid="a2773d8f-f906-475d-aaff-b7ca3b01f188"/>
+        <card number="1" name="Yavimaya Coast" setShortName="APC" collectorNumber="143" uuid="177ee102-d981-4fc3-9f09-9dd07755f22c"/>
+        <card number="1" name="Yavimaya Coast" setShortName="9ED" collectorNumber="330" uuid="9e2eff74-8dcc-4c4b-8d74-c93b12966e88"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Thoughts of Ruin" setShortName="SOK" collectorNumber="118" uuid="2a0f2db3-41a6-4283-9812-46b6ae6d1df6"/>
+        <card number="2" name="Threads of Disloyalty" setShortName="BOK" collectorNumber="56" uuid="999440a5-9659-4218-8594-1950f1155975"/>
+        <card number="1" name="Seal of Fire" setShortName="DIS" collectorNumber="71" uuid="82ff3740-93e2-454a-8e6b-e29d0c9d0fc2"/>
+        <card number="2" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="4" name="Carven Caryatid" setShortName="RAV" collectorNumber="155" uuid="ba52a417-0950-4ddf-9bd5-3557f659fdf5"/>
+        <card number="4" name="Rumbling Slum" setShortName="GPT" collectorNumber="126" uuid="d891c5c2-55d4-43a9-a56b-a92166fd41b8"/>
+        <card number="1" name="Meloku the Clouded Mirror" setShortName="CHK" collectorNumber="74" uuid="1caaa733-6d4c-4e18-a64e-f95851c7063b"/>
+    </zone>
+</cockatrice_deck>
