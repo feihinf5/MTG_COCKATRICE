@@ -1,6 +1,6 @@
 Reference 
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2006_Spanish_National_Championship_winning_deck_by_Javier_Dominguez.png
-- It should be [**Repeal**](https://api.scryfall.com/cards/9e7dd929-4bba-46a6-86c9-b8ed853eb721?format=image) but not [**Repel**](https://api.scryfall.com/cards/68ea14a6-539a-47eb-9147-a310be7b63fe?format=image)
+- It should be [**Repeal**](https://api.scryfall.com/cards/9e7dd929-4bba-46a6-86c9-b8ed853eb721?format=image) but not [**Repel**](https://api.scryfall.com/cards/68ea14a6-539a-47eb-9147-a310be7b63fe?format=image) according to http://mtgwiki.com/wiki/%E3%82%A8%E3%83%A9%E3%83%A8%E3%82%A6%E5%BF%8D%E8%80%85
 
 Format
 - CSP
