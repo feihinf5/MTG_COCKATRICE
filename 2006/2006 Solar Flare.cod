@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2006 Solar Flare</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2006 Argentina National Championship winning deck by Leonardo Calcagno</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Azorius Chancery" setShortName="DIS" collectorNumber="170" uuid="e58365d2-e4db-444b-b1a9-795668ad3038"/>
+        <card number="2" name="Caves of Koilos" setShortName="APC" collectorNumber="140" uuid="144dd08e-451e-4438-b572-7a138e1a15f3"/>
+        <card number="1" name="Caves of Koilos" setShortName="9ED" collectorNumber="320" uuid="e693fbc6-78b0-4203-83f4-5352a997371e"/>
+        <card number="1" name="Eiganjo Castle" setShortName="CHK" collectorNumber="275" uuid="219c1d76-40cf-4edf-8145-e6cec8ca39ad"/>
+        <card number="1" name="Godless Shrine" setShortName="EOE" collectorNumber="254" uuid="8c542ea4-98c3-4c2d-9066-205ab7aa697a"/>
+        <card number="1" name="Hallowed Fountain" setShortName="DIS" collectorNumber="174" uuid="c28aea19-2a39-4934-afda-909e234fa3ba"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="291" uuid="d5170ce9-2463-4fec-945b-6c2f23eb7e22"/>
+        <card number="1" name="Mikokoro, Center of the Sea" setShortName="SOK" collectorNumber="162" uuid="7ef72797-328e-4303-8ffb-9686086648b8"/>
+        <card number="1" name="Minamo, School at Water's Edge" setShortName="CHK" collectorNumber="279" uuid="7536292c-da25-41c8-ba28-1e35758a7f3d"/>
+        <card number="1" name="Miren, the Moaning Well" setShortName="SOK" collectorNumber="163" uuid="53d414f0-15ae-446b-a8d7-56c1b502740c"/>
+        <card number="2" name="Orzhov Basilica" setShortName="GPT" collectorNumber="161" uuid="f9154d2a-3fc5-4fd6-9885-a810cb6b542a"/>
+        <card number="1" name="Plains" setShortName="CHK" collectorNumber="287" uuid="deff6a75-2ecd-49d6-b58b-a9d24615f9b7"/>
+        <card number="1" name="Shizo, Death's Storehouse" setShortName="CHK" collectorNumber="283" uuid="2de9a046-3db1-436e-b666-ba96e2e8c5db"/>
+        <card number="1" name="Swamp" setShortName="CHK" collectorNumber="295" uuid="9d376282-adf0-4d37-b9a4-1329cd496516"/>
+        <card number="1" name="Swamp" setShortName="CHK" collectorNumber="297" uuid="d0878ac9-6a80-4412-999d-4c6549b9afd4"/>
+        <card number="1" name="Tendo Ice Bridge" setShortName="BOK" collectorNumber="165" uuid="d246f521-b9a0-4b4f-b38c-0e4eb4066212"/>
+        <card number="1" name="Underground River" setShortName="9ED" collectorNumber="326" uuid="be9395fc-ad8a-494a-a5bc-fea3f55b0e2c"/>
+        <card number="1" name="Watery Grave" setShortName="EOE" collectorNumber="261" uuid="5b8170dc-6a90-46fc-9989-7575f3d402b5"/>
+        <card number="4" name="Compulsive Research" setShortName="RAV" collectorNumber="40" uuid="20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4"/>
+        <card number="2" name="Persecute" setShortName="9ED" collectorNumber="151" uuid="54af13f6-7a7b-431d-9dda-6492d135563f"/>
+        <card number="3" name="Condemn" setShortName="DIS" collectorNumber="8" uuid="58d4f5a0-b2d0-4a60-b1e1-bb2140abfd6d"/>
+        <card number="2" name="Mortify" setShortName="GPT" collectorNumber="122" uuid="3b2c5187-71c7-4801-8a76-339c67322d35"/>
+        <card number="4" name="Remand" setShortName="RAV" collectorNumber="63" uuid="581f3780-c480-48c6-b15c-1618f2feccb9"/>
+        <card number="4" name="Wrath of God" setShortName="9ED" collectorNumber="56" uuid="b6c1e9e3-c947-47cc-ac60-dc032d984a67"/>
+        <card number="3" name="Zombify" setShortName="9ED" collectorNumber="171" uuid="a9af694a-6a96-494a-ab16-5c7c7e8e17a9"/>
+        <card number="4" name="Azorius Signet" setShortName="DIS" collectorNumber="159" uuid="d91a527d-51f1-4fb1-9016-fc923fd43a6a"/>
+        <card number="3" name="Dimir Signet" setShortName="RAV" collectorNumber="260" uuid="9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf"/>
+        <card number="3" name="Angel of Despair" setShortName="GPT" collectorNumber="101" uuid="9ae71424-df9c-481c-9305-a0c30adcfda2"/>
+        <card number="4" name="Court Hussar" setShortName="DIS" collectorNumber="22" uuid="4970f492-d4fc-4833-a083-05e422a3c456"/>
+        <card number="2" name="Kokusho, the Evening Star" setShortName="CHK" collectorNumber="122" uuid="63dc0698-e92f-4134-80e4-5cc37b80e37c"/>
+        <card number="1" name="Yosei, the Morning Star" setShortName="CHK" collectorNumber="50" uuid="1b38f14a-bd10-47c1-8772-5abe0a0b243f"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Castigate" setShortName="GPT" collectorNumber="106" uuid="112c47e4-5ff8-4ea0-ac14-956e4b94119a"/>
+        <card number="1" name="Ink-Eyes, Servant of Oni" setShortName="BOK" collectorNumber="71" uuid="386d391d-a3f8-49a4-802a-409944b2acf3"/>
+        <card number="1" name="Meloku the Clouded Mirror" setShortName="CHK" collectorNumber="74" uuid="1caaa733-6d4c-4e18-a64e-f95851c7063b"/>
+        <card number="3" name="Cranial Extraction" setShortName="CHK" collectorNumber="105" uuid="a8cad7a3-777e-4c84-b404-5f504844ab3b"/>
+        <card number="2" name="Persecute" setShortName="9ED" collectorNumber="151" uuid="54af13f6-7a7b-431d-9dda-6492d135563f"/>
+        <card number="4" name="Descendant of Kiyomaro" setShortName="SOK" collectorNumber="7" uuid="354af7fc-fd15-4209-b3e8-8729a401b6a6"/>
+    </zone>
+</cockatrice_deck>
