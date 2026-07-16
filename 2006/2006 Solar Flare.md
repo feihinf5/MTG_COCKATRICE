@@ -17,7 +17,7 @@ Note
 - The inclusion of [**Court Hussar**](https://api.scryfall.com/cards/4970f492-d4fc-4833-a083-05e422a3c456?format=image) was crucial for early-game
 
 Deck
-- 4 Court hussar
+- 4 Court Hussar
 - 2 Kokusho, the evening star
 - 3 Angel Of Dispair
 - 1 Yosei, the Morning Star
