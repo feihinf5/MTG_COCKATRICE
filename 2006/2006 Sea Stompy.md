@@ -13,9 +13,9 @@ Format
 
 Note
 - 2006 Netherland National Championship winning deck by Kamiel Cornelissen
-- Uses cheap, evasive attackers to enable aggressive mid-game card draw, [**Ninja of the Deep Hours**] with its Ninjutsu ability to draw a card and replay cheap 1-mana creature, [**Ohran Viper**] acts as a repeatable source of card draw when it connects or acts as a "deathtouch" removal spell against larger opposing blockers while [**Trygon Predator**] could destroys an artifact or enchantment for free
-- [**Remand**] or [**Mana Leak**] to prevent opponent from ever stabilizing
-- [**Seal of Fire**] as cheap removal and [**Umezawa's Jitte**] could dominates the board by killing enemy creatures, pumping your attackers or gaining life
+- Uses cheap, evasive attackers to enable aggressive mid-game card draw, [**Ninja of the Deep Hours**](https://api.scryfall.com/cards/367a67c7-54db-4336-b55a-3fa27625172a?format=image) with its Ninjutsu ability to draw a card and replay cheap 1-mana creature, [**Ohran Viper**](https://api.scryfall.com/cards/bd5fd0ee-2350-4eb0-8417-700459879f74?format=image) acts as a repeatable source of card draw when it connects or acts as a "deathtouch" removal spell against larger opposing blockers while [**Trygon Predator**](https://api.scryfall.com/cards/f31f54bf-7bf0-48f0-853d-1468713784eb?format=image) could destroys an artifact or enchantment for free
+- [**Remand**](https://api.scryfall.com/cards/581f3780-c480-48c6-b15c-1618f2feccb9?format=image) or [**Mana Leak**](https://api.scryfall.com/cards/60e6486c-644f-4b32-b4e9-3ca29bbdb400?format=image) to prevent opponent from ever stabilizing
+- [**Seal of Fire**](https://api.scryfall.com/cards/82ff3740-93e2-454a-8e6b-e29d0c9d0fc2?format=image) as cheap removal and [**Umezawa's Jitte**](https://api.scryfall.com/cards/3b6e5956-f795-451b-bb24-56462d1ced27?format=image) could dominates the board by killing enemy creatures, pumping your attackers or gaining life
 
 Deck
 - 4 Breeding Pool
