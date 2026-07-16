@@ -8,7 +8,7 @@ Note
 - 2006 Vintage Championship winning deck by Travis Spero
 - Possible 4 cards for [**Gifts Ungiven**] are [**Yawgmoth's Will**], [**Recoup**], [**Black Lotus**], [**Ancestral Recall**] or [**Time Walk**]
 - Uses cards like [**Yawgmoth's Will**] to to play everything from graveyard and [**Recoup**] could cast [**Yawgmoth's Will**] even if they put it in the graveyard
-- Incorporates an instant-kill combo using [**Tendrils of Agony**]
+- After generating a massive amount of mana and casting numerous spells in a single turn (often via [**Yawgmoth's Will**]), use [**Burning Wish**] to grab [**Tendrils of Agony**] out of the sideboard to drain the opponent's life total to zero instantly
 
 Deck
 - 1 Tolarian Academy
