@@ -24,7 +24,7 @@ Deck
 - 3 Dimir Signet
 - 4 Azorius Signet
 - 3 Zombify
-- 4 Wrath of god
+- 4 Wrath of God
 - 3 Condemn
 - 4 Remand
 - 2 Mortify
