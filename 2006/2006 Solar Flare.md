@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2006_Argentina_National_Championship_winning_deck_by_Leonardo_Calcagno.png
 
 Format
 - CARD_SET
