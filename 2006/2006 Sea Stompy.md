@@ -2,7 +2,14 @@ Reference
 - https://mtgtop8.com/event?e=54047&d=601390&f=ST
 
 Format
-- CARD_SET
+- CSP
+- DIS
+- GPT
+- RAV
+- 9ED
+- SOK
+- BOK
+- CHK
 
 Note
 - 2006 Netherland National Championship winning deck by Kamiel Cornelissen
