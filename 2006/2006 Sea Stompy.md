@@ -13,6 +13,9 @@ Format
 
 Note
 - 2006 Netherland National Championship winning deck by Kamiel Cornelissen
+- Uses cheap, evasive attackers to enable aggressive mid-game card draw, [**Ninja of the Deep Hours**] with its Ninjutsu ability to draw a card and replay cheap 1-mana creature, [**Ohran Viper**] acts as a repeatable source of card draw when it connects or acts as a "deathtouch" removal spell against larger opposing blockers while [**Trygon Predator**] could destroys an artifact or enchantment for free
+- [**Remand**] or [**Mana Leak**] to prevent opponent from ever stabilizing
+- [**Seal of Fire**] as cheap removal and [**Umezawa's Jitte**] could dominates the board by killing enemy creatures, pumping your attackers or gaining life
 
 Deck
 - 4 Breeding Pool
