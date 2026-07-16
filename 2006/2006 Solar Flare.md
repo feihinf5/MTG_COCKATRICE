@@ -2,7 +2,13 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2006_Argentina_National_Championship_winning_deck_by_Leonardo_Calcagno.png
 
 Format
-- CARD_SET
+- DIS
+- GPT
+- RAV
+- 9ED
+- SOK
+- BOK
+- CHK
 
 Note
 - 2006 Argentina National Championship winning deck by Leonardo Calcagno
