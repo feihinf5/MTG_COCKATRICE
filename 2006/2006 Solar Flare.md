@@ -28,7 +28,7 @@ Deck
 - 3 Condemn
 - 4 Remand
 - 2 Mortify
-- 4 Compulsive research
+- 4 Compulsive Research
 - 2 Persecute
 - 1 Shizo, death's storehouse
 - 1 Miren, the moaning well
