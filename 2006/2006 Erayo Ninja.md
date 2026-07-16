@@ -2,7 +2,14 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2006_Spanish_National_Championship_winning_deck_by_Javier_Dominguez.png
 
 Format
-- CARD_SET
+- CSP
+- DIS
+- GPT
+- RAV
+- 9ED
+- SOK
+- BOK
+- CHK
 
 Note
 - 2006 Spanish National Championship winning deck by Javier Dominguez
