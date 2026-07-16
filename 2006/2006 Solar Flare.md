@@ -30,12 +30,12 @@ Deck
 - 2 Mortify
 - 4 Compulsive Research
 - 2 Persecute
-- 1 Shizo, death's storehouse
-- 1 Miren, the moaning well
-- 1 Mikokoro, center of the sea
-- 1 Minamo, school at water's edge
+- 1 Shizo, Death's Storehouse
+- 1 Miren, the Moaning Well
+- 1 Mikokoro, Center of the Sea
+- 1 Minamo, School at Water's Edge
 - 1 Eiganjo Castle
-- 2 Orzhov basilisc
+- 2 Orzhov Basilica
 - 2 Azorius Chancery
 - 3 Cave of koilos
 - 1 Godless shine
