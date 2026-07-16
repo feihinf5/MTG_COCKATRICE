@@ -6,6 +6,8 @@ Format
 
 Note
 - 2006 Argentina National Championship winning deck by Leonardo Calcagno
+- Stabilizes the mana base using lands and Signets then reanimates high-impact finishers like [**Angel of Despair**] and [**Skeletal Vampire**] to close out the game
+- Deploys [**Wrath of God**] against beatdown decks and [**Persecute**] against control decks
 - The inclusion of [**Court Hussar**] was crucial for early-game
 
 Deck
