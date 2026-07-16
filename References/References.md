@@ -1,4 +1,5 @@
 ## 2006
+- https://web.archive.org/web/20201101151026/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2006-08-26
 - http://web.archive.org/web/20120325114609/http://www.themagictutor.com/nacional2006/Mazos/Calcagno.html
 - https://web.archive.org/web/20210725183714/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-4-team-decklists-2006-06-17
 - https://web.archive.org/web/20211204145804/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decklists-2006-03-04
