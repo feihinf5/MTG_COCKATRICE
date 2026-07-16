@@ -5,7 +5,9 @@ Format
 - LEA <--> CSP
 
 Note
-- 2006 Legacy Championship winning deck by Roland Chang 
+- 2006 Legacy Championship winning deck by Roland Chang
+- Revolves around [**Wild Mongrel**] and [**Aquamoeba**], they act as free, uncounterable discard outlets that allow to pitch cards from hand at instant speed to activate the Madness mechanic or set up graveyard abilities
+- [**Umezawa's Jitte**] is the mid-game powerhouse that Once it gets combat counters, it completely dominates creature matchups, pumps attackers, provides lifegain against aggressive strategies or guns down small opposing creatures
 
 Deck
 - 3 Snow-Covered Forest
