@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2006 Structure and Force</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2006 Japan National Championship winning deck by Mori Katsuhiro</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Adarkar Wastes" setShortName="9ED" collectorNumber="317" uuid="40f61de1-4e49-4640-a495-5abefd96babf"/>
+        <card number="3" name="Godless Shrine" setShortName="GPT" collectorNumber="157" uuid="be010c2f-06db-47e3-80bd-df3f2a21ca34"/>
+        <card number="3" name="Hallowed Fountain" setShortName="DIS" collectorNumber="174" uuid="c28aea19-2a39-4934-afda-909e234fa3ba"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="291" uuid="d5170ce9-2463-4fec-945b-6c2f23eb7e22"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="292" uuid="f12c5ae3-8c55-4bd9-a64f-3960d45c0563"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="294" uuid="35c20f8b-6ad1-4aa2-94d3-7bd42562a1ac"/>
+        <card number="1" name="Island" setShortName="CHK" collectorNumber="293" uuid="5d141922-570d-4652-9620-2b53eb68294a"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="335" uuid="e0eac72f-915b-41a2-a9cf-1707b65d9ac9"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="336" uuid="9d5ab443-b415-45e5-a9f7-539a5299bf27"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="337" uuid="d7d7f6bf-051c-45a4-b19e-2a50bbd6398e"/>
+        <card number="1" name="Minamo, School at Water's Edge" setShortName="CHK" collectorNumber="279" uuid="7536292c-da25-41c8-ba28-1e35758a7f3d"/>
+        <card number="1" name="Miren, the Moaning Well" setShortName="SOK" collectorNumber="163" uuid="53d414f0-15ae-446b-a8d7-56c1b502740c"/>
+        <card number="1" name="Shizo, Death's Storehouse" setShortName="CHK" collectorNumber="283" uuid="2de9a046-3db1-436e-b666-ba96e2e8c5db"/>
+        <card number="1" name="Tendo Ice Bridge" setShortName="BOK" collectorNumber="165" uuid="d246f521-b9a0-4b4f-b38c-0e4eb4066212"/>
+        <card number="4" name="Underground River" setShortName="9ED" collectorNumber="326" uuid="be9395fc-ad8a-494a-a5bc-fea3f55b0e2c"/>
+        <card number="2" name="Watery Grave" setShortName="RAV" collectorNumber="286" uuid="139b90cd-8272-457a-be32-1298145345be"/>
+        <card number="2" name="Counterbalance" setShortName="CSP" collectorNumber="31" uuid="c329ff2b-0331-4934-a8df-870dd7bf402b"/>
+        <card number="3" name="Sensei's Divining Top" setShortName="CHK" collectorNumber="268" uuid="4a08ca06-58db-4ce6-b490-be4bea8956a1"/>
+        <card number="2" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="3" name="Condemn" setShortName="DIS" collectorNumber="8" uuid="58d4f5a0-b2d0-4a60-b1e1-bb2140abfd6d"/>
+        <card number="4" name="Hinder" setShortName="CHK" collectorNumber="65" uuid="dc7befed-805b-4a02-a87d-7df3a95db8a0"/>
+        <card number="2" name="Muddle the Mixture" setShortName="RAV" collectorNumber="60" uuid="4cc785b0-0a77-4b02-b0b4-2bda2fc621cc"/>
+        <card number="4" name="Remand" setShortName="RAV" collectorNumber="63" uuid="581f3780-c480-48c6-b15c-1618f2feccb9"/>
+        <card number="2" name="Remove Soul" setShortName="9ED" collectorNumber="93" uuid="171fa545-724c-465e-96f6-dc738c0be59d"/>
+        <card number="3" name="Spell Snare" setShortName="DIS" collectorNumber="33" uuid="35554fdf-c70a-4baa-a35a-414caa9978be"/>
+        <card number="4" name="Court Hussar" setShortName="DIS" collectorNumber="22" uuid="4970f492-d4fc-4833-a083-05e422a3c456"/>
+        <card number="4" name="Dark Confidant" setShortName="RAV" collectorNumber="81" uuid="94f7a441-bf2d-46fb-a7b6-9bd6137f86d9"/>
+        <card number="3" name="Meloku the Clouded Mirror" setShortName="CHK" collectorNumber="74" uuid="1caaa733-6d4c-4e18-a64e-f95851c7063b"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Grand Arbiter Augustin IV" setShortName="DIS" collectorNumber="112" uuid="a2ac328b-923f-48dd-a4f5-de389ade9125"/>
+        <card number="2" name="Annex" setShortName="9ED" collectorNumber="59" uuid="b0df72c6-4f54-43ec-a4e0-5733003f4fd7"/>
+        <card number="1" name="Ink-Eyes, Servant of Oni" setShortName="BOK" collectorNumber="71" uuid="386d391d-a3f8-49a4-802a-409944b2acf3"/>
+        <card number="2" name="Yosei, the Morning Star" setShortName="CHK" collectorNumber="50" uuid="1b38f14a-bd10-47c1-8772-5abe0a0b243f"/>
+        <card number="1" name="Threads of Disloyalty" setShortName="BOK" collectorNumber="56" uuid="999440a5-9659-4218-8594-1950f1155975"/>
+        <card number="3" name="Orzhov Pontiff" setShortName="GPT" collectorNumber="124" uuid="f2b5813b-955b-469a-b287-65325c589b59"/>
+        <card number="4" name="Last Gasp" setShortName="RAV" collectorNumber="93" uuid="34e035b3-bd83-43a4-8f31-d2393d29cd94"/>
+        <card number="1" name="Muddle the Mixture" setShortName="RAV" collectorNumber="60" uuid="4cc785b0-0a77-4b02-b0b4-2bda2fc621cc"/>
+    </zone>
+</cockatrice_deck>
