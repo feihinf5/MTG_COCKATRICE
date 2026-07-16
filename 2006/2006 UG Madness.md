@@ -6,8 +6,8 @@ Format
 
 Note
 - 2006 Legacy Championship winning deck by Roland Chang
-- Revolves around [**Wild Mongrel**] and [**Aquamoeba**], they act as free, uncounterable discard outlets that allow to pitch cards from hand at instant speed to activate the Madness mechanic or set up graveyard abilities
-- [**Umezawa's Jitte**] is the mid-game powerhouse that Once it gets combat counters, it completely dominates creature matchups, pumps attackers, provides lifegain against aggressive strategies or guns down small opposing creatures
+- Revolves around [**Wild Mongrel**](https://api.scryfall.com/cards/5bb8dd5c-a79a-4afc-80b2-64645bb17a34?format=image) and [**Aquamoeba**](https://api.scryfall.com/cards/1243552a-ca57-42ce-817e-d6268fc673e0?format=image), they act as free, uncounterable discard outlets that allow to pitch cards from hand at instant speed to activate the Madness mechanic or set up graveyard abilities
+- [**Umezawa's Jitte**](https://api.scryfall.com/cards/3b6e5956-f795-451b-bb24-56462d1ced27?format=image) is the mid-game powerhouse that Once it gets combat counters, it completely dominates creature matchups, pumps attackers, provides lifegain against aggressive strategies or guns down small opposing creatures
 
 Deck
 - 3 Snow-Covered Forest
