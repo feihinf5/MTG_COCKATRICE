@@ -18,7 +18,7 @@ Note
 
 Deck
 - 4 Court Hussar
-- 2 Kokusho, the evening star
+- 2 Kokusho, the Evening Star
 - 3 Angel Of Dispair
 - 1 Yosei, the Morning Star
 - 3 Dimir Signet
