@@ -6,9 +6,9 @@ Format
 
 Note
 - 2006 Vintage Championship winning deck by Travis Spero
-- Possible 4 cards for [**Gifts Ungiven**] are [**Yawgmoth's Will**], [**Recoup**], [**Black Lotus**], [**Ancestral Recall**] or [**Time Walk**]
-- Uses cards like [**Yawgmoth's Will**] to to play everything from graveyard and [**Recoup**] could cast [**Yawgmoth's Will**] even if they put it in the graveyard
-- After generating a massive amount of mana and casting numerous spells in a single turn (often via [**Yawgmoth's Will**]), use [**Burning Wish**] to grab [**Tendrils of Agony**] out of the sideboard to drain the opponent's life total to zero instantly
+- Possible 4 cards for [**Gifts Ungiven**](https://api.scryfall.com/cards/32b91eb5-ea53-4a21-a2e5-9c545a42fa30?format=image) are [**Yawgmoth's Will**](https://api.scryfall.com/cards/6d3e3c3a-d351-4d91-8884-312d4b6f540d?format=image), [**Recoup**](https://api.scryfall.com/cards/431145f8-64e9-4e7d-998a-21fe55f49e01?format=image), [**Black Lotus**](https://api.scryfall.com/cards/b0faa7f2-b547-42c4-a810-839da50dadfe?format=image), [**Ancestral Recall**](https://api.scryfall.com/cards/70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b?format=image) or [**Time Walk**](https://api.scryfall.com/cards/e0139f60-d48e-46fb-9f5a-1e3d7558c834?format=image)
+- Uses cards like [**Yawgmoth's Will**](https://api.scryfall.com/cards/6d3e3c3a-d351-4d91-8884-312d4b6f540d?format=image) to to play everything from graveyard and [**Recoup**](https://api.scryfall.com/cards/431145f8-64e9-4e7d-998a-21fe55f49e01?format=image) could cast [**Yawgmoth's Will**](https://api.scryfall.com/cards/6d3e3c3a-d351-4d91-8884-312d4b6f540d?format=image) even if they put it in the graveyard
+- After generating a massive amount of mana and casting numerous spells in a single turn (often via [**Yawgmoth's Will**](https://api.scryfall.com/cards/6d3e3c3a-d351-4d91-8884-312d4b6f540d?format=image)), use [**Burning Wish**](https://api.scryfall.com/cards/1c9b692a-e832-4612-a6ec-93b52f6a0410?format=image) to grab [**Tendrils of Agony**](https://api.scryfall.com/cards/0559352e-95c1-403b-bd8f-d0679717cfa2?format=image) out of the sideboard to drain the opponent's life total to zero instantly
 
 Deck
 - 1 Tolarian Academy
