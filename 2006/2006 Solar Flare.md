@@ -37,9 +37,9 @@ Deck
 - 1 Eiganjo Castle
 - 2 Orzhov Basilica
 - 2 Azorius Chancery
-- 3 Cave of koilos
-- 1 Godless shine
-- 1 Underground river
+- 3 Caves of Koilos
+- 1 Godless Shrine
+- 1 Underground River
 - 1 Hallowed Fountain
 - 1 Tendo Ice Bridge
 - 1 Watery Grave
