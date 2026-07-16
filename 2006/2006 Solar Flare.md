@@ -52,5 +52,5 @@ Sideboard
 - 4 Castigate
 - 3 Cranial Extraction
 - 2 Persecute
-- 1 Meloku, the clouded mirror
-- 1 Ink Eyes, servant of oni
+- 1 Meloku the Clouded Mirror
+- 1 Ink-Eyes, Servant of Oni
