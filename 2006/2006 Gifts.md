@@ -6,6 +6,8 @@ Format
 
 Note
 - 2006 Vintage Championship winning deck by Travis Spero
+- Uses cards like [**Yawgmoth's Will**] and [**Recoup**]
+- Incorporates an instant-kill combo using [**Tendrils of Agony**]
 
 Deck
 - 1 Tolarian Academy
