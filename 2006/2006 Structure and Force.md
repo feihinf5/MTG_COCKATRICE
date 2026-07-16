@@ -13,9 +13,9 @@ Format
 
 Note
 - 2006 Japan National Championship winning deck by Mori Katsuhiro
-- Built around [**Sensei's Divining Top**], [**Dark Confidant**] and [**Counterbalance**]
-- Uses the top-deck manipulation of [**Sensei's Divining Top**] to minimize the life loss triggered by [**Dark Confidant**]
-- Pairs [**Sensei's Divining Top**] with [**Counterbalance**] to establish a near-soft lock, consistently countering the opponent's spells
+- Built around [**Sensei's Divining Top**](https://api.scryfall.com/cards/4a08ca06-58db-4ce6-b490-be4bea8956a1?format=image), [**Dark Confidant**](https://api.scryfall.com/cards/94f7a441-bf2d-46fb-a7b6-9bd6137f86d9?format=image) and [**Counterbalance**](https://api.scryfall.com/cards/c329ff2b-0331-4934-a8df-870dd7bf402b?format=image)
+- Uses the top-deck manipulation of [**Sensei's Divining Top**](https://api.scryfall.com/cards/4a08ca06-58db-4ce6-b490-be4bea8956a1?format=image) to minimize the life loss triggered by [**Dark Confidant**](https://api.scryfall.com/cards/94f7a441-bf2d-46fb-a7b6-9bd6137f86d9?format=image)
+- Pairs [**Sensei's Divining Top**](https://api.scryfall.com/cards/4a08ca06-58db-4ce6-b490-be4bea8956a1?format=image) with [**Counterbalance**](https://api.scryfall.com/cards/c329ff2b-0331-4934-a8df-870dd7bf402b?format=image) to establish a near-soft lock, consistently countering the opponent's spells
 
 Deck
 - 4 Court Hussar
