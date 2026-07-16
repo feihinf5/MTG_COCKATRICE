@@ -6,6 +6,7 @@ Format
 
 Note
 - 2006 Argentina National Championship winning deck by Leonardo Calcagno
+- The inclusion of [**Court Hussar**] was crucial for early-game
 
 Deck
 - 4 Court hussar
