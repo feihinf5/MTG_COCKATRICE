@@ -7,6 +7,10 @@ Format
 Note
 - The Finals06 winning deck by Mori Katsuhiro
 - Combined the Urzatron mana base with the [**Vesuvan Shapeshifter**](https://api.scryfall.com/cards/458031cc-238d-45f0-9a81-b52e82286e0f?format=image) and [**Brine Elemental**](https://api.scryfall.com/cards/8dab2c73-501b-46c9-bc76-134b50d35bb8?format=image) lock combo
+- Step 1, pay the morph cost to turn Brine Elemental face up and this triggers its ability: your opponents skip their next untap
+- Step 2, turn Vesuvan Shapeshifter face up, choosing to have it copy the face-up Brine Elemental and because it turned face up, it triggers the Brine Elemental ability again, forcing your opponents to skip another untap step.
+- Step 3, at the beginning of your next upkeep, Vesuvan Shapeshifter's own ability allows to turn it face down for free.
+- Step 4, repeat Step 2 to 3 to trigger the untap-skipping effect again
 
 Deck
 - 1 Vesuvan Shapeshifter
