@@ -11,9 +11,9 @@ Format
 
 Note
 - World Championships 2006 winning deck by Mihara Makihito
-- Uses [**Rite of Flame**] and [**Lotus Bloom**] (via Suspend) to fast-mana into [**Dragonstorm**]
-- Casts [**Dragonstorm**] to put dragons directly onto the battlefield, usually fetching four copies of [**Bogardan Hellkite**] deal a combined 20 damage via their Enter-The-Battlefield (ETB) triggers, winning the game instantly
-- If [**Dragonstorm**] is cast with a storm count of 2 or less (or if hard-casted), the [**Bogardan Hellkite**] are used to burn away problematic enemy creatures before pivoting to a beatdown strategy
+- Uses [**Rite of Flame**](https://api.scryfall.com/cards/c062caf7-f0eb-44db-9f74-e6711a13fada?format=image) and [**Lotus Bloom**](https://api.scryfall.com/cards/73127ee0-9a0c-48fa-9c60-b4c600ace8f7?format=image) (via Suspend) to fast-mana into [**Dragonstorm**](https://api.scryfall.com/cards/4b9aa594-39e6-4824-aed9-75d1a301ac51?format=image)
+- Casts [**Dragonstorm**](https://api.scryfall.com/cards/4b9aa594-39e6-4824-aed9-75d1a301ac51?format=image) to put dragons directly onto the battlefield, usually fetching four copies of [**Bogardan Hellkite**](https://api.scryfall.com/cards/5852f528-92aa-45cf-8436-5774691676d3?format=image) deal a combined 20 damage via their Enter-The-Battlefield (ETB) triggers, winning the game instantly
+- If [**Dragonstorm**](https://api.scryfall.com/cards/4b9aa594-39e6-4824-aed9-75d1a301ac51?format=image) is cast with a storm count of 2 or less (or if hard-casted), the [**Bogardan Hellkite**](https://api.scryfall.com/cards/5852f528-92aa-45cf-8436-5774691676d3?format=image) are used to burn away problematic enemy creatures before pivoting to a beatdown strategy
 
 Deck
 - 4 Bogardan Hellkite
