@@ -91,7 +91,7 @@ LRW 2007年10月 Lorwyn-Shadowmoor Block
 10E 2007年7月
 FUT 2007年5月  Time Spiral Block
 PLC 2007年2月  Time Spiral Block
-TSP 2006年10月 Time Spiral Block
+TSP / TSB 2006年10月 Time Spiral Block
 CSP 2006年7月  Ice Age block
 DIS 2006年5月  Ravnica Block
 GPT 2006年2月  Ravnica Block
