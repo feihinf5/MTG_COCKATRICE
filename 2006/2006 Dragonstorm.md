@@ -2,7 +2,12 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2006_World_Championships_winning_deck_by_Mihara_Makihito.png
 
 Format
-- CARD_SET
+- TSP
+- CSP
+- DIS
+- GPT
+- RAV
+- 9ED
 
 Note
 - World Championships 2006 winning deck by Mihara Makihito
