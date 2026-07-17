@@ -2,7 +2,7 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2006_World_Championships_6-0_Extended_format_deck_by_Gabriel_Nassif.png
 
 Format
-- TSP / CSP / DIS / GPT / RAV
+- TSP / TSB / CSP / DIS / GPT / RAV
 - 9ED
 - SOK / BOK / CHK / 5DN / DST / MRD
 - 8ED
