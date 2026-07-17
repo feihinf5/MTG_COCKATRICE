@@ -6,7 +6,7 @@ Format
 
 Note
 - The Finals06 winning deck by Mori Katsuhiro
-- Combined the Urzatron mana base with the [**Vesuvan Shapeshifter**] and [**Brine Elemental**] lock combo
+- Combined the Urzatron mana base with the [**Vesuvan Shapeshifter**](https://api.scryfall.com/cards/458031cc-238d-45f0-9a81-b52e82286e0f?format=image) and [**Brine Elemental**](https://api.scryfall.com/cards/8dab2c73-501b-46c9-bc76-134b50d35bb8?format=image) lock combo
 
 Deck
 - 1 Vesuvan Shapeshifter
