@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2006_World_Championships_6-0_Extended_format_deck_by_Vasily_Tsapko.png
 
 Format
 - CARD_SET
@@ -8,7 +8,32 @@ Note
 - World Championships 2006 6-0 Extended format deck by Vasily Tsapko 
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Savannah Lions
+- 4 Grim Lavamancer
+- 3 Isamaru, Hound of Konda
+- 4 Goblin Legionnaire
+- 4 Silver Knight
+- 1 Kataki, War's Wage
+- 4 Firebolt
+- 4 Molten Rain
+- 4 Lava Dart
+- 4 Lightning Helix
+- 3 Char
+- 4 Sacred Foundry
+- 3 Bloodstained Mire
+- 2 Windswept Heath
+- 3 Wooded Foothills
+- 2 Flooded Strand
+- 2 Barbarian Ring
+- 1 Shinka, the Bloodsoaked Keep
+- 1 Eiganjo Castle
+- 2 Plains
+- 2 Mountain 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Kataki, War's Wage
+- 3 Pyrite Spellbomb
+- 3 Jötun Grunt
+- 3 Dwarven Blastminer
+- 2 Disenchant
+- 2 Sulfuric Vortex 
