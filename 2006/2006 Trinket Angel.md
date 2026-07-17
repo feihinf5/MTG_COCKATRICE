@@ -6,10 +6,10 @@ Format
 
 Note
 - World Championships 2006 6-0 Extended format deck by Gabriel Nassif
-- Shuts down opponent key cards with [**Meddling Mage**]
-- To deal with the speed of Boros Deck Wins and Goblins using [**Silver Knight**]
-- Accesses situational tools on demand with [**Trinket Mage**] for highly flexible play
-- Features the [**Counterbalance**] and [**Sensei's Divining Top**] soft-lock engine
+- Shuts down opponent key cards with [**Meddling Mage**](https://api.scryfall.com/cards/176f84c6-aa5e-449c-bd2b-cc91a898f0c7?format=image)
+- To deal with the speed of Boros Deck Wins and Goblins using [**Silver Knight**](https://api.scryfall.com/cards/93f559da-08ad-402d-8c6b-3050bce5867b?format=image)
+- Accesses situational tools on demand with [**Trinket Mage**](https://api.scryfall.com/cards/4c5a41ab-1840-4abb-a8bb-f0b1e7d1b450?format=image) for highly flexible play
+- Features the [**Counterbalance**](https://api.scryfall.com/cards/c329ff2b-0331-4934-a8df-870dd7bf402b?format=image) and [**Sensei's Divining Top**](https://api.scryfall.com/cards/e5142b7a-e580-4737-a4aa-2590f6610ceb?format=image) soft-lock engine
 
 Deck
 - 4 Meddling Mage
