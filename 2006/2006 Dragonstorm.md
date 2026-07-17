@@ -11,6 +11,9 @@ Format
 
 Note
 - World Championships 2006 winning deck by Mihara Makihito
+- Uses [**Rite of Flame**] and [**Lotus Bloom**] (via Suspend) to fast-mana into [**Dragonstorm**]
+- Casts [**Dragonstorm**] to put dragons directly onto the battlefield, usually fetching four copies of [**Bogardan Hellkite**] deal a combined 20 damage via their Enter-The-Battlefield (ETB) triggers, winning the game instantly
+- If [**Dragonstorm**] is cast with a storm count of 2 or less (or if hard-casted), the [**Bogardan Hellkite**] are used to burn away problematic enemy creatures before pivoting to a beatdown strategy
 
 Deck
 - 4 Bogardan Hellkite
