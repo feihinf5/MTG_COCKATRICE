@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2006 Boros Deck Wins</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2006 6-0 Extended format deck by Vasily Tsapko</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Barbarian Ring" setShortName="ODY" collectorNumber="313" uuid="1809361e-ae1a-4c47-8464-e6496e94d962"/>
+        <card number="3" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="1" name="Eiganjo Castle" setShortName="CHK" collectorNumber="275" uuid="219c1d76-40cf-4edf-8145-e6cec8ca39ad"/>
+        <card number="2" name="Flooded Strand" setShortName="ONS" collectorNumber="316" uuid="b4e3d844-d3b4-41d8-921d-c1cb3af343f8"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="343" uuid="ba6694bb-f3b7-48ff-9d93-cbed84fac210"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="344" uuid="977527da-2953-493f-8e8c-ffc64ddeaf10"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="331" uuid="5ba9ef2e-d3ec-41f7-802e-e1414f14dd10"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="333" uuid="87a66868-2efa-4985-b4fc-405d7fa8d410"/>
+        <card number="4" name="Sacred Foundry" setShortName="RAV" collectorNumber="280" uuid="168ef687-5797-4b45-b75b-393d8117cebd"/>
+        <card number="1" name="Shinka, the Bloodsoaked Keep" setShortName="CHK" collectorNumber="282" uuid="d2d5f30e-cc3a-46c1-82a9-2cd73705b2f5"/>
+        <card number="2" name="Windswept Heath" setShortName="ONS" collectorNumber="328" uuid="7a7c5941-9c8a-4a40-9efb-a84f05c58e53"/>
+        <card number="3" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+        <card number="3" name="Char" setShortName="RAV" collectorNumber="117" uuid="ff3a24af-e995-4d05-ac2c-e9676048675d"/>
+        <card number="4" name="Lava Dart" setShortName="JUD" collectorNumber="94" uuid="865bb1d3-5b7d-40e9-87cc-96be9524a105"/>
+        <card number="4" name="Lightning Helix" setShortName="RAV" collectorNumber="213" uuid="1b2ecf55-c1cc-4b28-b7ce-e1b25305155e"/>
+        <card number="4" name="Firebolt" setShortName="ODY" collectorNumber="193" uuid="d5e45005-dd81-4d80-b043-02f719aca929"/>
+        <card number="4" name="Molten Rain" setShortName="MRD" collectorNumber="101" uuid="f888b4d4-31f9-4322-8225-4d7e7a9f4dd5"/>
+        <card number="4" name="Goblin Legionnaire" setShortName="APC" collectorNumber="103" uuid="c684407e-277a-4e32-a978-cdac9548acce"/>
+        <card number="4" name="Grim Lavamancer" setShortName="TOR" collectorNumber="100" uuid="5dd72697-24be-42c7-a6d9-a837bdbd4662"/>
+        <card number="3" name="Isamaru, Hound of Konda" setShortName="CHK" collectorNumber="19" uuid="2e7f9919-0713-4ef9-96eb-3e0c444e47f4"/>
+        <card number="1" name="Kataki, War's Wage" setShortName="SOK" collectorNumber="14" uuid="a5c99ac4-6551-4cc2-9a70-6e66b259b2a2"/>
+        <card number="2" name="Savannah Lions" setShortName="8ED" collectorNumber="43" uuid="c58dbcf3-f8ad-4e82-9515-0290fa5373f7"/>
+        <card number="2" name="Savannah Lions" setShortName="9ED" collectorNumber="41" uuid="db9f9f3c-d024-4529-bffb-c7a5a3085e58"/>
+        <card number="4" name="Silver Knight" setShortName="SCG" collectorNumber="23" uuid="93f559da-08ad-402d-8c6b-3050bce5867b"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Sulfuric Vortex" setShortName="SCG" collectorNumber="106" uuid="79955e27-eef7-43bd-9895-e9209ed1537f"/>
+        <card number="2" name="Disenchant" setShortName="7ED" collectorNumber="13" uuid="402f71fc-807c-4718-956b-7ffe66c646d4"/>
+        <card number="3" name="Dwarven Blastminer" setShortName="ONS" collectorNumber="199" uuid="2970831a-738b-476f-9d46-39f10a1f91e7"/>
+        <card number="3" name="Jötun Grunt" setShortName="CSP" collectorNumber="8" uuid="5526c510-bd33-4fac-8941-f19bd0997557"/>
+        <card number="3" name="Pyrite Spellbomb" setShortName="MRD" collectorNumber="232" uuid="97b9bab9-12ee-4da5-9d53-d0b82d9279cd"/>
+        <card number="2" name="Kataki, War's Wage" setShortName="SOK" collectorNumber="14" uuid="a5c99ac4-6551-4cc2-9a70-6e66b259b2a2"/>
+    </zone>
+</cockatrice_deck>
