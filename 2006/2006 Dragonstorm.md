@@ -13,7 +13,28 @@ Note
 - World Championships 2006 winning deck by Mihara Makihito
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Bogardan Hellkite
+- 2 Hunted Dragon
+- 4 Dragonstorm
+- 4 Sleight of Hand
+- 4 Rite of Flame
+- 4 Telling Time
+- 4 Seething Song
+- 4 Gigadrowse
+- 4 Remand
+- 4 Lotus Bloom
+- 1 Dreadship Reef
+- 1 Calciform Pools
+- 8 Island
+- 4 Steam Vents
+- 4 Mountain
+- 4 Shivan Reef 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Dreadship Reef 
+- 1 Calciform Pools
+- 1 Trickbind
+- 3 Pyroclasm
+- 3 Ignorant Bliss
+- 4 Repeal
+- 1 Teferi, Mage of Zhalfir 
