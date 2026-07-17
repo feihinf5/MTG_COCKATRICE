@@ -2,7 +2,13 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2006_World_Championships_6-0_Extended_format_deck_by_Gabriel_Nassif.png
 
 Format
-- CARD_SET
+- TSP / CSP / DIS / GPT / RAV
+- 9ED
+- SOK / BOK / CHK / 5DN / DST / MRD
+- 8ED
+- SCG / LGN / ONS / JUD / TOR / ODY / APC
+- 7ED
+- PLS / INV
 
 Note
 - World Championships 2006 6-0 Extended format deck by Gabriel Nassif
