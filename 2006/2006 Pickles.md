@@ -2,7 +2,12 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/The_Finals06_winning_deck_by_Mori_Katsuhiro.png
 
 Format
-- CARD_SET
+- TSP
+- CSP
+- DIS
+- GPT
+- RAV
+- 9ED
 
 Note
 - The Finals06 winning deck by Mori Katsuhiro
