@@ -2,7 +2,7 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/The_Finals06_winning_deck_by_Mori_Katsuhiro.png
 
 Format
-- TSP
+- TSP / TSB
 - CSP
 - DIS
 - GPT
