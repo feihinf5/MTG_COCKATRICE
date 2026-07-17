@@ -12,7 +12,7 @@ Format
 
 Note
 - World Championships 2006 6-0 Extended format deck by Roy Williams
-- Utilizes a combo featuring [**Empty the Warrens**] paired with mana acceleration
+- Utilizes a combo featuring [**Empty the Warrens**](https://api.scryfall.com/cards/952bb27c-c58a-478a-b637-eb4f7e1e0ab4?format=image) paired with mana acceleration
 
 Deck
 - 4 Mogg War Marshal
