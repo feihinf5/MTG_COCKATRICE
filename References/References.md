@@ -1,4 +1,5 @@
 ## 2006
+- https://web.archive.org/web/20210503070117/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-extended-decks-2006-12-02
 - https://web.archive.org/web/20210503070151/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2006-12-01
 - https://web.archive.org/web/20210618052720/https://magic.wizards.com/en/node/585081
 - https://web.archive.org/web/20201101151026/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2006-08-26
