@@ -6,6 +6,10 @@ Format
 
 Note
 - World Championships 2006 6-0 Extended format deck by Gabriel Nassif
+- Shuts down opponent key cards with [**Meddling Mage**]
+- To deal with the speed of Boros Deck Wins and Goblins using [**Silver Knight**]
+- Accesses situational tools on demand with [**Trinket Mage**] for highly flexible play
+- Features the [**Counterbalance**] and [**Sensei's Divining Top**] soft-lock engine
 
 Deck
 - 4 Meddling Mage
