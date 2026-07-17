@@ -5,7 +5,7 @@ Format
 - CARD_SET
 
 Note
-- INFO
+- World Championships 2006 winning deck by Mihara Makihito
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
