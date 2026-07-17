@@ -5,7 +5,8 @@ Format
 - CARD_SET
 
 Note
-- World Championships 2006 6-0 Extended format deck by Vasily Tsapko 
+- World Championships 2006 6-0 Extended format deck by Vasily Tsapko
+- WR beatdown deck with 8 land-d cards
 
 Deck
 - 4 Savannah Lions
