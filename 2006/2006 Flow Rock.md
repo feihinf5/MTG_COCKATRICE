@@ -12,8 +12,8 @@ Format
 
 Note
 - World Championships 2006 6-0 Extended format deck by Stuart Wright
-- Starts with mana creatures to deploy high-quality threats like [**Dark Confidant**] and [**Wild Mongrel**], winning via beatdown supported by hand disruption, equipment, and removal
-- Uses fetch lands to secure a reliable package of basic lands, ensuring the deck isn't restricted to only basic lands despite running [**Destructive Flow**]
+- Starts with mana creatures to deploy high-quality threats like [**Dark Confidant**](https://api.scryfall.com/cards/94f7a441-bf2d-46fb-a7b6-9bd6137f86d9?format=image) and [**Wild Mongrel**](https://api.scryfall.com/cards/5bb8dd5c-a79a-4afc-80b2-64645bb17a34?format=image), winning via beatdown supported by hand disruption, equipment, and removal
+- Uses fetch lands to secure a reliable package of basic lands, ensuring the deck isn't restricted to only basic lands despite running [**Destructive Flow**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
 
 Deck
 - 4 Kird Ape
