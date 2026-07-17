@@ -11,7 +11,9 @@ Format
 - PLS / INV
 
 Note
-- World Championships 2006 6-0 Extended format deck by Stuart Wright 
+- World Championships 2006 6-0 Extended format deck by Stuart Wright
+- Starts with mana creatures to deploy high-quality threats like [**Dark Confidant**] and [**Wild Mongrel**], winning via beatdown supported by hand disruption, equipment, and removal
+- Uses fetch lands to secure a reliable package of basic lands, ensuring the deck isn't restricted to only basic lands despite running [**Destructive Flow**]
 
 Deck
 - 4 Kird Ape
