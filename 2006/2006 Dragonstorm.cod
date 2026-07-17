@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Mon Jun 15 20:27:43 2026</lastLoadedTimestamp>
+    <deckname>2006 Dragonstorm</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2006 winning deck by Mihara Makihito</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Calciform Pools" setShortName="TSP" collectorNumber="270" uuid="f6cead86-b8ff-4975-90b2-3badcc452fdb"/>
+        <card number="1" name="Dreadship Reef" setShortName="TSP" collectorNumber="271" uuid="b4a83915-07b7-4912-bdf2-089b05796378"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="338" uuid="c1cf7cd5-3c25-4760-b783-36e7827154e2"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="337" uuid="d7d7f6bf-051c-45a4-b19e-2a50bbd6398e"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="336" uuid="9d5ab443-b415-45e5-a9f7-539a5299bf27"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="335" uuid="e0eac72f-915b-41a2-a9cf-1707b65d9ac9"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="294" uuid="f9cba2b8-d865-46e8-81f1-752598a0d729"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="293" uuid="42a272ca-98a7-4887-b6b7-903a1adc33e0"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="292" uuid="1d603978-3877-454e-8910-53a4cc95431d"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="291" uuid="db6c8056-f155-434c-a4cb-a532a4707245"/>
+        <card number="1" name="Mountain" setShortName="9ED" collectorNumber="346" uuid="947a6ddd-6684-49b1-8e2f-1516ca7a2a34"/>
+        <card number="1" name="Mountain" setShortName="9ED" collectorNumber="345" uuid="d2655e7b-ae35-45f0-b86d-c2f74ef3ee04"/>
+        <card number="1" name="Mountain" setShortName="9ED" collectorNumber="344" uuid="2a41bb43-0328-4093-88c6-4dc00dfdfb7e"/>
+        <card number="1" name="Mountain" setShortName="9ED" collectorNumber="343" uuid="b3e2ee4c-5548-4a17-bf27-e906d2825867"/>
+        <card number="4" name="Shivan Reef" setShortName="9ED" collectorNumber="324" uuid="eea38777-e67d-40a5-9301-d4e6d3819899"/>
+        <card number="4" name="Steam Vents" setShortName="GPT" collectorNumber="164" uuid="054f2276-2dd5-43da-bb26-c57c560861fe"/>
+        <card number="4" name="Lotus Bloom" setShortName="TSP" collectorNumber="259" uuid="73127ee0-9a0c-48fa-9c60-b4c600ace8f7"/>
+        <card number="4" name="Gigadrowse" setShortName="GPT" collectorNumber="26" uuid="bf9f85b3-eb8c-43de-aaac-8a887e9c58da"/>
+        <card number="4" name="Remand" setShortName="RAV" collectorNumber="63" uuid="581f3780-c480-48c6-b15c-1618f2feccb9"/>
+        <card number="4" name="Sleight of Hand" setShortName="9ED" collectorNumber="99" uuid="d1b72631-d537-46e1-b9b3-618fba8a4c46"/>
+        <card number="4" name="Telling Time" setShortName="RAV" collectorNumber="69" uuid="563e6cf4-e86f-4538-85a1-3abbc83b303d"/>
+        <card number="4" name="Seething Song" setShortName="9ED" collectorNumber="216" uuid="10418027-7b05-49e7-8ff4-6a03e3fb656b"/>
+        <card number="4" name="Dragonstorm" setShortName="TSB" collectorNumber="60" uuid="8ed645ea-e4cb-4bd1-8aaf-5f8411bf225c"/>
+        <card number="4" name="Rite of Flame" setShortName="CSP" collectorNumber="96" uuid="c062caf7-f0eb-44db-9f74-e6711a13fada"/>
+        <card number="4" name="Bogardan Hellkite" setShortName="TSP" collectorNumber="147" uuid="5852f528-92aa-45cf-8436-5774691676d3"/>
+        <card number="2" name="Hunted Dragon" setShortName="RAV" collectorNumber="131" uuid="d2b9cc6e-47db-47d5-84c9-975e4b618261"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Teferi, Mage of Zhalfir" setShortName="TSP" collectorNumber="83" uuid="3c0145f6-4e27-49e7-9ef6-bac6fa3de26d"/>
+        <card number="3" name="Ignorant Bliss" setShortName="DIS" collectorNumber="64" uuid="1a2db886-d394-4a8b-8fe0-dc2613500adc"/>
+        <card number="4" name="Repeal" setShortName="GPT" collectorNumber="32" uuid="9e7dd929-4bba-46a6-86c9-b8ed853eb721"/>
+        <card number="3" name="Pyroclasm" setShortName="9ED" collectorNumber="208" uuid="ea6df956-0dc0-41f4-bf37-c88bcd80cc95"/>
+        <card number="1" name="Trickbind" setShortName="TSP" collectorNumber="88" uuid="f2e58ff2-dea3-42b3-8c22-3e6202a7d433"/>
+        <card number="1" name="Calciform Pools" setShortName="TSP" collectorNumber="270" uuid="f6cead86-b8ff-4975-90b2-3badcc452fdb"/>
+        <card number="2" name="Dreadship Reef" setShortName="TSP" collectorNumber="271" uuid="b4a83915-07b7-4912-bdf2-089b05796378"/>
+    </zone>
+</cockatrice_deck>
