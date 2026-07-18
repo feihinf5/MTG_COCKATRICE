@@ -2,7 +2,9 @@ Reference
 - https://mtgtop8.com/event?e=17&f=BL
 
 Format
-- CARD_SET
+- FUT
+- PLC
+- TSP / TSB
 
 Note
 - Grand Prix-Montreal 2007 winning deck by Celso Zampere Jr. 
