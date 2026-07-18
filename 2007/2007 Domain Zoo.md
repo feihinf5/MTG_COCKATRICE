@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_Grand_Prix_Singapore_winning_deck_by_Rapha%C3%ABl_L%C3%A9vy.png
 
 Format
 - CARD_SET
