@@ -2,13 +2,44 @@ Reference
 - https://www.mtgtop8.com/event?e=54094&d=601680&f=ST
 
 Format
-- CARD_SET
+- FUT
+- PLC
+- TSP / TSB
+- CSP
+- DIS
+- GPT
+- RAV
+- 9ED
 
 Note
 - Nationals France 2007 winning deck by Guillaume Matignon
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 1 Battlefield Forge
+- 1 Hallowed Fountain
+- 3 Island
+- 2 Izzet Boilerworks
+- 3 Nimbus Maze
+- 3 Plains
+- 4 Sacred Foundry
+- 2 Shivan Reef
+- 4 Steam Vents
+- 4 Court Hussar
+- 3 Grand Arbiter Augustin IV
+- 4 Lightning Angel
+- 2 Numot, the Devastator
+- 4 Riftwing Cloudskate
+- 3 Venser, Shaper Savant
+- 4 Lightning Helix
+- 3 Momentary Blink
+- 4 Remand
+- 2 Repeal
+- 4 Stone Rain 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Avalanche Riders
+- 3 Cryoclasm
+- 3 Disenchant
+- 3 Electrolyze
+- 1 Repeal
+- 3 Teferi's Moat 
