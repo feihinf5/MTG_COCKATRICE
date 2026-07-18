@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_Pro_Tour_Yokohama_winning_deck_by_Guillaume_Wafo-Tapa.png
 
 Format
 - CARD_SET
