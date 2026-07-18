@@ -8,9 +8,9 @@ Format
 
 Note
 - Grand Prix-Montreal 2007 winning deck by Celso Zampere Jr.
-- Proactively fills the graveyard to rapidly grow [**Tarmogoyf**] and [**Mystic Enforcer**]
-- Primarily features cards like [**Edge of Autumn**] and [**Horizon Canopy**] to easily seed multiple card types into the graveyard
-- Frequently adopts tech choices like [**Riftsweeper**] to counter Suspend strategies and [**Serra Avenger**] as a mid-sized flying threat
+- Proactively fills the graveyard to rapidly grow [**Tarmogoyf**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Mystic Enforcer**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Primarily features cards like [**Edge of Autumn**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Horizon Canopy**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to easily seed multiple card types into the graveyard
+- Frequently adopts tech choices like [**Riftsweeper**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to counter Suspend strategies and [**Serra Avenger**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as a mid-sized flying threat
 
 Deck
 - 4 Flagstones of Trokair
