@@ -1,4 +1,5 @@
 ## 2007
+- https://web.archive.org/web/20210227131440/https://magic.wizards.com/en/events/coverage/gpkyo07
 - https://web.archive.org/web/20210503015921/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2007-03-04
 ## 2006
 - https://web.archive.org/web/20210503070117/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-extended-decks-2006-12-02
