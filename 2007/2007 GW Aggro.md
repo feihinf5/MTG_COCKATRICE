@@ -7,7 +7,10 @@ Format
 - TSP / TSB
 
 Note
-- Grand Prix-Montreal 2007 winning deck by Celso Zampere Jr. 
+- Grand Prix-Montreal 2007 winning deck by Celso Zampere Jr.
+- Proactively fills the graveyard to rapidly grow [**Tarmogoyf**] and [**Mystic Enforcer**]
+- Primarily features cards like [**Edge of Autumn**] and [**Horizon Canopy**] to easily seed multiple card types into the graveyard
+- Frequently adopts tech choices like [**Riftsweeper**] to counter Suspend strategies and [**Serra Avenger**] as a mid-sized flying threat
 
 Deck
 - 4 Flagstones of Trokair
