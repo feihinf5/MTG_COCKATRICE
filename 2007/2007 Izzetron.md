@@ -15,7 +15,7 @@ Note
 - Early game stalls for time using [**Remand**], [**Electrolyze**] and [**Repeal**]
 - Controls the board state using [**Tidings**], fueled by the massive mana generated from Urza's lands paired with the colored mana from [**Izzet Signet**]
 - Closes out the game using [**Bogardan Hellkite**] or [**Demonfire**]
-- Features a soft-lock combo using [**Teferi, Mage of Zhalfir**] + [**Spell Burst**]
+- Features a soft-lock combo using [**Teferi, Mage of Zhalfir**] + [**Spell Burst**] that opponents can only cast spells any time they could cast a sorcery and [**Spell Burst**] with Buyback to counter opponent spell
 - [**Sulfur Elemental**] strengthening its matchup against Boros Weenie and Control decks
 
 Deck
