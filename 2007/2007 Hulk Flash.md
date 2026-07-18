@@ -15,6 +15,7 @@ Note
 - Includes [**Body Snatcher**](https://api.scryfall.com/cards/c7d4c858-5a11-485d-a514-12a6d80459f0?format=image) to recover key combo pieces if they are accidentally drawn into the hand
 - Maximized by the legality of a full 4 copies of [**Mystical Tutor**](https://api.scryfall.com/cards/5d98101f-e32a-4a4a-a649-faa920d111ee?format=image) in Legacy at the time
 - Integrates the [**Counterbalance**](https://api.scryfall.com/cards/c329ff2b-0331-4934-a8df-870dd7bf402b?format=image) + [**Sensei's Divining Top**](https://api.scryfall.com/cards/4a08ca06-58db-4ce6-b490-be4bea8956a1?format=image) engine to secure the combo which also naturally synergizes with [**Dark Confidant**](https://api.scryfall.com/cards/94f7a441-bf2d-46fb-a7b6-9bd6137f86d9?format=image)
+- [**Flash**] was banned during June 2007 https://web.archive.org/web/20210502202147/http://www.wizards.com/default.asp?x=dci/announce/dci20070601a
 
 Deck
 - 4 Dark Confidant
