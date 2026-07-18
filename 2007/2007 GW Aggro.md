@@ -8,9 +8,9 @@ Format
 
 Note
 - Grand Prix-Montreal 2007 winning deck by Celso Zampere Jr.
-- Proactively fills the graveyard to rapidly grow [**Tarmogoyf**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Mystic Enforcer**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
-- Primarily features cards like [**Edge of Autumn**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Horizon Canopy**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to easily seed multiple card types into the graveyard
-- Frequently adopts tech choices like [**Riftsweeper**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to counter Suspend strategies and [**Serra Avenger**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as a mid-sized flying threat
+- Proactively fills the graveyard to rapidly grow [**Tarmogoyf**](https://api.scryfall.com/cards/b6876d9e-0908-43ac-8542-09c7aa02b5ba?format=image) and [**Mystic Enforcer**](https://api.scryfall.com/cards/ec2a7910-61b5-42a0-900c-b06e520e20c4?format=image)
+- Primarily features cards like [**Edge of Autumn**](https://api.scryfall.com/cards/03998e86-ef67-4329-b106-61252f3f532a?format=image) and [**Horizon Canopy**](https://api.scryfall.com/cards/d5dfc25d-a17b-4ead-9484-e8a18b8fa176?format=image) to easily seed multiple card types into the graveyard
+- Frequently adopts tech choices like [**Riftsweeper**](https://api.scryfall.com/cards/847dbbbc-e069-4a90-bc47-c28418bb8540?format=image) to counter Suspend strategies and [**Serra Avenger**](https://api.scryfall.com/cards/9e9d7c1c-3bfd-4705-9bc2-5ca3f84cc32a?format=image) as a mid-sized flying threat
 
 Deck
 - 4 Flagstones of Trokair
