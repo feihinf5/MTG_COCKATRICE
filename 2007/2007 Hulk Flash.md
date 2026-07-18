@@ -6,6 +6,15 @@ Format
 
 Note
 - Grand Prix-Columbus 2007 winning deck by Steven Sadin
+- Uses [**Flash**] to cheat [**Protean Hulk**] into play and immediately sacrifice it to trigger its death ability, chaining together creatures to win instantly
+- [**Protean Hulk**]'s death fetches [**Karmic Guide**] and [**Carrion Feeder**]
+- [**Karmic Guide**]'s ETB (enters-the-battlefield) ability returns [**Protean Hulk**] to the battlefield, which is then sacrificed to [**Carrion Feeder**] to fetch [**Kiki-Jiki, Mirror Breaker**]
+- [**Kiki-Jiki, Mirror Breaker**] copies [**Karmic Guide**] and in response to the copy ability, [**Kiki-Jiki, Mirror Breaker**] is sacrificed to [**Carrion Feeder**]
+- The [**Karmic Guide**] copy's ETB ability reanimates [**Kiki-Jiki**]
+- Repeating this loop generates an infinite army of [**Karmic Guide**] tokens with haste to swing for the game-winning attack
+- Includes [**Body Snatcher**] to recover key combo pieces if they are accidentally drawn into the hand
+- Maximized by the legality of a full 4 copies of [**Mystical Tutor**] in Legacy at the time
+- Integrates the [**Counterbalance**] + [**Sensei's Divining Top**] engine to secure the combo which also naturally synergizes with [**Dark Confidant**]
 
 Deck
 - 4 Dark Confidant
