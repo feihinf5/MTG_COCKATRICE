@@ -43,4 +43,11 @@ Deck
 - 1 Breeding Pool 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Jötun Grunt
+- 1 Umezawa's Jitte
+- 1 Armadillo Cloak
+- 1 Loxodon Hierarch
+- 3 Engineered Plague
+- 3 Meddling Mage
+- 3 Kataki, War's Wage
+- 2 Krosan Grip 
