@@ -12,6 +12,9 @@ Format
 
 Note
 - Grand Prix-Singapore 2007 winning deck by Raphaël Lévy
+- Utilizes [**Gaea's Might**] as a highly efficient damage source, similar to [**Tribal Flames**], to deplete the opponent's life total at maximum speed
+- At its fastest, it can deal 12 damage on turn 3 using a [**Boros Swiftblade**] buffed by [**Gaea's Might**]
+- A turn-3 kill is possible if have two copies of [**Gaea's Might**]
 
 Deck
 - 4 Grim Lavamancer
