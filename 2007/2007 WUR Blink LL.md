@@ -13,6 +13,9 @@ Format
 
 Note
 - Nationals France 2007 winning deck by Guillaume Matignon
+- Cast [**Stone Rain**] to destroy opponentkey lands and if can land an early [**Grand Arbiter Augustin IV**], spells become cheaper while their spells cost 1 more, amplifying the land destruction
+- Use [**Momentary Blink**] on [**Court Hussar**] to dig deep for answers without paying its mana cost again
+- Use [**Momentary Blink**] on [**Riftwing Cloudskate**] or [**Venser, Shaper Savant**] to repeatedly bounce the opponent's lands or threats back to their hand
 
 Deck
 - 1 Battlefield Forge
