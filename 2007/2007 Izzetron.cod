@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 Izzetron</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Kyoto 2007 winning deck by Watanabe Yuuya</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="335" uuid="e0eac72f-915b-41a2-a9cf-1707b65d9ac9"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="336" uuid="9d5ab443-b415-45e5-a9f7-539a5299bf27"/>
+        <card number="2" name="Shivan Reef" setShortName="APC" collectorNumber="142" uuid="c3403143-2b4e-4408-b138-c856bbc1e9a5"/>
+        <card number="2" name="Shivan Reef" setShortName="9ED" collectorNumber="324" uuid="eea38777-e67d-40a5-9301-d4e6d3819899"/>
+        <card number="4" name="Steam Vents" setShortName="GPT" collectorNumber="164" uuid="054f2276-2dd5-43da-bb26-c57c560861fe"/>
+        <card number="1" name="Urza's Factory" setShortName="TSP" collectorNumber="280" uuid="b22d97f3-08cf-4c19-bbe2-5a36096187cd"/>
+        <card number="4" name="Urza's Mine" setShortName="9ED" collectorNumber="327" uuid="7a235785-b720-483b-bb28-6de440be2129"/>
+        <card number="4" name="Urza's Power Plant" setShortName="9ED" collectorNumber="328" uuid="3115c04a-ac26-4361-aecd-c6fb5f03a96f"/>
+        <card number="4" name="Urza's Tower" setShortName="9ED" collectorNumber="329" uuid="513e063c-b328-4e5f-8806-b232c38645f5"/>
+        <card number="2" name="Dimir Signet" setShortName="RAV" collectorNumber="260" uuid="9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf"/>
+        <card number="4" name="Izzet Signet" setShortName="GPT" collectorNumber="152" uuid="f823be95-bef4-4e86-a924-239be62394bf"/>
+        <card number="3" name="Electrolyze" setShortName="GPT" collectorNumber="111" uuid="ef42b5b2-6504-486c-aaa0-9d5e4769ba1d"/>
+        <card number="4" name="Mana Leak" setShortName="9ED" collectorNumber="86" uuid="60e6486c-644f-4b32-b4e9-3ca29bbdb400"/>
+        <card number="4" name="Remand" setShortName="RAV" collectorNumber="63" uuid="581f3780-c480-48c6-b15c-1618f2feccb9"/>
+        <card number="3" name="Repeal" setShortName="GPT" collectorNumber="32" uuid="9e7dd929-4bba-46a6-86c9-b8ed853eb721"/>
+        <card number="2" name="Spell Burst" setShortName="TSP" collectorNumber="79" uuid="f95c8015-fd7d-4329-ab23-aec37a824083"/>
+        <card number="4" name="Compulsive Research" setShortName="RAV" collectorNumber="40" uuid="20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4"/>
+        <card number="2" name="Demonfire" setShortName="DIS" collectorNumber="60" uuid="af2ad333-722e-4d7e-972a-903c24068931"/>
+        <card number="2" name="Tidings" setShortName="9ED" collectorNumber="106" uuid="e28e96c6-4c48-466a-81a0-1137269db529"/>
+        <card number="3" name="Bogardan Hellkite" setShortName="TSP" collectorNumber="147" uuid="5852f528-92aa-45cf-8436-5774691676d3"/>
+        <card number="4" name="Sulfur Elemental" setShortName="PLC" collectorNumber="108" uuid="49cba6fd-2474-400d-8568-33fe447abc7c"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Vesuva" setShortName="TSP" collectorNumber="281" uuid="82fc9498-7397-4857-87fe-7c9010944ed8"/>
+        <card number="1" name="Commandeer" setShortName="CSP" collectorNumber="29" uuid="7e6e6204-c622-4efe-ac4f-8195528cec9c"/>
+        <card number="2" name="Vesuvan Shapeshifter" setShortName="TSP" collectorNumber="90" uuid="458031cc-238d-45f0-9a81-b52e82286e0f"/>
+        <card number="1" name="Mystical Teachings" setShortName="TSP" collectorNumber="69" uuid="a057e5f3-b6bd-4995-b990-714201f36989"/>
+        <card number="4" name="Annex" setShortName="9ED" collectorNumber="59" uuid="b0df72c6-4f54-43ec-a4e0-5733003f4fd7"/>
+        <card number="1" name="Teferi, Mage of Zhalfir" setShortName="TSP" collectorNumber="83" uuid="3c0145f6-4e27-49e7-9ef6-bac6fa3de26d"/>
+        <card number="3" name="Bottle Gnomes" setShortName="9ED" collectorNumber="290" uuid="b6d225c1-22f7-4c98-bba0-216724f2d587"/>
+        <card number="2" name="Serrated Arrows" setShortName="TSB" collectorNumber="114" uuid="a2a31bc7-cb98-4199-b0dc-3f496e9f9dca"/>
+    </zone>
+</cockatrice_deck>
