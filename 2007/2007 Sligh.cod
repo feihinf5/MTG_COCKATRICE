@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 Sligh</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix Strasbourg 2007 winning deck by Satou Tomoharu</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Molten Slagheap" setShortName="TSP" collectorNumber="276" uuid="d090288c-48f3-49fe-87c4-3766eb7bb240"/>
+        <card number="5" name="Mountain" setShortName="TSP" collectorNumber="297" uuid="dae3e69d-ec38-43e2-b4a2-3a9064835a97"/>
+        <card number="5" name="Mountain" setShortName="TSP" collectorNumber="296" uuid="d3e3961c-d092-4a15-b5db-d7b5c70e4fc1"/>
+        <card number="5" name="Mountain" setShortName="TSP" collectorNumber="294" uuid="e34229e7-5dc4-47b3-9ba2-609e5b3ca6c2"/>
+        <card number="5" name="Mountain" setShortName="TSP" collectorNumber="295" uuid="5c71906a-f885-49ba-a889-8baf4e74cce8"/>
+        <card number="2" name="Pendelhaven" setShortName="TSB" collectorNumber="120" uuid="32fd7a5c-2881-4d37-9eea-5f7e44dea812"/>
+        <card number="3" name="Dead // Gone" setShortName="PLC" collectorNumber="113" uuid="96fd8d8e-8f2a-4240-bcb7-18f73fd47bd5"/>
+        <card number="4" name="Browbeat" setShortName="TSB" collectorNumber="56" uuid="1f358395-df58-474e-92cf-c80d42801f21"/>
+        <card number="4" name="Disintegrate" setShortName="TSB" collectorNumber="58" uuid="a83420d1-c51a-4fb7-8f1d-b376a0083d95"/>
+        <card number="4" name="Rift Bolt" setShortName="TSP" collectorNumber="176" uuid="88dde96e-6824-4d26-9fb5-86b9f3c50959"/>
+        <card number="4" name="Blood Knight" setShortName="PLC" collectorNumber="115" uuid="0f2133c0-8561-4264-8802-1b2933abf186"/>
+        <card number="4" name="Greater Gargadon" setShortName="TSP" collectorNumber="161" uuid="653ddfa0-2088-4503-a3ab-b0f1d55d8351"/>
+        <card number="4" name="Magus of the Scroll" setShortName="TSP" collectorNumber="169" uuid="6060cada-52bf-4ef2-8a26-8ba04dded458"/>
+        <card number="4" name="Mogg War Marshal" setShortName="TSP" collectorNumber="170" uuid="8b9e0bdb-b615-447a-b80d-d7244c25c56e"/>
+        <card number="4" name="Sulfur Elemental" setShortName="PLC" collectorNumber="108" uuid="49cba6fd-2474-400d-8568-33fe447abc7c"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Dead // Gone" setShortName="PLC" collectorNumber="113" uuid="96fd8d8e-8f2a-4240-bcb7-18f73fd47bd5"/>
+        <card number="3" name="Word of Seizing" setShortName="TSP" collectorNumber="188" uuid="d6db3c98-ec84-4686-bc21-c8572a736e62"/>
+        <card number="4" name="Keldon Marauders" setShortName="PLC" collectorNumber="102" uuid="677c28db-34d2-4325-99d1-9b689753802f"/>
+        <card number="3" name="Wildfire Emissary" setShortName="TSB" collectorNumber="72" uuid="9ad0f2cb-79da-4d8f-8010-39973c126b95"/>
+        <card number="4" name="Avalanche Riders" setShortName="TSB" collectorNumber="55" uuid="abb19b6b-4142-4b93-85ca-3f2d8b23b4e1"/>
+    </zone>
+</cockatrice_deck>
