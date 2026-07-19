@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 Domain Zoo</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Singapore 2007 winning deck by Raphaël Lévy</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="1" name="Breeding Pool" setShortName="DIS" collectorNumber="172" uuid="b98b2a35-ec2b-47fe-903d-dd292e469a3c"/>
+        <card number="2" name="Flooded Strand" setShortName="ONS" collectorNumber="316" uuid="b4e3d844-d3b4-41d8-921d-c1cb3af343f8"/>
+        <card number="1" name="Godless Shrine" setShortName="GPT" collectorNumber="157" uuid="be010c2f-06db-47e3-80bd-df3f2a21ca34"/>
+        <card number="1" name="Mountain" setShortName="INV" collectorNumber="343" uuid="ba6694bb-f3b7-48ff-9d93-cbed84fac210"/>
+        <card number="1" name="Sacred Foundry" setShortName="RAV" collectorNumber="280" uuid="168ef687-5797-4b45-b75b-393d8117cebd"/>
+        <card number="1" name="Steam Vents" setShortName="GPT" collectorNumber="164" uuid="054f2276-2dd5-43da-bb26-c57c560861fe"/>
+        <card number="2" name="Stomping Ground" setShortName="GPT" collectorNumber="165" uuid="a2773d8f-f906-475d-aaff-b7ca3b01f188"/>
+        <card number="1" name="Temple Garden" setShortName="RAV" collectorNumber="284" uuid="794a2b79-8c55-4423-8843-7e6e96f84071"/>
+        <card number="4" name="Windswept Heath" setShortName="ONS" collectorNumber="328" uuid="7a7c5941-9c8a-4a40-9efb-a84f05c58e53"/>
+        <card number="4" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+        <card number="1" name="Armadillo Cloak" setShortName="INV" collectorNumber="229" uuid="9d816f98-6cb6-432c-b0a4-a0eed21658ac"/>
+        <card number="1" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="1" name="Brute Force" setShortName="PLC" collectorNumber="116" uuid="82d43220-1e4e-4b61-9844-51c8bb5dde35"/>
+        <card number="4" name="Gaea's Might" setShortName="PLS" collectorNumber="81" uuid="67e5adce-7735-4fa5-aa14-8dce012e9fcc"/>
+        <card number="1" name="Lightning Helix" setShortName="RAV" collectorNumber="213" uuid="1b2ecf55-c1cc-4b28-b7ce-e1b25305155e"/>
+        <card number="3" name="Sudden Shock" setShortName="TSP" collectorNumber="179" uuid="7d2691ee-8eec-437d-9bc1-113264525fb8"/>
+        <card number="1" name="Firebolt" setShortName="ODY" collectorNumber="193" uuid="d5e45005-dd81-4d80-b043-02f719aca929"/>
+        <card number="2" name="Tribal Flames" setShortName="TSB" collectorNumber="70" uuid="08576686-05a9-405a-983a-404c1d400981"/>
+        <card number="2" name="Tribal Flames" setShortName="INV" collectorNumber="176" uuid="9b32531e-c759-4603-abd0-1724e8df70db"/>
+        <card number="4" name="Boros Swiftblade" setShortName="RAV" collectorNumber="193" uuid="bf25cd63-3304-4eea-841b-1f058010c627"/>
+        <card number="4" name="Grim Lavamancer" setShortName="TOR" collectorNumber="100" uuid="5dd72697-24be-42c7-a6d9-a837bdbd4662"/>
+        <card number="3" name="Isamaru, Hound of Konda" setShortName="CHK" collectorNumber="19" uuid="2e7f9919-0713-4ef9-96eb-3e0c444e47f4"/>
+        <card number="2" name="Jötun Grunt" setShortName="CSP" collectorNumber="8" uuid="5526c510-bd33-4fac-8941-f19bd0997557"/>
+        <card number="4" name="Kird Ape" setShortName="9ED" collectorNumber="199" uuid="27423c7b-d1fd-471b-9648-8ea5ed9ebaf2"/>
+        <card number="1" name="Savannah Lions" setShortName="8ED" collectorNumber="43" uuid="c58dbcf3-f8ad-4e82-9515-0290fa5373f7"/>
+        <card number="4" name="Watchwolf" setShortName="RAV" collectorNumber="239" uuid="95e5828a-3e54-4b9c-9e84-21880930f2d5"/>
+        <card number="2" name="Wild Mongrel" setShortName="ODY" collectorNumber="283" uuid="5bb8dd5c-a79a-4afc-80b2-64645bb17a34"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Krosan Grip" setShortName="TSP" collectorNumber="202" uuid="59b524bb-5a18-4dda-9c45-26ce9ff0f0c1"/>
+        <card number="1" name="Armadillo Cloak" setShortName="INV" collectorNumber="229" uuid="9d816f98-6cb6-432c-b0a4-a0eed21658ac"/>
+        <card number="3" name="Kataki, War's Wage" setShortName="SOK" collectorNumber="14" uuid="a5c99ac4-6551-4cc2-9a70-6e66b259b2a2"/>
+        <card number="3" name="Engineered Plague" setShortName="7ED" collectorNumber="133" uuid="b669e43e-3b11-42c9-8f20-0acce129e63c"/>
+        <card number="3" name="Meddling Mage" setShortName="PLS" collectorNumber="116" uuid="176f84c6-aa5e-449c-bd2b-cc91a898f0c7"/>
+        <card number="1" name="Loxodon Hierarch" setShortName="RAV" collectorNumber="214" uuid="a1d3ccca-8040-4a5f-9f2b-6fdb1a033234"/>
+        <card number="1" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="1" name="Jötun Grunt" setShortName="CSP" collectorNumber="8" uuid="5526c510-bd33-4fac-8941-f19bd0997557"/>
+    </zone>
+</cockatrice_deck>
