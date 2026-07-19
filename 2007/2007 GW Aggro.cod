@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 GW Aggro</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Montreal 2007 winning deck by Celso Zampere Jr.</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Griffin Guide" setShortName="TSP" collectorNumber="21" uuid="e19a15d9-5899-4b84-9c00-345b19df53ae"/>
+        <card number="4" name="Temporal Isolation" setShortName="TSP" collectorNumber="43" uuid="eb406292-1879-4aa9-a369-082822dae1d7"/>
+        <card number="2" name="Thrill of the Hunt" setShortName="TSP" collectorNumber="229" uuid="e8fe0c8e-f361-4eac-8c2c-ca6602dad352"/>
+        <card number="4" name="Call of the Herd" setShortName="TSB" collectorNumber="74" uuid="ebff1b5d-b948-48fa-9fa7-690b13ab5d71"/>
+        <card number="4" name="Edge of Autumn" setShortName="FUT" collectorNumber="144" uuid="03998e86-ef67-4329-b106-61252f3f532a"/>
+        <card number="4" name="Mystic Enforcer" setShortName="TSB" collectorNumber="96" uuid="ec2a7910-61b5-42a0-900c-b06e520e20c4"/>
+        <card number="4" name="Riftsweeper" setShortName="FUT" collectorNumber="136" uuid="847dbbbc-e069-4a90-bc47-c28418bb8540"/>
+        <card number="3" name="Saffi Eriksdotter" setShortName="TSP" collectorNumber="245" uuid="c34bb91e-138b-4491-bb2d-5df2cd272bf0"/>
+        <card number="4" name="Serra Avenger" setShortName="TSP" collectorNumber="40" uuid="9e9d7c1c-3bfd-4705-9bc2-5ca3f84cc32a"/>
+        <card number="4" name="Tarmogoyf" setShortName="FUT" collectorNumber="153" uuid="b6876d9e-0908-43ac-8542-09c7aa02b5ba"/>
+        <card number="4" name="Flagstones of Trokair" setShortName="TSP" collectorNumber="272" uuid="ad23cd0e-6871-4ba6-b5bf-cfd14f8f71b2"/>
+        <card number="1" name="Forest" setShortName="TSP" collectorNumber="301" uuid="393d66f7-7dbf-4a92-912f-377f99c8f164"/>
+        <card number="1" name="Forest" setShortName="TSP" collectorNumber="299" uuid="2a10ed4f-2c9a-424d-bcca-730af7727854"/>
+        <card number="1" name="Forest" setShortName="TSP" collectorNumber="298" uuid="0d5bd3e1-45ef-43b7-8796-6085842278df"/>
+        <card number="1" name="Forest" setShortName="TSP" collectorNumber="300" uuid="2b176d24-a4d6-489e-af69-4547693e7de1"/>
+        <card number="4" name="Horizon Canopy" setShortName="FUT" collectorNumber="177" uuid="d5dfc25d-a17b-4ead-9484-e8a18b8fa176"/>
+        <card number="4" name="Llanowar Reborn" setShortName="FUT" collectorNumber="171" uuid="04d07c6b-1afa-4321-b4f9-f22e81a0b818"/>
+        <card number="1" name="Pendelhaven" setShortName="TSB" collectorNumber="120" uuid="32fd7a5c-2881-4d37-9eea-5f7e44dea812"/>
+        <card number="1" name="Plains" setShortName="TSP" collectorNumber="282" uuid="cd9a8337-e4ca-458d-8fcd-672d8d6f1c0d"/>
+        <card number="1" name="Plains" setShortName="TSP" collectorNumber="283" uuid="97e0aaf3-eba0-445e-b560-f889b800e6b7"/>
+        <card number="1" name="Plains" setShortName="TSP" collectorNumber="284" uuid="d056a94a-a07d-4494-a75c-b3f6f59457b3"/>
+        <card number="1" name="Plains" setShortName="TSP" collectorNumber="285" uuid="fa21cca2-59cb-4223-b67b-1a8fc54aadd8"/>
+        <card number="2" name="Terramorphic Expanse" setShortName="TSP" collectorNumber="279" uuid="fd097ea2-0a1c-44a0-824b-d5373df513fb"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Sunlance" setShortName="PLC" collectorNumber="31" uuid="46144ca5-aa81-4314-a1e5-1716f8565d70"/>
+        <card number="4" name="Whirling Dervish" setShortName="TSB" collectorNumber="90" uuid="9f1772bc-3330-4a10-9524-5bdcbd50c871"/>
+        <card number="2" name="Serrated Arrows" setShortName="TSB" collectorNumber="114" uuid="a2a31bc7-cb98-4199-b0dc-3f496e9f9dca"/>
+        <card number="3" name="Cloudchaser Kestrel" setShortName="TSP" collectorNumber="10" uuid="87003295-fd7c-489a-b724-b76eef187b57"/>
+        <card number="2" name="Bound in Silence" setShortName="FUT" collectorNumber="20" uuid="6e8a6e04-ce3b-4025-92ba-8980022b8038"/>
+    </zone>
+</cockatrice_deck>
