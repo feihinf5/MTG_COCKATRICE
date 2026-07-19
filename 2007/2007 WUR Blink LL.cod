@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 WUR Blink LL</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Nationals France 2007 winning deck by Guillaume Matignon</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Stone Rain" setShortName="9ED" collectorNumber="221" uuid="d2334c10-fa96-4f8e-8187-c7ecc00cbac8"/>
+        <card number="4" name="Lightning Helix" setShortName="RAV" collectorNumber="213" uuid="1b2ecf55-c1cc-4b28-b7ce-e1b25305155e"/>
+        <card number="3" name="Momentary Blink" setShortName="TSP" collectorNumber="29" uuid="032e072a-0630-472b-9106-5df554dff785"/>
+        <card number="4" name="Remand" setShortName="RAV" collectorNumber="63" uuid="581f3780-c480-48c6-b15c-1618f2feccb9"/>
+        <card number="2" name="Repeal" setShortName="GPT" collectorNumber="32" uuid="9e7dd929-4bba-46a6-86c9-b8ed853eb721"/>
+        <card number="4" name="Court Hussar" setShortName="DIS" collectorNumber="22" uuid="4970f492-d4fc-4833-a083-05e422a3c456"/>
+        <card number="3" name="Grand Arbiter Augustin IV" setShortName="DIS" collectorNumber="112" uuid="a2ac328b-923f-48dd-a4f5-de389ade9125"/>
+        <card number="4" name="Lightning Angel" setShortName="TSB" collectorNumber="94" uuid="322d5ba3-41cc-4e60-9d0a-074f48a71ea3"/>
+        <card number="2" name="Numot, the Devastator" setShortName="PLC" collectorNumber="160" uuid="d1bf777a-a232-4504-afbb-13d2f79b4355"/>
+        <card number="4" name="Riftwing Cloudskate" setShortName="TSP" collectorNumber="73" uuid="78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8"/>
+        <card number="3" name="Venser, Shaper Savant" setShortName="FUT" collectorNumber="46" uuid="0e84fc99-4045-4518-b588-512a675f2933"/>
+        <card number="1" name="Battlefield Forge" setShortName="9ED" collectorNumber="318" uuid="d5064361-a8c7-4002-908a-992252641572"/>
+        <card number="1" name="Hallowed Fountain" setShortName="DIS" collectorNumber="174" uuid="c28aea19-2a39-4934-afda-909e234fa3ba"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="335" uuid="e0eac72f-915b-41a2-a9cf-1707b65d9ac9"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="336" uuid="9d5ab443-b415-45e5-a9f7-539a5299bf27"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="337" uuid="d7d7f6bf-051c-45a4-b19e-2a50bbd6398e"/>
+        <card number="2" name="Izzet Boilerworks" setShortName="GPT" collectorNumber="159" uuid="666f455e-3a3d-475d-b67a-a1fdd74820eb"/>
+        <card number="3" name="Nimbus Maze" setShortName="FUT" collectorNumber="178" uuid="80d1f953-9403-4e0a-b8e1-3f7d928a2834"/>
+        <card number="1" name="Plains" setShortName="9ED" collectorNumber="331" uuid="75e639a9-6010-4453-9c25-4ab03664b9b2"/>
+        <card number="1" name="Plains" setShortName="9ED" collectorNumber="332" uuid="81c96115-3728-4f3c-9438-d53550974363"/>
+        <card number="1" name="Plains" setShortName="9ED" collectorNumber="333" uuid="8703ecd3-1ffa-489c-b8e1-f4d9b5ba2c12"/>
+        <card number="4" name="Sacred Foundry" setShortName="RAV" collectorNumber="280" uuid="168ef687-5797-4b45-b75b-393d8117cebd"/>
+        <card number="2" name="Shivan Reef" setShortName="9ED" collectorNumber="324" uuid="eea38777-e67d-40a5-9301-d4e6d3819899"/>
+        <card number="4" name="Steam Vents" setShortName="GPT" collectorNumber="164" uuid="054f2276-2dd5-43da-bb26-c57c560861fe"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Teferi's Moat" setShortName="TSB" collectorNumber="103" uuid="37566afe-d383-4aa1-a9e4-c4bdf91a06d3"/>
+        <card number="3" name="Disenchant" setShortName="TSB" collectorNumber="6" uuid="b7be41f0-7391-49dd-b63c-2e8db9430f07"/>
+        <card number="3" name="Electrolyze" setShortName="GPT" collectorNumber="111" uuid="ef42b5b2-6504-486c-aaa0-9d5e4769ba1d"/>
+        <card number="1" name="Repeal" setShortName="GPT" collectorNumber="32" uuid="9e7dd929-4bba-46a6-86c9-b8ed853eb721"/>
+        <card number="3" name="Cryoclasm" setShortName="CSP" collectorNumber="79" uuid="6a892711-a1a4-4402-957f-92077d00320d"/>
+        <card number="2" name="Avalanche Riders" setShortName="TSB" collectorNumber="55" uuid="abb19b6b-4142-4b93-85ca-3f2d8b23b4e1"/>
+    </zone>
+</cockatrice_deck>
