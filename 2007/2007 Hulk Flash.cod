@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 Hulk Flash</deckname>
+    <format>legacy</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Columbus 2007 winning deck by Steven Sadin</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Flooded Strand" setShortName="ONS" collectorNumber="316" uuid="b4e3d844-d3b4-41d8-921d-c1cb3af343f8"/>
+        <card number="1" name="Island" setShortName="LEA" collectorNumber="288" uuid="90a57c0e-fa61-45ef-955d-d296403967d5"/>
+        <card number="1" name="Island" setShortName="LEA" collectorNumber="289" uuid="bc6ea08d-7991-4a57-a1e3-abd508426970"/>
+        <card number="1" name="Island" setShortName="LEB" collectorNumber="291" uuid="bff33e91-8e52-43f2-b8ae-603b456b08fc"/>
+        <card number="4" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="1" name="Swamp" setShortName="LEA" collectorNumber="290" uuid="6176936d-72e2-4205-8871-4c5a4f1cb2d8"/>
+        <card number="1" name="Tropical Island" setShortName="LEA" collectorNumber="283" uuid="a9c6c759-aabf-44e7-ba8c-33c5df232b56"/>
+        <card number="1" name="Tundra" setShortName="LEA" collectorNumber="284" uuid="a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb"/>
+        <card number="1" name="Underground Sea" setShortName="LEA" collectorNumber="285" uuid="ff76ac86-8a8a-47fe-9388-8950ca3e26c3"/>
+        <card number="4" name="Counterbalance" setShortName="CSP" collectorNumber="31" uuid="c329ff2b-0331-4934-a8df-870dd7bf402b"/>
+        <card number="4" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="4" name="Sensei's Divining Top" setShortName="CHK" collectorNumber="268" uuid="4a08ca06-58db-4ce6-b490-be4bea8956a1"/>
+        <card number="2" name="Brainstorm" setShortName="ICE" collectorNumber="61" uuid="8d42d7aa-7f53-4cfc-842a-086aab2448d1"/>
+        <card number="1" name="Brainstorm" setShortName="5ED" collectorNumber="76" uuid="1d6603e3-0680-4ba3-951b-cd9919eefd4f"/>
+        <card number="1" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="4" name="Daze" setShortName="NEM" collectorNumber="30" uuid="d03bff25-0d5e-4dcf-8d75-6df846afea3b"/>
+        <card number="1" name="Echoing Truth" setShortName="DST" collectorNumber="21" uuid="4aefedd7-1bf5-4148-9084-d7d8f1138140"/>
+        <card number="2" name="Flash" setShortName="6ED" collectorNumber="67" uuid="f4e2f44d-74a9-4635-bf10-bf4cf179cab5"/>
+        <card number="2" name="Flash" setShortName="MIR" collectorNumber="66" uuid="63af3c26-5b1f-46f6-9aa2-036c615bf5ea"/>
+        <card number="4" name="Force of Will" setShortName="ALL" collectorNumber="28" uuid="9a879b60-4381-447d-8a5a-8e0b6a1d49ca"/>
+        <card number="2" name="Mystical Tutor" setShortName="MIR" collectorNumber="80" uuid="5d98101f-e32a-4a4a-a649-faa920d111ee"/>
+        <card number="2" name="Mystical Tutor" setShortName="6ED" collectorNumber="83" uuid="1571b584-9007-45ee-a3c3-6c72f227fee2"/>
+        <card number="1" name="Massacre" setShortName="NEM" collectorNumber="58" uuid="f05f5d93-50d1-4aa6-af05-383a6808345b"/>
+        <card number="1" name="Body Snatcher" setShortName="UDS" collectorNumber="53" uuid="c7d4c858-5a11-485d-a514-12a6d80459f0"/>
+        <card number="1" name="Carrion Feeder" setShortName="SCG" collectorNumber="59" uuid="88042031-64af-4f84-85d5-95992b43aa6c"/>
+        <card number="4" name="Dark Confidant" setShortName="RAV" collectorNumber="81" uuid="94f7a441-bf2d-46fb-a7b6-9bd6137f86d9"/>
+        <card number="1" name="Karmic Guide" setShortName="ULG" collectorNumber="11" uuid="77d23045-905b-44cb-9af9-cc6ad717477d"/>
+        <card number="1" name="Kiki-Jiki, Mirror Breaker" setShortName="CHK" collectorNumber="175" uuid="162018eb-5483-4fa2-9c5a-abb639eecf91"/>
+        <card number="4" name="Protean Hulk" setShortName="DIS" collectorNumber="90" uuid="3d978332-95bf-4f86-9e67-06f10983c267"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Swords to Plowshares" setShortName="LEA" collectorNumber="40" uuid="386ea9eb-abc1-4862-aa2d-8fb808d79490"/>
+        <card number="1" name="Swords to Plowshares" setShortName="LEB" collectorNumber="41" uuid="255099be-c64e-4f6a-8463-4fc058d6908d"/>
+        <card number="1" name="Swords to Plowshares" setShortName="2ED" collectorNumber="41" uuid="50fc5b10-6215-48a9-8993-b61681f61186"/>
+        <card number="4" name="Quirion Dryad" setShortName="PLS" collectorNumber="89" uuid="f6841ae6-b15f-488e-9cae-2cc5ec668278"/>
+        <card number="1" name="Reverent Silence" setShortName="NEM" collectorNumber="111" uuid="b82d3432-2167-4a65-8221-cb7b338e60d0"/>
+        <card number="4" name="Leyline of the Void" setShortName="GPT" collectorNumber="52" uuid="37dfe8b8-b39e-4e70-9e5b-be42c93b4f70"/>
+        <card number="3" name="Massacre" setShortName="NEM" collectorNumber="58" uuid="f05f5d93-50d1-4aa6-af05-383a6808345b"/>
+    </zone>
+</cockatrice_deck>
