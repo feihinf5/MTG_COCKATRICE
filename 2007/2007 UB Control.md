@@ -2,7 +2,8 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_Pro_Tour_Yokohama_winning_deck_by_Guillaume_Wafo-Tapa.png
 
 Format
-- CARD_SET
+- PLC
+- TSP / TSB
 
 Note
 - Pro Tour-Yokohama 2007 winning deck by Guillaume Wafo-Tapa
