@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 UB Control</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Yokohama 2007 winning deck by Guillaume Wafo-Tapa</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Academy Ruins" setShortName="TSP" collectorNumber="269" uuid="af09af65-0a3b-42df-b0fd-372e2158beac"/>
+        <card number="4" name="Dreadship Reef" setShortName="TSP" collectorNumber="271" uuid="b4a83915-07b7-4912-bdf2-089b05796378"/>
+        <card number="3" name="Island" setShortName="TSP" collectorNumber="286" uuid="e5fdeb2c-afb8-4850-bcdc-86283ffa3486"/>
+        <card number="3" name="Island" setShortName="TSP" collectorNumber="287" uuid="e08915c9-78ff-450b-a47f-0c9678d16bbd"/>
+        <card number="2" name="Island" setShortName="TSP" collectorNumber="289" uuid="ac1a989a-38d4-4225-a41f-37d54f2f42ae"/>
+        <card number="2" name="Island" setShortName="TSP" collectorNumber="288" uuid="89f8c7cf-6705-4ff7-8aa8-113c1400ffda"/>
+        <card number="1" name="Molten Slagheap" setShortName="TSP" collectorNumber="276" uuid="d090288c-48f3-49fe-87c4-3766eb7bb240"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="290" uuid="3fecc759-61fa-4040-9b46-710512baa4bf"/>
+        <card number="4" name="Terramorphic Expanse" setShortName="TSP" collectorNumber="279" uuid="fd097ea2-0a1c-44a0-824b-d5373df513fb"/>
+        <card number="4" name="Urborg, Tomb of Yawgmoth" setShortName="PLC" collectorNumber="165" uuid="19e1224f-82cb-4f41-8739-f880cba61bbb"/>
+        <card number="1" name="Urza's Factory" setShortName="TSP" collectorNumber="280" uuid="b22d97f3-08cf-4c19-bbe2-5a36096187cd"/>
+        <card number="4" name="Prismatic Lens" setShortName="TSP" collectorNumber="262" uuid="50f058a7-c3c7-4bdf-a66c-a2636a8bd9db"/>
+        <card number="4" name="Cancel" setShortName="TSP" collectorNumber="51" uuid="b4e175f7-f649-451b-9ee5-ad1140b2e8a7"/>
+        <card number="4" name="Careful Consideration" setShortName="TSP" collectorNumber="52" uuid="bcf71574-5b1e-4483-9a8e-c3212148ce9c"/>
+        <card number="1" name="Haunting Hymn" setShortName="TSP" collectorNumber="112" uuid="e8163a9d-5a1b-4d36-b20a-b220207a3b94"/>
+        <card number="3" name="Mystical Teachings" setShortName="TSP" collectorNumber="69" uuid="a057e5f3-b6bd-4995-b990-714201f36989"/>
+        <card number="1" name="Snapback" setShortName="TSP" collectorNumber="78" uuid="de9135ba-9b6a-4443-a1c4-882f9bfae626"/>
+        <card number="2" name="Sudden Death" setShortName="TSP" collectorNumber="134" uuid="16e889c4-105b-4f4e-8a3d-ace753a24a4e"/>
+        <card number="2" name="Tendrils of Corruption" setShortName="TSP" collectorNumber="136" uuid="7f61db9e-ef88-4dc8-b90c-1f8b2d7e9bb9"/>
+        <card number="2" name="Think Twice" setShortName="TSP" collectorNumber="86" uuid="352d99db-de6d-4405-90ec-b144abbaa5a4"/>
+        <card number="4" name="Damnation" setShortName="PLC" collectorNumber="85" uuid="26c68473-70ca-40ba-b5c6-71ec30f88a2c"/>
+        <card number="2" name="Aeon Chronicler" setShortName="PLC" collectorNumber="32" uuid="2fbc2dd2-976b-4239-bef9-ea0f06be79ba"/>
+        <card number="2" name="Draining Whelk" setShortName="TSP" collectorNumber="57" uuid="c559d326-b97b-43d9-b7c9-c09e1a0e9db6"/>
+        <card number="2" name="Teferi, Mage of Zhalfir" setShortName="TSP" collectorNumber="83" uuid="3c0145f6-4e27-49e7-9ef6-bac6fa3de26d"/>
+        <card number="1" name="Triskelavus" setShortName="TSP" collectorNumber="266" uuid="978d11e7-cfb7-41bf-bb98-deb79549a074"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Detritivore" setShortName="PLC" collectorNumber="96" uuid="2ec01f4b-b3df-4e2b-ae93-2f2d0cc279bd"/>
+        <card number="3" name="Premature Burial" setShortName="TSP" collectorNumber="125" uuid="e96cea6a-fea6-4a6b-84b2-7b57237be96a"/>
+        <card number="1" name="Temporal Isolation" setShortName="TSP" collectorNumber="43" uuid="eb406292-1879-4aa9-a369-082822dae1d7"/>
+        <card number="1" name="Extirpate" setShortName="PLC" collectorNumber="71" uuid="2608b5fc-3b58-4b02-aef1-35d885b16b01"/>
+        <card number="2" name="Pull from Eternity" setShortName="TSP" collectorNumber="35" uuid="3d218091-d218-41ad-b666-c8ab3de7160a"/>
+        <card number="1" name="Disenchant" setShortName="TSB" collectorNumber="6" uuid="b7be41f0-7391-49dd-b63c-2e8db9430f07"/>
+        <card number="1" name="Fortune Thief" setShortName="TSP" collectorNumber="156" uuid="c893bbb7-0589-4544-a488-f84f9aa1d058"/>
+        <card number="1" name="Plains" setShortName="TSP" collectorNumber="282" uuid="cd9a8337-e4ca-458d-8fcd-672d8d6f1c0d"/>
+        <card number="1" name="Mountain" setShortName="TSP" collectorNumber="294" uuid="e34229e7-5dc4-47b3-9ba2-609e5b3ca6c2"/>
+        <card number="1" name="Sudden Death" setShortName="TSP" collectorNumber="134" uuid="16e889c4-105b-4f4e-8a3d-ace753a24a4e"/>
+    </zone>
+</cockatrice_deck>
