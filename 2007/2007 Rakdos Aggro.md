@@ -13,6 +13,8 @@ Format
 
 Note
 - 2007 Australian National Championships winning deck by Steven Aplin
+- Card Advantage by leverages [**Dark Confidant**]
+- Provides access to [**Terror**]-style removal spells, which easily bypass and deal with high-toughness threats
 
 Deck
 - 4 Mogg Fanatic
