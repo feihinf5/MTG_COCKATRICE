@@ -8,6 +8,10 @@ Format
 
 Note
 - Grand Prix-San Francisco 2007 winning deck by Luis Scott-Vargas
+- Utilizes the top-tier board wipe [**Damnation**], supplemented by additional spot removal like [**Sudden Death**] and the life-gaining [**Tendrils of Corruption**]
+- Incorporates hand disruption (discard) to fight control decks, paired with [**Phyrexian Totem**] which serves as both a hand-disruption-friendly mana rock and an efficient attacker
+- Deploys [**Bogardan Hellkite**] or [**Aeon Chronicler**] (which pulls double duty as card-draw utility) to close out the game
+- The addition of [**Coalition Relic**] drastically stabilizes mana base
 
 Deck
 - 1 Academy Ruins
