@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 Rakdos Aggro</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2007 Australian National Championships winning deck by Steven Aplin</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Blood Crypt" setShortName="DIS" collectorNumber="171" uuid="f281e16f-0fe1-4095-bd63-0a4479f75c11"/>
+        <card number="3" name="Graven Cairns" setShortName="FUT" collectorNumber="175" uuid="81e7d329-ef6a-45f3-82b6-37a3606c00bc"/>
+        <card number="2" name="Keldon Megaliths" setShortName="FUT" collectorNumber="170" uuid="3a6d546d-df98-4cb4-a68b-2a0c8bac5a72"/>
+        <card number="2" name="Rakdos Carnarium" setShortName="DIS" collectorNumber="178" uuid="34f146f3-6541-4d2a-96e3-a3cd680c0a1e"/>
+        <card number="5" name="Snow-Covered Mountain" setShortName="CSP" collectorNumber="154" uuid="0dc9a6d1-a1ca-4b8f-894d-71c2a9933f79"/>
+        <card number="2" name="Snow-Covered Swamp" setShortName="CSP" collectorNumber="153" uuid="c4dacaf1-09b8-42bb-8064-990190fdaf81"/>
+        <card number="4" name="Sulfurous Springs" setShortName="10E" collectorNumber="359" uuid="ca7f2426-5a56-4dca-a059-65aa7266ac83"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="PLC" collectorNumber="165" uuid="19e1224f-82cb-4f41-8739-f880cba61bbb"/>
+        <card number="3" name="Demonfire" setShortName="DIS" collectorNumber="60" uuid="af2ad333-722e-4d7e-972a-903c24068931"/>
+        <card number="4" name="Char" setShortName="RAV" collectorNumber="117" uuid="ff3a24af-e995-4d05-ac2c-e9676048675d"/>
+        <card number="3" name="Hit // Run" setShortName="DIS" collectorNumber="152" uuid="b44c30a9-1af4-4287-a809-d2de4e8b4070"/>
+        <card number="4" name="Rift Bolt" setShortName="TSP" collectorNumber="176" uuid="88dde96e-6824-4d26-9fb5-86b9f3c50959"/>
+        <card number="4" name="Incinerate" setShortName="10E" collectorNumber="213" uuid="723fb62e-735a-4ca6-9d38-f1c3944fe69a"/>
+        <card number="4" name="Seal of Fire" setShortName="DIS" collectorNumber="71" uuid="82ff3740-93e2-454a-8e6b-e29d0c9d0fc2"/>
+        <card number="4" name="Dark Confidant" setShortName="RAV" collectorNumber="81" uuid="94f7a441-bf2d-46fb-a7b6-9bd6137f86d9"/>
+        <card number="4" name="Giant Solifuge" setShortName="GPT" collectorNumber="143" uuid="8a83dbc9-802f-4ebf-93de-b2bf4844cc9e"/>
+        <card number="4" name="Mogg Fanatic" setShortName="10E" collectorNumber="219" uuid="185949ab-55d0-439f-b25b-1f525e3eddf7"/>
+        <card number="3" name="Rakdos Guildmage" setShortName="DIS" collectorNumber="145" uuid="0e01fef8-5563-4dec-ab8e-e486e19e202c"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Terror" setShortName="10E" collectorNumber="182" uuid="3d1ccc3b-a6bd-4dc8-b7ba-99172d612106"/>
+        <card number="3" name="Withered Wretch" setShortName="TSB" collectorNumber="54" uuid="29190989-77af-44af-a757-2a3b63fe9e77"/>
+        <card number="4" name="Martyr of Ashes" setShortName="CSP" collectorNumber="92" uuid="600a2cd2-166a-4fd8-838d-e513534b7cb0"/>
+        <card number="4" name="Cryoclasm" setShortName="10E" collectorNumber="195" uuid="cf386439-0f68-454f-993b-d55dcc989d81"/>
+    </zone>
+</cockatrice_deck>
