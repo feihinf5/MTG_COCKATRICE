@@ -1,4 +1,5 @@
 ## 2007
+- https://web.archive.org/web/20080218083329/http://www.themagictutor.com/nacional2007/mazostop8.htm
 - https://web.archive.org/web/20210503015944/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2007-07-28
 - https://web.archive.org/web/20210502234222/https://magic.wizards.com/en/events/coverage/gpcol07
 - https://web.archive.org/web/20210503182512/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2007-04-21
