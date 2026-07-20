@@ -1,5 +1,5 @@
 Reference 
-- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_Argentina_National_Championship_winning_deck_by_Nicolas_Kohan.png
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_Japan_National_%20Championship_winning_deck_by_Kitayama_Masaya.png
 
 Format
 - 10E
