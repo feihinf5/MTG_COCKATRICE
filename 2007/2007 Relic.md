@@ -10,7 +10,7 @@ Note
 - Grand Prix-San Francisco 2007 winning deck by Luis Scott-Vargas
 - Utilizes the top-tier board wipe [**Damnation**](https://api.scryfall.com/cards/26c68473-70ca-40ba-b5c6-71ec30f88a2c?format=image) and the life-gaining [**Tendrils of Corruption**](https://api.scryfall.com/cards/7f61db9e-ef88-4dc8-b90c-1f8b2d7e9bb9?format=image)
 - Deploys [**Bogardan Hellkite**](https://api.scryfall.com/cards/5852f528-92aa-45cf-8436-5774691676d3?format=image) to close out the game
-- The addition of [**Coalition Relic**](https://api.scryfall.com/cards/Coalition Relic?format=image) drastically stabilizes mana base
+- The addition of [**Coalition Relic**](https://api.scryfall.com/cards/7a7c98b0-d64d-4d0a-b284-1187a8e7095e?format=image) drastically stabilizes mana base
 
 Deck
 - 1 Academy Ruins
