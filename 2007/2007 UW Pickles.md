@@ -9,7 +9,7 @@ Format
 - TSP / TSB
 
 Note
-- INFO
+- Grand Prix-Krakow 2007 winning deck by Paul Cheon
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
