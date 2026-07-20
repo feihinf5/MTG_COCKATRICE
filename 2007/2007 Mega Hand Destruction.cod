@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 Mega Hand Destruction</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2007 Japan National Championship winning deck by Kitayama Masaya</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Golgari Rot Farm" setShortName="RAV" collectorNumber="278" uuid="104364d5-ede8-4ac5-900f-19947f51bbc1"/>
+        <card number="4" name="Llanowar Wastes" setShortName="10E" collectorNumber="355" uuid="fa9d9e2d-6176-4593-b34a-c892a7b34695"/>
+        <card number="4" name="Overgrown Tomb" setShortName="RAV" collectorNumber="279" uuid="fce07335-cc78-4683-b2f0-9c98a06ea1d8"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="295" uuid="2755f9f7-95f9-4907-8ec9-21853eb376f4"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="296" uuid="f18dd43d-0d9e-4d61-90f9-63822cf0cb2d"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="297" uuid="fbd659b0-1f79-4e3b-bc20-8f384aa43670"/>
+        <card number="1" name="Swamp" setShortName="RAV" collectorNumber="298" uuid="0d1a1df0-e6dc-4815-bb73-9d100ee6e0b2"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="290" uuid="3fecc759-61fa-4040-9b46-710512baa4bf"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="291" uuid="b53dbcc0-169d-4b5c-b4e5-d82716c1539d"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="292" uuid="a7dc4523-075d-425e-9b53-77921d26c173"/>
+        <card number="4" name="Treetop Village" setShortName="10E" collectorNumber="361" uuid="de15f8fd-499c-4fa0-9a10-425f81c61579"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="PLC" collectorNumber="165" uuid="19e1224f-82cb-4f41-8739-f880cba61bbb"/>
+        <card number="4" name="The Rack" setShortName="TSB" collectorNumber="113" uuid="696d1e25-5c25-4522-b085-90d49fe23a18"/>
+        <card number="4" name="Terror" setShortName="10E" collectorNumber="182" uuid="3d1ccc3b-a6bd-4dc8-b7ba-99172d612106"/>
+        <card number="4" name="Call of the Herd" setShortName="TSB" collectorNumber="74" uuid="ebff1b5d-b948-48fa-9fa7-690b13ab5d71"/>
+        <card number="4" name="Cry of Contrition" setShortName="GPT" collectorNumber="46" uuid="62016f24-3f40-406b-8e29-30a6545d0fc1"/>
+        <card number="2" name="Damnation" setShortName="PLC" collectorNumber="85" uuid="26c68473-70ca-40ba-b5c6-71ec30f88a2c"/>
+        <card number="4" name="Smallpox" setShortName="TSP" collectorNumber="131" uuid="175d5a88-2597-4e85-aed6-7a65c0595fb4"/>
+        <card number="4" name="Stupor" setShortName="TSB" collectorNumber="48" uuid="fd0b4aea-1e01-4afe-8054-77c5cc7935d6"/>
+        <card number="4" name="Augur of Skulls" setShortName="FUT" collectorNumber="63" uuid="945404d5-9e44-45e7-84fd-5f8c893e7d27"/>
+        <card number="4" name="Dark Confidant" setShortName="RAV" collectorNumber="81" uuid="94f7a441-bf2d-46fb-a7b6-9bd6137f86d9"/>
+        <card number="4" name="Tarmogoyf" setShortName="FUT" collectorNumber="153" uuid="b6876d9e-0908-43ac-8542-09c7aa02b5ba"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Riftsweeper" setShortName="FUT" collectorNumber="136" uuid="847dbbbc-e069-4a90-bc47-c28418bb8540"/>
+        <card number="3" name="Tombstalker" setShortName="FUT" collectorNumber="91" uuid="8bd55a11-8658-4b92-9151-d6173a11991a"/>
+        <card number="2" name="Putrefy" setShortName="RAV" collectorNumber="221" uuid="0a16086c-5a74-45d0-8b38-e832cfbc80f7"/>
+        <card number="3" name="Darkblast" setShortName="RAV" collectorNumber="82" uuid="0dcaba91-06d3-4492-9e07-36a1b858ca47"/>
+        <card number="4" name="Extirpate" setShortName="PLC" collectorNumber="71" uuid="2608b5fc-3b58-4b02-aef1-35d885b16b01"/>
+        <card number="1" name="Damnation" setShortName="PLC" collectorNumber="85" uuid="26c68473-70ca-40ba-b5c6-71ec30f88a2c"/>
+    </zone>
+</cockatrice_deck>
