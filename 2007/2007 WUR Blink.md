@@ -1,5 +1,5 @@
 Reference 
-- https://www.mtgtop8.com/event?e=54094&d=601680&f=ST
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_Canadian_National_Championship_winning_deck_by_Andrew_Ting-A-Kee.png
 
 Format
 - FUT
