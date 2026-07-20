@@ -12,7 +12,11 @@ Format
 - RAV
 
 Note
-- 2007 Argentina National Championship winning deck by Nicolas Kohan 
+- 2007 Argentina National Championship winning deck by Nicolas Kohan
+- Cast [**Smallpox**] and you can discard [**Cry of Contrition**], which has Haunt and when the creature it haunts dies (perhaps to the same Smallpox or an combat trade), the opponent discards another card
+- Deploy [**Dark Confidant**] to keep your hand fully loaded with removal and discard spells, and [**Tarmogoyf**] will rapidly grow into a massive 2-mana 4/5 or 5/6
+- Use [**Putrefy**] to cleanly destroy any problematic creatures or artifacts that slipped through your discard net and [**Slaughter Pact**] as a 0-mana emergency button to kill a threat while you are fully tapped out.
+- Activate [**Treetop Village**] to close out the remaining points of life
 
 Deck
 - 4 Dark Confidant
