@@ -2,7 +2,7 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_World_Championships_winning_deck_by_Uri_Peleg.png
 
 Format
-- CLR
+- LRW
 - 10E
 - FUT
 - PLC
