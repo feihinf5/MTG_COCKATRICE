@@ -1,5 +1,5 @@
 Reference 
-- https://mtgtop8.com/event?e=56&d=106455&f=ST
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_Grand_Prix_Krakow_winning_deck_by_Paul_Cheon.png
 
 Format
 - LRW
