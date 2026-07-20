@@ -1,4 +1,5 @@
 ## 2007
+- https://web.archive.org/web/20160820035009/http://magic.wizards.com/en/articles/archive/event-coverage/top-8-decklists-2007-10-14
 - https://web.archive.org/web/20080503210517/http://www.wizards.com/default.asp?x=mtgevent/gpfir07/welcome
 - https://web.archive.org/web/20080411182847/http://www.wizards.com/default.asp?x=mtgevent/canat07/welcome
 - https://web.archive.org/web/20151205230049/http://magic.wizards.com/en/events/coverage/natja08
