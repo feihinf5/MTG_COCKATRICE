@@ -10,6 +10,9 @@ Format
 
 Note
 - Grand Prix-Krakow 2007 winning deck by Paul Cheon
+- Features the devastating hard-lock combo utilizing [**Vesuvan Shapeshifter**] and [**Brine Elemental**]
+- Incorporates [**Ancestral Vision**] as a powerful draw engine that provides massive card advantage
+- Adopts [**Cryptic Command**] as a highly flexible, versatile modal counterspell that answers almost any situation
 
 Deck
 - 4 Adarkar Wastes
