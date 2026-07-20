@@ -1,4 +1,6 @@
 ## 2007
+- https://web.archive.org/web/20140716114021/http://archive.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/worlds07/legundefeated
+https://web.archive.org/web/20140716113942/http://archive.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/worlds07/top8deck
 - https://web.archive.org/web/20130522054633/http://wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpkra07/top8decks
 - https://web.archive.org/web/20160820035009/http://magic.wizards.com/en/articles/archive/event-coverage/top-8-decklists-2007-10-14
 - https://web.archive.org/web/20080503210517/http://www.wizards.com/default.asp?x=mtgevent/gpfir07/welcome
