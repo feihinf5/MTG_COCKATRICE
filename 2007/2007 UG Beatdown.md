@@ -8,6 +8,9 @@ Format
 
 Note
 - Grand Prix-Florence 2007 winning deck by Kaneko Masami
+- Deploys highly efficient creatures like [**Tarmogoyf**] and [**Riftwing Cloudskate**] to generate massive tempo advantage, beating down the opponent while backing them up with counterspells like [**Delay**]
+- Utilizes [**Looter il-Kor**] to rapidly feed the graveyard and grow Tarmogoyf, giving the deck exceptionally high consistency
+- Seamlessly pivots against control decks post-board by bringing in the "Pickles" combo, [**Brine Elemental**] + [**Vesuvan Shapeshifter**]
 
 Deck
 - 2 Forest
