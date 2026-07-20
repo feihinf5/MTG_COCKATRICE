@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_Grand_Prix_Florence_winning_deck_by_Kaneko_Masami.png
 
 Format
 - CARD_SET
