@@ -1,4 +1,5 @@
 ## 2007
+- https://web.archive.org/web/20080316191239/http://www.wizards.com/default.asp?x=mtgevent/gernat07/welcome
 - https://web.archive.org/web/20080328063519/http://www.wizards.com/default.asp?x=mtgevent/gpsf07/welcome
 - https://web.archive.org/web/20080218083329/http://www.themagictutor.com/nacional2007/mazostop8.htm
 - https://web.archive.org/web/20210503015944/https://magic.wizards.com/en/articles/archive/event-coverage/decklists-top-8-decks-2007-07-28
