@@ -13,6 +13,11 @@ Format
 
 Note
 - 2007 German National Championship winning deck by Bodo Rosner
+- Use [**Wrath of God**] to reset the board
+- [**Lightning Angel**] to chunks away at the opponent's life total while remaining untapped to block any incoming attackers
+- Cast [**Compulsive Research**] to draw three cards, discarding excess lands or a [**Firemane Angel**] and cast it from graveyard when mana is available
+- Suspend [**Aeon Chronicler**] and could act as finisher
+- [**Demonfire**] could act as uncounterable finisher
 
 Deck
 - 1 Adarkar Wastes
