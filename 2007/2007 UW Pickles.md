@@ -2,7 +2,11 @@ Reference
 - https://mtgtop8.com/event?e=56&d=106455&f=ST
 
 Format
-- CARD_SET
+- LRW
+- 10E
+- FUT
+- PLC
+- TSP / TSB
 
 Note
 - INFO
