@@ -12,7 +12,13 @@ Format
 - RAV
 
 Note
-- 2007 United States National Championship winning deck by Luis Scott-Vargas 
+- 2007 United States National Championship winning deck by Luis Scott-Vargas
+- [**Chord of Calling**] can search up the exact creature directly onto the battlefield, e.g. fetch [**Mystic Snake**] to counter a crucial spell or fetch [**Venser, Shaper Savant**] or [**Willbender**] to disrupt an opponent's targeting or permanent
+- "Pickles" lock which completely prevents opponent from untapping their cards for the rest of the game, [**Brine Elemental**] and [**Vesuvan Shapeshifter**] on the battlefield
+- Turn [**Vesuvan Shapeshifter**] face-down during upkeep for its morph cost
+- Flip [**Vesuvan Shapeshifter**] face-up for its cheap Morph cost, choosing to copy the [**Brine Elemental**] and this triggers the copied face-up ability: "Opponents skip their next untap step."
+- Repeat this every single turn and opponent will never get an untap step again, locking down their lands and blockers permanently
+- Alternatively can overwhelm the opponent with the card draw from [**Arcanis the Omnipotent**], the stat-boosting/reducing static ability of [**Crovax, Ascendant Hero**] or beats from [**Loxodon Hierarch**]
 
 Deck
 - 1 Arcanis the Omnipotent
