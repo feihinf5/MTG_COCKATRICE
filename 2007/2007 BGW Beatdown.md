@@ -2,7 +2,12 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_World_Championships_winning_deck_by_Uri_Peleg.png
 
 Format
-- CARD_SET
+- CLR
+- 10E
+- FUT
+- PLC
+- TSP / TSB
+- CSP
 
 Note
 - World Championships 2007 winning deck by Uri Peleg
