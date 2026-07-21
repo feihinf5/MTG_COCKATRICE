@@ -6,6 +6,9 @@ Format
 
 Note
 - World Championships 2007 undefeated Legacy format deck by Stuart Wright
+- Discard high-impact artifact creatures (like [**Sundering Titan**] or [**Platinum Angel**]) using [**Survival of the Fittest**] then reanimate them with [**Goblin Welder**]
+- [**Squee, Goblin Nabob**] for infinite discard/tutor value
+- Survival of the Fittest was banned in Legacy format 
 
 Deck
 - 2 Bayou
