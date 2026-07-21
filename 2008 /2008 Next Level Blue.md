@@ -14,6 +14,12 @@ Format
 
 Note
 - Grand Prix-Vancouver 2008 winning deck by Paul Cheon
+- [**Tarmogoyf**] provides an incredible, cheap combat body (often an early 4/5 or 5/6) for just 2 mana
+- [**Vedalken Shackles**] & [**Threads of Disloyalty**] to steal the opponent's creatures, since the land base heavily favors [**Snow-Covered Islands**], [**Vedalken Shackles**] repeatedly steals high-value threats, while [**Threads of Disloyalty**] permanently steals 1- and 2-mana creatures
+- [**Rude Awakening**] primary finisher in late-game stalled boards with Entwine, it untaps all lands and turns them into 2/2 creatures with haste for an instant, un-blockable lethal swing
+- [**Sensei’s Divining Top**] + Fetch Lands to provides continuous hand filtering, combined with 8 fetch lands, you can look at 3 cards, shuffle away unwanted cards with a fetch land and draw what you need
+- [**Miren, the Moaning Well**] allows you to sacrifice stolen creatures (via [**Vedalken Shackles**] or [**Threads of Disloyalty**]) to gain life, preventing the opponent from ever getting them back
+- [**Academy Ruins**] loops destroyed artifacts back to the top of your library
 
 Deck
 - 4 Tarmogoyf
