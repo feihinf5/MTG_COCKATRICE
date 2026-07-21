@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2008_Grand_Prix_Denver_winning_deck_by_Gerry_Thompson.png
 
 Format
 - CARD_SET
