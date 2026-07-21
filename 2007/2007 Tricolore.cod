@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 Tricolore</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2007 German National Championship winning deck by Bodo Rosner</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Sacred Mesa" setShortName="TSB" collectorNumber="13" uuid="c76e4cc6-6e69-4787-9425-7a35e06c0b69"/>
+        <card number="2" name="Spell Snare" setShortName="DIS" collectorNumber="33" uuid="35554fdf-c70a-4baa-a35a-414caa9978be"/>
+        <card number="4" name="Wrath of God" setShortName="10E" collectorNumber="61" uuid="b969f680-b176-4bfa-a160-714de8e03c25"/>
+        <card number="4" name="Lightning Helix" setShortName="RAV" collectorNumber="213" uuid="1b2ecf55-c1cc-4b28-b7ce-e1b25305155e"/>
+        <card number="4" name="Compulsive Research" setShortName="RAV" collectorNumber="40" uuid="20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4"/>
+        <card number="2" name="Demonfire" setShortName="DIS" collectorNumber="60" uuid="af2ad333-722e-4d7e-972a-903c24068931"/>
+        <card number="4" name="Azorius Signet" setShortName="DIS" collectorNumber="159" uuid="d91a527d-51f1-4fb1-9016-fc923fd43a6a"/>
+        <card number="2" name="Boros Signet" setShortName="RAV" collectorNumber="255" uuid="1bae1f86-4639-4424-b47b-fdc826bf6e97"/>
+        <card number="3" name="Aeon Chronicler" setShortName="PLC" collectorNumber="32" uuid="2fbc2dd2-976b-4239-bef9-ea0f06be79ba"/>
+        <card number="4" name="Court Hussar" setShortName="DIS" collectorNumber="22" uuid="4970f492-d4fc-4833-a083-05e422a3c456"/>
+        <card number="2" name="Firemane Angel" setShortName="RAV" collectorNumber="205" uuid="493730ab-c30d-4830-a188-0462426fc5bf"/>
+        <card number="4" name="Lightning Angel" setShortName="TSB" collectorNumber="94" uuid="322d5ba3-41cc-4e60-9d0a-074f48a71ea3"/>
+        <card number="1" name="Adarkar Wastes" setShortName="10E" collectorNumber="347" uuid="f31cf014-7ac9-428b-9ce9-8ba5ebfdd252"/>
+        <card number="1" name="Azorius Chancery" setShortName="DIS" collectorNumber="170" uuid="e58365d2-e4db-444b-b1a9-795668ad3038"/>
+        <card number="1" name="Battlefield Forge" setShortName="10E" collectorNumber="348" uuid="e0df1e5f-8cef-4e13-babf-4254a85ac46b"/>
+        <card number="3" name="Flagstones of Trokair" setShortName="TSP" collectorNumber="272" uuid="ad23cd0e-6871-4ba6-b5bf-cfd14f8f71b2"/>
+        <card number="2" name="Hallowed Fountain" setShortName="DIS" collectorNumber="174" uuid="c28aea19-2a39-4934-afda-909e234fa3ba"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="291" uuid="db6c8056-f155-434c-a4cb-a532a4707245"/>
+        <card number="1" name="Island" setShortName="RAV" collectorNumber="292" uuid="1d603978-3877-454e-8910-53a4cc95431d"/>
+        <card number="1" name="Izzet Boilerworks" setShortName="GPT" collectorNumber="159" uuid="666f455e-3a3d-475d-b67a-a1fdd74820eb"/>
+        <card number="1" name="Nimbus Maze" setShortName="FUT" collectorNumber="178" uuid="80d1f953-9403-4e0a-b8e1-3f7d928a2834"/>
+        <card number="1" name="Plains" setShortName="RAV" collectorNumber="287" uuid="3d8d3cd4-0f5f-4424-82ee-d8ba81da47fd"/>
+        <card number="4" name="Sacred Foundry" setShortName="RAV" collectorNumber="280" uuid="168ef687-5797-4b45-b75b-393d8117cebd"/>
+        <card number="2" name="Shivan Reef" setShortName="10E" collectorNumber="357" uuid="d62ea973-7799-4179-9d36-60e2287feae7"/>
+        <card number="4" name="Steam Vents" setShortName="GPT" collectorNumber="164" uuid="054f2276-2dd5-43da-bb26-c57c560861fe"/>
+        <card number="1" name="Urza's Factory" setShortName="TSP" collectorNumber="280" uuid="b22d97f3-08cf-4c19-bbe2-5a36096187cd"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Return to Dust" setShortName="TSP" collectorNumber="39" uuid="48185c8f-ac41-46e2-85b1-760abac914ac"/>
+        <card number="1" name="Sacred Mesa" setShortName="TSB" collectorNumber="13" uuid="c76e4cc6-6e69-4787-9425-7a35e06c0b69"/>
+        <card number="3" name="Faith's Fetters" setShortName="RAV" collectorNumber="16" uuid="5b8ffba3-44a9-41ce-a5a1-37413346db2f"/>
+        <card number="3" name="Detritivore" setShortName="PLC" collectorNumber="96" uuid="2ec01f4b-b3df-4e2b-ae93-2f2d0cc279bd"/>
+        <card number="4" name="Dodecapod" setShortName="TSB" collectorNumber="108" uuid="c562b66f-d661-4535-b9da-e1c35a650324"/>
+        <card number="2" name="Boom // Bust" setShortName="PLC" collectorNumber="112" uuid="7ce986a4-5f82-4e7e-bef5-b49f05bf96a6"/>
+    </zone>
+</cockatrice_deck>
