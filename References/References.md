@@ -1,4 +1,5 @@
 ## 2008
+- https://web.archive.org/web/20120417215658/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/features/472adecklists
 - https://web.archive.org/web/20140622165625/http://archive.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpden08/welcome#12
 - https://web.archive.org/web/20090218001418/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat08/vintage2 
 - https://web.archive.org/web/20080827110045/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/itnat08/top8decklists
