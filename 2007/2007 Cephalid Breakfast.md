@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2007_World_Championships_undefeated_Legacy_deck_by_Komuro_Shuu.png
 
 Format
 - CARD_SET
