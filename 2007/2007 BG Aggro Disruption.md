@@ -6,6 +6,10 @@ Format
 
 Note
 - World Championships 2007 undefeated Legacy format deck by Jia Wu
+- 12 Disruption Spells (4 [**Duress**], 4 [**Thoughtseize**], 4 [**Hymn to Tourach**]) to strip away key combo pieces, sweepers, or single removal spells from the opponent's hand before they can cast them
+- Aggressive beaters like [**Carnophage**], [**Sarcomancy**] and [**Tarmogoyf**]
+- [**Nantuko Shade**] late-game finisher that converts excess lands/mana into massive power boosts during combat
+- [**Umezawa's Jitte**] to wipes small opposing blockers or deals direct damage to finish games or gains life to offset the damage taken
 
 Deck
 - 4 Bayou
