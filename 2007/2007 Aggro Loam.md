@@ -6,16 +6,15 @@ Format
 
 Note
 - World Championships 2007 undefeated Legacy format deck by Marijn Lybaert
-- Cast [**Life from the Loam**] to bring back cycling lands, cycle a land, replace the draw by Dredging 3, this fills your graveyard while giving you near-infinite card draw and land drops
-- [**Mox Diamond**] turns extra lands dredged or drawn into fast, multi-colored mana, letting you out-speed opponents
-- [**Dark Confidant**] draws extra cards every turn and because the deck's average Mana Value is very low, life loss is minimal
-- [**Terravore**] scales off all lands in ALL graveyards, quickly becomes a 2-mana 8/8 or 10/10 Trampler
-- [**Tarmogoyf**] hits the board early and grows rapidly as you mill diverse card types (Land, Creature, Instant, Sorcery, Artifact, Enchantment) into your graveyard
-- [**Wild Mongrel**] a pitch outlet to discard [**Life from the Loam**] or excess lands on demand, growing its stats and changing colors to bypass block/removal effects
-- [**Wasteland**] plus [**Life from the Loam**] creates a lock that destroys an opponent’s nonbasic land base every single turn
-- [**Barbarian Ring**] acts as repeatable removal or direct damage via Threshold + Loam
-- [**Volrath's Stronghold**] loops key creatures like [**Eternal Witness**] or [**Dark Confidant**]
-- [**Burning Wish**] gives the main deck main-phase access to game-ending sorceries in the sideboard, e.g. 4th [**Life from the Loam**]
+- Cast [**Life from the Loam**](https://api.scryfall.com/cards/7ac16d09-8bc7-407c-a757-666f4707bc90?format=image) to bring back cycling lands, cycle a land, replace the draw by Dredging 3, this fills your graveyard while giving you near-infinite card draw and land drops
+- [**Mox Diamond**](https://api.scryfall.com/cards/28028830-83ed-45e2-b495-3b9ad9d3e988?format=image) turns extra lands dredged or drawn into fast, multi-colored mana, letting you out-speed opponents
+- [**Dark Confidant**](https://api.scryfall.com/cards/94f7a441-bf2d-46fb-a7b6-9bd6137f86d9?format=image) draws extra cards every turn and because the deck's average Mana Value is very low, life loss is minimal
+- [**Terravore**](https://api.scryfall.com/cards/c39c412b-2f21-483a-b744-5d55bc007c0d?format=image) scales off all lands in ALL graveyards, quickly becomes a 2-mana 8/8 or 10/10 Trampler
+- [**Tarmogoyf**](https://api.scryfall.com/cards/b6876d9e-0908-43ac-8542-09c7aa02b5ba?format=image) hits the board early and grows rapidly as you mill diverse card types (Land, Creature, Instant, Sorcery, Artifact, Enchantment) into your graveyard
+- [**Wasteland**](https://api.scryfall.com/cards/99ff731b-8399-40c8-b539-ba6ba5783771?format=image) plus [**Life from the Loam**](https://api.scryfall.com/cards/7ac16d09-8bc7-407c-a757-666f4707bc90?format=image) creates a lock that destroys an opponent’s nonbasic land base every single turn
+- [**Barbarian Ring**](https://api.scryfall.com/cards/1809361e-ae1a-4c47-8464-e6496e94d962?format=image) acts as repeatable removal or direct damage via Threshold + [**Life from the Loam**](https://api.scryfall.com/cards/7ac16d09-8bc7-407c-a757-666f4707bc90?format=image)
+- [**Volrath's Stronghold**](https://api.scryfall.com/cards/43bf015b-152e-4d67-b773-e75fb2487a32?format=image) loops key creatures like [**Eternal Witness**](https://api.scryfall.com/cards/c7e10ca7-1e5d-4224-82cf-798a4d436d72?format=image) or [**Dark Confidant**](https://api.scryfall.com/cards/94f7a441-bf2d-46fb-a7b6-9bd6137f86d9?format=image)
+- [**Burning Wish**](https://api.scryfall.com/cards/1c9b692a-e832-4612-a6ec-93b52f6a0410?format=image) gives the main deck main-phase access to game-ending sorceries in the sideboard, e.g. 4th [**Life from the Loam**](https://api.scryfall.com/cards/7ac16d09-8bc7-407c-a757-666f4707bc90?format=image)
   
 Deck
 - 1 Badlands
