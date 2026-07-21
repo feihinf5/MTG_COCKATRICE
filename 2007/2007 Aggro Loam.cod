@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 Aggro Loam</deckname>
+    <format>legacy</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2007 undefeated Legacy format deck by Marijn Lybaert</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Pernicious Deed" setShortName="APC" collectorNumber="114" uuid="ae4cbb33-4947-49f0-b612-a92141fbfaa6"/>
+        <card number="4" name="Mox Diamond" setShortName="STH" collectorNumber="138" uuid="28028830-83ed-45e2-b495-3b9ad9d3e988"/>
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="4" name="Burning Wish" setShortName="JUD" collectorNumber="83" uuid="1c9b692a-e832-4612-a6ec-93b52f6a0410"/>
+        <card number="3" name="Life from the Loam" setShortName="RAV" collectorNumber="172" uuid="7ac16d09-8bc7-407c-a757-666f4707bc90"/>
+        <card number="4" name="Dark Confidant" setShortName="RAV" collectorNumber="81" uuid="94f7a441-bf2d-46fb-a7b6-9bd6137f86d9"/>
+        <card number="2" name="Eternal Witness" setShortName="5DN" collectorNumber="86" uuid="c7e10ca7-1e5d-4224-82cf-798a4d436d72"/>
+        <card number="4" name="Tarmogoyf" setShortName="FUT" collectorNumber="153" uuid="b6876d9e-0908-43ac-8542-09c7aa02b5ba"/>
+        <card number="4" name="Terravore" setShortName="ODY" collectorNumber="278" uuid="c39c412b-2f21-483a-b744-5d55bc007c0d"/>
+        <card number="3" name="Wild Mongrel" setShortName="ODY" collectorNumber="283" uuid="5bb8dd5c-a79a-4afc-80b2-64645bb17a34"/>
+        <card number="1" name="Badlands" setShortName="LEA" collectorNumber="277" uuid="717f6d10-9144-4ade-9ac6-a481cc66b875"/>
+        <card number="1" name="Barbarian Ring" setShortName="ODY" collectorNumber="313" uuid="1809361e-ae1a-4c47-8464-e6496e94d962"/>
+        <card number="1" name="Bayou" setShortName="LEA" collectorNumber="278" uuid="412ceddd-2b9a-4551-a6bf-ae2830a2010a"/>
+        <card number="1" name="Bayou" setShortName="LEB" collectorNumber="279" uuid="17db2b6a-eaa8-4a08-9e86-370bbd058574"/>
+        <card number="1" name="Bayou" setShortName="2ED" collectorNumber="279" uuid="d66e43f0-1558-409f-8248-cc1d76c6bd8e"/>
+        <card number="2" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="1" name="Forest" setShortName="LEA" collectorNumber="294" uuid="6f1c8cb0-38eb-408b-94e8-16db83999b3b"/>
+        <card number="3" name="Forgotten Cave" setShortName="ONS" collectorNumber="317" uuid="c5202668-a32c-4473-b272-e86264992576"/>
+        <card number="1" name="Taiga" setShortName="LEA" collectorNumber="282" uuid="60df6592-0b3b-4b87-aeb2-8fa94b4fb7be"/>
+        <card number="1" name="Taiga" setShortName="LEB" collectorNumber="283" uuid="30ce1bf0-7561-418f-a217-3ce10f28be82"/>
+        <card number="1" name="Taiga" setShortName="2ED" collectorNumber="283" uuid="01006833-6007-4c16-9ebb-20d31c60a57a"/>
+        <card number="3" name="Tranquil Thicket" setShortName="ONS" collectorNumber="326" uuid="afcb7cef-8aeb-4c84-88e9-6df17768e292"/>
+        <card number="1" name="Volrath's Stronghold" setShortName="STH" collectorNumber="143" uuid="43bf015b-152e-4d67-b773-e75fb2487a32"/>
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+        <card number="4" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Krosan Grip" setShortName="TSP" collectorNumber="202" uuid="59b524bb-5a18-4dda-9c45-26ce9ff0f0c1"/>
+        <card number="2" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="1" name="Tormod's Crypt" setShortName="DRK" collectorNumber="112" uuid="0f9668ba-d26d-4484-b4b8-6fb91fbfb617"/>
+        <card number="1" name="Tormod's Crypt" setShortName="CHR" collectorNumber="109" uuid="55709270-74b2-4a3f-947d-29ac7c309b0f"/>
+        <card number="1" name="Tormod's Crypt" setShortName="TSB" collectorNumber="115" uuid="901c4e55-d578-4c20-95fe-26985145de57"/>
+        <card number="3" name="Engineered Explosives" setShortName="5DN" collectorNumber="118" uuid="8492a272-e595-4f94-a6eb-08d29f211fd6"/>
+        <card number="1" name="Reverent Silence" setShortName="NEM" collectorNumber="111" uuid="b82d3432-2167-4a65-8221-cb7b338e60d0"/>
+        <card number="1" name="Shattering Spree" setShortName="GPT" collectorNumber="75" uuid="d6dcff21-5900-43c4-a38b-cdc19c704ce4"/>
+        <card number="1" name="Life from the Loam" setShortName="RAV" collectorNumber="172" uuid="7ac16d09-8bc7-407c-a757-666f4707bc90"/>
+        <card number="1" name="Deathmark" setShortName="CSP" collectorNumber="54" uuid="e72e8728-d0a0-4ee5-87c3-092ca94225e0"/>
+        <card number="1" name="Devastating Dreams" setShortName="TOR" collectorNumber="95" uuid="9fffeed0-a5ea-47ac-a7a4-0cc3bb1d408a"/>
+    </zone>
+</cockatrice_deck>
