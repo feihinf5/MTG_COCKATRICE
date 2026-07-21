@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 Reanimate</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>The Finals07 winning deck by Fujita Osamu</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Dread Return" setShortName="TSP" collectorNumber="104" uuid="d7e304fc-0ace-459e-8d2f-376f1899639c"/>
+        <card number="4" name="Makeshift Mannequin" setShortName="LRW" collectorNumber="124" uuid="79029161-a2c9-4cf6-94c0-31400daa0e8e"/>
+        <card number="4" name="Akroma, Angel of Wrath" setShortName="TSB" collectorNumber="1" uuid="96c9646b-9223-4d4f-a7d0-fc6208cac8b8"/>
+        <card number="4" name="Bogardan Hellkite" setShortName="TSP" collectorNumber="147" uuid="5852f528-92aa-45cf-8436-5774691676d3"/>
+        <card number="4" name="Bonded Fetch" setShortName="FUT" collectorNumber="50" uuid="76ced470-97c3-4683-b97f-9ebb8c3fbd11"/>
+        <card number="4" name="Merfolk Looter" setShortName="10E" collectorNumber="92" uuid="28e4e99d-5834-4f6c-b915-4f95edc1337f"/>
+        <card number="3" name="Mulldrifter" setShortName="LRW" collectorNumber="76" uuid="a97cfefa-ade7-49f6-b2aa-1118b9db4935"/>
+        <card number="4" name="Oona's Prowler" setShortName="LRW" collectorNumber="133" uuid="9675b8ea-47f9-440e-9535-de879da53f76"/>
+        <card number="2" name="Shriekmaw" setShortName="LRW" collectorNumber="139" uuid="ea19eb5e-0d70-42e6-bda2-b13757e08ca6"/>
+        <card number="4" name="Vexing Sphinx" setShortName="CSP" collectorNumber="50" uuid="81cc1248-85c8-428f-ba08-96d188167eaa"/>
+        <card number="2" name="Faerie Conclave" setShortName="10E" collectorNumber="351" uuid="69df4707-09c5-48e7-9681-0cf7960aeeb1"/>
+        <card number="1" name="Island" setShortName="TSP" collectorNumber="289" uuid="ac1a989a-38d4-4225-a41f-37d54f2f42ae"/>
+        <card number="1" name="Island" setShortName="TSP" collectorNumber="288" uuid="89f8c7cf-6705-4ff7-8aa8-113c1400ffda"/>
+        <card number="1" name="Island" setShortName="TSP" collectorNumber="287" uuid="e08915c9-78ff-450b-a47f-0c9678d16bbd"/>
+        <card number="4" name="River of Tears" setShortName="FUT" collectorNumber="179" uuid="8d5b2058-99fc-4d9b-9e3d-056fa3fd1244"/>
+        <card number="3" name="Secluded Glen" setShortName="LRW" collectorNumber="271" uuid="9e4afa65-7933-4a64-b50f-a9a9f832b112"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="293" uuid="dd634a88-c114-469a-8133-59cfc9bf3215"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="292" uuid="a7dc4523-075d-425e-9b53-77921d26c173"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="290" uuid="3fecc759-61fa-4040-9b46-710512baa4bf"/>
+        <card number="1" name="Swamp" setShortName="10E" collectorNumber="375" uuid="0eed3360-1634-4e60-b24d-4128c4896994"/>
+        <card number="1" name="Swamp" setShortName="10E" collectorNumber="374" uuid="9eaedaf2-a9a3-44c6-84c1-4cc2da1da459"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="291" uuid="b53dbcc0-169d-4b5c-b4e5-d82716c1539d"/>
+        <card number="4" name="Underground River" setShortName="10E" collectorNumber="362" uuid="8c298bf7-2514-43d4-a285-1386d6ba0835"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth" setShortName="PLC" collectorNumber="165" uuid="19e1224f-82cb-4f41-8739-f880cba61bbb"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Liliana Vess" setShortName="LRW" collectorNumber="121" uuid="1662fcb1-f142-43ff-b682-6827dea2ff7e"/>
+        <card number="3" name="Damnation" setShortName="PLC" collectorNumber="85" uuid="26c68473-70ca-40ba-b5c6-71ec30f88a2c"/>
+        <card number="1" name="Tombstalker" setShortName="FUT" collectorNumber="91" uuid="8bd55a11-8658-4b92-9151-d6173a11991a"/>
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="3" name="Extirpate" setShortName="PLC" collectorNumber="71" uuid="2608b5fc-3b58-4b02-aef1-35d885b16b01"/>
+        <card number="2" name="Shriekmaw" setShortName="LRW" collectorNumber="139" uuid="ea19eb5e-0d70-42e6-bda2-b13757e08ca6"/>
+    </zone>
+</cockatrice_deck>
