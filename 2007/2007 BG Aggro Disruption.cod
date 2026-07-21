@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 BG Aggro Disruption</deckname>
+    <format>legacy</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2007 undefeated Legacy format deck by Jia Wu</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="4" name="Sarcomancy" setShortName="TMP" collectorNumber="154" uuid="eb5730f5-a44c-4f75-a26f-90815cfcd31e"/>
+        <card number="2" name="Duress" setShortName="USG" collectorNumber="132" uuid="ca367f49-0f4a-4b7f-8104-851893fbcd8a"/>
+        <card number="2" name="Duress" setShortName="7ED" collectorNumber="131" uuid="15c8d82e-6e65-4d36-bf09-b24dde016581"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38a" uuid="eb9273ea-9a41-42e3-8c9c-0d50b127a818"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38b" uuid="8601f082-7e43-44ef-97d0-dead272b7eb4"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38c" uuid="58e125c6-81dc-4907-aad2-2ccd1cb166f0"/>
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38d" uuid="5bc50e08-dd6f-4ea7-87f8-cce72bafb928"/>
+        <card number="1" name="Dark Ritual" setShortName="LEA" collectorNumber="98" uuid="ebb6664d-23ca-456e-9916-afcd6f26aa7f"/>
+        <card number="1" name="Dark Ritual" setShortName="LEB" collectorNumber="99" uuid="0690f724-eb95-416b-b064-f1239e2a30e8"/>
+        <card number="1" name="Dark Ritual" setShortName="2ED" collectorNumber="99" uuid="c4d24ff3-315d-44cd-8c27-d8ad6972e027"/>
+        <card number="1" name="Dark Ritual" setShortName="3ED" collectorNumber="99" uuid="48cb9467-657e-453f-afc8-1bf7121570ad"/>
+        <card number="4" name="Carnophage" setShortName="EXO" collectorNumber="53" uuid="d17c057f-cb1b-4895-831a-fb35c75d3845"/>
+        <card number="4" name="Dark Confidant" setShortName="RAV" collectorNumber="81" uuid="94f7a441-bf2d-46fb-a7b6-9bd6137f86d9"/>
+        <card number="4" name="Nantuko Shade" setShortName="TOR" collectorNumber="74" uuid="2ed9dc9c-b92b-4305-8c54-1a63f750f8d1"/>
+        <card number="4" name="Tarmogoyf" setShortName="FUT" collectorNumber="153" uuid="b6876d9e-0908-43ac-8542-09c7aa02b5ba"/>
+        <card number="1" name="Bayou" setShortName="LEA" collectorNumber="278" uuid="412ceddd-2b9a-4551-a6bf-ae2830a2010a"/>
+        <card number="1" name="Bayou" setShortName="LEB" collectorNumber="279" uuid="17db2b6a-eaa8-4a08-9e86-370bbd058574"/>
+        <card number="1" name="Bayou" setShortName="2ED" collectorNumber="279" uuid="d66e43f0-1558-409f-8248-cc1d76c6bd8e"/>
+        <card number="1" name="Bayou" setShortName="3ED" collectorNumber="283" uuid="56355ff3-2232-4a11-b868-aec9a50b9ee5"/>
+        <card number="4" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="4" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="1" name="Swamp" setShortName="LEA" collectorNumber="290" uuid="6176936d-72e2-4205-8871-4c5a4f1cb2d8"/>
+        <card number="1" name="Swamp" setShortName="LEA" collectorNumber="291" uuid="edeba4e1-9012-4962-8797-3a1f6a660952"/>
+        <card number="1" name="Swamp" setShortName="LEB" collectorNumber="294" uuid="d1309a80-a761-4b80-8cf1-1a8b83190511"/>
+        <card number="1" name="Swamp" setShortName="LEB" collectorNumber="295" uuid="25ad2444-9985-423c-ad36-387218866409"/>
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Leyline of the Void" setShortName="GPT" collectorNumber="52" uuid="37dfe8b8-b39e-4e70-9e5b-be42c93b4f70"/>
+        <card number="2" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="2" name="Pithing Needle" setShortName="10E" collectorNumber="338" uuid="79d8adbf-37b8-4d69-b25a-57ebd777b53d"/>
+        <card number="3" name="Serum Powder" setShortName="DST" collectorNumber="138" uuid="8330afd6-f43a-4955-a704-8f2b963cd0c6"/>
+        <card number="4" name="Engineered Explosives" setShortName="5DN" collectorNumber="118" uuid="8492a272-e595-4f94-a6eb-08d29f211fd6"/>
+    </zone>
+</cockatrice_deck>
