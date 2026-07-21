@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 WUR Blink</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2007 Canadian National Championship winning deck by Andrew Ting-A-Kee</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Lightning Helix" setShortName="RAV" collectorNumber="213" uuid="1b2ecf55-c1cc-4b28-b7ce-e1b25305155e"/>
+        <card number="3" name="Momentary Blink" setShortName="TSP" collectorNumber="29" uuid="032e072a-0630-472b-9106-5df554dff785"/>
+        <card number="4" name="Remand" setShortName="RAV" collectorNumber="63" uuid="581f3780-c480-48c6-b15c-1618f2feccb9"/>
+        <card number="3" name="Demonfire" setShortName="DIS" collectorNumber="60" uuid="af2ad333-722e-4d7e-972a-903c24068931"/>
+        <card number="4" name="Azorius Signet" setShortName="DIS" collectorNumber="159" uuid="d91a527d-51f1-4fb1-9016-fc923fd43a6a"/>
+        <card number="4" name="Court Hussar" setShortName="DIS" collectorNumber="22" uuid="4970f492-d4fc-4833-a083-05e422a3c456"/>
+        <card number="3" name="Grand Arbiter Augustin IV" setShortName="DIS" collectorNumber="112" uuid="a2ac328b-923f-48dd-a4f5-de389ade9125"/>
+        <card number="4" name="Lightning Angel" setShortName="TSB" collectorNumber="94" uuid="322d5ba3-41cc-4e60-9d0a-074f48a71ea3"/>
+        <card number="1" name="Numot, the Devastator" setShortName="PLC" collectorNumber="160" uuid="d1bf777a-a232-4504-afbb-13d2f79b4355"/>
+        <card number="4" name="Riftwing Cloudskate" setShortName="TSP" collectorNumber="73" uuid="78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8"/>
+        <card number="3" name="Venser, Shaper Savant" setShortName="FUT" collectorNumber="46" uuid="0e84fc99-4045-4518-b588-512a675f2933"/>
+        <card number="1" name="Battlefield Forge" setShortName="9ED" collectorNumber="318" uuid="d5064361-a8c7-4002-908a-992252641572"/>
+        <card number="1" name="Flagstones of Trokair" setShortName="TSP" collectorNumber="272" uuid="ad23cd0e-6871-4ba6-b5bf-cfd14f8f71b2"/>
+        <card number="1" name="Hallowed Fountain" setShortName="DIS" collectorNumber="174" uuid="c28aea19-2a39-4934-afda-909e234fa3ba"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="335" uuid="e0eac72f-915b-41a2-a9cf-1707b65d9ac9"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="336" uuid="9d5ab443-b415-45e5-a9f7-539a5299bf27"/>
+        <card number="1" name="Island" setShortName="9ED" collectorNumber="337" uuid="d7d7f6bf-051c-45a4-b19e-2a50bbd6398e"/>
+        <card number="3" name="Nimbus Maze" setShortName="FUT" collectorNumber="178" uuid="80d1f953-9403-4e0a-b8e1-3f7d928a2834"/>
+        <card number="1" name="Plains" setShortName="9ED" collectorNumber="331" uuid="75e639a9-6010-4453-9c25-4ab03664b9b2"/>
+        <card number="1" name="Plains" setShortName="9ED" collectorNumber="332" uuid="81c96115-3728-4f3c-9438-d53550974363"/>
+        <card number="4" name="Sacred Foundry" setShortName="RAV" collectorNumber="280" uuid="168ef687-5797-4b45-b75b-393d8117cebd"/>
+        <card number="4" name="Shivan Reef" setShortName="9ED" collectorNumber="324" uuid="eea38777-e67d-40a5-9301-d4e6d3819899"/>
+        <card number="4" name="Steam Vents" setShortName="GPT" collectorNumber="164" uuid="054f2276-2dd5-43da-bb26-c57c560861fe"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Cryoclasm" setShortName="CSP" collectorNumber="79" uuid="6a892711-a1a4-4402-957f-92077d00320d"/>
+        <card number="3" name="Condemn" setShortName="DIS" collectorNumber="8" uuid="58d4f5a0-b2d0-4a60-b1e1-bb2140abfd6d"/>
+        <card number="3" name="Dodecapod" setShortName="TSB" collectorNumber="108" uuid="c562b66f-d661-4535-b9da-e1c35a650324"/>
+        <card number="1" name="Quagnoth" setShortName="FUT" collectorNumber="150" uuid="335c3aa3-af89-44ce-955a-69e12d83175f"/>
+        <card number="3" name="Avalanche Riders" setShortName="TSB" collectorNumber="55" uuid="abb19b6b-4142-4b93-85ca-3f2d8b23b4e1"/>
+        <card number="3" name="Aven Riftwatcher" setShortName="PLC" collectorNumber="1" uuid="f6a4394a-9ce2-4876-8a04-38e3775123af"/>
+    </zone>
+</cockatrice_deck>
