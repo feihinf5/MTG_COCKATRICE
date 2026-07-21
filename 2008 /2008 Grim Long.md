@@ -6,7 +6,7 @@ Format
 
 Note
 - 2008 Vintage Championship winning deck by Paul Mastriano
-- Uses [**Grim Tutor**] to search for missing combo pieces or payoff spells on demand then chains together cheap spells to rapidly build up a high Storm count, lastely casts [**Tendrils of Agony**] as the finisher to drain the opponent for lethal damage
+- Uses [**Grim Tutor**](https://api.scryfall.com/cards/ff00e877-3588-4ba9-a1f2-86f726157017?format=image) to search for missing combo pieces or payoff spells on demand then chains together cheap spells to rapidly build up a high Storm count, lastely casts [**Tendrils of Agony**](https://api.scryfall.com/cards/0559352e-95c1-403b-bd8f-d0679717cfa2?format=image) as the finisher to drain the opponent for lethal damage
 
 Deck
 - 1 Bloodstained Mire
