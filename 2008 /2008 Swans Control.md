@@ -14,7 +14,7 @@ Format
 
 Note
 - 2008 Netherlands National Championship winning deck by Tom van Lamoen
-- Built around [**Swans of Bryn Argoll**] combined with direct damage (burn) spells
+- Built around [**Swans of Bryn Argoll**](https://api.scryfall.com/cards/0cdf78b7-3c32-422a-a73f-d198e6f06290?format=image) combined with direct damage (burn) spells
 
 Deck
 - 2 Cascade Bluffs
