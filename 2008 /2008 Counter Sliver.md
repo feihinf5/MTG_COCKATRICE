@@ -6,9 +6,9 @@ Format
 
 Note
 - 2008 Legacy Championship winning deck by Blake Patrow
-- The debut of [**Sinew Sliver**] in Planar Chaos made Sliver decks viable in Legacy
-- Pairing it with [**Muscle Sliver**] speeds up the clock while providing decent combat durability against other creature decks
-- [**Aether Vial**] is a critical card, allowing Slivers to be cheated into play regardless of color mana costs
+- The debut of [**Sinew Sliver**](https://api.scryfall.com/cards/6cd2ed50-cd9a-45d9-a59a-6279be1ab308?format=image) in Planar Chaos made Sliver decks viable in Legacy
+- Pairing it with [**Muscle Sliver**](https://api.scryfall.com/cards/602a1e1f-4195-48c0-8290-562e7e0db6d8?format=image) speeds up the clock while providing decent combat durability against other creature decks
+- [**Aether Vial**](https://api.scryfall.com/cards/741c479b-5e92-4837-9673-9bc72aa11d26?format=image) is a critical card, allowing Slivers to be cheated into play regardless of color mana costs
 
 Deck
 - 4 Flooded Strand
