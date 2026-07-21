@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2008_Australia_National_Championships_winning_deck_by_Aaron_Nicastri.png
 
 Format
 - CARD_SET
