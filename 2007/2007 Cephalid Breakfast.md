@@ -20,7 +20,7 @@ Deck
 - 4 Cephalid Illusionist
 - 3 Narcomoeba
 - 4 Nomads en-Kor
-- 1 shaman en-kor
+- 1 Shaman en-Kor
 - 1 Sutured Ghoul
 - 4 Tarmogoyf
 - 4 Aether Vial
