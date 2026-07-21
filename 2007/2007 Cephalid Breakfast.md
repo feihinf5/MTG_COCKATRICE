@@ -6,10 +6,10 @@ Format
 
 Note
 - World Championships 2007 undefeated Legacy deck by Komuro Shuu
-- Uses 0-mana target abilities (e.g., [**Nomads en-Kor**]) targeted at [**Cephalid Illusionist**] to instantly mill the entire library into the graveyard
-- Reanimates a massive [**Sutured Ghoul**] equipped with [**Dragon Breath**] from the graveyard to give it haste and attack for the win
-- Adding [**Narcomoeba**] (which revives itself for free when milled) enables casting [**Dread Return**] via its flashback cost without paying any mana
-- Uses [**Tarmogoyf**] in the graveyard as the main "food" to power up [**Sutured Ghoul**]'s power and toughness
+- Uses 0-mana target abilities (e.g., [**Nomads en-Kor**](https://api.scryfall.com/cards/b3a03c68-0ebe-488a-8e6c-7cbf7a448416?format=image)) targeted at [**Cephalid Illusionist**](https://api.scryfall.com/cards/dceb8cf5-b31a-400e-aea5-ad0c3552d697?format=image) to instantly mill the entire library into the graveyard
+- Reanimates a massive [**Sutured Ghoul**](https://api.scryfall.com/cards/f769536f-def1-40b8-863f-ba12c7cb0d87?format=image) equipped with [**Dragon Breath**](https://api.scryfall.com/cards/1832aaed-e164-4f78-9bc9-ec6c015835f5?format=image) from the graveyard to give it haste and attack for the win
+- Adding [**Narcomoeba**](https://api.scryfall.com/cards/f76b3746-2e2c-4560-a2d2-e7b5b92833b2?format=image) (which revives itself for free when milled) enables casting [**Dread Return**](https://api.scryfall.com/cards/d7e304fc-0ace-459e-8d2f-376f1899639c?format=image) via its flashback cost without paying any mana
+- Uses [**Tarmogoyf**](https://api.scryfall.com/cards/b6876d9e-0908-43ac-8542-09c7aa02b5ba?format=image) in the graveyard as the main "food" to power up [**Sutured Ghoul**](https://api.scryfall.com/cards/f769536f-def1-40b8-863f-ba12c7cb0d87?format=image)'s power and toughness
 
 Deck
 - 4 Flooded Strand
