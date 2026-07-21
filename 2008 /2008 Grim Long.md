@@ -5,7 +5,8 @@ Format
 - LEA <--> EVE
 
 Note
-- 2008 Vintage Championship winning deck by Paul Mastriano 
+- 2008 Vintage Championship winning deck by Paul Mastriano
+- Uses [**Grim Tutor**] to search for missing combo pieces or payoff spells on demand then chains together cheap spells to rapidly build up a high Storm count, lastely casts [**Tendrils of Agony**] as the finisher to drain the opponent for lethal damage
 
 Deck
 - 1 Bloodstained Mire
