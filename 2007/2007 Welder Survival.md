@@ -6,8 +6,8 @@ Format
 
 Note
 - World Championships 2007 undefeated Legacy format deck by Stuart Wright
-- Discard high-impact artifact creatures (like [**Sundering Titan**] or [**Platinum Angel**]) using [**Survival of the Fittest**] then reanimate them with [**Goblin Welder**]
-- [**Squee, Goblin Nabob**] for infinite discard/tutor value
+- Discard high-impact artifact creatures (like [**Sundering Titan**](https://api.scryfall.com/cards/3e4bd552-e629-41a4-868f-d656187317b7?format=image) or [**Platinum Angel**](https://api.scryfall.com/cards/59bb5aee-b334-4c24-875b-56751d4add02?format=image)) using [**Survival of the Fittest**](https://api.scryfall.com/cards/c060c178-3c0e-493f-b6f0-ead5b1d6f191?format=image) then reanimate them with [**Goblin Welder**](https://api.scryfall.com/cards/6171e136-1167-4329-acb2-6853d3a814e5?format=image)
+- [**Squee, Goblin Nabob**](https://api.scryfall.com/cards/4ba8325a-1203-4125-9111-94d9e2b1f14b?format=image) for infinite discard/tutor value
 - Survival of the Fittest was banned in Legacy format from January 2011 https://web.archive.org/web/20130628165635/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/122k
 
 Deck
