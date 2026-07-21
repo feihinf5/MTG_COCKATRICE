@@ -1,4 +1,5 @@
 ## 2008
+- http://www.mtghistory.info/Docs/WizardsArticles/20080808%20-%20United%20Nationals%20Roundtable.pdf
 - https://web.archive.org/web/20080722005446/http://www.wizards.com/default.asp?x=mtgevent/aunat08/welcome#12
 - https://web.archive.org/web/20080428071544/http://www.wizards.com/default.asp?x=mtgevent/gpphi08/deckstop8
 ## 2007
