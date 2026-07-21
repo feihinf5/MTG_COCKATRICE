@@ -6,6 +6,10 @@ Format
 
 Note
 - Grand Prix-Philadelphia 2008 winning deck by Gerard Fabiano
+- Hand Disruption ([**Thoughtseize**], [**Duress**], [**Cabal Therapy**], [**Gerrard's Verdict**]) and universal removal ([**Vindicate**], [**Smother**], [**Pernicious Deed**])
+- Midrange Threats & Life Gain Cushion, [**Tarmogoyf**], [**Loxodon Hierarch**] and [**Ravenous Baloth**]
+- [**Eternal Witness**] is the recursion engine to loops back key cards
+- [**Treetop Village**] dodges sorcery-speed removal
 
 Deck
 - 2 Bloodstained Mire
