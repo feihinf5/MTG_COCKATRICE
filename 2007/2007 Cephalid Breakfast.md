@@ -19,7 +19,7 @@ Deck
 - 2 Underground Sea
 - 4 Cephalid Illusionist
 - 3 Narcomoeba
-- 4 nomad en-kor
+- 4 Nomads en-Kor
 - 1 shaman en-kor
 - 1 Sutured Ghoul
 - 4 Tarmogoyf
