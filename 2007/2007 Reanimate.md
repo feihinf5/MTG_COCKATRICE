@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/The_Finals07_winning_deck_by_Fujita_Osamu.png
 
 Format
 - CARD_SET
