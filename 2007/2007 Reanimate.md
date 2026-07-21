@@ -27,4 +27,9 @@ Deck
 - 4 Dread Return
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Shriekmaw
+- 3 Extirpate
+- 3 Damnation
+- 4 Thoughtseize
+- 1 Tombstalker
+- 2 Liliana Vess
