@@ -13,6 +13,11 @@ Format
 
 Note
 - 2008 Australia National Championships winning deck by Aaron Nicastri
+- Target your own [**Swans of Bryn Argoll**] with [**Seismic Assault**] by discarding a land card, because [**Swans of Bryn Argoll**] converts damage into card draws, each discarded land draws 2 cards, exponentially growing your hand size
+- Repeat this loop to draw your entire library then throw all accumulated land cards directly at the opponent for lethal damage
+- [**Beseech the Queen**] to fetch combo pieces and hand disruption like [**Thoughtseize**] to proactively clear away opposing interaction
+- Including [**Dakmor Salvage**] allows you to Dredge instead of drawing cards during the combo, safely self-milling your library
+- [**Gaea's Blessing**] is included to trigger when milled by [**Dakmor Salvage**], shuffling your graveyard back into your library to prevent accidentally losing to self-mill (deckout)
 
 Deck
 - 4 Dakmor Salvage
