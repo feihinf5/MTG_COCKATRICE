@@ -6,6 +6,10 @@ Format
 
 Note
 - The Finals07 winning deck by Fujita Osamu
+- Rotates the hand using looters like [**Merfolk Looter**] to dump big threats ([**Akroma, Angel of Wrath**], [**Bogardan Hellkite**]) into the graveyard, reanimating them with [**Dread Return**]
+- Uses [**Makeshift Mannequin**] to recur [**Bogardan Hellkite**] for repeated damage
+- Applies early beatdown pressure using efficient discard outlets/enablers like [**Oona's Prowler**] and [**Vexing Sphinx**]
+- Uses [**Thoughtseize**] to strip opposing counterspells and graveyard hate from the opponent's hand
 
 Deck
 - 6 Swamp
