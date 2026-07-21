@@ -1,4 +1,5 @@
 ## 2008
+- https://web.archive.org/web/20090218001418/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat08/vintage2 
 - https://web.archive.org/web/20080827110045/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/itnat08/top8decklists
 - http://www.mtghistory.info/Docs/WizardsArticles/20080808%20-%20United%20Nationals%20Roundtable.pdf
 - https://web.archive.org/web/20080722005446/http://www.wizards.com/default.asp?x=mtgevent/aunat08/welcome#12
