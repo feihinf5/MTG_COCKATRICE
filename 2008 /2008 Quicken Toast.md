@@ -9,9 +9,9 @@ Format
 
 Note
 - Grand Prix-Denver 2008 winning deck by Gerry Thompson
-- Runs cards with intense color commitments like [**Cloudthresher**] and [**Cryptic Command**]
-- Relies heavily on [**Reflecting Pool**] to fix its strict, multi-color mana requirements smoothly
-- Versatile removal features cards like [**Archon of Justice**], [**Austere Command**] and [**Runed Halo**]
+- Runs cards with intense color commitments like [**Cloudthresher**](https://api.scryfall.com/cards/c759c561-829d-483d-a433-fe1213f20236?format=image) and [**Cryptic Command**](https://api.scryfall.com/cards/829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba?format=image)
+- Relies heavily on [**Reflecting Pool**](https://api.scryfall.com/cards/3d03dc37-03fb-47b2-aa25-60a85d0d94dd?format=image) to fix its strict, multi-color mana requirements smoothly
+- Versatile removal features cards like [**Archon of Justice**](https://api.scryfall.com/cards/ab707e7f-8ab5-43f1-9428-6a17c1b672fa?format=image), [**Austere Command**](https://api.scryfall.com/cards/8ee73fe8-d52b-43bb-ab91-5545192be676?format=image) and [**Runed Halo**](https://api.scryfall.com/cards/92b45f79-f23e-4eef-8cac-91780dc2a044?format=image)
 
 Deck
 - 1 Cascade Bluffs
