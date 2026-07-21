@@ -8,7 +8,10 @@ Format
 - LRW
 
 Note
-- Grand Prix-Denver 2008 winning deck by Gerry Thompson 
+- Grand Prix-Denver 2008 winning deck by Gerry Thompson
+- Runs cards with intense color commitments like [**Cloudthresher**] and [**Cryptic Command**]
+- Relies heavily on [**Reflecting Pool**] to fix its strict, multi-color mana requirements smoothly
+- Versatile removal features cards like [**Archon of Justice**], [**Austere Command**] and [**Runed Halo**]
 
 Deck
 - 1 Cascade Bluffs
