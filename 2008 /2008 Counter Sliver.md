@@ -5,7 +5,10 @@ Format
 - LEA <--> EVE
 
 Note
-- 2008 Legacy Championship winning deck by Blake Patrow 
+- 2008 Legacy Championship winning deck by Blake Patrow
+- The debut of [**Sinew Sliver**] in Planar Chaos made Sliver decks viable in Legacy
+- Pairing it with [**Muscle Sliver**] speeds up the clock while providing decent combat durability against other creature decks
+- [**Aether Vial**] is a critical card, allowing Slivers to be cheated into play regardless of color mana costs
 
 Deck
 - 4 Flooded Strand
