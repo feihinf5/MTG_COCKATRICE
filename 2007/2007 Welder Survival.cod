@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 Welder Survival</deckname>
+    <format>legacy</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2007 undefeated Legacy format deck by Stuart Wright</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Survival of the Fittest" setShortName="EXO" collectorNumber="129" uuid="c060c178-3c0e-493f-b6f0-ead5b1d6f191"/>
+        <card number="2" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="2" name="Mox Diamond" setShortName="STH" collectorNumber="138" uuid="28028830-83ed-45e2-b495-3b9ad9d3e988"/>
+        <card number="3" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="1" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="4" name="Intuition" setShortName="TMP" collectorNumber="70" uuid="c99f6785-e5a1-4fdc-9fb5-e1a372e7e848"/>
+        <card number="1" name="Brainstorm" setShortName="ICE" collectorNumber="61" uuid="8d42d7aa-7f53-4cfc-842a-086aab2448d1"/>
+        <card number="1" name="Brainstorm" setShortName="5ED" collectorNumber="76" uuid="1d6603e3-0680-4ba3-951b-cd9919eefd4f"/>
+        <card number="1" name="Anger" setShortName="JUD" collectorNumber="77" uuid="fa2920af-e6a1-4939-ab59-67af4430e5b8"/>
+        <card number="1" name="Birds of Paradise" setShortName="LEA" collectorNumber="186" uuid="55fe6449-1f23-43dc-adee-d144cd505b5c"/>
+        <card number="1" name="Birds of Paradise" setShortName="LEB" collectorNumber="187" uuid="852d7a68-8682-4073-a44b-f10f5613879c"/>
+        <card number="1" name="Birds of Paradise" setShortName="2ED" collectorNumber="187" uuid="4e50454c-3927-4e7e-b4f6-7f5d5fd9b913"/>
+        <card number="1" name="Birds of Paradise" setShortName="3ED" collectorNumber="187" uuid="01e7b0bc-1c6c-48f4-8b72-1a809f536c6c"/>
+        <card number="4" name="Goblin Welder" setShortName="ULG" collectorNumber="80" uuid="6171e136-1167-4329-acb2-6853d3a814e5"/>
+        <card number="1" name="Harmonic Sliver" setShortName="TSP" collectorNumber="240" uuid="f7904997-a857-44f0-91d8-b78651bb4e83"/>
+        <card number="3" name="Mesmeric Fiend" setShortName="TOR" collectorNumber="69" uuid="b6edd4ea-c587-4d93-a675-4cdec3e0b1ca"/>
+        <card number="1" name="Platinum Angel" setShortName="MRD" collectorNumber="228" uuid="59bb5aee-b334-4c24-875b-56751d4add02"/>
+        <card number="2" name="Shield Sphere" setShortName="ALL" collectorNumber="129" uuid="1730d219-a28f-4930-8088-4cfcb627f157"/>
+        <card number="1" name="Squee, Goblin Nabob" setShortName="MMQ" collectorNumber="214" uuid="4ba8325a-1203-4125-9111-94d9e2b1f14b"/>
+        <card number="2" name="Sundering Titan" setShortName="DST" collectorNumber="146" uuid="3e4bd552-e629-41a4-868f-d656187317b7"/>
+        <card number="1" name="Triskelion" setShortName="ATQ" collectorNumber="73" uuid="a79c99e1-722a-44b6-8fa3-2be3f0c193d8"/>
+        <card number="1" name="Bayou" setShortName="LEA" collectorNumber="278" uuid="412ceddd-2b9a-4551-a6bf-ae2830a2010a"/>
+        <card number="1" name="Bayou" setShortName="LEB" collectorNumber="279" uuid="17db2b6a-eaa8-4a08-9e86-370bbd058574"/>
+        <card number="1" name="Forest" setShortName="LEA" collectorNumber="294" uuid="6f1c8cb0-38eb-408b-94e8-16db83999b3b"/>
+        <card number="1" name="Forest" setShortName="LEA" collectorNumber="295" uuid="f20c89d9-71c9-45f5-a9cb-6e253b0a7cca"/>
+        <card number="2" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="1" name="Savannah" setShortName="LEA" collectorNumber="280" uuid="94f7e24c-2546-41b6-81ad-5e920b07e64e"/>
+        <card number="1" name="Taiga" setShortName="LEA" collectorNumber="282" uuid="60df6592-0b3b-4b87-aeb2-8fa94b4fb7be"/>
+        <card number="1" name="Taiga" setShortName="LEB" collectorNumber="283" uuid="30ce1bf0-7561-418f-a217-3ce10f28be82"/>
+        <card number="1" name="Taiga" setShortName="2ED" collectorNumber="283" uuid="01006833-6007-4c16-9ebb-20d31c60a57a"/>
+        <card number="1" name="Taiga" setShortName="3ED" collectorNumber="287" uuid="54c5c65a-a444-4e0f-ae44-a3722cdd32a1"/>
+        <card number="1" name="Tree of Tales" setShortName="MRD" collectorNumber="285" uuid="94db07aa-43d3-41b5-924e-60f1756b9c69"/>
+        <card number="1" name="Tropical Island" setShortName="LEA" collectorNumber="283" uuid="a9c6c759-aabf-44e7-ba8c-33c5df232b56"/>
+        <card number="1" name="Tropical Island" setShortName="LEB" collectorNumber="284" uuid="ac19c5a1-ca13-4443-920b-83b567167ed4"/>
+        <card number="4" name="Windswept Heath" setShortName="ONS" collectorNumber="328" uuid="7a7c5941-9c8a-4a40-9efb-a84f05c58e53"/>
+        <card number="4" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Tormod's Crypt" setShortName="DRK" collectorNumber="112" uuid="0f9668ba-d26d-4484-b4b8-6fb91fbfb617"/>
+        <card number="1" name="Tormod's Crypt" setShortName="CHR" collectorNumber="109" uuid="55709270-74b2-4a3f-947d-29ac7c309b0f"/>
+        <card number="1" name="Tormod's Crypt" setShortName="TSB" collectorNumber="115" uuid="901c4e55-d578-4c20-95fe-26985145de57"/>
+        <card number="1" name="Genesis" setShortName="JUD" collectorNumber="117" uuid="b43aee5e-b12e-43ea-9fae-16310acdc640"/>
+        <card number="1" name="Wispmare" setShortName="LRW" collectorNumber="48" uuid="56389c91-a470-4c43-9368-98df4d38f7fd"/>
+        <card number="1" name="Pyroclasm" setShortName="ICE" collectorNumber="214" uuid="88040748-ad76-4b9a-bd4e-87e5980e9816"/>
+        <card number="1" name="Pyroclasm" setShortName="7ED" collectorNumber="209" uuid="7afce33f-2ead-4943-9655-bff6eaa9fe6b"/>
+        <card number="1" name="Shriekmaw" setShortName="LRW" collectorNumber="139" uuid="ea19eb5e-0d70-42e6-bda2-b13757e08ca6"/>
+        <card number="1" name="Pyroclasm" setShortName="8ED" collectorNumber="210" uuid="34ec6e8f-a8be-4efe-8082-d807378066b1"/>
+        <card number="2" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="1" name="Pyroclasm" setShortName="9ED" collectorNumber="208" uuid="ea6df956-0dc0-41f4-bf37-c88bcd80cc95"/>
+        <card number="1" name="Goblin Sharpshooter" setShortName="ONS" collectorNumber="207" uuid="7e689df7-b85d-4346-bee8-5e978b5cbbbc"/>
+        <card number="1" name="Ingot Chewer" setShortName="LRW" collectorNumber="180" uuid="9ceb9ae9-d153-446f-8835-1c53672fc9ca"/>
+        <card number="1" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+    </zone>
+</cockatrice_deck>
