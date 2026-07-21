@@ -1,4 +1,5 @@
 ## 2007
+- https://web.archive.org/web/20090210190320/http://mtg.takaratomy.co.jp/tc/finals/2007/23_f_top8decks/index.html
 - https://web.archive.org/web/20140716114021/http://archive.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/worlds07/legundefeated
 - https://web.archive.org/web/20140716113942/http://archive.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/worlds07/top8deck
 - https://web.archive.org/web/20130522054633/http://wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpkra07/top8decks
