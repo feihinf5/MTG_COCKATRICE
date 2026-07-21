@@ -6,6 +6,10 @@ Format
 
 Note
 - World Championships 2007 undefeated Legacy deck by Komuro Shuu
+- Uses 0-mana target abilities (e.g., [**Nomads en-Kor**]) targeted at [**Cephalid Illusionist**] to instantly mill the entire library into the graveyard
+- Reanimates a massive [**Sutured Ghoul**] equipped with [**Dragon Breath**] from the graveyard to give it haste and attack for the win
+- Adding [**Narcomoeba**] (which revives itself for free when milled) enables casting [**Dread Return**] via its flashback cost without paying any mana
+- Uses [**Tarmogoyf**] in the graveyard as the main "food" to power up [**Sutured Ghoul**]'s power and toughness
 
 Deck
 - 4 Flooded Strand
