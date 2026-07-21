@@ -2,7 +2,12 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/The_Finals07_winning_deck_by_Fujita_Osamu.png
 
 Format
-- CARD_SET
+- LRW
+- 10E
+- FUT
+- PLC
+- TSP / TSB
+- CSP
 
 Note
 - The Finals07 winning deck by Fujita Osamu
