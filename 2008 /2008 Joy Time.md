@@ -13,7 +13,12 @@ Format
 - CSP
 
 Note
-- 2008 Canadian National Championship winning deck by Dan Lanthier 
+- 2008 Canadian National Championship winning deck by Dan Lanthier
+- Brings back two creatures with power 2 or less from the graveyard when it leaves the battlefield ([**Mulldrifter**], [**Venser, Shaper Savant**], [**Body Double**], [**Sower of Temptation**)
+- Infinite Loop Setup that requires [**Greater Gargadon**] (suspended as a 0-mana sacrifice outlet), [**Reveillark**] and [**Body Double**] in the graveyard
+- [**Body Double**] enters copying [**Reveillark**] then sacrifice [**Body Double**] to [**Greater Gargadon**], next [**Body Double**]'s leaves-the-battlefield trigger returns itself and another power equal or less than 2 creature, repeat infinitely to bounce all opposing lands/permanents (via [**Venser, Shaper Savant**]), draw the entire deck (via [**Reveillark**]), gain infinite life (via [**Aven Riftwatcher**]), or steal all opposing creatures (via [**Sower of Temptation**])
+- Uses [**Momentary Blink**] to reset Evoked creatures, dodge removal or re-trigger ETB effects
+- Uses [**Wrath of God**] for board clears (triggering [**Reveillark**]), backed by [**Rune Snag**] and [**Pact of Negation**] to protect the combo
 
 Deck
 - 4 Battlefield Forge
