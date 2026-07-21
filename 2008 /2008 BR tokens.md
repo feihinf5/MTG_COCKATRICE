@@ -14,6 +14,8 @@ Format
 
 Note
 - 2008 Italy National Championship winning deck by William Cavaglieri
+- Floods the board using cheap token generators ([**Bitterblossom**], [**Mogg War Marshal**], [**Marsh Flitter**], [**Kher Keep**])
+- Massive Burst Finisher (Torrent of Souls): Reanimates a creature while granting all your creatures $+2/+0$ and Haste to deal 15–20+ damage in a single turn.Sacrifice Synergy (Nantuko Husk): Consumes extra tokens for instant $+2/+2$ boosts per creature, turning wide boards into massive lethal attacks when paired with Torrent of Souls.
 
 Deck
 - 3 Auntie's Hovel
