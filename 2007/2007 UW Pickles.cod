@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2007 UW Pickles</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Krakow 2007 winning deck by Paul Cheon</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Oblivion Ring" setShortName="LRW" collectorNumber="34" uuid="1c7fffe8-709c-4cb4-bbad-e4a0c35b616a"/>
+        <card number="3" name="Wrath of God" setShortName="10E" collectorNumber="61" uuid="b969f680-b176-4bfa-a160-714de8e03c25"/>
+        <card number="4" name="Rune Snag" setShortName="CSP" collectorNumber="46" uuid="45b6cadf-1974-47c8-98d8-ba413486c3b5"/>
+        <card number="4" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="4" name="Ancestral Vision" setShortName="TSP" collectorNumber="48" uuid="bccedc4d-38c7-4bf3-9ca7-4febd6c49d3d"/>
+        <card number="3" name="Brine Elemental" setShortName="TSP" collectorNumber="50" uuid="8dab2c73-501b-46c9-bc76-134b50d35bb8"/>
+        <card number="4" name="Phyrexian Ironfoot" setShortName="CSP" collectorNumber="139" uuid="49ff9859-92a4-4732-94bf-6c02b0a57338"/>
+        <card number="2" name="Teferi, Mage of Zhalfir" setShortName="TSP" collectorNumber="83" uuid="3c0145f6-4e27-49e7-9ef6-bac6fa3de26d"/>
+        <card number="2" name="Venser, Shaper Savant" setShortName="FUT" collectorNumber="46" uuid="0e84fc99-4045-4518-b588-512a675f2933"/>
+        <card number="4" name="Vesuvan Shapeshifter" setShortName="TSP" collectorNumber="90" uuid="458031cc-238d-45f0-9a81-b52e82286e0f"/>
+        <card number="4" name="Adarkar Wastes" setShortName="10E" collectorNumber="347" uuid="f31cf014-7ac9-428b-9ce9-8ba5ebfdd252"/>
+        <card number="4" name="Calciform Pools" setShortName="TSP" collectorNumber="270" uuid="f6cead86-b8ff-4975-90b2-3badcc452fdb"/>
+        <card number="3" name="Nimbus Maze" setShortName="FUT" collectorNumber="178" uuid="80d1f953-9403-4e0a-b8e1-3f7d928a2834"/>
+        <card number="10" name="Snow-Covered Island" setShortName="CSP" collectorNumber="152" uuid="6abf0692-07d1-4b72-af06-93d0e338589d"/>
+        <card number="4" name="Snow-Covered Plains" setShortName="CSP" collectorNumber="151" uuid="b1e3a010-dae3-41b6-8dd8-e31d14c3ac4a"/>
+        <card number="2" name="Urza's Factory" setShortName="TSP" collectorNumber="280" uuid="b22d97f3-08cf-4c19-bbe2-5a36096187cd"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Wrath of God" setShortName="10E" collectorNumber="61" uuid="b969f680-b176-4bfa-a160-714de8e03c25"/>
+        <card number="1" name="Oblivion Ring" setShortName="LRW" collectorNumber="34" uuid="1c7fffe8-709c-4cb4-bbad-e4a0c35b616a"/>
+        <card number="2" name="Jace Beleren" setShortName="LRW" collectorNumber="71" uuid="cdffb058-1af0-41bb-956a-ae10e092c389"/>
+        <card number="3" name="Faerie Trickery" setShortName="LRW" collectorNumber="62" uuid="defb9f0b-195e-4aeb-92c1-8f827ad6724b"/>
+        <card number="1" name="Teferi, Mage of Zhalfir" setShortName="TSP" collectorNumber="83" uuid="3c0145f6-4e27-49e7-9ef6-bac6fa3de26d"/>
+        <card number="2" name="Magus of the Tabernacle" setShortName="PLC" collectorNumber="8" uuid="dd520f8c-93fb-4cf3-8dd5-d05abbd86c74"/>
+        <card number="2" name="Aeon Chronicler" setShortName="PLC" collectorNumber="32" uuid="2fbc2dd2-976b-4239-bef9-ea0f06be79ba"/>
+        <card number="3" name="Aven Riftwatcher" setShortName="PLC" collectorNumber="1" uuid="f6a4394a-9ce2-4876-8a04-38e3775123af"/>
+    </zone>
+</cockatrice_deck>
