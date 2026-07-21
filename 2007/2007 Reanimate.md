@@ -6,10 +6,10 @@ Format
 
 Note
 - The Finals07 winning deck by Fujita Osamu
-- Rotates the hand using looters like [**Merfolk Looter**] to dump big threats ([**Akroma, Angel of Wrath**], [**Bogardan Hellkite**]) into the graveyard, reanimating them with [**Dread Return**]
-- Uses [**Makeshift Mannequin**] to recur [**Bogardan Hellkite**] for repeated damage
-- Applies early beatdown pressure using efficient discard outlets/enablers like [**Oona's Prowler**] and [**Vexing Sphinx**]
-- Uses [**Thoughtseize**] to strip opposing counterspells and graveyard hate from the opponent's hand
+- Rotates the hand using looters like [**Merfolk Looter**](https://api.scryfall.com/cards/28e4e99d-5834-4f6c-b915-4f95edc1337f?format=image) to dump big threats ([**Akroma, Angel of Wrath**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Bogardan Hellkite**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)) into the graveyard, reanimating them with [**Dread Return**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Uses [**Makeshift Mannequin**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to recur [**Bogardan Hellkite**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for repeated damage
+- Applies early beatdown pressure using efficient discard outlets/enablers like [**Oona's Prowler**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and [**Vexing Sphinx**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)
+- Uses [**Thoughtseize**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to strip opposing counterspells and graveyard hate from the opponent's hand
 
 Deck
 - 6 Swamp
