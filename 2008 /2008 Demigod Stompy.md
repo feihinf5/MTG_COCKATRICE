@@ -12,10 +12,10 @@ Format
 
 Note
 - World Championships 2008 6-0 Extended format winning deck by Petras Ratkevicius
-- Uses rapid mana rituals like [**Rite of Flame**](https://api.scryfall.com/cards/c062caf7-f0eb-44db-9f74-e6711a13fada?format=image) and [**Seething Song**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) right from the opening turns
-- Casts massive threats early such as [**Demigod of Revenge**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) or [**Deus of Calamity**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) to rapidly beat down the opponent
+- Uses rapid mana rituals like [**Rite of Flame**](https://api.scryfall.com/cards/c062caf7-f0eb-44db-9f74-e6711a13fada?format=image) and [**Seething Song**](https://api.scryfall.com/cards/9213d580-7953-455f-abbe-99d3db2705cf?format=image) right from the opening turns
+- Casts massive threats early such as [**Demigod of Revenge**](https://api.scryfall.com/cards/cfe235a9-9ecb-49a9-b91c-18e9725550cd?format=image) or [**Deus of Calamity**](https://api.scryfall.com/cards/92eaac2e-51ff-45cb-a554-fdb724ddbb91?format=image) to rapidly beat down the opponent
 - Cripples opponent plays early using lock pieces like [**Trinisphere**](https://api.scryfall.com/cards/d465597a-362e-4bd0-b547-f11d8807e597?format=image), taking advantage of the disruption to win
-- Leverages its heavy density of fast mana spells to run [**Empty the Warrens**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) as an additional threat
+- Leverages its heavy density of fast mana spells to run [**Empty the Warrens**](https://api.scryfall.com/cards/952bb27c-c58a-478a-b637-eb4f7e1e0ab4?format=image) as an additional threat
 
 Deck
 - 4 Demigod of Revenge
