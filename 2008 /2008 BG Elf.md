@@ -15,7 +15,29 @@ Note
 - Grand Prix-Buenos Aires 2008 winning deck by Francisco Braga
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 2 Garruk Wildspeaker
+- 4 Imperious Perfect
+- 4 Wren's Run Vanquisher
+- 4 Llanowar Elves
+- 4 Tarmogoyf
+- 3 Chameleon Colossus
+- 3 Civic Wayfinder
+- 2 Boreal Druid
+- 3 Profane Command
+- 4 Thoughtseize
+- 4 Terror
+- 4 Gilt-Leaf Palace
+- 4 Llanowar Wastes
+- 4 Treetop Village
+- 4 Mutavault
+- 3 Forest
+- 2 Swamp
+- 1 Pendelhaven
+- 1 Urborg, Tomb of Yawgmoth 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 4 Squall Line
+- 2 Slaughter Pact
+- 2 Krosan Grip
+- 3 Faerie Macabre
+- 4 Kitchen Finks 
