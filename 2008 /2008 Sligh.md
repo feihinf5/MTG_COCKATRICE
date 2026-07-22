@@ -2,10 +2,18 @@ Reference
 - https://mtgtop8.com/event?e=384&d=125615&f=ST
 
 Format
-- CARD_SET
+- EVE
+- SHM
+- MOR
+- LRW
+- 10E
+- FUT
+- PLC
+- TSP / TSB
+- CSP
 
 Note
-- Grand Prix-Copenhagon 2008 winning deck by Saitou Tomoharu
+- Grand Prix-Copenhagon 2008 winning deck by David Larsson
 
 Deck
 - 3 Keldon Megaliths
