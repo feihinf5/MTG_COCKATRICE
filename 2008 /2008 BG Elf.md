@@ -2,7 +2,14 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2008_Grand_Prix_Buenos_Aires_winning_deck_by_Francisco_Braga.png
 
 Format
-- CARD_SET
+- SHM
+- MOR
+- LRW
+- 10E
+- FUT
+- PLC
+- TSP / TSB
+- CSP
 
 Note
 - Grand Prix-Buenos Aires 2008 winning deck by Francisco Braga
