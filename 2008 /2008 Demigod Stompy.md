@@ -6,6 +6,10 @@ Format
 
 Note
 - World Championships 2008 6-0 Extended format winning deck by Petras Ratkevicius
+- Uses rapid mana rituals like [**Rite of Flame**] and [**Seething Song**] right from the opening turns
+- Casts massive threats early such as [**Demigod of Revenge**] or [**Deus of Calamity**] to rapidly beat down the opponent
+- Cripples opponent plays early using lock pieces like [**Trinisphere**] d465597a-362e-4bd0-b547-f11d8807e597, taking advantage of the disruption to win
+- Leverages its heavy density of fast mana spells to run [**Empty the Warrens**] as an additional threat
 
 Deck
 - 4 Demigod of Revenge
