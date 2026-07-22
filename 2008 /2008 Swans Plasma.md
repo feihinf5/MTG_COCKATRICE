@@ -11,7 +11,7 @@ Format
 - SCG / LGN / ONS
 
 Note
-- World Championships 2008 6-0 Extended format winning deck by Luis Scott-Vargas
+- World Championships 2008 6-0 Extended format deck by Luis Scott-Vargas
 - Cast [**Chain of Plasma**](https://api.scryfall.com/cards/f94aa774-9036-4016-8880-4bde2710cb90?format=image) targeting [**Swans of Bryn Argoll**](https://api.scryfall.com/cards/0cdf78b7-3c32-422a-a73f-d198e6f06290?format=image) to draw 3 cards, discard a card to copy [**Chain of Plasma**](https://api.scryfall.com/cards/f94aa774-9036-4016-8880-4bde2710cb90?format=image) then target [**Swans of Bryn Argoll**](https://api.scryfall.com/cards/0cdf78b7-3c32-422a-a73f-d198e6f06290?format=image) again
 - Repeat the loop infinitely to draw through your entire library and pitch [**Conflagrate**](https://api.scryfall.com/cards/efc5f7fb-b7a6-433d-a0bb-240c7aa0a720?format=image) to the graveyard during the card-discard loop
 - Cast [**Conflagrate**](https://api.scryfall.com/cards/efc5f7fb-b7a6-433d-a0bb-240c7aa0a720?format=image) for its Flashback cost from the graveyard, discarding your massive hand to deal lethal damage directly to the opponent's life total
