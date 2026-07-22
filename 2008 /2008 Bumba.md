@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2008_Grand_Prix_Rimini_winning_deck_by_Emanuele_Giusti.png
 
 Format
 - CARD_SET
