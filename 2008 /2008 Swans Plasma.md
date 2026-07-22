@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2008_World_Championships_6-0_Extended_format_winning_deck_by_Luis_Scott-Vargas.png
 
 Format
 - CARD_SET
