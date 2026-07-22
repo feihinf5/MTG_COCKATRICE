@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2008_Japan_National_Championship_winning_deck_by_Ooiso_Masashi.png
 
 Format
 - EVE
