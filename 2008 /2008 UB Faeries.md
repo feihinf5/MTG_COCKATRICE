@@ -6,6 +6,14 @@ Format
 
 Note
 - World Championships 2008 winning deck by Antti Malin
+- [**Bitterblossom**] creates a 1/1 flying Faerie Rogue token every turn at the cost of 1 life
+- [**Spellstutter Sprite**] acts as a counterspell attached to a 1/1 flying body with Flash and paired with [**Bitterblossom**], it frequently counters 2-, 3-, and 4-mana spells for just 2 mana
+- Casting [**Mistbind Clique**] during the opponent's Upkeep phase effectively skips their turn
+- [**Thoughtseize**] strips away the opponent's primary answer or sweeper on Turn 1
+- [**Vendilion Clique**] cast at Flash speed (often during the opponent's draw step) to strip their best card while adding a 3/1 flying clock
+- [**Mutavault**] and [**Faerie Conclave**] turn into creatures and [**Mutavault**] counts as a Faerie, buffing [**Spellstutter Sprite**] count or acting as champion-bait for [**Mistbind Clique**]
+- [**Cryptic Command**] and [**Agony Warp**] are highly flexible instant-speed interaction that handles any board state or clears opposing blockers
+- [**Sower of Temptation**] to steals the opponent's biggest threat while maintaining air superiority
 
 Deck
 - 2 Vendilion Clique
