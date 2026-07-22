@@ -1,5 +1,5 @@
 Reference 
-- https://mtgtop8.com/event?e=384&d=125615&f=ST
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2008_Grand_Prix_Copenhagon_winning_deck_by_David_Larsson.png
 
 Format
 - EVE
