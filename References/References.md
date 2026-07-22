@@ -1,4 +1,5 @@
 ## 2008
+- https://web.archive.org/web/20140622163051/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gernat08/welcome
 - https://web.archive.org/web/20081012222820/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcop08/top8decks
 - https://web.archive.org/web/20130521150639/http://wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/nethnat08/top8decks
 - https://web.archive.org/web/20120417215658/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/features/472adecklists
