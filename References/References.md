@@ -1,4 +1,5 @@
 ## 2008
+- https://web.archive.org/web/20190718064352/https://magic.wizards.com/en/articles/archive/event-coverage/2008-worlds-decklists-top-extended-decklists-2008-12-14
 - https://web.archive.org/web/20090930215337/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptber08/t8decks
 - https://web.archive.org/web/20211204162324/https://magic.wizards.com/en/articles/archive/event-coverage/coverage-2008-japan-national-championship-2008-09-18
 - https://web.archive.org/web/20081011223035/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gprim08/welcome#27
