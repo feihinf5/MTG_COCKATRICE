@@ -14,6 +14,9 @@ Format
 
 Note
 - Grand Prix-Copenhagon 2008 winning deck by David Larsson
+- [**Demigod of Revenge**] in Shadowmoor sparked an influx of aggressive beatdown decks
+- The addition of [**Figure of Destiny**] cemented this momentum, catapulting the deck to the top of the metagame as the premier beatdown strategy
+- Key threats driving the deck include [**Figure of Destiny**], [**Blood Knight**] and [**Ashenmoor Gouger**]
 
 Deck
 - 3 Keldon Megaliths
