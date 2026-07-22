@@ -12,6 +12,12 @@ Format
 
 Note
 - Pro Tour-Berlin 2008 winning deck by Luis Scott-Vargas
+- Setup at turn 1 or 2, play mana dorks ([**Llanowar Elves**], [**Elves of Deep Shadow**], [**Heritage Druid**])
+- The Combo at turn 2 or 3, cast [**Glimpse of Nature**] (or multiple copies), play cheap 1-mana Elves to keep drawing and untapping [**Nettle Sentinels**], search out key missing combo pieces mid-turn using [**Summoner's Pact**]
+- Refilling the Hand with [**Weird Harvest**] or [**Regal Force**], cast [**Weird Harvest**] for a large X to search your library for X cheap 1-mana Elves, guaranteeing the combo doesn't stall
+- Fetch [**Regal Force**] via [**Summoner's Pact**] to instantly draw 10–20 cards if [**Glimpse alone**] isn't enough
+- [**Grapeshot**] once your Storm count (number of spells cast this turn) reaches 20+, convert 2 Elves into red mana via [**Birchlore Rangers**] to deal lethal, unblockable damage directly to the opponent
+- 
 
 Deck
 - 4 Gilt-Leaf Palace
