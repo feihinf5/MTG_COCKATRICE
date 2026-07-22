@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2008_Grand_Prix_Buenos_Aires_winning_deck_by_Francisco_Braga.png
 
 Format
 - CARD_SET
