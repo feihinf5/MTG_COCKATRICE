@@ -14,7 +14,34 @@ Note
 - World Championships 2008 6-0 Extended format winning deck by Luis Scott-Vargas
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Swans of Bryn Argoll
+- 2 Simian Spirit Guide
+- 4 Ponder
+- 4 Firespout
+- 1 Conflagrate
+- 4 Chain of Plasma
+- 4 Spell Snare
+- 2 Mana Leak
+- 4 Thirst for Knowledge
+- 2 Condescend
+- 4 Chrome Mox
+- 2 Engineered Explosives
+- 3 Blood Moon
+- 1 Cascade Bluffs
+- 4 Polluted Delta
+- 3 Flooded Strand
+- 2 Steam Vents
+- 1 Breeding Pool
+- 1 Watery Grave
+- 8 Snow-Covered Island 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Blood Moon
+- 2 Engineered Explosives
+- 1 Vexing Shusher
+- 2 Mystical Teachings
+- 1 Muddle the Mixture
+- 2 Remove Soul
+- 1 Gigadrowse
+- 3 Ancient Grudge
+- 2 Pact of Negation 
