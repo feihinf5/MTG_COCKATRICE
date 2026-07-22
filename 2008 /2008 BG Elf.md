@@ -13,6 +13,7 @@ Format
 
 Note
 - Grand Prix-Buenos Aires 2008 winning deck by Francisco Braga
+- Combines fast mana acceleration, under-costed aggressive creatures, tribal Elf synergy, early hand disruption and flexible removal to maintain board dominance
 
 Deck
 - 2 Garruk Wildspeaker
