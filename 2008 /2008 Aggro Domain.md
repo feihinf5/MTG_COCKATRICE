@@ -12,6 +12,7 @@ Format
 
 Note
 - World Championships 2008 6-0 Extended format deck by Sebastian Thaler
+- Use a diverse land base to quickly power up domain-scaled spells, dropping high-stat creatures early and finishing opponents with massive direct burn
 
 Deck
 - 4 Tarmogoyf
