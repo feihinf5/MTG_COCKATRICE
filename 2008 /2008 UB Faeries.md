@@ -2,7 +2,12 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2008_World_Championships_winning_deck_by_Antti_Malin.png
 
 Format
-- CARD_SET
+- ALA
+- EVE
+- SHM
+- MOR
+- LRW
+- 10E
 
 Note
 - World Championships 2008 winning deck by Antti Malin
