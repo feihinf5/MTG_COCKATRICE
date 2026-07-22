@@ -9,6 +9,11 @@ Format
 
 Note
 - Grand Prix-Rimini 2008 winning deck by Emanuele Giusti
+- [**Wizened Cenn**], [**Thistledown Liege**] and [**Wilt-Leaf Liege**] pump up the team to quickly turn small creatures into massive threats
+- [**Spectral Procession**] and [**Cloudgoat Ranger**] instantly flood the board with evasion-capable creatures
+- [**Windbrisk Heights**] triggers easily due to the wide token board state, letting you cheat expensive spells like [**Cloudgoat Ranger**] or [**Ajani Goldmane**] into play for just one white mana
+- [**Figure of Destiny**] serves as a scaling mana sink, while [**Ajani Goldmane**] and [**Mirrorweave**] provide game-ending anthems or lethal damage spikes
+- [**Unmake**] provides instant-speed, unconditional exiling to clear key blockers or opposing threats
 
 Deck
 - 17 Plains
