@@ -170,3 +170,29 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 ## Standard banned cards timeline
 - https://www.reddit.com/r/magicTCG/comments/1loc8sr/timeline_of_banned_cards_in_standard/
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
+
+- ## To Do
+- Grand Prix-Los Angels 2009 Luis Scott-Vargas （TEPS）https://mtgtop8.com/event?e=402&d=135223&f=EX
+- Grand Prix-Hanover 2009 Lino Burgold （エルフ！）https://mtgtop8.com/event?e=420&f=EX
+- Grand Prix-Singapore 2009 斎藤友晴（ナヤバーン）https://www.mtgtop8.com/event?e=421&f=EX 
+- Grand Prix-Kobe 2009 斎藤友晴（ナヤ・ズー）https://web.archive.org/web/20160303190259/http://magic.wizards.com/en/eventcoverage/gpkob09
+- World Championships 2009 エクステンデッド全勝 William Cavaglieri （テゼレッター）https://web.archive.org/web/20190724051506/https://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-top-extended-lists-2009-11-21
+- World Championships 2009 エクステンデッド全勝 Manuel Bucher （バントアグロ）https://web.archive.org/web/20190724051506/https://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-top-extended-lists-2009-11-21
+- World Championships 2009 エクステンデッド全勝 Przemyslaw Nagadowski （超起源）https://web.archive.org/web/20190724051506/https://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-top-extended-lists-2009-11-21
+- World Championships 2009 エクステンデッド全勝 Michael Jacob （Rubin Zoo）https://web.archive.org/web/20190724051506/https://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-top-extended-lists-2009-11-21
+- Grand Prix-Barcelona 2009 Joel Calafell （続唱スワン）https://web.archive.org/web/20090601202309/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpbar09/welcome#1
+- Grand Prix-Seatle/Tacoma 2009 Yann Massicard （ドラン） https://web.archive.org/web/20090601201547/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpsea09/welcome#1
+- Grand Prix-São Paulo 2009 Daniel Almeida （白単キスキン）https://web.archive.org/web/20090616110157/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsao09/welcome
+- 2009 Finland National Championship Mikko Airaksinen （時の篩）https://web.archive.org/web/20090730023726/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/241 
+- 2009 Australia National Championship Jamie Mackintosh （親和エルフ）https://web.archive.org/web/20090722002042/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/aunat09/welcome#a
+- 2009 France National Championship Gilles Mongilardi （黒緑エルフ）https://web.archive.org/web/20090728070500/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/frnat09/welcome#1
+- 2009 United States National Championship Charles Gindy （5色残酷コントロール）https://web.archive.org/web/20160926095454/http://magic.wizards.com/en/events/coverage/usnat09 
+- 2009 Great Britain National Championship Daniel Gardner （青白ヒバリ）https://web.archive.org/web/20090810105229/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat09/welcome#1b
+- 2009 Argentina National Championship Alejo Zagalsky （ジャンド・アグロ）https://web.archive.org/web/20110708054336/http://nacionalmagic2009.blogspot.com/ 
+- 2009 Germany National Championship Sebastian Thaler （青白マーフォーク）https://web.archive.org/web/20110915175217/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gernat09/welcome#2
+- World Championships 2009 Andre Coimbra （ナヤライトセイバー／不明）https://web.archive.org/web/20170327185226/http://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-top-8-standard-2009-11-21
+- The Finals09 山本明聖 （赤白上陸／集団意識） https://web.archive.org/web/20170703221836/http://archive.mtg-jp.com/eventc/finals09/article/002232/
+- Japan Legacy Championship 2009 佐宗一歩 （CounterTop-Goyf）https://web.archive.org/web/20160807145152/http://archive.mtg-jp.com/eventc/jpnats09/article/000879/ 
+- 2009 Legacy Championship Ernest Turck（ドレッジ）https://mtgdecks.net/Legacy/ichorid-decklist-by-ernest-turck-3885
+- 2009 Block Constructed Championship Brian Kowal （ナヤジャンドコントロール）https://articles.starcitygames.com/articles/feature-article-alara-block-in-the-new-standard/ 
+- 2009 Vintage Championship 伊藤裕道（Tezzeret's Vault) http://mtgwiki.com/wiki/Tezzeret%27s_Vault#.E3.82.B5.E3.83.B3.E3.83.97.E3.83.AB.E3.83.AC.E3.82.B7.E3.83.941
