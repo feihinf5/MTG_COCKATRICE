@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 Grapeshot Elves</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-Berlin 2008 winning deck by Luis Scott-Vargas</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Summoner's Pact" setShortName="FUT" collectorNumber="139" uuid="948b026c-cfce-462b-afb6-7a383bd121de"/>
+        <card number="4" name="Glimpse of Nature" setShortName="CHK" collectorNumber="210" uuid="1ddcd76b-a7a1-4ae6-bf4a-f929c6574bdc"/>
+        <card number="3" name="Weird Harvest" setShortName="9ED" collectorNumber="282" uuid="89bd2c25-049a-4df2-bf8f-198d1b41b01e"/>
+        <card number="1" name="Grapeshot" setShortName="TSP" collectorNumber="160" uuid="4ee33cb6-768e-44a0-b6f4-b8638aa84330"/>
+        <card number="4" name="Birchlore Rangers" setShortName="ONS" collectorNumber="248" uuid="8ce3a3a1-3569-4909-a604-f78d4888781e"/>
+        <card number="4" name="Elves of Deep Shadow" setShortName="RAV" collectorNumber="161" uuid="7bea6dea-d767-4092-a285-305d9997357a"/>
+        <card number="4" name="Elvish Visionary" setShortName="ALA" collectorNumber="130" uuid="faccfa5f-4d89-4a86-92d7-36cb5a16c5c9"/>
+        <card number="1" name="Eternal Witness" setShortName="5DN" collectorNumber="86" uuid="c7e10ca7-1e5d-4224-82cf-798a4d436d72"/>
+        <card number="4" name="Heritage Druid" setShortName="MOR" collectorNumber="126" uuid="a726acbd-724e-46c5-a4cf-4aee7c2abb16"/>
+        <card number="2" name="Llanowar Elves" setShortName="9ED" collectorNumber="253" uuid="913907e2-28dd-4080-b725-52a43868e060"/>
+        <card number="2" name="Llanowar Elves" setShortName="10E" collectorNumber="274" uuid="c7a7fe6e-aa5a-4be6-a730-5cfff4fb89e3"/>
+        <card number="4" name="Nettle Sentinel" setShortName="EVE" collectorNumber="71" uuid="f9f21681-fd36-4106-8395-3153599a08a6"/>
+        <card number="1" name="Regal Force" setShortName="EVE" collectorNumber="74" uuid="674a694a-22b8-4fb8-b901-91d64564c0db"/>
+        <card number="1" name="Viridian Shaman" setShortName="MRD" collectorNumber="139" uuid="932bf583-efd3-42e9-8a7b-7b3fe07fbcf0"/>
+        <card number="1" name="Viridian Shaman" setShortName="9ED" collectorNumber="280" uuid="21971049-f988-40ec-b5ae-0ac0575f1939"/>
+        <card number="4" name="Wirewood Symbiote" setShortName="SCG" collectorNumber="133" uuid="49488b76-abaf-4dba-b01f-7b418e4ff295"/>
+        <card number="4" name="Gilt-Leaf Palace" setShortName="LRW" collectorNumber="268" uuid="cc4bbbb5-4218-4b2a-9ca2-de4d5f5dda19"/>
+        <card number="2" name="Overgrown Tomb" setShortName="RAV" collectorNumber="279" uuid="fce07335-cc78-4683-b2f0-9c98a06ea1d8"/>
+        <card number="1" name="Pendelhaven" setShortName="TSB" collectorNumber="120" uuid="32fd7a5c-2881-4d37-9eea-5f7e44dea812"/>
+        <card number="9" name="Snow-Covered Forest" setShortName="CSP" collectorNumber="155" uuid="838c915d-8153-43c2-b513-dfbe4e9388a5"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="4" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="1" name="Viridian Shaman" setShortName="10E" collectorNumber="308" uuid="c82082bf-5b15-4835-93ad-2263f0b0a62c"/>
+        <card number="1" name="Viridian Shaman" setShortName="MRD" collectorNumber="139" uuid="932bf583-efd3-42e9-8a7b-7b3fe07fbcf0"/>
+        <card number="2" name="Thorn of Amethyst" setShortName="LRW" collectorNumber="262" uuid="e472d4f5-add4-4de3-8718-31a47a35277c"/>
+        <card number="1" name="Pendelhaven" setShortName="TSB" collectorNumber="120" uuid="32fd7a5c-2881-4d37-9eea-5f7e44dea812"/>
+        <card number="1" name="Mycoloth" setShortName="ALA" collectorNumber="140" uuid="15360a16-b785-4ffe-bfa8-6c7f6a37455d"/>
+        <card number="1" name="Nullmage Shepherd" setShortName="RAV" collectorNumber="174" uuid="11f2a6de-1598-4dd9-81a0-9a4f3dd4de0b"/>
+    </zone>
+</cockatrice_deck>
