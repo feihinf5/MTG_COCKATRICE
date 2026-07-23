@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 Demigod Stompy</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2008 6-0 Extended format deck by Petras Ratkevicius</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Mountain" setShortName="ONS" collectorNumber="343" uuid="05f9bdca-0d54-46c7-b803-9083dfc9ee24"/>
+        <card number="1" name="Mountain" setShortName="ONS" collectorNumber="344" uuid="b6d39f35-c7b2-43b2-aee3-4ff2cd3e37e7"/>
+        <card number="1" name="Mountain" setShortName="ONS" collectorNumber="345" uuid="e8aade2d-5cf5-44f6-9095-aa3756b1c1dd"/>
+        <card number="1" name="Mountain" setShortName="ONS" collectorNumber="346" uuid="fd194fb1-0d3a-4eff-a446-240d18dad43c"/>
+        <card number="1" name="Mountain" setShortName="8ED" collectorNumber="343" uuid="f243292a-e8a6-43c2-805c-15715fcebd67"/>
+        <card number="1" name="Mountain" setShortName="8ED" collectorNumber="344" uuid="e49c0db1-5acc-48ed-a0f0-0510433d6d34"/>
+        <card number="1" name="Mountain" setShortName="8ED" collectorNumber="345" uuid="e5339dcb-2544-4f19-acf3-86f83793301c"/>
+        <card number="1" name="Mountain" setShortName="8ED" collectorNumber="346" uuid="1267a5fa-f9a9-4a7f-89f9-24889868ccff"/>
+        <card number="1" name="Mountain" setShortName="MRD" collectorNumber="299" uuid="b082f22f-6c01-4e8c-80ad-6fdae5c3f22f"/>
+        <card number="1" name="Mountain" setShortName="MRD" collectorNumber="300" uuid="4399a832-4406-4a12-a5e5-81744d02ceec"/>
+        <card number="1" name="Mountain" setShortName="MRD" collectorNumber="302" uuid="22965406-d8d7-46ad-992e-7fc0e994698d"/>
+        <card number="1" name="Mountain" setShortName="MRD" collectorNumber="301" uuid="ba50901e-a030-4f52-8369-f4c9ca6b9c7a"/>
+        <card number="1" name="Mountain" setShortName="CHK" collectorNumber="299" uuid="22262a3a-c2e0-4639-9002-361b39ea9b3a"/>
+        <card number="1" name="Mountain" setShortName="CHK" collectorNumber="300" uuid="266a514a-076a-40c0-a756-c6fdd261c3cb"/>
+        <card number="1" name="Mountain" setShortName="CHK" collectorNumber="301" uuid="6e1a59c7-53d9-4e2c-9596-c64394838575"/>
+        <card number="1" name="Mountain" setShortName="CHK" collectorNumber="302" uuid="c15e5767-64e1-4f4e-a02e-1143db0f648e"/>
+        <card number="1" name="Mountain" setShortName="9ED" collectorNumber="343" uuid="b3e2ee4c-5548-4a17-bf27-e906d2825867"/>
+        <card number="1" name="Mountain" setShortName="9ED" collectorNumber="344" uuid="2a41bb43-0328-4093-88c6-4dc00dfdfb7e"/>
+        <card number="1" name="Mountain" setShortName="9ED" collectorNumber="345" uuid="d2655e7b-ae35-45f0-b86d-c2f74ef3ee04"/>
+        <card number="3" name="Blood Moon" setShortName="9ED" collectorNumber="176" uuid="18fec1a2-20b0-4412-9392-8a5004f9027e"/>
+        <card number="4" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="2" name="Trinisphere" setShortName="DST" collectorNumber="154" uuid="d465597a-362e-4bd0-b547-f11d8807e597"/>
+        <card number="1" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="4" name="Desperate Ritual" setShortName="CHK" collectorNumber="163" uuid="c8bdb92a-7bdb-434b-8cc0-873969faf566"/>
+        <card number="4" name="Seething Song" setShortName="9ED" collectorNumber="216" uuid="10418027-7b05-49e7-8ff4-6a03e3fb656b"/>
+        <card number="3" name="Empty the Warrens" setShortName="TSP" collectorNumber="152" uuid="952bb27c-c58a-478a-b637-eb4f7e1e0ab4"/>
+        <card number="4" name="Rite of Flame" setShortName="CSP" collectorNumber="96" uuid="c062caf7-f0eb-44db-9f74-e6711a13fada"/>
+        <card number="1" name="Shattering Spree" setShortName="GPT" collectorNumber="75" uuid="d6dcff21-5900-43c4-a38b-cdc19c704ce4"/>
+        <card number="4" name="Demigod of Revenge" setShortName="SHM" collectorNumber="183" uuid="cfe235a9-9ecb-49a9-b91c-18e9725550cd"/>
+        <card number="4" name="Deus of Calamity" setShortName="SHM" collectorNumber="204" uuid="92eaac2e-51ff-45cb-a554-fdb724ddbb91"/>
+        <card number="3" name="Magus of the Moon" setShortName="FUT" collectorNumber="101" uuid="c06a4443-6851-4873-8fb8-2ef76c9d6d2c"/>
+        <card number="4" name="Simian Spirit Guide" setShortName="PLC" collectorNumber="122" uuid="5d7f701c-dcdc-4067-8d00-b4b7aadee9ba"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Chalice of the Void" setShortName="MRD" collectorNumber="150" uuid="1a02ca71-5e39-4a5f-aaba-a1e3e10a6a3e"/>
+        <card number="2" name="Dead // Gone" setShortName="PLC" collectorNumber="113" uuid="96fd8d8e-8f2a-4240-bcb7-18f73fd47bd5"/>
+        <card number="2" name="Smash to Smithereens" setShortName="SHM" collectorNumber="107" uuid="7eda1524-44dd-4f70-ac21-bac51578860e"/>
+        <card number="1" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="4" name="Martyr of Ashes" setShortName="CSP" collectorNumber="92" uuid="600a2cd2-166a-4fd8-838d-e513534b7cb0"/>
+        <card number="2" name="Shattering Spree" setShortName="GPT" collectorNumber="75" uuid="d6dcff21-5900-43c4-a38b-cdc19c704ce4"/>
+        <card number="1" name="Magus of the Moon" setShortName="FUT" collectorNumber="101" uuid="c06a4443-6851-4873-8fb8-2ef76c9d6d2c"/>
+    </zone>
+</cockatrice_deck>
