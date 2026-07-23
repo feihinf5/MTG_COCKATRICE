@@ -12,10 +12,10 @@ Format
 
 Note
 - Grand Prix-Hanover 2009 winning deck by Lino Burgold
-- Draw Deck with [**Glimpse of Nature**] or [**Regal Force**]
-- Generate Massive Mana via [**Heritage Druid**] + [**Nettle Sentinel**]
-- Cast [**Mirror Entity**] (using [**Birchlore Rangers**] for White Mana)
-- Activate [**Mirror Entity**] for X = 1000000 or Infinite Symbiote Loop since [**Mirror Entity**] turns all your creatures into Elves (and every other creature type) so this allows [**Wirewood Symbiote**] to target itself to bounce back to your hand (since it is now an Elf), untap a creature, and be re-cast, this creates infinite storm, infinite ETB triggers ([**Wirewood Hivemaster**]), and infinite mana with [**Nettle Sentinel**]
+- Draw Deck with [**Glimpse of Nature**](https://api.scryfall.com/cards/1ddcd76b-a7a1-4ae6-bf4a-f929c6574bdc?format=image) or [**Regal Force**](https://api.scryfall.com/cards/674a694a-22b8-4fb8-b901-91d64564c0db?format=image)
+- Generate Massive Mana via [**Heritage Druid**](https://api.scryfall.com/cards/a726acbd-724e-46c5-a4cf-4aee7c2abb16?format=image) + [**Nettle Sentinel**](https://api.scryfall.com/cards/f9f21681-fd36-4106-8395-3153599a08a6?format=image)
+- Cast [**Mirror Entity**](https://api.scryfall.com/cards/adfff880-cbf6-4085-bc05-c72658b75f25?format=image) (using [**Birchlore Rangers**](https://api.scryfall.com/cards/8ce3a3a1-3569-4909-a604-f78d4888781e?format=image) for White Mana)
+- Activate [**Mirror Entity**](https://api.scryfall.com/cards/adfff880-cbf6-4085-bc05-c72658b75f25?format=image) for X = 1000000 or Infinite Symbiote Loop since [**Mirror Entity**](https://api.scryfall.com/cards/adfff880-cbf6-4085-bc05-c72658b75f25?format=image) turns all your creatures into Elves (and every other creature type) so this allows [**Wirewood Symbiote**](https://api.scryfall.com/cards/49488b76-abaf-4dba-b01f-7b418e4ff295?format=image) to target itself to bounce back to your hand (since it is now an Elf), untap a creature, and be re-cast, this creates infinite storm, infinite ETB triggers ([**Wirewood Hivemaster**](https://api.scryfall.com/cards/49488b76-abaf-4dba-b01f-7b418e4ff295?format=image)), and infinite mana with [**Nettle Sentinel**](https://api.scryfall.com/cards/f9f21681-fd36-4106-8395-3153599a08a6?format=image)
 
 Deck
 - 3 Forest
