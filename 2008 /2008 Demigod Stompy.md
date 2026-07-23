@@ -39,4 +39,5 @@ Sideboard
 - 1 Umezawa's Jitte
 - 4 Martyr of Ashes
 - 2 Smash to Smithereens
-- 2 Dead // Gone 3 Chalice of the Void 
+- 2 Dead // Gone
+- 3 Chalice of the Void 
