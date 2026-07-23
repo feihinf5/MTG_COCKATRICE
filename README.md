@@ -187,4 +187,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Japan Legacy Championship 2009 佐宗一歩 （CounterTop-Goyf）https://web.archive.org/web/20160807145152/http://archive.mtg-jp.com/eventc/jpnats09/article/000879/ 
 - 2009 Legacy Championship Ernest Turck（ドレッジ）https://mtgdecks.net/Legacy/ichorid-decklist-by-ernest-turck-3885
 - 2009 Block Constructed Championship Brian Kowal （ナヤジャンドコントロール）https://articles.starcitygames.com/articles/feature-article-alara-block-in-the-new-standard/ 
-- 2009 Vintage Championship 伊藤裕道（Tezzeret's Vault) http://mtgwiki.com/wiki/Tezzeret%27s_Vault#.E3.82.B5.E3.83.B3.E3.83.97.E3.83.AB.E3.83.AC.E3.82.B7.E3.83.941
