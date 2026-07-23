@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 Bumba</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Rimini 2008 winning deck by Emanuele Giusti</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Spectral Procession" setShortName="SHM" collectorNumber="23" uuid="5e26bd0c-5ec7-4653-8e63-747157c20af1"/>
+        <card number="4" name="Unmake" setShortName="EVE" collectorNumber="96" uuid="338f7852-9f69-4406-b6ad-93a2574296f7"/>
+        <card number="1" name="Rise of the Hobgoblins" setShortName="EVE" collectorNumber="145" uuid="53c5d47d-0c5c-4932-aaf1-df21b8b8daeb"/>
+        <card number="2" name="Mirrorweave" setShortName="SHM" collectorNumber="143" uuid="dea002c6-d15f-4536-9349-92c77ae5021a"/>
+        <card number="2" name="Ajani Goldmane" setShortName="LRW" collectorNumber="1" uuid="2a1470a6-d09d-4a2a-84a6-d56e32ed237a"/>
+        <card number="4" name="Burrenton Forge-Tender" setShortName="LRW" collectorNumber="7" uuid="c000c3e4-d71a-43c8-8ded-f3da54bc088d"/>
+        <card number="4" name="Cloudgoat Ranger" setShortName="LRW" collectorNumber="10" uuid="9e344859-7248-4498-8303-252f196a007b"/>
+        <card number="4" name="Figure of Destiny" setShortName="EVE" collectorNumber="139" uuid="0da69523-cece-425a-b08a-fb27fac29374"/>
+        <card number="4" name="Knight of Meadowgrain" setShortName="LRW" collectorNumber="28" uuid="1eb33901-1f97-4080-a9dd-922ef29f42c9"/>
+        <card number="1" name="Mirror Entity" setShortName="LRW" collectorNumber="31" uuid="adfff880-cbf6-4085-bc05-c72658b75f25"/>
+        <card number="1" name="Thistledown Liege" setShortName="SHM" collectorNumber="153" uuid="20e34233-0972-4aa7-a5ab-eabed2235148"/>
+        <card number="1" name="Wilt-Leaf Liege" setShortName="SHM" collectorNumber="245" uuid="e6a2881f-e771-47d7-a39e-692054ee727f"/>
+        <card number="4" name="Wizened Cenn" setShortName="LRW" collectorNumber="49" uuid="585f1c8e-6898-4def-8e3f-d45cd263f776"/>
+        <card number="4" name="Plains" setShortName="LRW" collectorNumber="285" uuid="5bd5900e-100c-44e8-97e9-b0c15379fea1"/>
+        <card number="4" name="Plains" setShortName="LRW" collectorNumber="284" uuid="6e6d4bb5-9da7-4d21-9cdc-1732ea61121a"/>
+        <card number="5" name="Plains" setShortName="LRW" collectorNumber="282" uuid="b8e41010-a7d2-4e78-8f7b-502347f8c47d"/>
+        <card number="4" name="Plains" setShortName="LRW" collectorNumber="283" uuid="6e5db4d0-61f4-4cc6-89c4-02a2060b556d"/>
+        <card number="4" name="Rustic Clachan" setShortName="MOR" collectorNumber="150" uuid="19bc170c-4a84-4c07-b481-b50b82f62f44"/>
+        <card number="4" name="Windbrisk Heights" setShortName="LRW" collectorNumber="281" uuid="9df6a31a-5c49-4506-b8f8-84c9ab4a2ece"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Reveillark" setShortName="MOR" collectorNumber="22" uuid="5629edd4-b5d3-43f8-8c7c-f9d916e35158"/>
+        <card number="3" name="Stillmoon Cavalier" setShortName="EVE" collectorNumber="95" uuid="400dc91e-96c0-49bf-b307-677d6f80f3ed"/>
+        <card number="4" name="Wispmare" setShortName="LRW" collectorNumber="48" uuid="56389c91-a470-4c43-9368-98df4d38f7fd"/>
+        <card number="2" name="Oblivion Ring" setShortName="LRW" collectorNumber="34" uuid="1c7fffe8-709c-4cb4-bbad-e4a0c35b616a"/>
+        <card number="2" name="Moonglove Extract" setShortName="LRW" collectorNumber="258" uuid="97377416-35e8-4cf3-be1f-edc2ec3f6eb2"/>
+        <card number="1" name="Ajani Goldmane" setShortName="LRW" collectorNumber="1" uuid="2a1470a6-d09d-4a2a-84a6-d56e32ed237a"/>
+    </zone>
+</cockatrice_deck>
