@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 Grim Long</deckname>
+    <format>vintage</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2008 Vintage Championship winning deck by Paul Mastriano</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Necropotence" setShortName="ICE" collectorNumber="154" uuid="54d7a0c1-efb4-4a8d-ad92-a96d43835052"/>
+        <card number="1" name="Yawgmoth's Bargain" setShortName="UDS" collectorNumber="75" uuid="86901bf2-7722-43f8-b879-7a30630371fa"/>
+        <card number="1" name="Demonic Tutor" setShortName="LEA" collectorNumber="104" uuid="711d4d54-5520-4de8-9b93-79902ed8e562"/>
+        <card number="1" name="Lotus Petal" setShortName="TMP" collectorNumber="294" uuid="6c877da3-68fa-41d0-8a24-8c79fcd8ecc1"/>
+        <card number="1" name="Mana Crypt" setShortName="PHPR" collectorNumber="5" uuid="160cf235-6463-4e16-a426-8b5be76b10d2"/>
+        <card number="1" name="Mana Vault" setShortName="LEA" collectorNumber="259" uuid="19499cb7-eccb-4e69-af32-6002d447a160"/>
+        <card number="1" name="Ponder" setShortName="LRW" collectorNumber="79" uuid="ba6b6fc5-5077-4812-b8e9-906783dbaf67"/>
+        <card number="1" name="Tendrils of Agony" setShortName="SCG" collectorNumber="75" uuid="0559352e-95c1-403b-bd8f-d0679717cfa2"/>
+        <card number="1" name="Time Walk" setShortName="LEA" collectorNumber="83" uuid="e0139f60-d48e-46fb-9f5a-1e3d7558c834"/>
+        <card number="1" name="Timetwister" setShortName="LEA" collectorNumber="84" uuid="9a49dc44-616e-4bdd-8220-0bb71eccc512"/>
+        <card number="1" name="Yawgmoth's Will" setShortName="USG" collectorNumber="171" uuid="6d3e3c3a-d351-4d91-8884-312d4b6f540d"/>
+        <card number="1" name="Tinker" setShortName="ULG" collectorNumber="45" uuid="7da23b15-dfb8-4267-9b33-d7a4c035c434"/>
+        <card number="1" name="Merchant Scroll" setShortName="HML" collectorNumber="33" uuid="d4133ceb-6176-411a-9eb8-51721c1bb435"/>
+        <card number="1" name="Mox Emerald" setShortName="LEA" collectorNumber="261" uuid="b0e1427c-05cd-465b-be59-97ed6e39f7ba"/>
+        <card number="1" name="Mox Jet" setShortName="LEA" collectorNumber="262" uuid="92bcd1ce-19b1-4d78-8b09-95242ca08d76"/>
+        <card number="1" name="Mox Pearl" setShortName="LEA" collectorNumber="263" uuid="8ebe4be7-e12a-4596-a899-fbd5b152e879"/>
+        <card number="1" name="Vampiric Tutor" setShortName="VIS" collectorNumber="72" uuid="0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d"/>
+        <card number="1" name="Sol Ring" setShortName="LEA" collectorNumber="269" uuid="c4300d24-1cae-4dd5-be7e-38cc677cf5bd"/>
+        <card number="1" name="Mox Ruby" setShortName="LEA" collectorNumber="264" uuid="8945585f-4773-493d-a0fe-d707db910b38"/>
+        <card number="1" name="Mox Sapphire" setShortName="LEA" collectorNumber="265" uuid="82da0972-b17b-4600-9efd-e9430a0db04b"/>
+        <card number="1" name="Memory Jar" setShortName="ULG" collectorNumber="129" uuid="a15d33d6-7213-4482-a1be-ac0a73644af6"/>
+        <card number="2" name="Duress" setShortName="USG" collectorNumber="132" uuid="ca367f49-0f4a-4b7f-8104-851893fbcd8a"/>
+        <card number="2" name="Duress" setShortName="7ED" collectorNumber="131" uuid="15c8d82e-6e65-4d36-bf09-b24dde016581"/>
+        <card number="1" name="Mystical Tutor" setShortName="MIR" collectorNumber="80" uuid="5d98101f-e32a-4a4a-a649-faa920d111ee"/>
+        <card number="3" name="Grim Tutor" setShortName="S99" collectorNumber="79" uuid="ff00e877-3588-4ba9-a1f2-86f726157017"/>
+        <card number="1" name="Black Lotus" setShortName="LEA" collectorNumber="232" uuid="b0faa7f2-b547-42c4-a810-839da50dadfe"/>
+        <card number="1" name="Brainstorm" setShortName="ICE" collectorNumber="61" uuid="8d42d7aa-7f53-4cfc-842a-086aab2448d1"/>
+        <card number="2" name="Cabal Ritual" setShortName="TOR" collectorNumber="51" uuid="5403b49d-03a7-4cc3-af3c-df098c1c9c2e"/>
+        <card number="1" name="Misdirection" setShortName="MMQ" collectorNumber="87" uuid="581ad59c-29e9-4498-a6fd-33bf21e8e7c4"/>
+        <card number="1" name="Chain of Vapor" setShortName="ONS" collectorNumber="73" uuid="30f6b4a2-5780-46e9-b239-459d2cf37743"/>
+        <card number="1" name="Dark Ritual" setShortName="LEA" collectorNumber="98" uuid="ebb6664d-23ca-456e-9916-afcd6f26aa7f"/>
+        <card number="1" name="Fact or Fiction" setShortName="INV" collectorNumber="57" uuid="7fd4d018-dcf3-4439-8445-02d66e44f7d3"/>
+        <card number="4" name="Force of Will" setShortName="ALL" collectorNumber="28" uuid="9a879b60-4381-447d-8a5a-8e0b6a1d49ca"/>
+        <card number="1" name="Hurkyl's Recall" setShortName="ATQ" collectorNumber="10" uuid="f32373dd-06d8-45d1-8777-3b1411bcb30a"/>
+        <card number="1" name="Gifts Ungiven" setShortName="CHK" collectorNumber="62" uuid="32b91eb5-ea53-4a21-a2e5-9c545a42fa30"/>
+        <card number="1" name="Dark Ritual" setShortName="LEB" collectorNumber="99" uuid="0690f724-eb95-416b-b064-f1239e2a30e8"/>
+        <card number="1" name="Dark Ritual" setShortName="2ED" collectorNumber="99" uuid="c4d24ff3-315d-44cd-8c27-d8ad6972e027"/>
+        <card number="1" name="Dark Ritual" setShortName="3ED" collectorNumber="99" uuid="48cb9467-657e-453f-afc8-1bf7121570ad"/>
+        <card number="1" name="Ancestral Recall" setShortName="LEA" collectorNumber="47" uuid="70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b"/>
+        <card number="1" name="Darksteel Colossus" setShortName="DST" collectorNumber="109" uuid="cbc27b24-f085-48b0-8757-cd11fbf25b91"/>
+        <card number="1" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="1" name="Island" setShortName="LEA" collectorNumber="288" uuid="90a57c0e-fa61-45ef-955d-d296403967d5"/>
+        <card number="1" name="Island" setShortName="LEA" collectorNumber="289" uuid="bc6ea08d-7991-4a57-a1e3-abd508426970"/>
+        <card number="4" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="1" name="Swamp" setShortName="LEA" collectorNumber="290" uuid="6176936d-72e2-4205-8871-4c5a4f1cb2d8"/>
+        <card number="1" name="Swamp" setShortName="LEA" collectorNumber="291" uuid="edeba4e1-9012-4962-8797-3a1f6a660952"/>
+        <card number="1" name="Underground Sea" setShortName="LEA" collectorNumber="285" uuid="ff76ac86-8a8a-47fe-9388-8950ca3e26c3"/>
+        <card number="1" name="Underground Sea" setShortName="LEB" collectorNumber="286" uuid="5e91ce41-053e-4203-8860-49cbf854cc18"/>
+        <card number="1" name="Underground Sea" setShortName="2ED" collectorNumber="286" uuid="bc98d888-4af3-43a3-b035-40c651057b6e"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Tormod's Crypt" setShortName="DRK" collectorNumber="112" uuid="0f9668ba-d26d-4484-b4b8-6fb91fbfb617"/>
+        <card number="4" name="Yixlid Jailer" setShortName="FUT" collectorNumber="93" uuid="ff6ba6a5-942d-44ff-87a9-3febf0b7e39b"/>
+        <card number="1" name="Tormod's Crypt" setShortName="CHR" collectorNumber="109" uuid="55709270-74b2-4a3f-947d-29ac7c309b0f"/>
+        <card number="3" name="Phyrexian Negator" setShortName="UDS" collectorNumber="65" uuid="45a02d67-5931-49ae-a28e-57aa6f9c7f83"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38a" uuid="eb9273ea-9a41-42e3-8c9c-0d50b127a818"/>
+        <card number="1" name="Rebuild" setShortName="ULG" collectorNumber="40" uuid="4dc1613c-a149-4f04-9950-41637d35d675"/>
+        <card number="1" name="Hymn to Tourach" setShortName="FEM" collectorNumber="38b" uuid="8601f082-7e43-44ef-97d0-dead272b7eb4"/>
+        <card number="1" name="Massacre" setShortName="NEM" collectorNumber="58" uuid="f05f5d93-50d1-4aa6-af05-383a6808345b"/>
+        <card number="1" name="Hurkyl's Recall" setShortName="3ED" collectorNumber="60" uuid="b871e9a7-ba3a-4891-adc6-68a11a4e4aa6"/>
+        <card number="1" name="Hurkyl's Recall" setShortName="4ED" collectorNumber="77" uuid="bee569a6-20b0-4d37-91d6-db18de4b90c6"/>
+    </zone>
+</cockatrice_deck>
