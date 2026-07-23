@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 Barra Rock</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Philadelphia 2008 winning deck by Gerard Fabiano</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Smother" setShortName="ONS" collectorNumber="170" uuid="9a8321af-d667-44e7-8c03-3957286604b9"/>
+        <card number="1" name="Sensei's Divining Top" setShortName="CHK" collectorNumber="268" uuid="4a08ca06-58db-4ce6-b490-be4bea8956a1"/>
+        <card number="4" name="Pernicious Deed" setShortName="APC" collectorNumber="114" uuid="ae4cbb33-4947-49f0-b612-a92141fbfaa6"/>
+        <card number="3" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="4" name="Vindicate" setShortName="APC" collectorNumber="126" uuid="2a1bfefd-dae8-49e9-9d56-cc852e3dc93b"/>
+        <card number="2" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="1" name="Duress" setShortName="7ED" collectorNumber="131" uuid="15c8d82e-6e65-4d36-bf09-b24dde016581"/>
+        <card number="2" name="Gerrard's Verdict" setShortName="APC" collectorNumber="102" uuid="583740c0-68cf-4205-b682-2f97c0880d42"/>
+        <card number="4" name="Eternal Witness" setShortName="5DN" collectorNumber="86" uuid="c7e10ca7-1e5d-4224-82cf-798a4d436d72"/>
+        <card number="4" name="Loxodon Hierarch" setShortName="RAV" collectorNumber="214" uuid="a1d3ccca-8040-4a5f-9f2b-6fdb1a033234"/>
+        <card number="2" name="Ravenous Baloth" setShortName="ONS" collectorNumber="278" uuid="c98182d6-5b25-4493-9286-f29633e1bec4"/>
+        <card number="4" name="Sakura-Tribe Elder" setShortName="CHK" collectorNumber="239" uuid="91c7707a-bae0-4196-bf26-d276f57b7369"/>
+        <card number="4" name="Tarmogoyf" setShortName="FUT" collectorNumber="153" uuid="b6876d9e-0908-43ac-8542-09c7aa02b5ba"/>
+        <card number="2" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="347" uuid="f82d0a1c-5812-4254-a000-e4ff9aece3d9"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="348" uuid="24788990-42ff-4b2b-8d01-fa2d0ec66a03"/>
+        <card number="1" name="Forest" setShortName="INV" collectorNumber="349" uuid="0b741c86-a563-4180-a857-7850de6ee366"/>
+        <card number="3" name="Godless Shrine" setShortName="GPT" collectorNumber="157" uuid="be010c2f-06db-47e3-80bd-df3f2a21ca34"/>
+        <card number="3" name="Overgrown Tomb" setShortName="RAV" collectorNumber="279" uuid="fce07335-cc78-4683-b2f0-9c98a06ea1d8"/>
+        <card number="1" name="Plains" setShortName="INV" collectorNumber="333" uuid="87a66868-2efa-4985-b4fc-405d7fa8d410"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="339" uuid="2a7ce037-e04d-404a-afde-9122518e6a31"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="340" uuid="7cdb8b9d-2573-4162-9255-50a281dfb775"/>
+        <card number="1" name="Swamp" setShortName="INV" collectorNumber="342" uuid="31a756b0-f430-4286-afe1-97c641e4f3b4"/>
+        <card number="1" name="Temple Garden" setShortName="RAV" collectorNumber="284" uuid="794a2b79-8c55-4423-8843-7e6e96f84071"/>
+        <card number="3" name="Treetop Village" setShortName="10E" collectorNumber="361" uuid="de15f8fd-499c-4fa0-9a10-425f81c61579"/>
+        <card number="4" name="Windswept Heath" setShortName="ONS" collectorNumber="328" uuid="7a7c5941-9c8a-4a40-9efb-a84f05c58e53"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Leyline of the Void" setShortName="GPT" collectorNumber="52" uuid="37dfe8b8-b39e-4e70-9e5b-be42c93b4f70"/>
+        <card number="2" name="Extirpate" setShortName="PLC" collectorNumber="71" uuid="2608b5fc-3b58-4b02-aef1-35d885b16b01"/>
+        <card number="2" name="Smother" setShortName="ONS" collectorNumber="170" uuid="9a8321af-d667-44e7-8c03-3957286604b9"/>
+        <card number="2" name="Krosan Grip" setShortName="TSP" collectorNumber="202" uuid="59b524bb-5a18-4dda-9c45-26ce9ff0f0c1"/>
+        <card number="2" name="Cranial Extraction" setShortName="CHK" collectorNumber="105" uuid="a8cad7a3-777e-4c84-b404-5f504844ab3b"/>
+        <card number="2" name="Damnation" setShortName="PLC" collectorNumber="85" uuid="26c68473-70ca-40ba-b5c6-71ec30f88a2c"/>
+        <card number="1" name="Duress" setShortName="7ED" collectorNumber="131" uuid="15c8d82e-6e65-4d36-bf09-b24dde016581"/>
+    </zone>
+</cockatrice_deck>
