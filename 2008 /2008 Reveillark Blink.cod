@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 Reveillark Blink</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2008 Japan National Championship winning deck by Ooiso Masashi</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Adarkar Wastes" setShortName="10E" collectorNumber="347" uuid="f31cf014-7ac9-428b-9ce9-8ba5ebfdd252"/>
+        <card number="4" name="Mystic Gate" setShortName="SHM" collectorNumber="277" uuid="3dfa866b-93e2-4365-91b0-f12d1f7c5395"/>
+        <card number="12" name="Snow-Covered Island" setShortName="CSP" collectorNumber="152" uuid="6abf0692-07d1-4b72-af06-93d0e338589d"/>
+        <card number="5" name="Snow-Covered Plains" setShortName="CSP" collectorNumber="151" uuid="b1e3a010-dae3-41b6-8dd8-e31d14c3ac4a"/>
+        <card number="2" name="Prismatic Lens" setShortName="TSP" collectorNumber="262" uuid="50f058a7-c3c7-4bdf-a66c-a2636a8bd9db"/>
+        <card number="4" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="2" name="Momentary Blink" setShortName="TSP" collectorNumber="29" uuid="032e072a-0630-472b-9106-5df554dff785"/>
+        <card number="2" name="Remove Soul" setShortName="10E" collectorNumber="100" uuid="35673701-684c-4ba6-99f5-74364bc6fec2"/>
+        <card number="4" name="Rune Snag" setShortName="CSP" collectorNumber="46" uuid="45b6cadf-1974-47c8-98d8-ba413486c3b5"/>
+        <card number="4" name="Ancestral Vision" setShortName="TSP" collectorNumber="48" uuid="bccedc4d-38c7-4bf3-9ca7-4febd6c49d3d"/>
+        <card number="4" name="Kitchen Finks" setShortName="SHM" collectorNumber="229" uuid="7d203208-8a21-4c68-afa2-4efd8726f026"/>
+        <card number="4" name="Mulldrifter" setShortName="LRW" collectorNumber="76" uuid="a97cfefa-ade7-49f6-b2aa-1118b9db4935"/>
+        <card number="4" name="Reveillark" setShortName="MOR" collectorNumber="22" uuid="5629edd4-b5d3-43f8-8c7c-f9d916e35158"/>
+        <card number="4" name="Riftwing Cloudskate" setShortName="TSP" collectorNumber="73" uuid="78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8"/>
+        <card number="2" name="Venser, Shaper Savant" setShortName="FUT" collectorNumber="46" uuid="0e84fc99-4045-4518-b588-512a675f2933"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Jace Beleren" setShortName="LRW" collectorNumber="71" uuid="cdffb058-1af0-41bb-956a-ae10e092c389"/>
+        <card number="2" name="Crovax, Ascendant Hero" setShortName="PLC" collectorNumber="3" uuid="63049fe4-de25-4606-a271-4ccb1b8298f1"/>
+        <card number="2" name="Teferi, Mage of Zhalfir" setShortName="TSP" collectorNumber="83" uuid="3c0145f6-4e27-49e7-9ef6-bac6fa3de26d"/>
+        <card number="3" name="Condemn" setShortName="10E" collectorNumber="13" uuid="ea9edff0-58a8-405d-9f2e-39f8269bbcb2"/>
+        <card number="2" name="Pact of Negation" setShortName="FUT" collectorNumber="42" uuid="cca467a2-a2b3-4bdf-9d60-62979f675347"/>
+        <card number="3" name="Wrath of God" setShortName="10E" collectorNumber="61" uuid="b969f680-b176-4bfa-a160-714de8e03c25"/>
+        <card number="2" name="Remove Soul" setShortName="10E" collectorNumber="100" uuid="35673701-684c-4ba6-99f5-74364bc6fec2"/>
+    </zone>
+</cockatrice_deck>
