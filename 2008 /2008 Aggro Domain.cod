@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 Aggro Domain</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2008 6-0 Extended format deck by Sebastian Thaler</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Blood Crypt" setShortName="DIS" collectorNumber="171" uuid="f281e16f-0fe1-4095-bd63-0a4479f75c11"/>
+        <card number="1" name="Tarfire" setShortName="LRW" collectorNumber="194" uuid="d13a898e-6a97-4fd9-980e-3bfd8d755386"/>
+        <card number="3" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="2" name="Flooded Strand" setShortName="ONS" collectorNumber="316" uuid="b4e3d844-d3b4-41d8-921d-c1cb3af343f8"/>
+        <card number="1" name="Godless Shrine" setShortName="GPT" collectorNumber="157" uuid="be010c2f-06db-47e3-80bd-df3f2a21ca34"/>
+        <card number="1" name="Overgrown Tomb" setShortName="RAV" collectorNumber="279" uuid="fce07335-cc78-4683-b2f0-9c98a06ea1d8"/>
+        <card number="1" name="Plains" setShortName="ONS" collectorNumber="331" uuid="7bf7d68a-dbd0-45f3-acbb-59ee38e6057e"/>
+        <card number="1" name="Sacred Foundry" setShortName="RAV" collectorNumber="280" uuid="168ef687-5797-4b45-b75b-393d8117cebd"/>
+        <card number="1" name="Steam Vents" setShortName="GPT" collectorNumber="164" uuid="054f2276-2dd5-43da-bb26-c57c560861fe"/>
+        <card number="1" name="Stomping Ground" setShortName="GPT" collectorNumber="165" uuid="a2773d8f-f906-475d-aaff-b7ca3b01f188"/>
+        <card number="1" name="Temple Garden" setShortName="RAV" collectorNumber="284" uuid="794a2b79-8c55-4423-8843-7e6e96f84071"/>
+        <card number="4" name="Windswept Heath" setShortName="ONS" collectorNumber="328" uuid="7a7c5941-9c8a-4a40-9efb-a84f05c58e53"/>
+        <card number="4" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+        <card number="2" name="Oblivion Ring" setShortName="LRW" collectorNumber="34" uuid="1c7fffe8-709c-4cb4-bbad-e4a0c35b616a"/>
+        <card number="1" name="Oblivion Ring" setShortName="ALA" collectorNumber="20" uuid="895c270d-84d8-4c7f-9df3-5a595e113dd7"/>
+        <card number="1" name="Seal of Fire" setShortName="DIS" collectorNumber="71" uuid="82ff3740-93e2-454a-8e6b-e29d0c9d0fc2"/>
+        <card number="3" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="4" name="Lightning Helix" setShortName="RAV" collectorNumber="213" uuid="1b2ecf55-c1cc-4b28-b7ce-e1b25305155e"/>
+        <card number="4" name="Tribal Flames" setShortName="TSB" collectorNumber="70" uuid="08576686-05a9-405a-983a-404c1d400981"/>
+        <card number="4" name="Dark Confidant" setShortName="RAV" collectorNumber="81" uuid="94f7a441-bf2d-46fb-a7b6-9bd6137f86d9"/>
+        <card number="4" name="Kird Ape" setShortName="9ED" collectorNumber="199" uuid="27423c7b-d1fd-471b-9648-8ea5ed9ebaf2"/>
+        <card number="4" name="Mogg Fanatic" setShortName="10E" collectorNumber="219" uuid="185949ab-55d0-439f-b25b-1f525e3eddf7"/>
+        <card number="3" name="Shadow Guildmage" setShortName="TSB" collectorNumber="46" uuid="960c2137-f2de-46c6-9b63-bbb208d3cfa8"/>
+        <card number="4" name="Tarmogoyf" setShortName="FUT" collectorNumber="153" uuid="b6876d9e-0908-43ac-8542-09c7aa02b5ba"/>
+        <card number="4" name="Wild Nacatl" setShortName="ALA" collectorNumber="152" uuid="5eb18038-eb6a-4d27-ba52-52a1cee6b512"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ancient Grudge" setShortName="TSP" collectorNumber="143" uuid="89cbad1f-4f16-4d5f-a485-5bf950565216"/>
+        <card number="2" name="Gaddock Teeg" setShortName="LRW" collectorNumber="248" uuid="32c16e1b-f4ce-409f-928a-42c666adac9d"/>
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="2" name="Sundering Vitae" setShortName="RAV" collectorNumber="185" uuid="1ab15b40-c5c8-4d77-a4c0-982b6bf94267"/>
+        <card number="1" name="Ethersworn Canonist" setShortName="ALA" collectorNumber="10" uuid="2aebe7a8-b982-4be4-83ca-3594e8f606b4"/>
+        <card number="4" name="Kitchen Finks" setShortName="SHM" collectorNumber="229" uuid="7d203208-8a21-4c68-afa2-4efd8726f026"/>
+        <card number="1" name="Deathmark" setShortName="CSP" collectorNumber="54" uuid="e72e8728-d0a0-4ee5-87c3-092ca94225e0"/>
+    </zone>
+</cockatrice_deck>
