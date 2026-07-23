@@ -12,8 +12,8 @@ Format
 
 Note
 - World Championships 2009 6-0 Extended format deck by Przemyslaw Nagadowski
-- [**Simian Spirit Guide**] exile from hand for a free red mana to cast a Cascade spell([**Violent Outburst**], [**Ardent Plea**], [**Demonic Dread**]) as early as Turn 2
-- Every spell in the main deck costs 3 mana or more, Cascade spell could only hit [**Hypergenesis**] (which has a Mana Value of 0) and when it resolves, could play any threat from hand ([**Progenitus**], [**Bogardan Hellkite**], [**Angel of Despair**], [**Akroma, Angel of Fury**], [**Sakashima the Impostor**])
+- [**Simian Spirit Guide**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) exile from hand for a free red mana to cast a Cascade spell([**Violent Outburst**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Ardent Plea**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Demonic Dread**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)) as early as Turn 2
+- Every spell in the main deck costs 3 mana or more, Cascade spell could only hit [**Hypergenesis**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) (which has a Mana Value of 0) and when it resolves, could play any threat from hand ([**Progenitus**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Bogardan Hellkite**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Angel of Despair**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Akroma, Angel of Fury**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Sakashima the Impostor**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image))
 
 Deck
 - 3 Sakashima the Impostor
