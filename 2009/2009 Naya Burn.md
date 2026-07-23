@@ -2,7 +2,13 @@ Reference
 - https://www.mtgtop8.com/event?e=421&f=EX
 
 Format
-- CARD_SET
+- CON / ALA / EVE / SHM / MOR / LRW
+- 10E
+- FUT / PLC / TSP / TSB / CSP / DIS / GPT / RAV
+- 9ED
+- SOK / BOK / CHK / 5DN / DST / MRD
+- 8ED
+- SCG / LGN / ONS
 
 Note
 - Grand Prix-Singapore 2009 winning deck by Saitou Tomoharu
