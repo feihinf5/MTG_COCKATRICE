@@ -6,11 +6,14 @@ Format
 
 Note
 - 2009 Legacy Championship winning deck by Ernest Turck
-- Discard [**Dread Return**] via [**Putrid Imp**] or [**Lion's Eye Diamond**]
-- Cast Draw Spell, [**Breakthrough**] or [**Cephalid Coliseum**]
+- Cast Draw Spell, [**Breakthrough**] or [**Cephalid Coliseum**] while the spell is on the stack, you crack [**Lion's Eye Diamond**] to discard [**Dread Return**]
 - Replace every draw with [**Dread Return**] to put 15-30 cards in Graveyard
 - Free creatures [**Narcomoeba**] enter battlefield + Tokens spawn from [**Bridge from Below**]
 - Flashback [**Dread Return**] target [**Flame-Kin Zealot**] with Haste for win
+- Could discard [**Dread Return**] via [**Putrid Imp**]
+- [**Ichorid**] returns from your graveyard at the start of your upkeep for free by exiling a black creature
+- Reanimate [**Sadistic Hypnotist**] and sacrifice your free creatures to force your opponent to discard their entire hand
+- [**Cabal Therapy**] to counterspells or graveyard hate in the opponent's hand before going off
 
 Deck
 - 1 Flame-Kin Zealot
