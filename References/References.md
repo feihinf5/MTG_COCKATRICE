@@ -1,3 +1,5 @@
+## 2009
+- https://web.archive.org/web/20160303190259/http://magic.wizards.com/en/eventcoverage/gpkob09
 ## 2008
 - https://web.archive.org/web/20161011131237/http://magic.wizards.com/en/articles/archive/event-coverage/2008-worlds-decklists-top-8-decklists-2008-12-13
 - https://web.archive.org/web/20190718064352/https://magic.wizards.com/en/articles/archive/event-coverage/2008-worlds-decklists-top-extended-decklists-2008-12-14
