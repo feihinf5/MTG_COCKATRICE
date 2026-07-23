@@ -6,6 +6,8 @@ Format
 
 Note
 - 2009 Vintage Championship winning deck by Itou Hiromichi
+- Tapping [**Voltaic Key**] to untap [**Time Vault**] allowed players to take infinite turns for just 2 mana
+- [**Tezzeret the Seeker**]'s -2 ability tutored both halves of the combo ([**Time Vault**] or [**Voltaic Key**]) directly into play and its +1 ability also untapped [**Time Vault**] directly, serving as an infinite turn engine on his own
 
 Deck
 - 1 Inkwell Leviathan
