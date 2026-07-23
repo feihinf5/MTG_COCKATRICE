@@ -12,6 +12,12 @@ Format
 
 Note
 - World Championships 2009 6-0 Extended format deck by William Cavaglieri
+- Sacrifice [**Sword of the Meek**] to [**Thopter Foundry**] to gain 1 life and create a 1/1 Flying Thopter artifact creature
+- Because a 1/1 creature entered the battlefield, [**Sword of the Meek**] automatically returns from your graveyard attached to it
+- [**Tezzeret the Seeker**] -X Ability acts as a direct-to-battlefield tutor, X=2 puts [**Thopter Foundry**] directly into play or X=2 can also grab [**Sword of the Meek**] (which goes to the graveyard when sacrificed anyway) or X=0 fetches artifact lands ([**Seat of the Synod**], [**Ancient Den**]) or [**Engineered Explosives**]
+- [**Muddle the Mixture**] to fetch combo piece, [**Thopter Foundry**] or [**Sword of the Meek**]
+- [**Thirst for Knowledge**] to dumping [**Sword of the Meek**] into the graveyard
+- [**Engineered Explosives**] can be recurred every single turn using [**Academy Ruins**]
 
 Deck
 - 3 Tezzeret the Seeker
