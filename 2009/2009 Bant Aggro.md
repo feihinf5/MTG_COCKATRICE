@@ -11,7 +11,9 @@ Format
 - SOK / BOK / CHK / 5DN / DST / MRD
 
 Note
-- World Championships 2009 6-0 Extended format deck by Manuel Bucher 
+- World Championships 2009 6-0 Extended format deck by Manuel Bucher
+- Accelerating [**Rhox War Monk**] out on Turn 2 via [**Noble Hierarch**] meant you were swinging with a 4/5 Trample Lifelink on Turn 2 due to the Exalted trigger
+- [**Umezawa’s Jitte**] good to pair with [**Vendilion Clique**] or [**Treetop Village**] or [**Rhox War Monk**]
 
 Deck
 - 4 Noble Hierarch
