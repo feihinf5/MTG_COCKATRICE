@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 Quicken Toast</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Denver 2008 winning deck by Gerry Thompson</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Runed Halo" setShortName="SHM" collectorNumber="21" uuid="92b45f79-f23e-4eef-8cac-91780dc2a044"/>
+        <card number="3" name="Broken Ambitions" setShortName="LRW" collectorNumber="54" uuid="8052d90b-bc49-4a9e-9211-159a54aa2bcd"/>
+        <card number="4" name="Firespout" setShortName="SHM" collectorNumber="205" uuid="13454f69-1458-4c03-ab02-bd697a32eb17"/>
+        <card number="2" name="Makeshift Mannequin" setShortName="LRW" collectorNumber="124" uuid="79029161-a2c9-4cf6-94c0-31400daa0e8e"/>
+        <card number="1" name="Oona's Grace" setShortName="EVE" collectorNumber="27" uuid="5404ae3f-ff19-4627-ae69-9bd2c36ab7d3"/>
+        <card number="4" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="2" name="Austere Command" setShortName="LRW" collectorNumber="3" uuid="8ee73fe8-d52b-43bb-ab91-5545192be676"/>
+        <card number="2" name="Archon of Justice" setShortName="EVE" collectorNumber="1" uuid="ab707e7f-8ab5-43f1-9428-6a17c1b672fa"/>
+        <card number="3" name="Cloudthresher" setShortName="LRW" collectorNumber="202" uuid="c759c561-829d-483d-a433-fe1213f20236"/>
+        <card number="4" name="Kitchen Finks" setShortName="SHM" collectorNumber="229" uuid="7d203208-8a21-4c68-afa2-4efd8726f026"/>
+        <card number="4" name="Mulldrifter" setShortName="LRW" collectorNumber="76" uuid="a97cfefa-ade7-49f6-b2aa-1118b9db4935"/>
+        <card number="3" name="Shriekmaw" setShortName="LRW" collectorNumber="139" uuid="ea19eb5e-0d70-42e6-bda2-b13757e08ca6"/>
+        <card number="1" name="Cascade Bluffs" setShortName="EVE" collectorNumber="175" uuid="c3eede44-270a-481d-850b-b4862b9685ea"/>
+        <card number="3" name="Flooded Grove" setShortName="EVE" collectorNumber="177" uuid="4e45d16b-8320-4a9b-ad15-9687dfb52bed"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="286" uuid="5885738f-a51d-418c-b194-0ba8ef6af556"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="287" uuid="24ffadeb-cf20-4da9-a140-1fdcc7484c7a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="288" uuid="d714d196-8cbc-4b53-8219-21044a017bce"/>
+        <card number="4" name="Mystic Gate" setShortName="SHM" collectorNumber="277" uuid="3dfa866b-93e2-4365-91b0-f12d1f7c5395"/>
+        <card number="4" name="Reflecting Pool" setShortName="SHM" collectorNumber="278" uuid="3d03dc37-03fb-47b2-aa25-60a85d0d94dd"/>
+        <card number="4" name="Vivid Creek" setShortName="LRW" collectorNumber="276" uuid="2e3c2935-84ee-446d-b247-2f574ea84a8f"/>
+        <card number="3" name="Vivid Grove" setShortName="LRW" collectorNumber="277" uuid="6646babe-edd8-4367-ba8f-89af4f859dd8"/>
+        <card number="4" name="Vivid Meadow" setShortName="LRW" collectorNumber="279" uuid="a535790b-d416-4807-bca0-acf6b192101c"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Runed Halo" setShortName="SHM" collectorNumber="21" uuid="92b45f79-f23e-4eef-8cac-91780dc2a044"/>
+        <card number="2" name="Hallowed Burial" setShortName="EVE" collectorNumber="7" uuid="c42fad4b-caeb-4aa2-9586-cb26bdec56cd"/>
+        <card number="3" name="Chameleon Colossus" setShortName="MOR" collectorNumber="116" uuid="5459f1e6-7019-427d-9e2d-e494b3cd52d2"/>
+        <card number="1" name="Shriekmaw" setShortName="LRW" collectorNumber="139" uuid="ea19eb5e-0d70-42e6-bda2-b13757e08ca6"/>
+        <card number="4" name="Wispmare" setShortName="LRW" collectorNumber="48" uuid="56389c91-a470-4c43-9368-98df4d38f7fd"/>
+        <card number="2" name="Plumeveil" setShortName="SHM" collectorNumber="145" uuid="8e8b0449-3ae5-4fee-b870-af12be5e5a64"/>
+        <card number="1" name="Cloudthresher" setShortName="LRW" collectorNumber="202" uuid="c759c561-829d-483d-a433-fe1213f20236"/>
+    </zone>
+</cockatrice_deck>
