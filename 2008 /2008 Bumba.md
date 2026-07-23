@@ -38,5 +38,5 @@ Sideboard
 - 2 Moonglove Extract
 - 2 Oblivion Ring
 - 3 Reveillark
-3  Stillmoon Cavalier
-4  Wispmare
+- 3  Stillmoon Cavalier
+- 4  Wispmare
