@@ -172,7 +172,6 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 - ## To Do
-- World Championships 2009 エクステンデッド全勝 Michael Jacob （Rubin Zoo）https://web.archive.org/web/20190724051506/https://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-top-extended-lists-2009-11-21
 - Grand Prix-Barcelona 2009 Joel Calafell （続唱スワン）https://web.archive.org/web/20090601202309/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpbar09/welcome#1
 - Grand Prix-Seatle/Tacoma 2009 Yann Massicard （ドラン） https://web.archive.org/web/20090601201547/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpsea09/welcome#1
 - Grand Prix-São Paulo 2009 Daniel Almeida （白単キスキン）https://web.archive.org/web/20090616110157/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsao09/welcome
