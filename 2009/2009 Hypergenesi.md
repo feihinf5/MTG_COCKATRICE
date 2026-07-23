@@ -12,6 +12,8 @@ Format
 
 Note
 - World Championships 2009 6-0 Extended format deck by Przemyslaw Nagadowski
+- [**Simian Spirit Guide**] exile from hand for a free red mana to cast a Cascade spell([**Violent Outburst**], [**Ardent Plea**], [**Demonic Dread**]) as early as Turn 2
+- Every spell in the main deck costs 3 mana or more, Cascade spell could only hit [**Hypergenesis**] (which has a Mana Value of 0) and when it resolves, could play any threat from hand ([**Progenitus**], [**Bogardan Hellkite**], [**Angel of Despair**], [**Akroma, Angel of Fury**], [**Sakashima the Impostor**])
 
 Deck
 - 3 Sakashima the Impostor
