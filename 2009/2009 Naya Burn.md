@@ -1,5 +1,5 @@
 Reference 
-- https://www.mtgtop8.com/event?e=421&f=EX
+- http://harurumtg.blog41.fc2.com/blog-entry-30.html
 
 Format
 - CON / ALA / EVE / SHM / MOR / LRW
