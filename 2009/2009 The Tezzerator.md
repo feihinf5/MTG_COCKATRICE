@@ -18,6 +18,7 @@ Note
 - [**Muddle the Mixture**] to fetch combo piece, [**Thopter Foundry**] or [**Sword of the Meek**]
 - [**Thirst for Knowledge**] to dumping [**Sword of the Meek**] into the graveyard
 - [**Engineered Explosives**] can be recurred every single turn using [**Academy Ruins**]
+- [**Sword of the Meek**] was banned in Extended format during July 2010 https://web.archive.org/web/20160117184748/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/feature/95b
 
 Deck
 - 3 Tezzeret the Seeker
