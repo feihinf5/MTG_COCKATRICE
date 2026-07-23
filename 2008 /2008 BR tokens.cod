@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 BR tokens</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2008 Italy National Championship winning deck by William Cavaglieri</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="4" name="Torrent of Souls" setShortName="SHM" collectorNumber="199" uuid="4d1e3eff-d6b2-4758-ac50-91f79cd21b93"/>
+        <card number="4" name="Bitterblossom" setShortName="MOR" collectorNumber="58" uuid="8145fed6-6b51-420a-84cf-4ea5e0aa1883"/>
+        <card number="4" name="Magus of the Moon" setShortName="FUT" collectorNumber="101" uuid="c06a4443-6851-4873-8fb8-2ef76c9d6d2c"/>
+        <card number="3" name="Marsh Flitter" setShortName="LRW" collectorNumber="125" uuid="040e1039-1943-4c2d-aa98-b7f9519de321"/>
+        <card number="3" name="Mogg Fanatic" setShortName="10E" collectorNumber="219" uuid="185949ab-55d0-439f-b25b-1f525e3eddf7"/>
+        <card number="4" name="Mogg War Marshal" setShortName="TSP" collectorNumber="170" uuid="8b9e0bdb-b615-447a-b80d-d7244c25c56e"/>
+        <card number="4" name="Nantuko Husk" setShortName="10E" collectorNumber="162" uuid="7a8f8f83-65bb-4da3-8263-e58162ebb24b"/>
+        <card number="4" name="Shadow Guildmage" setShortName="TSB" collectorNumber="46" uuid="960c2137-f2de-46c6-9b63-bbb208d3cfa8"/>
+        <card number="2" name="Shriekmaw" setShortName="LRW" collectorNumber="139" uuid="ea19eb5e-0d70-42e6-bda2-b13757e08ca6"/>
+        <card number="3" name="Auntie's Hovel" setShortName="LRW" collectorNumber="267" uuid="098685c9-cd85-4279-a3b5-b495485bba35"/>
+        <card number="4" name="Graven Cairns" setShortName="SHM" collectorNumber="272" uuid="c355bf63-f456-43ad-a6df-6c2a17511f43"/>
+        <card number="1" name="Kher Keep" setShortName="TSP" collectorNumber="275" uuid="dde3b332-5bc3-47bc-ba24-5437f04c21a0"/>
+        <card number="1" name="Mountain" setShortName="TSP" collectorNumber="297" uuid="dae3e69d-ec38-43e2-b4a2-3a9064835a97"/>
+        <card number="1" name="Mountain" setShortName="TSP" collectorNumber="296" uuid="d3e3961c-d092-4a15-b5db-d7b5c70e4fc1"/>
+        <card number="1" name="Mountain" setShortName="TSP" collectorNumber="294" uuid="e34229e7-5dc4-47b3-9ba2-609e5b3ca6c2"/>
+        <card number="1" name="Mountain" setShortName="TSP" collectorNumber="295" uuid="5c71906a-f885-49ba-a889-8baf4e74cce8"/>
+        <card number="1" name="Pendelhaven" setShortName="TSB" collectorNumber="120" uuid="32fd7a5c-2881-4d37-9eea-5f7e44dea812"/>
+        <card number="4" name="Sulfurous Springs" setShortName="10E" collectorNumber="359" uuid="ca7f2426-5a56-4dca-a059-65aa7266ac83"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="290" uuid="3fecc759-61fa-4040-9b46-710512baa4bf"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="291" uuid="b53dbcc0-169d-4b5c-b4e5-d82716c1539d"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="292" uuid="a7dc4523-075d-425e-9b53-77921d26c173"/>
+        <card number="1" name="Swamp" setShortName="TSP" collectorNumber="293" uuid="dd634a88-c114-469a-8133-59cfc9bf3215"/>
+        <card number="1" name="Swamp" setShortName="10E" collectorNumber="372" uuid="f6497c73-4bbb-4923-8151-8234c98ca6d4"/>
+        <card number="1" name="Swamp" setShortName="10E" collectorNumber="373" uuid="d72aa721-c20c-4306-aca9-dbf2e36d5ba7"/>
+        <card number="1" name="Swamp" setShortName="10E" collectorNumber="374" uuid="9eaedaf2-a9a3-44c6-84c1-4cc2da1da459"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Sudden Death" setShortName="TSP" collectorNumber="134" uuid="16e889c4-105b-4f4e-8a3d-ace753a24a4e"/>
+        <card number="2" name="Terror" setShortName="10E" collectorNumber="182" uuid="3d1ccc3b-a6bd-4dc8-b7ba-99172d612106"/>
+        <card number="3" name="Grave Pact" setShortName="10E" collectorNumber="144" uuid="bfd23186-6796-4430-86c5-f0d5337bbc91"/>
+        <card number="4" name="Avalanche Riders" setShortName="TSB" collectorNumber="55" uuid="abb19b6b-4142-4b93-85ca-3f2d8b23b4e1"/>
+        <card number="4" name="Fulminator Mage" setShortName="SHM" collectorNumber="188" uuid="be1df367-8e85-4fd8-aa6f-f02a478fecb3"/>
+    </zone>
+</cockatrice_deck>
