@@ -12,8 +12,8 @@ Format
 
 Note
 - World Championships 2009 6-0 Extended format deck by Manuel Bucher
-- Accelerating [**Rhox War Monk**] out on Turn 2 via [**Noble Hierarch**] meant you were swinging with a 4/5 Trample Lifelink on Turn 2 due to the Exalted trigger
-- [**Umezawa’s Jitte**] good to pair with [**Vendilion Clique**] or [**Treetop Village**] or [**Rhox War Monk**]
+- Accelerating [**Rhox War Monk**](https://api.scryfall.com/cards/19fb67e1-b791-4246-aebc-49fcf0f92c6c?format=image) out on Turn 2 via [**Noble Hierarch**](https://api.scryfall.com/cards/6adfe928-1305-444d-b709-1e714544daaf?format=image) meant you were swinging with a 4/5 Trample Lifelink on Turn 2 due to the Exalted trigger
+- [**Umezawa’s Jitte**](https://api.scryfall.com/cards/3b6e5956-f795-451b-bb24-56462d1ced27?format=image) good to pair with [**Vendilion Clique**](https://api.scryfall.com/cards/f53d8540-fb6d-4d4c-b467-ebfbfa53c880?format=image) or [**Treetop Village**](https://api.scryfall.com/cards/de15f8fd-499c-4fa0-9a10-425f81c61579?format=image) or [**Rhox War Monk**](https://api.scryfall.com/cards/19fb67e1-b791-4246-aebc-49fcf0f92c6c?format=image)
 
 Deck
 - 4 Noble Hierarch
