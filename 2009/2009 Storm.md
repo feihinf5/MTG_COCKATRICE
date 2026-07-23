@@ -12,6 +12,9 @@ Format
 
 Note
 - Grand Prix-Los Angels 2009 winning deck by Luis Scott-Vargas
+- Generate massive mana using [**Rite of Flame**], [**Cabal Ritual**], [**Seething Song**] and [**Lotus Bloom**]
+- Use mana-filtering cantrips to build Storm count and draw cards without losing mana and cast [**Mind's Desire**], either directly from hand or tutored via [**Burning Wish**]
+- Finish the game with [**Tendrils of Agony**]
 
 Deck
 - 3 Cascade Bluffs
