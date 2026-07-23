@@ -12,6 +12,8 @@ Format
 
 Note
 - Grand Prix-Hanover 2009 winning deck by Lino Burgold
+- Draw Deck with [**Glimpse of Nature**] or [**Regal Force**]
+- Generate Massive Mana via [**Heritage Druid**] + [**Nettle Sentinel**]
 
 Deck
 - 3 Forest
