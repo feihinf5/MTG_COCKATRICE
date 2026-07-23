@@ -2,7 +2,7 @@ Reference
 - https://mtgtop8.com/event?e=420&f=EX
 
 Format
-- ALA / EVE / SHM / MOR / LRW
+- CON / ALA / EVE / SHM / MOR / LRW
 - 10E
 - FUT / PLC / TSP / TSB / CSP / DIS / GPT / RAV
 - 9ED
