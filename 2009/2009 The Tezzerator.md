@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2009_World_Championships_6-0_Extended_format_deck_by_William_Cavaglieri.png
 
 Format
 - CARD_SET
