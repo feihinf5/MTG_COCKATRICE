@@ -14,6 +14,8 @@ Note
 - Grand Prix-Hanover 2009 winning deck by Lino Burgold
 - Draw Deck with [**Glimpse of Nature**] or [**Regal Force**]
 - Generate Massive Mana via [**Heritage Druid**] + [**Nettle Sentinel**]
+- Cast [**Mirror Entity**] (using [**Birchlore Rangers**] for White Mana)
+- Activate [**Mirror Entity**] for X = 1000000 or Infinite Symbiote Loop since [**Mirror Entity**] turns all your creatures into Elves (and every other creature type) so this allows [**Wirewood Symbiote**] to target itself to bounce back to your hand (since it is now an Elf), untap a creature, and be re-cast, this creates infinite storm, infinite ETB triggers ([**Wirewood Hivemaster**]), and infinite mana with [**Nettle Sentinel**]
 
 Deck
 - 3 Forest
