@@ -11,7 +11,10 @@ Format
 - SOK / BOK / CHK / 5DN / DST / MRD
 
 Note
-- World Championships 2009 6-0 Extended format deck by Michael Jacob 
+- World Championships 2009 6-0 Extended format deck by Michael Jacob
+- Tap [**Grove of the Burnwillows**] to add Red Mana while opponent gains 1 Life triggers [**Punishing Fire**] in your Graveyard, pay 1 Red Mana to return [**Punishing Fire**] to your Hand to cast [**Punishing Fire**] again to deal 2 Damage
+- Combo piece can be fetched by [**Knight of the Reliquary**]
+- [**Gaddock Teeg**] shuts down opponent sweepers and prevents opponents from casting planeswalkers
 
 Deck
 - 1 Elspeth, Knight-Errant
