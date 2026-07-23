@@ -172,7 +172,6 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 - ## To Do
-- Grand Prix-Hanover 2009 Lino Burgold （エルフ！）https://mtgtop8.com/event?e=420&f=EX
 - Grand Prix-Singapore 2009 斎藤友晴（ナヤバーン）https://www.mtgtop8.com/event?e=421&f=EX 
 - Grand Prix-Kobe 2009 斎藤友晴（ナヤ・ズー）https://web.archive.org/web/20160303190259/http://magic.wizards.com/en/eventcoverage/gpkob09
 - World Championships 2009 エクステンデッド全勝 William Cavaglieri （テゼレッター）https://web.archive.org/web/20190724051506/https://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-top-extended-lists-2009-11-21
