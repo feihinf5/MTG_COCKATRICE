@@ -186,4 +186,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - The Finals09 山本明聖 （赤白上陸／集団意識） https://web.archive.org/web/20170703221836/http://archive.mtg-jp.com/eventc/finals09/article/002232/
 - Japan Legacy Championship 2009 佐宗一歩 （CounterTop-Goyf）https://web.archive.org/web/20160807145152/http://archive.mtg-jp.com/eventc/jpnats09/article/000879/ 
 - 2009 Legacy Championship Ernest Turck（ドレッジ）https://mtgdecks.net/Legacy/ichorid-decklist-by-ernest-turck-3885
-- 2009 Block Constructed Championship Brian Kowal （ナヤジャンドコントロール）https://articles.starcitygames.com/articles/feature-article-alara-block-in-the-new-standard/ 
