@@ -7,7 +7,7 @@ Format
 Note
 - 2009 Vintage Championship winning deck by Itou Hiromichi
 - Tapping [**Voltaic Key**](https://api.scryfall.com/cards/1aa4baf7-4693-4c55-af04-2fa5d901d701?format=image) to untap [**Time Vault**](https://api.scryfall.com/cards/902441dc-c976-4c92-b897-6376eaa0fe38?format=image) allowed players to take infinite turns for just 2 mana
-- [**Tezzeret the Seeker**](https://api.scryfall.com/cards/3b214b6f-4734-4200-8467-92d7e3469b5d?format=image)'s -2 ability tutored both halves of the combo ([**Time Vault**](https://api.scryfall.com/cards/902441dc-c976-4c92-b897-6376eaa0fe38?format=image) or [**Voltaic Key**](https://api.scryfall.com/cards/1aa4baf7-4693-4c55-af04-2fa5d901d701?format=image)) directly into play and its +1 ability also untapped [**Time Vault**](https://api.scryfall.com/cards/902441dc-c976-4c92-b897-6376eaa0fe38?format=image) directly, serving as an infinite turn engine on his own
+- [**Tezzeret the Seeker**](https://api.scryfall.com/cards/3b214b6f-4734-4200-8467-92d7e3469b5d?format=image)'s -X ability tutored both halves of the combo ([**Time Vault**](https://api.scryfall.com/cards/902441dc-c976-4c92-b897-6376eaa0fe38?format=image) or [**Voltaic Key**](https://api.scryfall.com/cards/1aa4baf7-4693-4c55-af04-2fa5d901d701?format=image)) directly into play and its +1 ability also untapped [**Time Vault**](https://api.scryfall.com/cards/902441dc-c976-4c92-b897-6376eaa0fe38?format=image) directly, serving as an infinite turn engine on his own
 
 Deck
 - 1 Inkwell Leviathan
