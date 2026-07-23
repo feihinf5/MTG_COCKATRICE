@@ -12,9 +12,8 @@ Format
 
 Note
 - World Championships 2009 6-0 Extended format deck by Michael Jacob
-- Tap [**Grove of the Burnwillows**] to add Red Mana while opponent gains 1 Life triggers [**Punishing Fire**] in your Graveyard, pay 1 Red Mana to return [**Punishing Fire**] to your Hand to cast [**Punishing Fire**] again to deal 2 Damage
-- Combo piece can be fetched by [**Knight of the Reliquary**]
-- [**Gaddock Teeg**] shuts down opponent sweepers and prevents opponents from casting planeswalkers
+- Tap [**Grove of the Burnwillows**](https://api.scryfall.com/cards/e0b4d4b1-6e25-4c4b-a21a-1b7b1c1d6452?format=image) to add Red Mana while opponent gains 1 Life triggers [**Punishing Fire**](https://api.scryfall.com/cards/56e76f1c-5a07-455a-a3df-4c45b5b25b82?format=image) in your Graveyard, pay 1 Red Mana to return [**Punishing Fire**](https://api.scryfall.com/cards/56e76f1c-5a07-455a-a3df-4c45b5b25b82?format=image) to your Hand to cast [**Punishing Fire**](https://api.scryfall.com/cards/56e76f1c-5a07-455a-a3df-4c45b5b25b82?format=image) again to deal 2 Damage
+- Combo piece can be fetched by [**Knight of the Reliquary**](https://api.scryfall.com/cards/ad8b8518-c09e-4cb7-95b2-08e4e370d89c?format=image)
 
 Deck
 - 1 Elspeth, Knight-Errant
