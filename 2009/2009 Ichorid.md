@@ -6,6 +6,11 @@ Format
 
 Note
 - 2009 Legacy Championship winning deck by Ernest Turck
+- Discard [**Dread Return**] via [**Putrid Imp**] or [**Lion's Eye Diamond**]
+- Cast Draw Spell, [**Breakthrough**] or [**Cephalid Coliseum**]
+- Replace every draw with [**Dread Return**] to put 15-30 cards in Graveyard
+- Free creatures [**Narcomoeba**] enter battlefield + Tokens spawn from [**Bridge from Below**]
+- Flashback [**Dread Return**] target [**Flame-Kin Zealot**] with Haste for win
 
 Deck
 - 1 Flame-Kin Zealot
