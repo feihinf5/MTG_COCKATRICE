@@ -172,7 +172,6 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 - ## To Do
-- 2009 United States National Championship Charles Gindy （5色残酷コントロール）https://web.archive.org/web/20160926095454/http://magic.wizards.com/en/events/coverage/usnat09 
 - 2009 Great Britain National Championship Daniel Gardner （青白ヒバリ）https://web.archive.org/web/20090810105229/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat09/welcome#1b
 - 2009 Argentina National Championship Alejo Zagalsky （ジャンド・アグロ）https://web.archive.org/web/20110708054336/http://nacionalmagic2009.blogspot.com/ 
 - 2009 Germany National Championship Sebastian Thaler （青白マーフォーク）https://web.archive.org/web/20110915175217/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gernat09/welcome#2
