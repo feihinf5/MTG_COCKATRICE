@@ -172,7 +172,6 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 - ## To Do
-- Grand Prix-São Paulo 2009 Daniel Almeida （白単キスキン）https://web.archive.org/web/20090616110157/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsao09/welcome
 - 2009 Finland National Championship Mikko Airaksinen （時の篩）https://web.archive.org/web/20090730023726/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/241 
 - 2009 Australia National Championship Jamie Mackintosh （親和エルフ）https://web.archive.org/web/20090722002042/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/aunat09/welcome#a
 - 2009 France National Championship Gilles Mongilardi （黒緑エルフ）https://web.archive.org/web/20090728070500/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/frnat09/welcome#1
