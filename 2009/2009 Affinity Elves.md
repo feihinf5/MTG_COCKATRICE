@@ -13,6 +13,13 @@ Format
 
 Note
 - 2009 Australia National Championship winning deck by Jamie Mackintosh
+- [**Heritage Druid**] + [**Nettle Sentinel**] allowing you to continuously generate mana out of nowhere by casting 1-mana green creatures
+- [**Devoted Druid**] + [**Elvish Archdruid**] provide massive bursts of green mana to pay for big spells early
+- [**Regal Force**], the draw engine of the deck
+- [**Ranger of Eos**] to search for [**Heritage Druid**] and [**Nettle Sentinel**] to assemble your combo loop instantly or grab utility cards like [**Burrenton Forge-Tender**] or [**Llanowar Elves**]
+- Tutor or draw into [**Mirror Entity**] and pay X mana to instantly turn all your 1/1 Elves into 10/10 or 20/20 giant creatures and swing for lethal damage in a single turn
+- [**Windbrisk Heights**], attacking with 3 tiny Elves triggers Hideaway, letting you cast high-cost spells
+- [**Cloudthresher**] provides a tutorable answer to flying armies while triggering Nettle Sentinel untaps.
 
 Deck
 - 8 Forest
