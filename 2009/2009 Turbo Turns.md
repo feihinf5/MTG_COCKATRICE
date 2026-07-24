@@ -15,7 +15,26 @@ Note
 - 2009 Finland National Championship winning deck by Mikko Airaksinen
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 7 Island
+- 3 Mystic Gate
+- 3 Plains
+- 3 Swamp
+- 4 Cryptic Command
+- 4 Elsewhere Flask
+- 4 Fieldmist Borderpost
+- 1 Font of Mythos
+- 4 Howling Mine
+- 2 Jace Beleren
+- 3 Kaleidostone
+- 4 Mistvein Borderpost
+- 4 Open the Vaults
+- 4 Pollen Lullaby
+- 2 Tezzeret the Seeker
+- 4 Time Sieve
+- 4 Time Warp
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 3 Angelsong
+- 4 Ethersworn Canonist
+- 4 Flashfreeze
+- 4 Path to Exile
