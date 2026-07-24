@@ -13,6 +13,7 @@ Format
 
 Note
 - 2009 France National Championship winning deck by Gilles Mongilardi
+- Combined raw creature efficiency ([**Putrid Leech**], [**Wren's Run Vanquisher**]) with silver-bullet protection cards ([**Great Sable Stag**], [**Chameleon Colossus**]) to exploit the specific weaknesses of blue/black-heavy tournament environments
 
 Deck
 - 5 Forest
