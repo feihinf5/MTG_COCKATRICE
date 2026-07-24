@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2009_Finland_National_Championship_winning_deck_by_Mikko_Airaksinen.png
 
 Format
 - CARD_SET
