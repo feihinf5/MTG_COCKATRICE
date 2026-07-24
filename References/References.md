@@ -1,4 +1,5 @@
 ## 2009
+- https://web.archive.org/web/20090722002042/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/aunat09/welcome#a
 - https://web.archive.org/web/20090730023726/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/241
 - https://web.archive.org/web/20090616110157/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsao09/welcome
 - https://web.archive.org/web/20090601201547/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpsea09/welcome#1
