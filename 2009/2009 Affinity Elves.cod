@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Affinity Elves</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2009 Australia National Championship winning deck by Jamie Mackintosh</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Primal Command" setShortName="LRW" collectorNumber="233" uuid="40d2c5b9-cef9-4763-8e65-e3b1418c0ad3"/>
+        <card number="2" name="Manamorphose" setShortName="SHM" collectorNumber="211" uuid="50283122-b8c4-4fb3-8eba-6252b72222f4"/>
+        <card number="1" name="Burrenton Forge-Tender" setShortName="LRW" collectorNumber="7" uuid="c000c3e4-d71a-43c8-8ded-f3da54bc088d"/>
+        <card number="1" name="Cloudthresher" setShortName="LRW" collectorNumber="202" uuid="c759c561-829d-483d-a433-fe1213f20236"/>
+        <card number="4" name="Devoted Druid" setShortName="SHM" collectorNumber="110" uuid="820e2f07-f637-4144-b45a-0e1430dcf55e"/>
+        <card number="4" name="Elvish Archdruid" setShortName="M10" collectorNumber="176" uuid="544bc214-e32d-4370-a15f-62812a0420be"/>
+        <card number="2" name="Elvish Visionary" setShortName="ALA" collectorNumber="130" uuid="faccfa5f-4d89-4a86-92d7-36cb5a16c5c9"/>
+        <card number="2" name="Elvish Visionary" setShortName="M10" collectorNumber="178" uuid="53aa3ea3-fb3c-4758-8035-20ec0a94b730"/>
+        <card number="4" name="Heritage Druid" setShortName="MOR" collectorNumber="126" uuid="a726acbd-724e-46c5-a4cf-4aee7c2abb16"/>
+        <card number="4" name="Llanowar Elves" setShortName="M10" collectorNumber="189" uuid="199e047c-823b-4d18-a5e9-6de3e6989858"/>
+        <card number="1" name="Mirror Entity" setShortName="LRW" collectorNumber="31" uuid="adfff880-cbf6-4085-bc05-c72658b75f25"/>
+        <card number="4" name="Nettle Sentinel" setShortName="EVE" collectorNumber="71" uuid="f9f21681-fd36-4106-8395-3153599a08a6"/>
+        <card number="4" name="Ranger of Eos" setShortName="ALA" collectorNumber="21" uuid="1a30ee26-5f78-4ac2-9105-1baa9ece8a21"/>
+        <card number="4" name="Regal Force" setShortName="EVE" collectorNumber="74" uuid="674a694a-22b8-4fb8-b901-91d64564c0db"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="301" uuid="7104a533-42df-4430-87dc-e0adeb7f2320"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="300" uuid="5f608a10-6bd4-4579-a08a-f7e2da383794"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="298" uuid="6d3a661e-d890-4211-bc9c-8266001ebfba"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="299" uuid="081c1f03-3251-42dc-b356-3454ebdabc2e"/>
+        <card number="1" name="Forest" setShortName="SHM" collectorNumber="298" uuid="b763764f-efb0-48c6-b353-1831164c2db5"/>
+        <card number="1" name="Forest" setShortName="SHM" collectorNumber="299" uuid="4fa690e4-dbc8-4490-8958-6eb323a05daa"/>
+        <card number="1" name="Forest" setShortName="SHM" collectorNumber="300" uuid="b6424d21-d852-4af5-96d7-cda2ba0e5912"/>
+        <card number="1" name="Forest" setShortName="SHM" collectorNumber="301" uuid="62131862-1256-4082-a83d-a0048714acb1"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="282" uuid="b8e41010-a7d2-4e78-8f7b-502347f8c47d"/>
+        <card number="4" name="Sunpetal Grove" setShortName="M10" collectorNumber="228" uuid="9f4e8ead-8c82-4258-bc59-551f7a74e042"/>
+        <card number="2" name="Windbrisk Heights" setShortName="LRW" collectorNumber="281" uuid="9df6a31a-5c49-4506-b8f8-84c9ab4a2ece"/>
+        <card number="4" name="Wooded Bastion" setShortName="SHM" collectorNumber="281" uuid="7e088fe6-e47a-4e27-b07e-ec35db045359"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Burrenton Forge-Tender" setShortName="LRW" collectorNumber="7" uuid="c000c3e4-d71a-43c8-8ded-f3da54bc088d"/>
+        <card number="2" name="Cloudthresher" setShortName="LRW" collectorNumber="202" uuid="c759c561-829d-483d-a433-fe1213f20236"/>
+        <card number="4" name="Great Sable Stag" setShortName="M10" collectorNumber="186" uuid="451c8a79-1e8a-437d-836f-31155914c551"/>
+        <card number="3" name="Oversoul of Dusk" setShortName="SHM" collectorNumber="234" uuid="8893842f-aa3f-45f6-8139-ca775d33792b"/>
+        <card number="1" name="Platinum Angel" setShortName="M10" collectorNumber="218" uuid="7b782865-b9d1-41ed-8a7b-a36c17022190"/>
+        <card number="2" name="Qasali Pridemage" setShortName="ARB" collectorNumber="75" uuid="75256550-bbe0-499d-909e-af10691749c2"/>
+    </zone>
+</cockatrice_deck>
