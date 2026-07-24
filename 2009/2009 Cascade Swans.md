@@ -12,7 +12,14 @@ Format
 - 10E
 
 Note
-- Grand Prix-Barcelona 2009 winning deck by Joel Calafell 
+- Grand Prix-Barcelona 2009 winning deck by Joel Calafell
+- 41 out of 60 cards are lands
+- Cast [**Bloodbraid Elf**], its Cascade trigger is 100% guaranteed to find and immediately play [**Seismic Assault**] for free
+- [**Bituminous Blast**] and [**Captured Sunlight**], these cascade down into either a [**Bloodbraid Elf**] or a [**Seismic Assault**], essentially acting as extra tutors to ensure you find your combo pieces instantly
+- [**Ad Nauseam**] allows you to draw 15–20 cards (mostly lands) for very little life, you can then pitch those lands directly to [**Seismic Assault**]
+- When both [**Swans of Bryn Argoll**] + [**Seismic Assault**] in play, discard a land card to [**Seismic Assault**], targeting [**Swans of Bryn Argoll**]
+- [**Seismic Assault**] deals 2 damage to [**Swans of Bryn Argoll**] and it prevents the damage and forces you to draw 2 cards
+- Repeat this loop continuously to draw through almost your entire deck and once you hold 10–12 lands in hand, discard those lands straight to your opponent to deal 20–24 lethal damage
 
 Deck
 - 2 Battlefield Forge
