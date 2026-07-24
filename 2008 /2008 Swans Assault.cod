@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 Swans Assault</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2008 Australia National Championships winning deck by Aaron Nicastri</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Telling Time" setShortName="10E" collectorNumber="114" uuid="3caf69d0-58bd-4cd1-9108-56e6cbf882e4"/>
+        <card number="4" name="Seismic Assault" setShortName="10E" collectorNumber="228" uuid="14363cc7-ef76-41ad-9307-8ab3ed469a23"/>
+        <card number="4" name="Lotus Bloom" setShortName="TSP" collectorNumber="259" uuid="73127ee0-9a0c-48fa-9c60-b4c600ace8f7"/>
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="4" name="Beseech the Queen" setShortName="SHM" collectorNumber="57" uuid="64ee0a93-0f6d-42be-bdca-1de5422d8d54"/>
+        <card number="4" name="Ponder" setShortName="LRW" collectorNumber="79" uuid="ba6b6fc5-5077-4812-b8e9-906783dbaf67"/>
+        <card number="2" name="Gaea's Blessing" setShortName="TSB" collectorNumber="77" uuid="2f5ded38-db2d-490c-9521-200da0386232"/>
+        <card number="4" name="Swans of Bryn Argoll" setShortName="SHM" collectorNumber="151" uuid="0cdf78b7-3c32-422a-a73f-d198e6f06290"/>
+        <card number="3" name="Vendilion Clique" setShortName="MOR" collectorNumber="55" uuid="f53d8540-fb6d-4d4c-b467-ebfbfa53c880"/>
+        <card number="4" name="Dakmor Salvage" setShortName="FUT" collectorNumber="169" uuid="8f7f06e8-d8ee-435c-965c-8e1302a8ec10"/>
+        <card number="4" name="Gemstone Mine" setShortName="TSB" collectorNumber="119" uuid="26794aa3-7532-4611-a591-51a51e5f9189"/>
+        <card number="2" name="Graven Cairns" setShortName="SHM" collectorNumber="272" uuid="c355bf63-f456-43ad-a6df-6c2a17511f43"/>
+        <card number="2" name="Graven Cairns" setShortName="FUT" collectorNumber="175" uuid="81e7d329-ef6a-45f3-82b6-37a3606c00bc"/>
+        <card number="4" name="Reflecting Pool" setShortName="SHM" collectorNumber="278" uuid="3d03dc37-03fb-47b2-aa25-60a85d0d94dd"/>
+        <card number="4" name="Shivan Reef" setShortName="10E" collectorNumber="357" uuid="d62ea973-7799-4179-9d36-60e2287feae7"/>
+        <card number="4" name="Vivid Creek" setShortName="LRW" collectorNumber="276" uuid="2e3c2935-84ee-446d-b247-2f574ea84a8f"/>
+        <card number="3" name="Vivid Marsh" setShortName="LRW" collectorNumber="278" uuid="31f806c7-0063-4270-b37c-5363c41a7621"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Imp's Mischief" setShortName="PLC" collectorNumber="72" uuid="22ec70a6-40b7-41da-a6c0-c140cadf5509"/>
+        <card number="2" name="Krosan Grip" setShortName="TSP" collectorNumber="202" uuid="59b524bb-5a18-4dda-9c45-26ce9ff0f0c1"/>
+        <card number="3" name="Pact of Negation" setShortName="FUT" collectorNumber="42" uuid="cca467a2-a2b3-4bdf-9d60-62979f675347"/>
+        <card number="3" name="Damnation" setShortName="PLC" collectorNumber="85" uuid="26c68473-70ca-40ba-b5c6-71ec30f88a2c"/>
+        <card number="3" name="Firespout" setShortName="SHM" collectorNumber="205" uuid="13454f69-1458-4c03-ab02-bd697a32eb17"/>
+    </zone>
+</cockatrice_deck>
