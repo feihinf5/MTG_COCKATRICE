@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2009_Grand_Prix_Seatle_Tacoma_winning_deck_by_Yann_Massicard.png
 
 Format
 - CARD_SET
