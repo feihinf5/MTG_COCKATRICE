@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2009_Grand_Prix_S%C3%A3o_Paulo_winning_deck_by_Daniel_de_Almeida_Alves.png
 
 Format
 - CARD_SET
