@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2008 Swans Plasma</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2008 6-0 Extended format deck by Luis Scott-Vargas</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Breeding Pool" setShortName="DIS" collectorNumber="172" uuid="b98b2a35-ec2b-47fe-903d-dd292e469a3c"/>
+        <card number="1" name="Cascade Bluffs" setShortName="EVE" collectorNumber="175" uuid="c3eede44-270a-481d-850b-b4862b9685ea"/>
+        <card number="3" name="Flooded Strand" setShortName="ONS" collectorNumber="316" uuid="b4e3d844-d3b4-41d8-921d-c1cb3af343f8"/>
+        <card number="4" name="Polluted Delta" setShortName="ONS" collectorNumber="321" uuid="0f7585c8-9e21-4eef-afc1-2852de23db2f"/>
+        <card number="8" name="Snow-Covered Island" setShortName="CSP" collectorNumber="152" uuid="6abf0692-07d1-4b72-af06-93d0e338589d"/>
+        <card number="2" name="Steam Vents" setShortName="GPT" collectorNumber="164" uuid="054f2276-2dd5-43da-bb26-c57c560861fe"/>
+        <card number="1" name="Watery Grave" setShortName="RAV" collectorNumber="286" uuid="139b90cd-8272-457a-be32-1298145345be"/>
+        <card number="1" name="Blood Moon" setShortName="9ED" collectorNumber="176" uuid="18fec1a2-20b0-4412-9392-8a5004f9027e"/>
+        <card number="2" name="Blood Moon" setShortName="8ED" collectorNumber="178" uuid="2d75a5e3-4bec-4c2c-a9ad-f894cde292fd"/>
+        <card number="4" name="Chrome Mox" setShortName="MRD" collectorNumber="152" uuid="6a058e68-70af-4a64-859c-c881e5578368"/>
+        <card number="2" name="Engineered Explosives" setShortName="5DN" collectorNumber="118" uuid="8492a272-e595-4f94-a6eb-08d29f211fd6"/>
+        <card number="4" name="Chain of Plasma" setShortName="ONS" collectorNumber="193" uuid="f94aa774-9036-4016-8880-4bde2710cb90"/>
+        <card number="2" name="Condescend" setShortName="5DN" collectorNumber="27" uuid="e8303b80-e29a-46b8-90b0-c0cfe551b435"/>
+        <card number="1" name="Mana Leak" setShortName="8ED" collectorNumber="89" uuid="56707af4-eb74-4b33-8741-6cc9b547d919"/>
+        <card number="1" name="Mana Leak" setShortName="9ED" collectorNumber="86" uuid="60e6486c-644f-4b32-b4e9-3ca29bbdb400"/>
+        <card number="4" name="Spell Snare" setShortName="DIS" collectorNumber="33" uuid="35554fdf-c70a-4baa-a35a-414caa9978be"/>
+        <card number="4" name="Thirst for Knowledge" setShortName="MRD" collectorNumber="53" uuid="0ff1f608-203e-4413-8753-37fc49731c87"/>
+        <card number="1" name="Conflagrate" setShortName="TSP" collectorNumber="151" uuid="efc5f7fb-b7a6-433d-a0bb-240c7aa0a720"/>
+        <card number="4" name="Firespout" setShortName="SHM" collectorNumber="205" uuid="13454f69-1458-4c03-ab02-bd697a32eb17"/>
+        <card number="4" name="Ponder" setShortName="LRW" collectorNumber="79" uuid="ba6b6fc5-5077-4812-b8e9-906783dbaf67"/>
+        <card number="2" name="Simian Spirit Guide" setShortName="PLC" collectorNumber="122" uuid="5d7f701c-dcdc-4067-8d00-b4b7aadee9ba"/>
+        <card number="4" name="Swans of Bryn Argoll" setShortName="SHM" collectorNumber="151" uuid="0cdf78b7-3c32-422a-a73f-d198e6f06290"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Ancient Grudge" setShortName="TSP" collectorNumber="143" uuid="89cbad1f-4f16-4d5f-a485-5bf950565216"/>
+        <card number="1" name="Gigadrowse" setShortName="GPT" collectorNumber="26" uuid="bf9f85b3-eb8c-43de-aaac-8a887e9c58da"/>
+        <card number="1" name="Muddle the Mixture" setShortName="RAV" collectorNumber="60" uuid="4cc785b0-0a77-4b02-b0b4-2bda2fc621cc"/>
+        <card number="2" name="Mystical Teachings" setShortName="TSP" collectorNumber="69" uuid="a057e5f3-b6bd-4995-b990-714201f36989"/>
+        <card number="2" name="Pact of Negation" setShortName="FUT" collectorNumber="42" uuid="cca467a2-a2b3-4bdf-9d60-62979f675347"/>
+        <card number="1" name="Remove Soul" setShortName="8ED" collectorNumber="95" uuid="b0ff7228-3040-409e-865e-999bbb779f19"/>
+        <card number="1" name="Remove Soul" setShortName="9ED" collectorNumber="93" uuid="171fa545-724c-465e-96f6-dc738c0be59d"/>
+        <card number="1" name="Vexing Shusher" setShortName="SHM" collectorNumber="222" uuid="ae04d776-c9e3-4ff7-998d-d264754d61db"/>
+        <card number="2" name="Engineered Explosives" setShortName="5DN" collectorNumber="118" uuid="8492a272-e595-4f94-a6eb-08d29f211fd6"/>
+        <card number="1" name="Blood Moon" setShortName="9ED" collectorNumber="176" uuid="18fec1a2-20b0-4412-9392-8a5004f9027e"/>
+    </zone>
+</cockatrice_deck>
