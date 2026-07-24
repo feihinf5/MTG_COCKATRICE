@@ -1,4 +1,5 @@
 ## 2009
+- https://web.archive.org/web/20090601202309/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpbar09/welcome#1
 - https://web.archive.org/web/20160807145152/http://archive.mtg-jp.com/eventc/jpnats09/article/000879/
 - https://web.archive.org/web/20190724051506/https://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-top-extended-lists-2009-11-21
 - https://web.archive.org/web/20160303190259/http://magic.wizards.com/en/eventcoverage/gpkob09
