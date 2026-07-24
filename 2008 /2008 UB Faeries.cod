@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Mon Jun 15 21:59:59 2026</lastLoadedTimestamp>
+    <deckname>2008 UB Faeries</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2008 winning deck by Antti Malin</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="4" name="Bitterblossom" setShortName="MOR" collectorNumber="58" uuid="8145fed6-6b51-420a-84cf-4ea5e0aa1883"/>
+        <card number="3" name="Broken Ambitions" setShortName="LRW" collectorNumber="54" uuid="8052d90b-bc49-4a9e-9211-159a54aa2bcd"/>
+        <card number="4" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="3" name="Remove Soul" setShortName="10E" collectorNumber="100" uuid="35673701-684c-4ba6-99f5-74364bc6fec2"/>
+        <card number="1" name="Terror" setShortName="10E" collectorNumber="182" uuid="3d1ccc3b-a6bd-4dc8-b7ba-99172d612106"/>
+        <card number="4" name="Agony Warp" setShortName="ALA" collectorNumber="153" uuid="e246294f-7614-48e9-a655-647faf0bf697"/>
+        <card number="4" name="Mistbind Clique" setShortName="LRW" collectorNumber="75" uuid="cfc421e2-0dd4-4bdf-b5f5-a60c4b0df63b"/>
+        <card number="2" name="Sower of Temptation" setShortName="LRW" collectorNumber="88" uuid="2f5320da-7214-4348-84d8-74bf951c9f2f"/>
+        <card number="4" name="Spellstutter Sprite" setShortName="LRW" collectorNumber="89" uuid="4e5ba4a9-a282-4d4b-b25a-179e05e458f4"/>
+        <card number="2" name="Vendilion Clique" setShortName="MOR" collectorNumber="55" uuid="f53d8540-fb6d-4d4c-b467-ebfbfa53c880"/>
+        <card number="1" name="Faerie Conclave" setShortName="10E" collectorNumber="351" uuid="69df4707-09c5-48e7-9681-0cf7960aeeb1"/>
+        <card number="1" name="Island" setShortName="10E" collectorNumber="371" uuid="f3d3de4f-dfef-4c04-a297-4fd90884087e"/>
+        <card number="1" name="Island" setShortName="10E" collectorNumber="370" uuid="a9eebf59-25ec-448f-b7a6-df9a1ecad3a2"/>
+        <card number="1" name="Island" setShortName="10E" collectorNumber="369" uuid="8a5328db-c55a-488d-b085-fcfa7be184ca"/>
+        <card number="1" name="Island" setShortName="10E" collectorNumber="368" uuid="b74648fc-587c-4d20-9432-58465bd7dca9"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="289" uuid="a35d9548-f495-43ef-af66-e13a84c1f12a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="288" uuid="d714d196-8cbc-4b53-8219-21044a017bce"/>
+        <card number="4" name="Mutavault" setShortName="MOR" collectorNumber="148" uuid="8ca3c48b-f104-4292-9a4e-2ce87a65893c"/>
+        <card number="4" name="Secluded Glen" setShortName="LRW" collectorNumber="271" uuid="9e4afa65-7933-4a64-b50f-a9a9f832b112"/>
+        <card number="4" name="Sunken Ruins" setShortName="SHM" collectorNumber="280" uuid="9d91a31c-b70a-45bd-a8dd-48d49b277f24"/>
+        <card number="1" name="Swamp" setShortName="10E" collectorNumber="375" uuid="0eed3360-1634-4e60-b24d-4128c4896994"/>
+        <card number="1" name="Swamp" setShortName="10E" collectorNumber="374" uuid="9eaedaf2-a9a3-44c6-84c1-4cc2da1da459"/>
+        <card number="4" name="Underground River" setShortName="10E" collectorNumber="362" uuid="8c298bf7-2514-43d4-a285-1386d6ba0835"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Jace Beleren" setShortName="LRW" collectorNumber="71" uuid="cdffb058-1af0-41bb-956a-ae10e092c389"/>
+        <card number="1" name="Sower of Temptation" setShortName="LRW" collectorNumber="88" uuid="2f5320da-7214-4348-84d8-74bf951c9f2f"/>
+        <card number="1" name="Mind Shatter" setShortName="MOR" collectorNumber="66" uuid="db6b2715-4d19-4980-8f5c-3ae20af6af72"/>
+        <card number="1" name="Ponder" setShortName="LRW" collectorNumber="79" uuid="ba6b6fc5-5077-4812-b8e9-906783dbaf67"/>
+        <card number="4" name="Infest" setShortName="ALA" collectorNumber="80" uuid="fb9dd080-5e13-4334-8614-8eec41ae89c2"/>
+        <card number="2" name="Glen Elendra Archmage" setShortName="EVE" collectorNumber="22" uuid="09516d3d-e6c2-4359-af2a-a4aa244ca033"/>
+        <card number="4" name="Flashfreeze" setShortName="10E" collectorNumber="84" uuid="6d3e5fd8-2542-4fc9-a806-d9af287dd734"/>
+    </zone>
+</cockatrice_deck>
