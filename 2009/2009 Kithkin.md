@@ -13,8 +13,8 @@ Format
 
 Note
 - Grand Prix-São Paulo 2009 winning deck by Daniel de Almeida Alves
-- Rapidly flooding the battlefield with small creatures (via [**Spectral Procession**] and [**Cloudgoat Ranger**])
-- The trick is attacking with 3 creatures unlocks [**Windbrisk Heights**]
+- Rapidly flooding the battlefield with small creatures (via [**Spectral Procession**](https://api.scryfall.com/cards/5e26bd0c-5ec7-4653-8e63-747157c20af1?format=image) and [**Cloudgoat Ranger**](https://api.scryfall.com/cards/9e344859-7248-4498-8303-252f196a007b?format=image))
+- The trick is attacking with 3 creatures unlocks [**Windbrisk Heights**](https://api.scryfall.com/cards/9df6a31a-5c49-4506-b8f8-84c9ab4a2ece?format=image)
 
 Deck
 - 2 Mutavault
