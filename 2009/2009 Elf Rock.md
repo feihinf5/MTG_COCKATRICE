@@ -13,7 +13,7 @@ Format
 
 Note
 - 2009 France National Championship winning deck by Gilles Mongilardi
-- Combined raw creature efficiency ([**Putrid Leech**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Wren's Run Vanquisher**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)) with silver-bullet protection cards ([**Great Sable Stag**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Chameleon Colossus**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)) to exploit the specific weaknesses of blue/black-heavy tournament environments
+- Combined raw creature efficiency ([**Putrid Leech**](https://api.scryfall.com/cards/aaa47568-5668-4a9f-ad1c-9a13010ffc2b?format=image), [**Wren's Run Vanquisher**](https://api.scryfall.com/cards/f9c411a0-b8dd-4394-852a-a29dbcec953b?format=image)) with silver-bullet protection cards ([**Great Sable Stag**](https://api.scryfall.com/cards/451c8a79-1e8a-437d-836f-31155914c551?format=image), [**Chameleon Colossus**](https://api.scryfall.com/cards/5459f1e6-7019-427d-9e2d-e494b3cd52d2?format=image)) to exploit the specific weaknesses of blue/black-heavy tournament environments
 
 Deck
 - 5 Forest
