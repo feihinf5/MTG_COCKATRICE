@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Elf Rock</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2009 France National Championship winning deck by Gilles Mongilardi</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Nameless Inversion" setShortName="LRW" collectorNumber="128" uuid="94b4e4d2-2358-48d2-9a2a-3d17afea28f5"/>
+        <card number="2" name="Profane Command" setShortName="LRW" collectorNumber="135" uuid="752bf7fd-c49e-42fa-bbdd-8ca5d4c89b2b"/>
+        <card number="4" name="Maelstrom Pulse" setShortName="ARB" collectorNumber="92" uuid="eb651c3a-cb27-4b73-8eb6-b87d65211097"/>
+        <card number="3" name="Chameleon Colossus" setShortName="MOR" collectorNumber="116" uuid="5459f1e6-7019-427d-9e2d-e494b3cd52d2"/>
+        <card number="4" name="Great Sable Stag" setShortName="M10" collectorNumber="186" uuid="451c8a79-1e8a-437d-836f-31155914c551"/>
+        <card number="4" name="Kitchen Finks" setShortName="SHM" collectorNumber="229" uuid="7d203208-8a21-4c68-afa2-4efd8726f026"/>
+        <card number="4" name="Llanowar Elves" setShortName="M10" collectorNumber="189" uuid="199e047c-823b-4d18-a5e9-6de3e6989858"/>
+        <card number="4" name="Putrid Leech" setShortName="ARB" collectorNumber="95" uuid="aaa47568-5668-4a9f-ad1c-9a13010ffc2b"/>
+        <card number="4" name="Wilt-Leaf Liege" setShortName="SHM" collectorNumber="245" uuid="e6a2881f-e771-47d7-a39e-692054ee727f"/>
+        <card number="4" name="Wren's Run Vanquisher" setShortName="LRW" collectorNumber="245" uuid="f9c411a0-b8dd-4394-852a-a29dbcec953b"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="301" uuid="7104a533-42df-4430-87dc-e0adeb7f2320"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="300" uuid="5f608a10-6bd4-4579-a08a-f7e2da383794"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="299" uuid="081c1f03-3251-42dc-b356-3454ebdabc2e"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="298" uuid="6d3a661e-d890-4211-bc9c-8266001ebfba"/>
+        <card number="1" name="Forest" setShortName="SHM" collectorNumber="301" uuid="62131862-1256-4082-a83d-a0048714acb1"/>
+        <card number="4" name="Gilt-Leaf Palace" setShortName="LRW" collectorNumber="268" uuid="cc4bbbb5-4218-4b2a-9ca2-de4d5f5dda19"/>
+        <card number="4" name="Murmuring Bosk" setShortName="MOR" collectorNumber="147" uuid="7d4f8cc7-3d02-4cf2-920f-2cc32b58f397"/>
+        <card number="4" name="Mutavault" setShortName="MOR" collectorNumber="148" uuid="8ca3c48b-f104-4292-9a4e-2ce87a65893c"/>
+        <card number="1" name="Swamp" setShortName="LRW" collectorNumber="290" uuid="4f799604-bbbf-4d57-83c8-13a0eafa974e"/>
+        <card number="1" name="Swamp" setShortName="LRW" collectorNumber="291" uuid="8f9dc477-a3e4-4fc0-af62-c8b8eb68d360"/>
+        <card number="4" name="Twilight Mire" setShortName="EVE" collectorNumber="180" uuid="ff619a09-4fe5-4341-9077-88a0a9f4fbf9"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Pithing Needle" setShortName="M10" collectorNumber="217" uuid="c300dcb0-1909-47d8-9818-46b2763d2bf9"/>
+        <card number="2" name="Haunting Echoes" setShortName="M10" collectorNumber="98" uuid="720e9113-6e97-43af-9e61-71c7917c0870"/>
+        <card number="2" name="Primal Command" setShortName="LRW" collectorNumber="233" uuid="40d2c5b9-cef9-4763-8e65-e3b1418c0ad3"/>
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="2" name="Infest" setShortName="ALA" collectorNumber="80" uuid="fb9dd080-5e13-4334-8614-8eec41ae89c2"/>
+        <card number="2" name="Doom Blade" setShortName="M10" collectorNumber="93" uuid="6e19acff-f3dd-417a-a9ab-ea3e36c1ba61"/>
+        <card number="2" name="Guttural Response" setShortName="SHM" collectorNumber="208" uuid="e0662ab6-b475-4b8d-ae77-a9b654e611da"/>
+    </zone>
+</cockatrice_deck>
