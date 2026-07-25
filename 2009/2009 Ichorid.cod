@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Ichorid</deckname>
+    <format>legacy</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2009 Legacy Championship winning deck by Ernest Turck</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Cephalid Coliseum" setShortName="ODY" collectorNumber="317" uuid="d5d74112-7244-4c3f-a5eb-b6be671aefe8"/>
+        <card number="1" name="City of Brass" setShortName="ARN" collectorNumber="71" uuid="f4e32327-380d-471e-813b-4c27477787ce"/>
+        <card number="1" name="City of Brass" setShortName="CHR" collectorNumber="112" uuid="61e9c770-f05b-40df-a01f-82b734db1733"/>
+        <card number="1" name="City of Brass" setShortName="5ED" collectorNumber="413" uuid="56816a2d-4faa-4fbd-bf1a-35fa3e90ccf6"/>
+        <card number="1" name="City of Brass" setShortName="6ED" collectorNumber="321" uuid="81ff64e0-e7bd-4e82-8495-2cc8889c4107"/>
+        <card number="1" name="Gemstone Mine" setShortName="TSB" collectorNumber="119" uuid="26794aa3-7532-4611-a591-51a51e5f9189"/>
+        <card number="4" name="Bridge from Below" setShortName="FUT" collectorNumber="81" uuid="52c44610-6d4b-4c14-839f-2c085badec90"/>
+        <card number="4" name="Breakthrough" setShortName="TOR" collectorNumber="26" uuid="a59a2cea-3b65-43da-bc6e-0e3c82f25b3c"/>
+        <card number="4" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="2" name="Deep Analysis" setShortName="TOR" collectorNumber="36" uuid="01e3c2e9-d8df-4a7a-be86-7be8c6254fa2"/>
+        <card number="3" name="Dread Return" setShortName="TSP" collectorNumber="104" uuid="d7e304fc-0ace-459e-8d2f-376f1899639c"/>
+        <card number="4" name="Lion's Eye Diamond" setShortName="MIR" collectorNumber="307" uuid="63bacc32-d6ba-420c-9b49-299c08e5fb39"/>
+        <card number="4" name="Lotus Petal" setShortName="TMP" collectorNumber="294" uuid="6c877da3-68fa-41d0-8a24-8c79fcd8ecc1"/>
+        <card number="1" name="Flame-Kin Zealot" setShortName="RAV" collectorNumber="206" uuid="aec53f16-5bf7-4ef5-b83e-9e36463d1640"/>
+        <card number="4" name="Golgari Grave-Troll" setShortName="RAV" collectorNumber="167" uuid="f61b50e6-2166-435d-bf48-c4a0cff9999c"/>
+        <card number="3" name="Golgari Thug" setShortName="RAV" collectorNumber="87" uuid="87c39e21-3e2f-4cbf-9f99-69e977924a73"/>
+        <card number="4" name="Ichorid" setShortName="TOR" collectorNumber="65" uuid="97431dca-54ca-47ef-ab00-943140e8e758"/>
+        <card number="4" name="Narcomoeba" setShortName="FUT" collectorNumber="54" uuid="f76b3746-2e2c-4560-a2d2-e7b5b92833b2"/>
+        <card number="4" name="Putrid Imp" setShortName="TOR" collectorNumber="77" uuid="1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5"/>
+        <card number="2" name="Sadistic Hypnotist" setShortName="ODY" collectorNumber="159" uuid="98a6fba0-e5fc-4fa8-9895-8e4b8272bebe"/>
+        <card number="4" name="Stinkweed Imp" setShortName="RAV" collectorNumber="107" uuid="628903a0-6695-4643-80f3-9a6efc4d6a27"/>
+        <card number="1" name="Tireless Tribe" setShortName="ODY" collectorNumber="56" uuid="1d23e47a-21d5-4d7e-8aa0-3b3064da5967"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="2" name="Pithing Needle" setShortName="10E" collectorNumber="338" uuid="79d8adbf-37b8-4d69-b25a-57ebd777b53d"/>
+        <card number="4" name="Leyline of the Void" setShortName="GPT" collectorNumber="52" uuid="37dfe8b8-b39e-4e70-9e5b-be42c93b4f70"/>
+        <card number="2" name="Ancient Grudge" setShortName="TSP" collectorNumber="143" uuid="89cbad1f-4f16-4d5f-a485-5bf950565216"/>
+        <card number="4" name="Firestorm" setShortName="WTH" collectorNumber="101" uuid="e674aa8a-668a-4345-95ee-73a0b87bbcb1"/>
+        <card number="1" name="Ray of Revelation" setShortName="JUD" collectorNumber="20" uuid="6d762c8c-6172-4dc0-8fcc-d0f6dd8ca013"/>
+    </zone>
+</cockatrice_deck>
