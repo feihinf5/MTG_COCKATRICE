@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Doran</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Seatle/Tacoma 2009 winning deck by Yann Massicard</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Nameless Inversion" setShortName="LRW" collectorNumber="128" uuid="94b4e4d2-2358-48d2-9a2a-3d17afea28f5"/>
+        <card number="4" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="4" name="Maelstrom Pulse" setShortName="ARB" collectorNumber="92" uuid="eb651c3a-cb27-4b73-8eb6-b87d65211097"/>
+        <card number="1" name="Behemoth Sledge" setShortName="ARB" collectorNumber="65" uuid="84e4a224-2db7-47d0-ba8b-98aeb50ad5d3"/>
+        <card number="3" name="Dauntless Escort" setShortName="ARB" collectorNumber="67" uuid="832309e0-c047-4c82-baa3-16f3c76e4b6f"/>
+        <card number="4" name="Doran, the Siege Tower" setShortName="LRW" collectorNumber="247" uuid="b006b169-295d-4ead-8e8e-29a9c3246025"/>
+        <card number="3" name="Gaddock Teeg" setShortName="LRW" collectorNumber="248" uuid="32c16e1b-f4ce-409f-928a-42c666adac9d"/>
+        <card number="4" name="Knotvine Paladin" setShortName="ARB" collectorNumber="71" uuid="a715673f-77f1-46d6-91ae-01fb3af54760"/>
+        <card number="4" name="Noble Hierarch" setShortName="CON_" collectorNumber="87" uuid="6adfe928-1305-444d-b709-1e714544daaf"/>
+        <card number="3" name="Qasali Pridemage" setShortName="ARB" collectorNumber="75" uuid="75256550-bbe0-499d-909e-af10691749c2"/>
+        <card number="4" name="Treefolk Harbinger" setShortName="LRW" collectorNumber="239" uuid="9ef45cdc-2e1c-40c7-8978-b09a50f511fb"/>
+        <card number="4" name="Wilt-Leaf Liege" setShortName="SHM" collectorNumber="245" uuid="e6a2881f-e771-47d7-a39e-692054ee727f"/>
+        <card number="2" name="Brushland" setShortName="10E" collectorNumber="349" uuid="70afcfca-c065-4a33-95b1-ec2b08bcb493"/>
+        <card number="1" name="Forest" setShortName="10E" collectorNumber="380" uuid="d99d5685-538d-4e6a-809b-3ebeab634363"/>
+        <card number="1" name="Forest" setShortName="10E" collectorNumber="381" uuid="b70e30de-fc01-4512-b218-a1411cb50789"/>
+        <card number="1" name="Forest" setShortName="10E" collectorNumber="382" uuid="9fc29dea-b48c-4363-8f17-da0413a49a92"/>
+        <card number="4" name="Llanowar Wastes" setShortName="10E" collectorNumber="355" uuid="fa9d9e2d-6176-4593-b34a-c892a7b34695"/>
+        <card number="4" name="Murmuring Bosk" setShortName="MOR" collectorNumber="147" uuid="7d4f8cc7-3d02-4cf2-920f-2cc32b58f397"/>
+        <card number="1" name="Plains" setShortName="10E" collectorNumber="364" uuid="7cfd53b2-3991-4a57-81b5-46618aecce4a"/>
+        <card number="3" name="Treetop Village" setShortName="10E" collectorNumber="361" uuid="de15f8fd-499c-4fa0-9a10-425f81c61579"/>
+        <card number="4" name="Wooded Bastion" setShortName="SHM" collectorNumber="281" uuid="7e088fe6-e47a-4e27-b07e-ec35db045359"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Zealous Persecution" setShortName="ARB" collectorNumber="85" uuid="07d8ae46-14ec-4878-ba8a-a47d4508c6d7"/>
+        <card number="3" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="2" name="Pithing Needle" setShortName="10E" collectorNumber="338" uuid="79d8adbf-37b8-4d69-b25a-57ebd777b53d"/>
+        <card number="1" name="Burrenton Forge-Tender" setShortName="LRW" collectorNumber="7" uuid="c000c3e4-d71a-43c8-8ded-f3da54bc088d"/>
+        <card number="3" name="Kitchen Finks" setShortName="SHM" collectorNumber="229" uuid="7d203208-8a21-4c68-afa2-4efd8726f026"/>
+        <card number="1" name="Everlasting Torment" setShortName="SHM" collectorNumber="186" uuid="2fa67c32-aeca-473d-994f-58ffc3a6a310"/>
+        <card number="1" name="Aura of Silence" setShortName="10E" collectorNumber="6" uuid="ae635d18-5d22-494c-8bc7-5d52f3021cbb"/>
+    </zone>
+</cockatrice_deck>
