@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Cascade Swans</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Barcelona 2009 winning deck by Joel Calafell</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Seismic Assault" setShortName="10E" collectorNumber="228" uuid="14363cc7-ef76-41ad-9307-8ab3ed469a23"/>
+        <card number="2" name="Captured Sunlight" setShortName="ARB" collectorNumber="66" uuid="fcafc9eb-efa3-4f6c-a2ca-aec8692fddc1"/>
+        <card number="1" name="Primal Command" setShortName="LRW" collectorNumber="233" uuid="40d2c5b9-cef9-4763-8e65-e3b1418c0ad3"/>
+        <card number="2" name="Ad Nauseam" setShortName="ALA" collectorNumber="63" uuid="0a4ce4a1-65e3-4b40-be35-8fc55a968ec8"/>
+        <card number="2" name="Bituminous Blast" setShortName="ARB" collectorNumber="34" uuid="fd6a3c48-b01e-4462-a4a1-8d5009a6a844"/>
+        <card number="4" name="Bloodbraid Elf" setShortName="ARB" collectorNumber="50" uuid="7ef67487-c8e5-49bb-b0f7-e073ff2e31f1"/>
+        <card number="4" name="Swans of Bryn Argoll" setShortName="SHM" collectorNumber="151" uuid="0cdf78b7-3c32-422a-a73f-d198e6f06290"/>
+        <card number="2" name="Battlefield Forge" setShortName="10E" collectorNumber="348" uuid="e0df1e5f-8cef-4e13-babf-4254a85ac46b"/>
+        <card number="2" name="Cascade Bluffs" setShortName="EVE" collectorNumber="175" uuid="c3eede44-270a-481d-850b-b4862b9685ea"/>
+        <card number="4" name="Fire-Lit Thicket" setShortName="SHM" collectorNumber="271" uuid="0ab9d6ad-f819-4a1e-b4ff-8dc00791f0fd"/>
+        <card number="2" name="Ghitu Encampment" setShortName="10E" collectorNumber="353" uuid="0a4f58d5-1dc0-4824-a554-56adc1700d33"/>
+        <card number="4" name="Graven Cairns" setShortName="SHM" collectorNumber="272" uuid="c355bf63-f456-43ad-a6df-6c2a17511f43"/>
+        <card number="1" name="Mountain" setShortName="10E" collectorNumber="376" uuid="a7aae748-27d8-48f8-beb2-8e0192d7cc5c"/>
+        <card number="4" name="Reflecting Pool" setShortName="SHM" collectorNumber="278" uuid="3d03dc37-03fb-47b2-aa25-60a85d0d94dd"/>
+        <card number="4" name="Spinerock Knoll" setShortName="LRW" collectorNumber="274" uuid="dec6abed-8fbb-4d3e-8f89-64ea1b3913db"/>
+        <card number="4" name="Treetop Village" setShortName="10E" collectorNumber="361" uuid="de15f8fd-499c-4fa0-9a10-425f81c61579"/>
+        <card number="4" name="Vivid Crag" setShortName="LRW" collectorNumber="275" uuid="539001dc-69f0-42c0-b5c3-37d7b12eb79e"/>
+        <card number="1" name="Vivid Creek" setShortName="LRW" collectorNumber="276" uuid="2e3c2935-84ee-446d-b247-2f574ea84a8f"/>
+        <card number="4" name="Vivid Grove" setShortName="LRW" collectorNumber="277" uuid="6646babe-edd8-4367-ba8f-89af4f859dd8"/>
+        <card number="1" name="Vivid Marsh" setShortName="LRW" collectorNumber="278" uuid="31f806c7-0063-4270-b37c-5363c41a7621"/>
+        <card number="4" name="Vivid Meadow" setShortName="LRW" collectorNumber="279" uuid="a535790b-d416-4807-bca0-acf6b192101c"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Maelstrom Pulse" setShortName="ARB" collectorNumber="92" uuid="eb651c3a-cb27-4b73-8eb6-b87d65211097"/>
+        <card number="2" name="Vexing Shusher" setShortName="SHM" collectorNumber="222" uuid="ae04d776-c9e3-4ff7-998d-d264754d61db"/>
+        <card number="2" name="Wrath of God" setShortName="10E" collectorNumber="61" uuid="b969f680-b176-4bfa-a160-714de8e03c25"/>
+        <card number="2" name="Wickerbough Elder" setShortName="EVE" collectorNumber="80" uuid="acc283b4-9106-4a32-88b4-000f2a3bed84"/>
+        <card number="1" name="Primal Command" setShortName="LRW" collectorNumber="233" uuid="40d2c5b9-cef9-4763-8e65-e3b1418c0ad3"/>
+        <card number="4" name="Countryside Crusher" setShortName="MOR" collectorNumber="89" uuid="8ca3f7a3-05e7-44c0-9e09-3f28378677c1"/>
+        <card number="2" name="Aura of Silence" setShortName="10E" collectorNumber="6" uuid="ae635d18-5d22-494c-8bc7-5d52f3021cbb"/>
+    </zone>
+</cockatrice_deck>
