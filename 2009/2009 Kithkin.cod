@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Kithkin</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-São Paulo 2009 winning deck by Daniel de Almeida Alves</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Spectral Procession" setShortName="SHM" collectorNumber="23" uuid="5e26bd0c-5ec7-4653-8e63-747157c20af1"/>
+        <card number="2" name="Unmake" setShortName="EVE" collectorNumber="96" uuid="338f7852-9f69-4406-b6ad-93a2574296f7"/>
+        <card number="2" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="4" name="Glorious Anthem" setShortName="10E" collectorNumber="17" uuid="2efbc588-019e-416a-938c-4ccbe7121335"/>
+        <card number="1" name="Ajani Goldmane" setShortName="LRW" collectorNumber="1" uuid="2a1470a6-d09d-4a2a-84a6-d56e32ed237a"/>
+        <card number="3" name="Burrenton Forge-Tender" setShortName="LRW" collectorNumber="7" uuid="c000c3e4-d71a-43c8-8ded-f3da54bc088d"/>
+        <card number="4" name="Cloudgoat Ranger" setShortName="LRW" collectorNumber="10" uuid="9e344859-7248-4498-8303-252f196a007b"/>
+        <card number="4" name="Figure of Destiny" setShortName="EVE" collectorNumber="139" uuid="0da69523-cece-425a-b08a-fb27fac29374"/>
+        <card number="4" name="Knight of Meadowgrain" setShortName="LRW" collectorNumber="28" uuid="1eb33901-1f97-4080-a9dd-922ef29f42c9"/>
+        <card number="4" name="Knight of the White Orchid" setShortName="ALA" collectorNumber="16" uuid="642c6354-4dab-45c9-a1a6-57bd16f16e30"/>
+        <card number="3" name="Ranger of Eos" setShortName="ALA" collectorNumber="21" uuid="1a30ee26-5f78-4ac2-9105-1baa9ece8a21"/>
+        <card number="2" name="Mutavault" setShortName="MOR" collectorNumber="148" uuid="8ca3c48b-f104-4292-9a4e-2ce87a65893c"/>
+        <card number="1" name="Plains" setShortName="10E" collectorNumber="364" uuid="7cfd53b2-3991-4a57-81b5-46618aecce4a"/>
+        <card number="1" name="Plains" setShortName="10E" collectorNumber="365" uuid="c95e9696-6e9d-462a-a40e-117df77e3909"/>
+        <card number="1" name="Plains" setShortName="10E" collectorNumber="367" uuid="f0b68c00-59ed-410f-87fe-b411f07662e3"/>
+        <card number="1" name="Plains" setShortName="10E" collectorNumber="366" uuid="7f2db9b8-648f-4c7f-bd58-1069a1417a22"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="282" uuid="b8e41010-a7d2-4e78-8f7b-502347f8c47d"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="283" uuid="6e5db4d0-61f4-4cc6-89c4-02a2060b556d"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="284" uuid="6e6d4bb5-9da7-4d21-9cdc-1732ea61121a"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="285" uuid="5bd5900e-100c-44e8-97e9-b0c15379fea1"/>
+        <card number="1" name="Plains" setShortName="SHM" collectorNumber="282" uuid="adf67e21-3306-4c4e-a021-9b997cc8c48c"/>
+        <card number="1" name="Plains" setShortName="SHM" collectorNumber="283" uuid="b2a646c9-8347-4b62-829e-6af6b275346a"/>
+        <card number="1" name="Plains" setShortName="SHM" collectorNumber="284" uuid="1b104eb8-7095-4aba-a155-d8e147639692"/>
+        <card number="1" name="Plains" setShortName="SHM" collectorNumber="285" uuid="19ba7ff5-7f2a-4268-9bdd-96061ce5e86a"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="230" uuid="e94e2710-7b95-46d0-8261-0afa6b192e70"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="231" uuid="2ef285a1-dbd0-4e41-9f04-a9120a0421f7"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="232" uuid="bcdd1595-d94d-46b1-b87f-b910ae35fa3a"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="233" uuid="20aec487-ac03-4912-969b-f537864902ce"/>
+        <card number="3" name="Rustic Clachan" setShortName="MOR" collectorNumber="150" uuid="19bc170c-4a84-4c07-b481-b50b82f62f44"/>
+        <card number="4" name="Windbrisk Heights" setShortName="LRW" collectorNumber="281" uuid="9df6a31a-5c49-4506-b8f8-84c9ab4a2ece"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Wrath of God" setShortName="10E" collectorNumber="61" uuid="b969f680-b176-4bfa-a160-714de8e03c25"/>
+        <card number="2" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="2" name="Reveillark" setShortName="MOR" collectorNumber="22" uuid="5629edd4-b5d3-43f8-8c7c-f9d916e35158"/>
+        <card number="3" name="Stillmoon Cavalier" setShortName="EVE" collectorNumber="95" uuid="400dc91e-96c0-49bf-b307-677d6f80f3ed"/>
+        <card number="1" name="Elspeth, Knight-Errant" setShortName="ALA" collectorNumber="9" uuid="44c52e52-2b1c-4ca8-ab6d-20d97a342704"/>
+        <card number="1" name="Burrenton Forge-Tender" setShortName="LRW" collectorNumber="7" uuid="c000c3e4-d71a-43c8-8ded-f3da54bc088d"/>
+        <card number="3" name="Aura of Silence" setShortName="10E" collectorNumber="6" uuid="ae635d18-5d22-494c-8bc7-5d52f3021cbb"/>
+    </zone>
+</cockatrice_deck>
