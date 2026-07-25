@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Elves</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Hanover 2009 winning deck by Lino Burgold</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Glimpse of Nature" setShortName="CHK" collectorNumber="210" uuid="1ddcd76b-a7a1-4ae6-bf4a-f929c6574bdc"/>
+        <card number="1" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="3" name="Summoner's Pact" setShortName="FUT" collectorNumber="139" uuid="948b026c-cfce-462b-afb6-7a383bd121de"/>
+        <card number="4" name="Chord of Calling" setShortName="RAV" collectorNumber="156" uuid="e064174b-8f07-4fea-9eef-c3b5d0220b1a"/>
+        <card number="4" name="Birchlore Rangers" setShortName="ONS" collectorNumber="248" uuid="8ce3a3a1-3569-4909-a604-f78d4888781e"/>
+        <card number="4" name="Elvish Visionary" setShortName="ALA" collectorNumber="130" uuid="faccfa5f-4d89-4a86-92d7-36cb5a16c5c9"/>
+        <card number="4" name="Heritage Druid" setShortName="MOR" collectorNumber="126" uuid="a726acbd-724e-46c5-a4cf-4aee7c2abb16"/>
+        <card number="2" name="Llanowar Elves" setShortName="9ED" collectorNumber="253" uuid="913907e2-28dd-4080-b725-52a43868e060"/>
+        <card number="2" name="Llanowar Elves" setShortName="10E" collectorNumber="274" uuid="c7a7fe6e-aa5a-4be6-a730-5cfff4fb89e3"/>
+        <card number="1" name="Viridian Shaman" setShortName="MRD" collectorNumber="139" uuid="932bf583-efd3-42e9-8a7b-7b3fe07fbcf0"/>
+        <card number="1" name="Mirror Entity" setShortName="LRW" collectorNumber="31" uuid="adfff880-cbf6-4085-bc05-c72658b75f25"/>
+        <card number="4" name="Nettle Sentinel" setShortName="EVE" collectorNumber="71" uuid="f9f21681-fd36-4106-8395-3153599a08a6"/>
+        <card number="1" name="Regal Force" setShortName="EVE" collectorNumber="74" uuid="674a694a-22b8-4fb8-b901-91d64564c0db"/>
+        <card number="4" name="Wirewood Hivemaster" setShortName="LGN" collectorNumber="145" uuid="ea55b4fc-366f-4906-9eaa-9085f6a22612"/>
+        <card number="4" name="Wirewood Symbiote" setShortName="SCG" collectorNumber="133" uuid="49488b76-abaf-4dba-b01f-7b418e4ff295"/>
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="347" uuid="b361b42d-401f-440a-bae9-35338b5dde0e"/>
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="348" uuid="4d8edfee-7837-450a-bcf3-a7bb25670056"/>
+        <card number="1" name="Forest" setShortName="ONS" collectorNumber="349" uuid="7b0af992-80e0-4ac6-a828-5eaac47eaff6"/>
+        <card number="3" name="Gilt-Leaf Palace" setShortName="LRW" collectorNumber="268" uuid="cc4bbbb5-4218-4b2a-9ca2-de4d5f5dda19"/>
+        <card number="2" name="Horizon Canopy" setShortName="FUT" collectorNumber="177" uuid="d5dfc25d-a17b-4ead-9484-e8a18b8fa176"/>
+        <card number="1" name="Overgrown Tomb" setShortName="RAV" collectorNumber="279" uuid="fce07335-cc78-4683-b2f0-9c98a06ea1d8"/>
+        <card number="1" name="Pendelhaven" setShortName="TSB" collectorNumber="120" uuid="32fd7a5c-2881-4d37-9eea-5f7e44dea812"/>
+        <card number="1" name="Temple Garden" setShortName="RAV" collectorNumber="284" uuid="794a2b79-8c55-4423-8843-7e6e96f84071"/>
+        <card number="3" name="Windswept Heath" setShortName="ONS" collectorNumber="328" uuid="7a7c5941-9c8a-4a40-9efb-a84f05c58e53"/>
+        <card number="3" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="2" name="Proclamation of Rebirth" setShortName="DIS" collectorNumber="15" uuid="cc799c97-3df1-4194-b220-6cf862ce3810"/>
+        <card number="3" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="2" name="Burrenton Forge-Tender" setShortName="LRW" collectorNumber="7" uuid="c000c3e4-d71a-43c8-8ded-f3da54bc088d"/>
+        <card number="1" name="Ethersworn Canonist" setShortName="ALA" collectorNumber="10" uuid="2aebe7a8-b982-4be4-83ca-3594e8f606b4"/>
+        <card number="1" name="Viridian Shaman" setShortName="9ED" collectorNumber="280" uuid="21971049-f988-40ec-b5ae-0ac0575f1939"/>
+        <card number="1" name="Viridian Shaman" setShortName="MRD" collectorNumber="139" uuid="932bf583-efd3-42e9-8a7b-7b3fe07fbcf0"/>
+        <card number="1" name="Gaddock Teeg" setShortName="LRW" collectorNumber="248" uuid="32c16e1b-f4ce-409f-928a-42c666adac9d"/>
+        <card number="1" name="Imperious Perfect" setShortName="LRW" collectorNumber="220" uuid="706fce74-fed9-4bf7-949d-7df6bef29238"/>
+        <card number="1" name="Orzhov Pontiff" setShortName="GPT" collectorNumber="124" uuid="f2b5813b-955b-469a-b287-65325c589b59"/>
+    </zone>
+</cockatrice_deck>
