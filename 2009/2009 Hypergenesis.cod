@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Hypergenesis</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2009 6-0 Extended format deck by Przemyslaw Nagadowski</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Calciform Pools" setShortName="TSP" collectorNumber="270" uuid="f6cead86-b8ff-4975-90b2-3badcc452fdb"/>
+        <card number="3" name="Forbidden Orchard" setShortName="CHK" collectorNumber="276" uuid="88d78261-c8c9-4e0e-b157-f70ed46c3a25"/>
+        <card number="1" name="Forest" setShortName="MRD" collectorNumber="303" uuid="77aec0b2-30f2-4f35-a9a3-24d87795d177"/>
+        <card number="3" name="Fungal Reaches" setShortName="TSP" collectorNumber="273" uuid="9b4521b3-a3b0-4a1d-a623-cc630058eee2"/>
+        <card number="1" name="Gemstone Caverns" setShortName="TSP" collectorNumber="274" uuid="94d74254-4750-4fb3-9e53-473a5f98b315"/>
+        <card number="4" name="Gemstone Mine" setShortName="TSB" collectorNumber="119" uuid="26794aa3-7532-4611-a591-51a51e5f9189"/>
+        <card number="4" name="Reflecting Pool" setShortName="SHM" collectorNumber="278" uuid="3d03dc37-03fb-47b2-aa25-60a85d0d94dd"/>
+        <card number="4" name="Tendo Ice Bridge" setShortName="BOK" collectorNumber="165" uuid="d246f521-b9a0-4b4f-b38c-0e4eb4066212"/>
+        <card number="4" name="Ardent Plea" setShortName="ARB" collectorNumber="1" uuid="9d521737-ee07-4387-bc07-5ced53db374d"/>
+        <card number="3" name="Thirst for Knowledge" setShortName="MRD" collectorNumber="53" uuid="0ff1f608-203e-4413-8753-37fc49731c87"/>
+        <card number="4" name="Violent Outburst" setShortName="ARB" collectorNumber="63" uuid="1b58856a-f88e-4625-8636-62b5c717b956"/>
+        <card number="1" name="Demonic Dread" setShortName="ARB" collectorNumber="38" uuid="fb81132e-ab33-435f-ade4-af4416d36044"/>
+        <card number="3" name="Firespout" setShortName="SHM" collectorNumber="205" uuid="13454f69-1458-4c03-ab02-bd697a32eb17"/>
+        <card number="3" name="Hypergenesis" setShortName="TSP" collectorNumber="201" uuid="da4d6969-e579-4b28-a76b-5a99c7488f15"/>
+        <card number="2" name="Akroma, Angel of Fury" setShortName="PLC" collectorNumber="94" uuid="3815de82-5ba9-4fb6-9259-d5e50e046890"/>
+        <card number="4" name="Angel of Despair" setShortName="GPT" collectorNumber="101" uuid="9ae71424-df9c-481c-9305-a0c30adcfda2"/>
+        <card number="2" name="Bogardan Hellkite" setShortName="TSP" collectorNumber="147" uuid="5852f528-92aa-45cf-8436-5774691676d3"/>
+        <card number="2" name="Bogardan Hellkite" setShortName="M10" collectorNumber="127" uuid="3226c1aa-37b8-4499-9579-60618261f3e8"/>
+        <card number="4" name="Progenitus" setShortName="CON_" collectorNumber="121" uuid="bcc764b0-3046-4bde-b424-c0f4e1a6169b"/>
+        <card number="3" name="Sakashima the Impostor" setShortName="SOK" collectorNumber="53" uuid="61dc2f54-3637-4caa-9741-36ff14dc5527"/>
+        <card number="4" name="Simian Spirit Guide" setShortName="PLC" collectorNumber="122" uuid="5d7f701c-dcdc-4067-8d00-b4b7aadee9ba"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Putrefy" setShortName="RAV" collectorNumber="221" uuid="0a16086c-5a74-45d0-8b38-e832cfbc80f7"/>
+        <card number="3" name="Ravenous Trap" setShortName="ZEN" collectorNumber="109" uuid="f4540013-11f9-4a8b-ad54-61f467f04756"/>
+        <card number="1" name="Ingot Chewer" setShortName="LRW" collectorNumber="180" uuid="9ceb9ae9-d153-446f-8835-1c53672fc9ca"/>
+        <card number="1" name="Firespout" setShortName="SHM" collectorNumber="205" uuid="13454f69-1458-4c03-ab02-bd697a32eb17"/>
+        <card number="2" name="Sundering Titan" setShortName="DST" collectorNumber="146" uuid="3e4bd552-e629-41a4-868f-d656187317b7"/>
+        <card number="3" name="Venser, Shaper Savant" setShortName="FUT" collectorNumber="46" uuid="0e84fc99-4045-4518-b588-512a675f2933"/>
+        <card number="2" name="Vexing Shusher" setShortName="SHM" collectorNumber="222" uuid="ae04d776-c9e3-4ff7-998d-d264754d61db"/>
+        <card number="1" name="Akroma, Angel of Fury" setShortName="PLC" collectorNumber="94" uuid="3815de82-5ba9-4fb6-9259-d5e50e046890"/>
+    </zone>
+</cockatrice_deck>
