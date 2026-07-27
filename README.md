@@ -184,8 +184,8 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Standard 2010 Germany National Championship Dennis Johannsen （赤緑ヴァラクート）https://mtgdecks.net/Standard/valakut-ramp-decklist-by-dennis-johannsen-558
 - Standard 2010 Great Britain National Championship Joseph Jackson （ナヤビートダウン）https://mtgdecks.net/Standard/naya-fauna-shaman-decklist-by-joseph-jackson-550
 - Standard 2010 China National Championship 陸超/Lu Chao （赤白上陸） https://web.archive.org/web/20160117194531/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/chnat10/welcome
-- Legacy Grand Prix-Columbus 2010 齋藤友晴（マーフォークタッチ黒）https://web.archive.org/web/20160526173116/http://magic.wizards.com/en/events/coverage/gpcol10#1
 - Block 2010 Block Constructed Championship Matt Severa （緑単エルドラージの碑） https://web.archive.org/web/20101022183236/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/104a
+- Legacy Grand Prix-Columbus 2010 齋藤友晴（マーフォークタッチ黒）https://web.archive.org/web/20160526173116/http://magic.wizards.com/en/events/coverage/gpcol10#1
 - Standard 2010 France National Championship Julien Parez （青白コントロール）https://web.archive.org/web/20150806043818/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/frnat10/welcome#1
 - Standard 2010 Japan National Championship 森勝洋 （赤単スライ）https://web.archive.org/web/20150910130243/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/jpnat10/top8decks
 - Legacy Japan Legacy Championship 2010 中谷真司 （Zoo） https://web.archive.org/web/20150318154611/http://archive.mtg-jp.com/eventc/jpnats10/article/006617/
