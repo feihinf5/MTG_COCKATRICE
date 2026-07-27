@@ -13,6 +13,9 @@ Format
 
 Note
 - 2009 Great Britain National Championship winning deck by Dan Gardner
+- [**Knight of the White Orchid**] + [**Fieldmist Borderpost**], by bouncing a basic land to cast a [**Fieldmist Borderpost**] on turn 2, you could guarantee being behind on land count on turn 3—allowing [**Knight of the White Orchid**] to search up another Plains and ramp you ahead
+- [**Reveillark**] could return almost every utility creature in the deck when it left the battlefield—including [**Knight of the White Orchid**], [**Mulldrifter**], [**Meddling Mage**] and [**Vendilion Clique**] (since all have power 2 or less)
+- [**Baneslayer Angel**] became the undisputed king of finisher threats
 
 Deck
 - 3 Glacial Fortress
