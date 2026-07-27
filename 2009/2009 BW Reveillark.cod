@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 BW Reveillark</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2009 Great Britain National Championship winning deck by Dan Gardner</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Fieldmist Borderpost" setShortName="ARB" collectorNumber="5" uuid="9650a717-b1e4-4cd2-894d-766f6b311369"/>
+        <card number="3" name="Broken Ambitions" setShortName="LRW" collectorNumber="54" uuid="8052d90b-bc49-4a9e-9211-159a54aa2bcd"/>
+        <card number="4" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="4" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="4" name="Baneslayer Angel" setShortName="M10" collectorNumber="4" uuid="6764ea7b-ccb3-4f39-b8ba-654a186210b9"/>
+        <card number="4" name="Glen Elendra Archmage" setShortName="EVE" collectorNumber="22" uuid="09516d3d-e6c2-4359-af2a-a4aa244ca033"/>
+        <card number="4" name="Knight of the White Orchid" setShortName="ALA" collectorNumber="16" uuid="642c6354-4dab-45c9-a1a6-57bd16f16e30"/>
+        <card number="3" name="Meddling Mage" setShortName="ARB" collectorNumber="8" uuid="1a55308b-5772-430a-93e4-b65c416b86cf"/>
+        <card number="4" name="Mulldrifter" setShortName="LRW" collectorNumber="76" uuid="a97cfefa-ade7-49f6-b2aa-1118b9db4935"/>
+        <card number="1" name="Reveillark" setShortName="MOR" collectorNumber="22" uuid="5629edd4-b5d3-43f8-8c7c-f9d916e35158"/>
+        <card number="4" name="Vendilion Clique" setShortName="MOR" collectorNumber="55" uuid="f53d8540-fb6d-4d4c-b467-ebfbfa53c880"/>
+        <card number="3" name="Glacial Fortress" setShortName="M10" collectorNumber="226" uuid="ee834e27-595d-4d12-8e69-e94e84ef337a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="286" uuid="5885738f-a51d-418c-b194-0ba8ef6af556"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="287" uuid="24ffadeb-cf20-4da9-a140-1fdcc7484c7a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="288" uuid="d714d196-8cbc-4b53-8219-21044a017bce"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="289" uuid="a35d9548-f495-43ef-af66-e13a84c1f12a"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="286" uuid="98d84005-faac-4e02-9fea-40757b43cf03"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="287" uuid="9ae96b4b-7568-4463-b26c-a567e4a418d7"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="288" uuid="196a004a-ec08-4e1b-8eeb-2ad766fccd25"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="289" uuid="28da317c-8512-4342-9be5-d14b87a509c7"/>
+        <card number="4" name="Mystic Gate" setShortName="SHM" collectorNumber="277" uuid="3dfa866b-93e2-4365-91b0-f12d1f7c5395"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="282" uuid="b8e41010-a7d2-4e78-8f7b-502347f8c47d"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="283" uuid="6e5db4d0-61f4-4cc6-89c4-02a2060b556d"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="284" uuid="6e6d4bb5-9da7-4d21-9cdc-1732ea61121a"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="285" uuid="5bd5900e-100c-44e8-97e9-b0c15379fea1"/>
+        <card number="1" name="Plains" setShortName="SHM" collectorNumber="282" uuid="adf67e21-3306-4c4e-a021-9b997cc8c48c"/>
+        <card number="1" name="Plains" setShortName="SHM" collectorNumber="283" uuid="b2a646c9-8347-4b62-829e-6af6b275346a"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Celestial Purge" setShortName="CON_" collectorNumber="5" uuid="31c404e8-1241-4675-b259-fbbf1dba15c4"/>
+        <card number="2" name="Hallowed Burial" setShortName="EVE" collectorNumber="7" uuid="c42fad4b-caeb-4aa2-9586-cb26bdec56cd"/>
+        <card number="1" name="Meddling Mage" setShortName="ARB" collectorNumber="8" uuid="1a55308b-5772-430a-93e4-b65c416b86cf"/>
+        <card number="2" name="Reveillark" setShortName="MOR" collectorNumber="22" uuid="5629edd4-b5d3-43f8-8c7c-f9d916e35158"/>
+        <card number="3" name="Ethersworn Canonist" setShortName="ALA" collectorNumber="10" uuid="2aebe7a8-b982-4be4-83ca-3594e8f606b4"/>
+        <card number="1" name="Celestial Purge" setShortName="M10" collectorNumber="7" uuid="f693c3db-a9e3-418c-afdd-e2e245461e71"/>
+        <card number="3" name="Burrenton Forge-Tender" setShortName="LRW" collectorNumber="7" uuid="c000c3e4-d71a-43c8-8ded-f3da54bc088d"/>
+        <card number="2" name="Austere Command" setShortName="LRW" collectorNumber="3" uuid="8ee73fe8-d52b-43bb-ab91-5545192be676"/>
+    </zone>
+</cockatrice_deck>
