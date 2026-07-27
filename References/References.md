@@ -1,4 +1,5 @@
 ## 2009
+- https://web.archive.org/web/20090810105229/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat09/welcome#1b
 - https://web.archive.org/web/20160926095454/http://magic.wizards.com/en/events/coverage/usnat09
 - https://web.archive.org/web/20090728070500/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/frnat09/welcome#1
 - https://web.archive.org/web/20090722002042/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/aunat09/welcome#a
