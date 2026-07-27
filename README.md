@@ -172,3 +172,6 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- Legacy Grand Prix-Madrid 2010 Andreas Muller リアニメイト）https://www.mtgtop8.com/event?e=461
+- Standard Pro Tour-San Diego 2010 Simon Görtzen （ジャンド）https://mtgtop8.com/event?e=448&f=ST
+- Extended Grand Prix-Oakland 2010 Matt Nass （親和エルフ）http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpoak10/welcome
