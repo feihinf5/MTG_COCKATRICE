@@ -172,4 +172,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 - ## To Do
-- The Finals09 山本明聖 （赤白上陸／集団意識） https://web.archive.org/web/20170703221836/http://archive.mtg-jp.com/eventc/finals09/article/002232/
