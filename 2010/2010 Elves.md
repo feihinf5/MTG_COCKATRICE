@@ -11,7 +11,8 @@ Format
 - SOK / BOK / CHK / 5DN / DST / MRD
 
 Note
-- Grand Prix-Oakland 2010 winning deck by Matt Nass 
+- Grand Prix-Oakland 2010 winning deck by Matt Nass
+- Cast [**Primal Command**] by target opponent to shuffle their graveyard into their library or put target non-land permanent on top of its owner's library, recast [**Eternal Witness**] to returns [**Primal Command**] from your graveyard to your hand, bounce [**Eternal Witness**] back to your hand using [**Cloudstone Curio**]. repeat this process indefinitely
 
 Deck
 - 4 Forest
