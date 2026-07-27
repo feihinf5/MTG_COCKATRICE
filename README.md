@@ -172,6 +172,8 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- Standard The Finals10 優勝 仙波恒太郎 （白単アーマー、青黒フェアリー）https://web.archive.org/web/20110612025638mp_/http://archive.mtg-jp.com/eventc/finals10/article/010367/
+- Vintage 2010 Japan Vintage Championship 斉藤悠（Oath Tezzeret）https://web.archive.org/web/20110320111700/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/worlds10/1210vin
 - Standard 2010 Magic Online World Championships Deck Lists (UB Control) https://web.archive.org/web/20160927122604/http://magic.wizards.com/en/articles/archive/event-coverage/2010-magic-online-world-championships-deck-lists-2010-12-12
 - Extended 2010 Magic Online World Championships Deck Lists (UB Polymorph) https://web.archive.org/web/20160927122604/http://magic.wizards.com/en/articles/archive/event-coverage/2010-magic-online-world-championships-deck-lists-2010-12-12
 - Extended World Championships 2010 Luis Scott-Vargas （残酷コントロール）https://web.archive.org/web/20160927131353/http://magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-top-extended-deck-lists
