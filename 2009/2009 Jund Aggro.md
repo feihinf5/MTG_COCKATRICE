@@ -13,6 +13,10 @@ Format
 
 Note
 - 2009 Argentina National Championship winning deck by Alejo Zagalsky
+- Favored the immediate, hasty pressure of [**Boggart Ram-Gang**] to rush down control players before they could stabilize
+- [**Sygg, River Cutthroat**], draws you a card at the end of the turn if an opponent lost 3 or more life via [**Lightning Bolt**] (3 damage), [**Blightning**] (3 damage), [**Bloodbraid Elf**] (3 power with haste),[**Putrid Leech**] (pumps to a 4/4)
+- [**Great Sable Stag**] being uncounterable and having protection from Blue and Black meant that Faeries and Cruel Control literally could not interact with it
+- Tribal lands ([**Auntie's Hovel**], [**Gilt-Leaf Palace**]) and Filter lands ([**Graven Cairns**], [**Fire-Lit Thicket**]) to reliably cast wildly restrictive mana costs
 
 Deck
 - 4 Bloodbraid Elf
