@@ -6,6 +6,10 @@ Format
 
 Note
 - The Finals09 winning deck by Yamamoto Akimasa
+- Turn 1, play an [**Arid Mesa**] (or any red/white Fetchland), crack it to search up a [**Plains**], cast [**Steppe Lynx**] (0/1)
+- Turn 2, play a [**Mountain**], [**Steppe Lynx**] gets +2/+2 from Landfall (now a 2/3), swing with [**Steppe Lynx**] for 2 damage (Opponent at 18), cast [**Plated Geopede**] (1/1)
+- Turn 3, play a second [**Arid Mesa**], Landfall triggers both [**Steppe Lynx**] (2/3) and Plated Geopede (3/3), crack [**Arid Mesa**] to fetch a [**Mountain**], second Landfall triggers on both creatures ([**Steppe Lynx**] becomes 4/5, [**Plated Geopede**] becomes 5/5), cast [**Goblin Bushwhacker**] with Kicker paid, attack with [**Steppe Lynx**] (5/5), [**Plated Geopede**] (6/5), [**Goblin Bushwhacker**] (2/1) and cast [**Lightning Bolt**] for total of 16 damage
+
 
 Deck
 - 4 Mountain
