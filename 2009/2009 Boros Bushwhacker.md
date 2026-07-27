@@ -8,28 +8,28 @@ Note
 - The Finals09 winning deck by Yamamoto Akimasa
 
 Deck
-- 4 《山》
-- 5 《平地》
-- 4 《乾燥台地》
-- 4 《湿地の干潟》
-- 4 《沸騰する小湖》
-- 2 《ぐらつく峰》
-- 1 《広漠なる変幻地》
-- 4 《ステップのオオヤマネコ》
-- 4 《ゴブリンの先達》
-- 4 《板金鎧の土百足》
-- 2 《ゴブリンの奇襲隊》
-- 3 《コーの空漁師》
-- 4 《イーオスのレインジャー》
-- 4 《稲妻》
-- 2 《遍歴の騎士、エルズペス》
-- 4 《流刑への道》
-- 4 《地震》
-- 1 《未達への旅》
+- 4 Mountain
+- 5 Plains
+- 4 Arid Mesa
+- 4 Marsh Flats
+- 4 Scalding Tarn
+- 2 Teetering Peaks
+- 1 Terramorphic Expanse
+- 4 Steppe Lynx
+- 4 Goblin Guide
+- 4 Plated Geopede
+- 2 Goblin Bushwhacker
+- 3 Kor Skyfisher
+- 4 Ranger of Eos
+- 4 Lightning Bolt
+- 2 Elspeth, Knight-Errant
+- 4 Path to Exile
+- 4 Earthquake
+- 1 Journey to Nowhere
 
 Sideboard
-- 4 《天界の粛清》
-- 3 《魔力のとげ》
-- 2 《忘却の輪》
-- 3 《悪斬の天使》
-- 3 《地獄の雷》
+- 4 Celestial Purge
+- 3 Manabarbs
+- 2 Oblivion Ring
+- 3 Baneslayer Angel
+- 3 Hell's Thunder
