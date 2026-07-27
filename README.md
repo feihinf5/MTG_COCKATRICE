@@ -196,4 +196,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Extended Grand-Prix Houston 2010 Adam Yurchick （DDT）https://web.archive.org/web/20130521175402/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/top8decklists
 - Standard Grand-Prix Brussels 2010 Emanuele Giusti （ジャンド） https://web.archive.org/web/20130530042029/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpbru10/top8decks
 - Standard Grand Prix-Kuala Lumpur 2010 Ding Yuan Leong （黒赤ビートダウン） https://mtgdecks.net/Standard/mono-red-aggro-decklist-by-ding-yuan-leong-2346
-- Legacy Grand Prix-Madrid 2010 Andreas Muller リアニメイト）https://www.mtgtop8.com/event?e=461
