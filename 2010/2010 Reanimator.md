@@ -6,6 +6,9 @@ Format
 
 Note
 - Grand Prix Madrid 2010 winning deck by Andreas Muller
+- [**Mystical Tutor**] to tutor up instant-speed combo pieces ([**Entomb**], [**Reanimate**]) or countermagic protection ([**Force of Will**]) at will
+- Silver-Bullet Creature Toolbox, running singletons like [**Iona, Shield of Emeria**] (locks opponent out of a chosen color), [**Blazing Archon**] (stops all attacks), and [**Inkwell Leviathan**] (unanswerable Shroud) allowed the deck to tutor up the exact target that instantly won against specific matchups
+- 
 
 Deck
 - 2 Bloodstained Mire
