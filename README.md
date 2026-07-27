@@ -172,5 +172,4 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 - ## To Do
-- World Championships 2009 Andre Coimbra （ナヤライトセイバー／不明）https://web.archive.org/web/20170327185226/http://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-top-8-standard-2009-11-21
 - The Finals09 山本明聖 （赤白上陸／集団意識） https://web.archive.org/web/20170703221836/http://archive.mtg-jp.com/eventc/finals09/article/002232/
