@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/The_Finals09_winning_deck_by_Yamamoto_Akimasa.png
 
 Format
 - CARD_SET
