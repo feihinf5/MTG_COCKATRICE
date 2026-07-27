@@ -172,6 +172,16 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- Standard 2010 Japan National Championship 森勝洋 （赤単スライ）https://web.archive.org/web/20150910130243/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/jpnat10/top8decks
+- Legacy Japan Legacy Championship 2010 中谷真司 （Zoo） https://web.archive.org/web/20150318154611/http://archive.mtg-jp.com/eventc/jpnats10/article/006617/
+- Standard Grand Prix-Manila 2010 中田直樹 （徴兵バント） https://web.archive.org/web/20150915065707/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpman10/top8decks
+- Standard Grand Prix-Sendai 2010 Brian Kibler （バントアグロ） https://web.archive.org/web/20150912071059/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsen10/top8decks
+- Block Pro Tour-San Juan 2010 Paulo Vitor Damo da Rosa （青赤緑コントロール (8-2-0)／黒緑） https://web.archive.org/web/20150912071745/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptsj10/t8blockdecklists
+- Standard Grand Prix-Washington, D.C. 2010 Brad Nelson （青白タップアウトコントロール）https://web.archive.org/web/20130520073729/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpwas10/top8decks
+- Extended Grand-Prix Houston 2010 Adam Yurchick （DDT）https://web.archive.org/web/20130521175402/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/top8decklists
+- Standard Grand-Prix Brussels 2010 Emanuele Giusti （ジャンド） https://web.archive.org/web/20130530042029/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpbru10/top8decks
+- Extended Grand Prix-Yokohama 2010 森勝洋（DDT） https://web.archive.org/web/20220123072047/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix%E2%80%93yokohama-top-8-decklists-2010-03-21
+- Standard Grand Prix-Kuala Lumpur 2010 Ding Yuan Leong （黒赤ビートダウン） https://mtgdecks.net/Standard/mono-red-aggro-decklist-by-ding-yuan-leong-2346
 - Legacy Grand Prix-Madrid 2010 Andreas Muller リアニメイト）https://www.mtgtop8.com/event?e=461
 - Standard Pro Tour-San Diego 2010 Simon Görtzen （ジャンド）https://mtgtop8.com/event?e=448&f=ST
 - Extended Grand Prix-Oakland 2010 Matt Nass （親和エルフ）http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpoak10/welcome
