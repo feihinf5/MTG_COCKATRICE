@@ -1,4 +1,5 @@
 ## 2009
+- https://web.archive.org/web/20170327185226/http://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-top-8-standard-2009-11-21
 - https://web.archive.org/web/20110915175217/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gernat09/welcome#2
 - https://web.archive.org/web/20110708054336/http://nacionalmagic2009.blogspot.com/
 - https://web.archive.org/web/20090810105229/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat09/welcome#1b
