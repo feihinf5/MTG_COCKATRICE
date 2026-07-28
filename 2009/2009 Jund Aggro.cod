@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Jund Aggro</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2009 Argentina National Championship winning deck by Alejo Zagalsky</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Auntie's Hovel" setShortName="LRW" collectorNumber="267" uuid="098685c9-cd85-4279-a3b5-b495485bba35"/>
+        <card number="2" name="Fire-Lit Thicket" setShortName="SHM" collectorNumber="271" uuid="0ab9d6ad-f819-4a1e-b4ff-8dc00791f0fd"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="299" uuid="081c1f03-3251-42dc-b356-3454ebdabc2e"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="301" uuid="7104a533-42df-4430-87dc-e0adeb7f2320"/>
+        <card number="3" name="Gilt-Leaf Palace" setShortName="LRW" collectorNumber="268" uuid="cc4bbbb5-4218-4b2a-9ca2-de4d5f5dda19"/>
+        <card number="2" name="Graven Cairns" setShortName="SHM" collectorNumber="272" uuid="c355bf63-f456-43ad-a6df-6c2a17511f43"/>
+        <card number="1" name="Mountain" setShortName="LRW" collectorNumber="294" uuid="83beeef7-2bb5-4c3a-9be4-79a968696d65"/>
+        <card number="4" name="Reflecting Pool" setShortName="SHM" collectorNumber="278" uuid="3d03dc37-03fb-47b2-aa25-60a85d0d94dd"/>
+        <card number="4" name="Savage Lands" setShortName="ALA" collectorNumber="228" uuid="f6bcded3-6eea-4533-a855-e03d4c4620d6"/>
+        <card number="1" name="Swamp" setShortName="LRW" collectorNumber="291" uuid="8f9dc477-a3e4-4fc0-af62-c8b8eb68d360"/>
+        <card number="3" name="Twilight Mire" setShortName="EVE" collectorNumber="180" uuid="ff619a09-4fe5-4341-9077-88a0a9f4fbf9"/>
+        <card number="2" name="Bituminous Blast" setShortName="ARB" collectorNumber="34" uuid="fd6a3c48-b01e-4462-a4a1-8d5009a6a844"/>
+        <card number="3" name="Blightning" setShortName="ALA" collectorNumber="156" uuid="3c05e8a2-b7d0-4f24-b2ae-8e4db30e5842"/>
+        <card number="2" name="Maelstrom Pulse" setShortName="ARB" collectorNumber="92" uuid="eb651c3a-cb27-4b73-8eb6-b87d65211097"/>
+        <card number="4" name="Lightning Bolt" setShortName="M10" collectorNumber="146" uuid="435589bb-27c6-4a6d-9d63-394d5092b9d8"/>
+        <card number="3" name="Volcanic Fallout" setShortName="CON_" collectorNumber="74" uuid="65536d12-e75c-42b5-b592-a3ad4f550a71"/>
+        <card number="3" name="Anathemancer" setShortName="ARB" collectorNumber="33" uuid="ab106855-bd85-4c00-b596-c46d34f8cdd0"/>
+        <card number="4" name="Bloodbraid Elf" setShortName="ARB" collectorNumber="50" uuid="7ef67487-c8e5-49bb-b0f7-e073ff2e31f1"/>
+        <card number="4" name="Boggart Ram-Gang" setShortName="SHM" collectorNumber="203" uuid="63e25b70-fa21-4663-aabd-34b7e0b75c34"/>
+        <card number="2" name="Chameleon Colossus" setShortName="MOR" collectorNumber="116" uuid="5459f1e6-7019-427d-9e2d-e494b3cd52d2"/>
+        <card number="3" name="Great Sable Stag" setShortName="M10" collectorNumber="186" uuid="451c8a79-1e8a-437d-836f-31155914c551"/>
+        <card number="4" name="Putrid Leech" setShortName="ARB" collectorNumber="95" uuid="aaa47568-5668-4a9f-ad1c-9a13010ffc2b"/>
+        <card number="2" name="Sygg, River Cutthroat" setShortName="SHM" collectorNumber="176" uuid="3926f037-aaec-416e-a486-b59aae6faf44"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Jund Charm" setShortName="ALA" collectorNumber="175" uuid="7a0ddf00-926c-4283-a8b2-daa02fa99b8b"/>
+        <card number="3" name="Deathmark" setShortName="10E" collectorNumber="134" uuid="5f9271cc-6525-4a44-af24-915f0ba5afa9"/>
+        <card number="4" name="Kitchen Finks" setShortName="SHM" collectorNumber="229" uuid="7d203208-8a21-4c68-afa2-4efd8726f026"/>
+        <card number="1" name="Anathemancer" setShortName="ARB" collectorNumber="33" uuid="ab106855-bd85-4c00-b596-c46d34f8cdd0"/>
+        <card number="1" name="Maelstrom Pulse" setShortName="ARB" collectorNumber="92" uuid="eb651c3a-cb27-4b73-8eb6-b87d65211097"/>
+        <card number="2" name="Puppeteer Clique" setShortName="SHM" collectorNumber="75" uuid="6ff839e1-6f76-4a24-a87c-d4589b1abf66"/>
+        <card number="1" name="Great Sable Stag" setShortName="M10" collectorNumber="186" uuid="451c8a79-1e8a-437d-836f-31155914c551"/>
+    </zone>
+</cockatrice_deck>
