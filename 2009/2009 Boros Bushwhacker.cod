@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Boros Bushwhacker</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>The Finals09 winning deck by Yamamoto Akimasa</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Journey to Nowhere" setShortName="ZEN" collectorNumber="14" uuid="09cfe585-8a55-4b27-89e0-dfb6946fe1f3"/>
+        <card number="4" name="Earthquake" setShortName="M10" collectorNumber="134" uuid="19fb8ae1-a619-42bf-976f-2833777032d2"/>
+        <card number="2" name="Elspeth, Knight-Errant" setShortName="ALA" collectorNumber="9" uuid="44c52e52-2b1c-4ca8-ab6d-20d97a342704"/>
+        <card number="4" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="4" name="Lightning Bolt" setShortName="M10" collectorNumber="146" uuid="435589bb-27c6-4a6d-9d63-394d5092b9d8"/>
+        <card number="2" name="Goblin Bushwhacker" setShortName="ZEN" collectorNumber="125" uuid="4085a5bf-a71b-4c73-9b39-0dcc328fe11b"/>
+        <card number="4" name="Goblin Guide" setShortName="ZEN" collectorNumber="126" uuid="b2e2a777-0705-4a37-937d-c6e020ebc0f0"/>
+        <card number="3" name="Kor Skyfisher" setShortName="ZEN" collectorNumber="23" uuid="bb2e9465-f5ba-4c7b-9f03-d40dc8394acd"/>
+        <card number="4" name="Plated Geopede" setShortName="ZEN" collectorNumber="141" uuid="fd8b5c0c-acda-411e-9f17-6d9292628a56"/>
+        <card number="4" name="Ranger of Eos" setShortName="ALA" collectorNumber="21" uuid="1a30ee26-5f78-4ac2-9105-1baa9ece8a21"/>
+        <card number="4" name="Steppe Lynx" setShortName="ZEN" collectorNumber="36" uuid="b0aaec1c-8084-4468-82e7-2e4cc5ebe244"/>
+        <card number="4" name="Arid Mesa" setShortName="ZEN" collectorNumber="211" uuid="16c8d2fa-54a7-46e8-980c-905258497c90"/>
+        <card number="4" name="Marsh Flats" setShortName="ZEN" collectorNumber="219" uuid="45026d57-0324-4312-8b86-2e7d4f581ee9"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="242" uuid="7c2cc19c-84ce-4c0b-b56f-7a2b3878a26e"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="243" uuid="fcfb1db3-c0ea-4f8d-8208-5f8895ff686d"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="244" uuid="969d5979-8ae8-4442-a3a5-3412ffeb5af8"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="245" uuid="b64e4622-e905-49da-948f-aeba1ba674ce"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="230" uuid="e94e2710-7b95-46d0-8261-0afa6b192e70"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="231" uuid="2ef285a1-dbd0-4e41-9f04-a9120a0421f7"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="233" uuid="20aec487-ac03-4912-969b-f537864902ce"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="232" uuid="bcdd1595-d94d-46b1-b87f-b910ae35fa3a"/>
+        <card number="1" name="Plains" setShortName="M10" collectorNumber="230" uuid="cc084e24-22fe-4326-b894-54d79fbeba2f"/>
+        <card number="4" name="Scalding Tarn" setShortName="ZEN" collectorNumber="223" uuid="327cf118-cc92-4073-85d0-94d2a0a6989a"/>
+        <card number="2" name="Teetering Peaks" setShortName="ZEN" collectorNumber="226" uuid="e56aca36-bb51-45e3-9ef9-9f9f2aa1e088"/>
+        <card number="1" name="Terramorphic Expanse" setShortName="M10" collectorNumber="229" uuid="61902bad-c322-406d-aa4d-039efd4aa84f"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Baneslayer Angel" setShortName="M10" collectorNumber="4" uuid="6764ea7b-ccb3-4f39-b8ba-654a186210b9"/>
+        <card number="3" name="Hell's Thunder" setShortName="ALA" collectorNumber="103" uuid="848f6c49-0913-4f12-886d-8b6defe8bfab"/>
+        <card number="3" name="Manabarbs" setShortName="M10" collectorNumber="149" uuid="7499cb21-a8ec-4938-884b-7085946af8f8"/>
+        <card number="2" name="Oblivion Ring" setShortName="ALA" collectorNumber="20" uuid="895c270d-84d8-4c7f-9df3-5a595e113dd7"/>
+        <card number="4" name="Celestial Purge" setShortName="CON_" collectorNumber="5" uuid="31c404e8-1241-4675-b259-fbbf1dba15c4"/>
+    </zone>
+</cockatrice_deck>
