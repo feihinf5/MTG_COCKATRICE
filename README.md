@@ -195,4 +195,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Block Pro Tour-San Juan 2010 Paulo Vitor Damo da Rosa （青赤緑コントロール (8-2-0)／黒緑） https://web.archive.org/web/20150912071745/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptsj10/t8blockdecklists
 - Extended Grand-Prix Houston 2010 Adam Yurchick （DDT）https://web.archive.org/web/20130521175402/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/top8decklists
 - Standard Grand-Prix Brussels 2010 Emanuele Giusti （ジャンド） https://web.archive.org/web/20130530042029/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpbru10/top8decks
-- Standard Grand Prix-Kuala Lumpur 2010 Ding Yuan Leong （黒赤ビートダウン） https://mtgdecks.net/Standard/mono-red-aggro-decklist-by-ding-yuan-leong-2346
