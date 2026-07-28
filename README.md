@@ -193,4 +193,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Legacy Japan Legacy Championship 2010 中谷真司 （Zoo） https://web.archive.org/web/20150318154611/http://archive.mtg-jp.com/eventc/jpnats10/article/006617/
 - Standard Grand Prix-Sendai 2010 Brian Kibler （バントアグロ） https://web.archive.org/web/20150912071059/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsen10/top8decks
 - Block Pro Tour-San Juan 2010 Paulo Vitor Damo da Rosa （青赤緑コントロール (8-2-0)／黒緑） https://web.archive.org/web/20150912071745/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptsj10/t8blockdecklists
-- Extended Grand-Prix Houston 2010 Adam Yurchick （DDT）https://web.archive.org/web/20130521175402/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/top8decklists
