@@ -49,4 +49,5 @@ Sideboard
 - 1 Blood Crypt
 - 1 Ancient Grudge
 - 2 Tormod's Crypt
-- 1 Malfegor 4 Deathmark 
+- 1 Malfegor
+- 4 Deathmark 
