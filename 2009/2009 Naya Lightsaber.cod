@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Fri Jun 12 21:29:29 2026</lastLoadedTimestamp>
+    <deckname>2009 Naya Lightsaber</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2009 winning deck by Andre Coimbra</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Lightning Bolt" setShortName="M10" collectorNumber="146" uuid="435589bb-27c6-4a6d-9d63-394d5092b9d8"/>
+        <card number="4" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="3" name="Ajani Vengeant" setShortName="ALA" collectorNumber="154" uuid="8fc108a3-15e5-44ab-a6e2-182b309f9c0c"/>
+        <card number="4" name="Baneslayer Angel" setShortName="M10" collectorNumber="4" uuid="6764ea7b-ccb3-4f39-b8ba-654a186210b9"/>
+        <card number="4" name="Bloodbraid Elf" setShortName="ARB" collectorNumber="50" uuid="7ef67487-c8e5-49bb-b0f7-e073ff2e31f1"/>
+        <card number="4" name="Noble Hierarch" setShortName="CON_" collectorNumber="87" uuid="6adfe928-1305-444d-b709-1e714544daaf"/>
+        <card number="4" name="Ranger of Eos" setShortName="ALA" collectorNumber="21" uuid="1a30ee26-5f78-4ac2-9105-1baa9ece8a21"/>
+        <card number="1" name="Scute Mob" setShortName="ZEN" collectorNumber="182" uuid="43e2fcc6-96d3-45f5-b4dd-e049d9ec6cec"/>
+        <card number="4" name="Wild Nacatl" setShortName="ALA" collectorNumber="152" uuid="5eb18038-eb6a-4d27-ba52-52a1cee6b512"/>
+        <card number="4" name="Woolly Thoctar" setShortName="ALA" collectorNumber="209" uuid="7d5907d5-ae5c-4c9d-a5df-61f1c94f979d"/>
+        <card number="4" name="Arid Mesa" setShortName="ZEN" collectorNumber="211" uuid="16c8d2fa-54a7-46e8-980c-905258497c90"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="249" uuid="341b05e6-93bb-4071-b8c6-1644f56e026d"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="248" uuid="52c21f91-6679-4adb-baf2-b06cf505150c"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="247" uuid="6744c441-42b3-48b2-af06-1e27ec776d97"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="246" uuid="f0ca4b9f-4ee6-4ad8-a95f-326ada9de3cd"/>
+        <card number="1" name="Mountain" setShortName="ZEN" collectorNumber="244" uuid="03bacab3-25fb-4a0c-81b3-7e9e22899c2c"/>
+        <card number="1" name="Mountain" setShortName="ZEN" collectorNumber="243" uuid="e3de70f1-6fb1-4191-b66f-491c794f9c05"/>
+        <card number="1" name="Mountain" setShortName="ZEN" collectorNumber="242" uuid="232ee129-0db1-4a03-9eda-4692a8495b53"/>
+        <card number="1" name="Oran-Rief, the Vastwood" setShortName="ZEN" collectorNumber="221" uuid="9bcc3bab-46f8-4ed2-abdb-7a117ad07d03"/>
+        <card number="1" name="Plains" setShortName="ZEN" collectorNumber="230" uuid="bc4f4b6d-ff35-4b1f-974b-f39569e6b3c7"/>
+        <card number="1" name="Plains" setShortName="ZEN" collectorNumber="231" uuid="6b362e9b-8d25-405e-b70e-f3c9533627a7"/>
+        <card number="1" name="Plains" setShortName="ZEN" collectorNumber="232" uuid="36446ad6-8bf0-4e4e-bbab-379c22dbf4f6"/>
+        <card number="1" name="Plains" setShortName="ZEN" collectorNumber="233" uuid="e9646663-ba93-446b-ad83-71503924e7f8"/>
+        <card number="4" name="Rootbound Crag" setShortName="M10" collectorNumber="227" uuid="5433b11b-efe9-4d94-8f71-6bf7c403494d"/>
+        <card number="4" name="Sunpetal Grove" setShortName="M10" collectorNumber="228" uuid="9f4e8ead-8c82-4258-bc59-551f7a74e042"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Goblin Ruinblaster" setShortName="ZEN" collectorNumber="127" uuid="0d95d1f3-7ec1-4279-ade7-3f339f2f33da"/>
+        <card number="4" name="Great Sable Stag" setShortName="M10" collectorNumber="186" uuid="451c8a79-1e8a-437d-836f-31155914c551"/>
+        <card number="2" name="Burst Lightning" setShortName="ZEN" collectorNumber="119" uuid="2dc16614-5cf8-444d-a5ae-cac25018af68"/>
+        <card number="4" name="Celestial Purge" setShortName="M10" collectorNumber="7" uuid="f693c3db-a9e3-418c-afdd-e2e245461e71"/>
+        <card number="1" name="Ajani Vengeant" setShortName="ALA" collectorNumber="154" uuid="8fc108a3-15e5-44ab-a6e2-182b309f9c0c"/>
+    </zone>
+</cockatrice_deck>
