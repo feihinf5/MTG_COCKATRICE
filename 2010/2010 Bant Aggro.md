@@ -12,6 +12,10 @@ Format
 
 Note
 - Grand Prix-Sendai 2010 winning deck by Brian Kibler
+- Uses cheap ETB cantrip creatures ([**Wall of Omens**] and [**Sea Gate Oracle**]) to draw cards and defend early, while double-casting them in a single turn to constantly recur [**Vengevine**] from the graveyard
+- [**Elspeth, Knight-Errant**] gave the cantrip walls and [**Vengevine**] flying and +3/+3 to close out games rapidly
+- [**Gideon Jura**] protected [**Jace, the Mind Sculptor**] and cleared paths for attackers
+- [**Ranger of Eos**] as a 2-for-1 tutor to fetch [**Noble Hierarch**] (for mana/Exalted) or a 1-of [**Scute Mob**] (to function as a massive, late-game finisher)
 
 Deck
 - 4 Celestial Colonnade
