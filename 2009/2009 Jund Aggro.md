@@ -35,7 +35,7 @@ Deck
 - 1 Swamp
 - 2 Forest
 - 2 Graven Cairns
-- 2 Fire-Lit Ticket
+- 2 Fire-Lit Thicket
 - 2 Auntie's Hovel
 - 3 Twilight Mire
 - 3 Gilt-Leaf Palace
