@@ -1,4 +1,5 @@
 ## 2010
+- https://web.archive.org/web/20150318154611/http://archive.mtg-jp.com/eventc/jpnats10/article/006617/
 - https://web.archive.org/web/20150912071059/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsen10/top8decks
 - https://web.archive.org/web/20150912071745/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptsj10/t8blockdecklists
 - https://web.archive.org/web/20130521175402/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/top8decklists
