@@ -191,4 +191,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Standard 2010 France National Championship Julien Parez （青白コントロール）https://web.archive.org/web/20150806043818/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/frnat10/welcome#1
 - Standard 2010 Japan National Championship 森勝洋 （赤単スライ）https://web.archive.org/web/20150910130243/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/jpnat10/top8decks
 - Legacy Japan Legacy Championship 2010 中谷真司 （Zoo） https://web.archive.org/web/20150318154611/http://archive.mtg-jp.com/eventc/jpnats10/article/006617/
-- Standard Grand Prix-Sendai 2010 Brian Kibler （バントアグロ） https://web.archive.org/web/20150912071059/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsen10/top8decks
