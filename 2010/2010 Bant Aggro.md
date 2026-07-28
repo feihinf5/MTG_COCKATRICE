@@ -2,7 +2,13 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2010_Grand_Prix_Sendai_winning_deck_by_Brian_Kibler.png
 
 Format
-- CARD_SET
+- ROE
+- WWK
+- ZEN
+- M10
+- ARB
+- CON
+- ALA 
 
 Note
 - Grand Prix-Sendai 2010 winning deck by Brian Kibler
