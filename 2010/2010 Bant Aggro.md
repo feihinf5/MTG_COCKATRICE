@@ -12,10 +12,10 @@ Format
 
 Note
 - Grand Prix-Sendai 2010 winning deck by Brian Kibler
-- Uses cheap ETB cantrip creatures ([**Wall of Omens**] and [**Sea Gate Oracle**]) to draw cards and defend early, while double-casting them in a single turn to constantly recur [**Vengevine**] from the graveyard
-- [**Elspeth, Knight-Errant**] gave the cantrip walls and [**Vengevine**] flying and +3/+3 to close out games rapidly
-- [**Gideon Jura**] protected [**Jace, the Mind Sculptor**] and cleared paths for attackers
-- [**Ranger of Eos**] as a 2-for-1 tutor to fetch [**Noble Hierarch**] (for mana/Exalted) or a 1-of [**Scute Mob**] (to function as a massive, late-game finisher)
+- Uses cheap ETB cantrip creatures ([**Wall of Omens**](https://api.scryfall.com/cards/6e3510f5-e450-400b-98ea-341dbf212054?format=image
+)and [**Sea Gate Oracle**](https://api.scryfall.com/cards/fd056c91-5026-41ea-bc9e-68078d78ca82?format=image)) to draw cards and defend early, while double-casting them in a single turn to constantly recur [**Vengevine**](https://api.scryfall.com/cards/51eb9f05-9d5a-4196-9329-626ce4793c42?format=image) from the graveyard
+- [**Elspeth, Knight-Errant**](https://api.scryfall.com/cards/44c52e52-2b1c-4ca8-ab6d-20d97a342704?format=image) gave the cantrip walls and [**Vengevine**](https://api.scryfall.com/cards/51eb9f05-9d5a-4196-9329-626ce4793c42?format=image) flying and +3/+3 to close out games rapidly
+- [**Gideon Jura**](https://api.scryfall.com/cards/e0440668-1b0e-437c-9e42-7166dd14dfe5?format=image) protected [**Jace, the Mind Sculptor**](https://api.scryfall.com/cards/0e606072-a3aa-4300-ba90-ec92a721fa76?format=image) and cleared paths for attackers
 
 Deck
 - 4 Celestial Colonnade
