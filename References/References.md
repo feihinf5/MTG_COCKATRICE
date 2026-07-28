@@ -1,4 +1,5 @@
 ## 2010
+- https://web.archive.org/web/20130530042029/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpbru10/top8decks
 - https://web.archive.org/web/20130511033718/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpoak10/welcome#11
 ## 2009
 - https://web.archive.org/web/20170703221836/http://archive.mtg-jp.com/eventc/finals09/article/002232/
