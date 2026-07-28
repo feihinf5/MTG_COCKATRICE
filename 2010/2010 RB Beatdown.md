@@ -8,7 +8,25 @@ Note
 - Grand Prix-Kuala Lumpur 2010 winning deck by Ding Yuan Leong
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Arid Mesa
+- 4 Dragonskull Summit
+- 4 Lavaclaw Reaches
+- 8 Mountain
+- 4 Scalding Tarn
+- 4 Ball Lightning
+- 4 Goblin Guide
+- 4 Hell's Thunder
+- 4 Hellspark Elemental
+- 4 Blightning
+- 3 Burst Lightning
+- 3 Earthquake
+- 4 Lightning Bolt
+- 2 Quenchable Fire
+- 4 Searing Blaze
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 4 Deathmark
+- 2 Doom Blade
+- 4 Goblin Ruinblaster
+- 3 Manabarbs
+- 2 Quenchable Fire
