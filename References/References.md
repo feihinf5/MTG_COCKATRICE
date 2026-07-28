@@ -1,4 +1,5 @@
 ## 2010
+- https://web.archive.org/web/20150912071745/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptsj10/t8blockdecklists
 - https://web.archive.org/web/20130521175402/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/top8decklists
 - https://web.archive.org/web/20130530042029/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpbru10/top8decks
 - https://web.archive.org/web/20130511033718/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpoak10/welcome#11
