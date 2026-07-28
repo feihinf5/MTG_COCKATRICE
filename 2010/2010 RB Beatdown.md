@@ -11,8 +11,8 @@ Format
 
 Note
 - Grand Prix-Kuala Lumpur 2010 winning deck by Ding Yuan Leong
-- Red aggro core with Black splash was included almost exclusively for 4 copies of [**Blightning**]
-- [**Quenchable Fire**] for Anti-Jund Tech
+- Red aggro core with Black splash was included almost exclusively for 4 copies of [**Blightning**](https://api.scryfall.com/cards/3c05e8a2-b7d0-4f24-b2ae-8e4db30e5842?format=image)
+- [**Quenchable Fire**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) for Anti-Jund Tech
 
 Deck
 - 4 Arid Mesa
