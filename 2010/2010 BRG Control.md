@@ -7,7 +7,10 @@ Format
 - ZEN
 
 Note
-- Pro Tour-San Juan 2010 winning deck by Paulo Vitor Damo da Rosa 
+- Pro Tour-San Juan 2010 winning deck by Paulo Vitor Damo da Rosa
+- Pairing [**Oracle of Mul Daya**] with [**Jace, the Mind Sculptor**] created an unstoppable card-filtering engine, [**Jace, the Mind Sculptor**]'s +2 ablity allows you to place extra lands from your hand directly onto the top of your deck, which [**Oracle of Mul Daya**] immediately plays for free
+- Ramps up massive pools of mana to either cast an un-counterable, game-ending [**Comet Storm**] for multi-target lethal damage or flood the board with [**Avenger of Zendikar**] and scale plants via fetch lands
+- Takes advantage of bounce-land synergies ([**Halimar Depths**], [**Raging Ravine**]) and extra land-play effects (Oracle, Explore) to make Deprive operate as a 2-mana hard counter spell with virtually no downside.
 
 Deck
 - 1 Evolving Wilds
