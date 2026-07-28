@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Merfolk</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2009 Germany National Championship winning deck by Sebastian Thaler</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="4" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="2" name="Sage's Dousing" setShortName="MOR" collectorNumber="48" uuid="75ccd5f6-b363-433f-9e98-f65e10b10bc9"/>
+        <card number="2" name="Merfolk Sovereign" setShortName="M10" collectorNumber="62" uuid="b9826a2e-361e-4701-9177-0907c0c6dc9f"/>
+        <card number="4" name="Merrow Reejerey" setShortName="LRW" collectorNumber="74" uuid="b57434d9-6fa5-43a6-98b9-044d2259d699"/>
+        <card number="4" name="Reveillark" setShortName="MOR" collectorNumber="22" uuid="5629edd4-b5d3-43f8-8c7c-f9d916e35158"/>
+        <card number="4" name="Silvergill Adept" setShortName="LRW" collectorNumber="86" uuid="9e07a38a-2d88-4b01-9634-f24cbc8d96d6"/>
+        <card number="4" name="Stonybrook Banneret" setShortName="MOR" collectorNumber="51" uuid="3e3e9c6c-e11a-4771-ae1a-3c13cc97e92e"/>
+        <card number="4" name="Sygg, River Guide" setShortName="LRW" collectorNumber="251" uuid="fb1aefaf-1b96-4c08-a73e-98e401655965"/>
+        <card number="4" name="Wake Thrasher" setShortName="EVE" collectorNumber="31" uuid="93116209-636a-4b86-a8ed-d4a03e1d7212"/>
+        <card number="4" name="Glacial Fortress" setShortName="M10" collectorNumber="226" uuid="ee834e27-595d-4d12-8e69-e94e84ef337a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="286" uuid="5885738f-a51d-418c-b194-0ba8ef6af556"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="287" uuid="24ffadeb-cf20-4da9-a140-1fdcc7484c7a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="288" uuid="d714d196-8cbc-4b53-8219-21044a017bce"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="289" uuid="a35d9548-f495-43ef-af66-e13a84c1f12a"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="286" uuid="98d84005-faac-4e02-9fea-40757b43cf03"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="287" uuid="9ae96b4b-7568-4463-b26c-a567e4a418d7"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="288" uuid="196a004a-ec08-4e1b-8eeb-2ad766fccd25"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="289" uuid="28da317c-8512-4342-9be5-d14b87a509c7"/>
+        <card number="4" name="Mutavault" setShortName="MOR" collectorNumber="148" uuid="8ca3c48b-f104-4292-9a4e-2ce87a65893c"/>
+        <card number="2" name="Mystic Gate" setShortName="SHM" collectorNumber="277" uuid="3dfa866b-93e2-4365-91b0-f12d1f7c5395"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="282" uuid="b8e41010-a7d2-4e78-8f7b-502347f8c47d"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="283" uuid="6e5db4d0-61f4-4cc6-89c4-02a2060b556d"/>
+        <card number="4" name="Wanderwine Hub" setShortName="LRW" collectorNumber="280" uuid="ccec69de-7203-4810-a8ec-8748705ee3a2"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Sleep" setShortName="M10" collectorNumber="71" uuid="133be4f4-1daa-41b6-b509-9e64c6b00059"/>
+        <card number="4" name="Burrenton Forge-Tender" setShortName="LRW" collectorNumber="7" uuid="c000c3e4-d71a-43c8-8ded-f3da54bc088d"/>
+        <card number="2" name="Glen Elendra Archmage" setShortName="EVE" collectorNumber="22" uuid="09516d3d-e6c2-4359-af2a-a4aa244ca033"/>
+        <card number="3" name="Sower of Temptation" setShortName="LRW" collectorNumber="88" uuid="2f5320da-7214-4348-84d8-74bf951c9f2f"/>
+        <card number="4" name="Meddling Mage" setShortName="ARB" collectorNumber="8" uuid="1a55308b-5772-430a-93e4-b65c416b86cf"/>
+    </zone>
+</cockatrice_deck>
