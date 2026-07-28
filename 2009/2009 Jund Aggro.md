@@ -34,7 +34,7 @@ Deck
 - 1 Mountain
 - 1 Swamp
 - 2 Forest
-- 2 Gravern Cairns
+- 2 Graven Cairns
 - 2 Fire-Lit Ticket
 - 2 Auntie's Hovel
 - 3 Twilight Mire
