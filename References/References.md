@@ -1,4 +1,5 @@
 ## 2010
+- https://web.archive.org/web/20150806043818/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/frnat10/welcome#1
 - https://web.archive.org/web/20150910130243/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/jpnat10/top8decks
 - https://web.archive.org/web/20150318154611/http://archive.mtg-jp.com/eventc/jpnats10/article/006617/
 - https://web.archive.org/web/20150912071059/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsen10/top8decks
