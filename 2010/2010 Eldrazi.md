@@ -10,8 +10,28 @@ Note
 - 2010 Block Constructed Championship winning deck by Matt Severa
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 1 Dread Statuary
+- 13 Forest
+- 4 Khalni Garden
+- 3 Misty Rainforest
+- 3 Verdant Catacombs
+- 4 Arbor Elf
+- 4 Joraga Treespeaker
+- 4 Kozilek's Predator
+- 4 Lotus Cobra
+- 4 Nest Invader
+- 2 River Boa
+- 4 Vengevine
+- 4 Wolfbriar Elemental
+- 4 Beastmaster Ascension
+- 2 Eldrazi Monument
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Eldrazi Monument
+- 1 Forest
+- 2 Gigantiform
+- 4 Leatherback Baloth
+- 2 Naturalize
+- 1 River Boa
+- 3 Tajuru Preserver
 
