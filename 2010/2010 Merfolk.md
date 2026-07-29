@@ -6,9 +6,9 @@ Format
 
 Note
 - Grand Prix-Columbus 2010 winning deck by Saitou Tomoharu
-- Maindecking [**Underground Sea**] gave the deck access to black sideboard options
-- Combines [**Aether Vial**] with [**Force of Will**] and [**Daze**], allowing the deck to continuously drop Merfolk threats without spending mana—leaving counterspells up at all times
-- Uses [**Aether Vial**] and [**Mutavault**] to break [**Standstill**], the Merfolk player can keep putting creatures onto the board via [**Aether Vial**] or attacking with [**Mutavault**] without breaking the spell themselves, forcing the opponent to trigger a 3-card draw for you
+- Maindecking [**Underground Sea**](https://api.scryfall.com/cards/ff76ac86-8a8a-47fe-9388-8950ca3e26c3?format=image) gave the deck access to black sideboard options
+- Combines [**Aether Vial**](https://api.scryfall.com/cards/741c479b-5e92-4837-9673-9bc72aa11d26?format=image) with [**Force of Will**](https://api.scryfall.com/cards/9a879b60-4381-447d-8a5a-8e0b6a1d49ca?format=image) and [**Daze**](https://api.scryfall.com/cards/d03bff25-0d5e-4dcf-8d75-6df846afea3b?format=image), allowing the deck to continuously drop Merfolk threats without spending mana—leaving counterspells up at all times
+- Uses [**Aether Vial**](https://api.scryfall.com/cards/741c479b-5e92-4837-9673-9bc72aa11d26?format=image) and [**Mutavault**](https://api.scryfall.com/cards/8ca3c48b-f104-4292-9a4e-2ce87a65893c?format=image) to break [**Standstill**](https://api.scryfall.com/cards/3ede3f6f-e642-4fe4-aa37-0f01cdf4d149?format=image), the Merfolk player can keep putting creatures onto the board via [**Aether Vial**](https://api.scryfall.com/cards/741c479b-5e92-4837-9673-9bc72aa11d26?format=image) or attacking with [**Mutavault**](https://api.scryfall.com/cards/8ca3c48b-f104-4292-9a4e-2ce87a65893c?format=image) without breaking the spell themselves, forcing the opponent to trigger a 3-card draw for you
 
 Deck
 - 4 Cursecatcher
