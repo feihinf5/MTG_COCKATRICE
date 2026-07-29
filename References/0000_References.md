@@ -1,4 +1,5 @@
 ## 2010
+- https://web.archive.org/web/20100926115156/http://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/feature/104b
 - https://web.archive.org/web/20100926114344/http://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/feature/104c
 - https://web.archive.org/web/20101022183236/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/104a
 - https://web.archive.org/web/20160526173116/http://magic.wizards.com/en/events/coverage/gpcol10#1
