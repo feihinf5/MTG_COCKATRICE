@@ -12,6 +12,11 @@ Format
 
 Note
 - 2010 Japan National Championship winning deck by Mori Katsuhiro
+- Fetchlands purely to thin the deck of land draws and guarantee landfall triggers for [**Searing Blaze**]
+- [**Teetering Peaks**] to pump hasty creatures
+- Focuses heavily on high-power, temporary creatures ([**Ball Lightning**], [**Hellspark Elemental**], [**Hell's Thunder**]) to maximize immediate combat damage
+- [**Kargan Dragonlord**] provides an un-killable late-game threat that eats spare mana to grow into an evasive finisher
+- [**Quenchable Fire**] and [**Earthquake**] were maindecked specifically to combat the prominent Jund and U/W Control matchups of that era
 
 Deck
 - 2 Arid Mesa
