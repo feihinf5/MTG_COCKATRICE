@@ -6,6 +6,9 @@ Format
 
 Note
 - 2010 Vintage Championship winning deck by Owen Turtenwald
+- Uses [**Time Vault**] + [**Voltaic Key**] to take infinite turns
+- [**Dark Confidant**] + [**Jace, the Mind Sculptor**] to rapidly draw through the deck and manipulate the top card of your library
+- [**Trygon Predator**] specifically included to destroy heavily played artifacts and enchantments in Vintage
 
 Deck
 - 1 Flooded Strand
