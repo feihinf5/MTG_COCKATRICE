@@ -8,6 +8,10 @@ Format
 
 Note
 - 2010 Block Constructed Championship winning deck by Matt Severa
+- Uses [**Khalni Garden**], [**Nest Invader**], and [**Kozilek's Predator**] to quickly generate 0/1 Plant and 0/1 Eldrazi Spawn tokens
+- Once [**Beastmaster Ascension**] hits the battlefield, attacking with 7 creatures at once immediately puts 7 counters on it, permanently giving all your creatures +5/+5, turning tiny 0/1 tokens into lethal 5/6 threats in a single combat step
+- [**Arbor Elf**] + [**Joraga Treespeaker**] repeatedly triggers [**Vengevine**] to return from the graveyard to the battlefield with Haste
+- [**Eldrazi Monument**] serves as a backup to [**Beastmaster Ascension**], giving the wide token board Indestructible, Flying, and +1/+1, while easily feeding its sacrifice requirement using Eldrazi Spawn or Plant tokens
 
 Deck
 - 1 Dread Statuary
