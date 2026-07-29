@@ -12,7 +12,8 @@ Format
 - ALA
 
 Note
-- 2010 France National Championship winning deck by Julien Parez 
+- 2010 France National Championship winning deck by Julien Parez
+- Uses [**Sun Titan**] as a recurrable value engine—looping destroyed [**Wall of Omens**], [**Sea Gate Oracle**], [**Tectonic Edge**] and [**Oblivion Ring**] straight back onto the battlefield
 
 Deck
 - 1 Arid Mesa
