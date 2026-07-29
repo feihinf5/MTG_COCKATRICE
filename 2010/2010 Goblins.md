@@ -5,7 +5,13 @@ Format
 - LEA <--> M11
 
 Note
-- 2010 Legacy Championship winning deck by Ryan Messick 
+- 2010 Legacy Championship winning deck by Ryan Messick
+- [**Wort, Boggart Auntie**] acts as an un-counterable recursive engine when brought out via [**Aether Vial**] or [**Goblin Lackey**], returning destroyed Goblins or cycle-cards like [**Gempalm Incinerator**] back to hand every turn
+- [**Auntie's Hovel**] & [**Badlands**] that enables black mana without needing to compromise tribal synergy or land speed
+- [**Warren Weirding**] gives the deck maindeckable edict removal that specifically bypasses Protection from Red while still being a searchable target via [**Goblin Matron**]
+- [**Warren Instigator**] has Double Strike, dealing combat damage lets you cheat two Goblins directly onto the battlefield in a single turn (e.g., dropping [**Siege-Gang Commander**] + [**Goblin Ringleader**])
+- [**Goblin Matron**] acts as a tutor for situational silver bullets, [**Stingscourger**] (bounce huge threats), [**Kiki-Jiki, Mirror Breaker**] (copy [**Goblin Ringleader**]/[**Goblin Matron**] for infinite value), or [**Siege-Gang Commander**] (reach/burn)
+- [**Goblin Ringleader**] combined with [**Aether Vial**] ensures the deck rarely runs out of cards, out-grinding traditional control decks despite being an aggressive creature strategy
 
 Deck
 - 1 Arid Mesa
