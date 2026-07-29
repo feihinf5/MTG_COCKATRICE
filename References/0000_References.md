@@ -1,4 +1,5 @@
 ## 2010
+- https://web.archive.org/web/20101022183236/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/104a
 - https://web.archive.org/web/20160526173116/http://magic.wizards.com/en/events/coverage/gpcol10#1
 - https://web.archive.org/web/20150806043818/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/frnat10/welcome#1
 - https://web.archive.org/web/20150910130243/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/jpnat10/top8decks
