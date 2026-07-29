@@ -184,4 +184,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Standard 2010 Germany National Championship Dennis Johannsen （赤緑ヴァラクート）https://mtgdecks.net/Standard/valakut-ramp-decklist-by-dennis-johannsen-558
 - Standard 2010 Great Britain National Championship Joseph Jackson （ナヤビートダウン）https://mtgdecks.net/Standard/naya-fauna-shaman-decklist-by-joseph-jackson-550
 - Standard 2010 China National Championship 陸超/Lu Chao （赤白上陸） https://web.archive.org/web/20160117194531/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/chnat10/welcome
-- Legacy 2010 Legacy Championship Ryan Messick （ゴブリン）https://web.archive.org/web/20100926115156/http://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/feature/104b
