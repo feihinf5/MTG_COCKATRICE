@@ -13,7 +13,7 @@ Format
 
 Note
 - 2010 France National Championship winning deck by Julien Parez
-- Uses [**Sun Titan**] as a recurrable value engine—looping destroyed [**Wall of Omens**], [**Sea Gate Oracle**], [**Tectonic Edge**] and [**Oblivion Ring**] straight back onto the battlefield
+- Uses [**Sun Titan**](https://api.scryfall.com/cards/d8db2b8e-dce9-49b7-833f-381ee55288cb?format=image) as a recurrable value engine—looping destroyed [**Wall of Omens**](https://api.scryfall.com/cards/6e3510f5-e450-400b-98ea-341dbf212054?format=image), [**Sea Gate Oracle**](https://api.scryfall.com/cards/fd056c91-5026-41ea-bc9e-68078d78ca82?format=image), [**Tectonic Edge**](https://api.scryfall.com/cards/fdcf5c0f-9d18-406d-a930-c179a781264f?format=image) and [**Oblivion Ring**](https://api.scryfall.com/cards/895c270d-84d8-4c7f-9df3-5a595e113dd7?format=image) straight back onto the battlefield
 
 Deck
 - 1 Arid Mesa
