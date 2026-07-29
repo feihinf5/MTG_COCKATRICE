@@ -1,14 +1,36 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2010_Grand_Prix_Columbus_winning_deck_by_Saitou_Tomoharu.png
 
 Format
-- CARD_SET
+- LEA <--> M11
 
 Note
 - Grand Prix-Columbus 2010 winning deck by Saitou Tomoharu
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Cursecatcher
+- 4 Silvergill Adept
+- 4 Lord of Atlantis
+- 4 Coralhelm Commander
+- 4 Merrow Reejerey
+- 4 Daze
+- 4 Force of Will
+- 3 Spell Pierce
+- 4 Standstill
+- 4 Underground Sea
+- 4 Mutavault
+- 4 Wasteland
+- 2 Island
+- 2 Misty Rainforest
+- 2 Flooded Strand
+- 2 Scalding Tarn
+- 1 Polluted Delta
+- 4 Aether Vial 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 4 Engineered Plague
+- 1 Perish
+- 3 Submerge
+- 3 Tormod's Crypt
+- 2 Umezawa's Jitte
+- 2 Nature's Ruin 
