@@ -2,7 +2,14 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2010_France_National_Championship_winning_deck_by_Julien_Parez.png
 
 Format
-- CARD_SET
+- M11
+- ROE
+- WWK
+- ZEN
+- M10
+- ARB
+- CON
+- ALA
 
 Note
 - 2010 France National Championship winning deck by Julien Parez 
