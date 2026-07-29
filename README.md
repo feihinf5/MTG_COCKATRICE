@@ -187,4 +187,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Legacy 2010 Legacy Championship Ryan Messick （ゴブリン）https://web.archive.org/web/20100926115156/http://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/feature/104b
 - Vintage 2010 Vintage Championship Owen Turtenwald（腹心コントロール) https://web.archive.org/web/20100926114344/http://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/feature/104c
 - Block 2010 Block Constructed Championship Matt Severa （緑単エルドラージの碑） https://web.archive.org/web/20101022183236/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/104a
-- Legacy Grand Prix-Columbus 2010 齋藤友晴（マーフォークタッチ黒）https://web.archive.org/web/20160526173116/http://magic.wizards.com/en/events/coverage/gpcol10#1
