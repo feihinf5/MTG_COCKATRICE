@@ -6,6 +6,9 @@ Format
 
 Note
 - Grand Prix-Columbus 2010 winning deck by Saitou Tomoharu
+- Maindecking [**Underground Sea**] gave the deck access to black sideboard options
+- Combines [**Aether Vial**] with [**Force of Will**] and [**Daze**], allowing the deck to continuously drop Merfolk threats without spending mana—leaving counterspells up at all times
+- Uses [**Aether Vial**] and [**Mutavault**] to break [**Standstill**], the Merfolk player can keep putting creatures onto the board via [**Aether Vial**] or attacking with [**Mutavault**] without breaking the spell themselves, forcing the opponent to trigger a 3-card draw for you
 
 Deck
 - 4 Cursecatcher
