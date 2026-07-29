@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2009 Turbo Turns</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2009 Finland National Championship winning deck by Mikko Airaksinen</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Open the Vaults" setShortName="M10" collectorNumber="21" uuid="ffb29703-96de-475a-9499-b3cd2a2d6566"/>
+        <card number="4" name="Time Warp" setShortName="M10" collectorNumber="75" uuid="f21c7628-0571-4c09-8763-8e434e5e87d2"/>
+        <card number="2" name="Tezzeret the Seeker" setShortName="ALA" collectorNumber="60" uuid="3b214b6f-4734-4200-8467-92d7e3469b5d"/>
+        <card number="4" name="Pollen Lullaby" setShortName="LRW" collectorNumber="36" uuid="deb2156a-8a77-4954-b557-1bdaf3ba171a"/>
+        <card number="2" name="Jace Beleren" setShortName="LRW" collectorNumber="71" uuid="cdffb058-1af0-41bb-956a-ae10e092c389"/>
+        <card number="4" name="Elsewhere Flask" setShortName="SHM" collectorNumber="250" uuid="9273a17d-114b-4d54-a2a5-1047df8caa9d"/>
+        <card number="4" name="Fieldmist Borderpost" setShortName="ARB" collectorNumber="5" uuid="9650a717-b1e4-4cd2-894d-766f6b311369"/>
+        <card number="4" name="Time Sieve" setShortName="ARB" collectorNumber="31" uuid="c620e565-f5e1-467c-a1d1-8d05228b2f37"/>
+        <card number="1" name="Font of Mythos" setShortName="CON_" collectorNumber="136" uuid="c198caf8-27ab-4300-841b-507e1b0ce9b3"/>
+        <card number="3" name="Kaleidostone" setShortName="CON_" collectorNumber="137" uuid="79826f7f-e46b-489d-8fcb-1712d36e8f60"/>
+        <card number="4" name="Mistvein Borderpost" setShortName="ARB" collectorNumber="27" uuid="7974a0de-6c14-431d-bfdb-2e76a1778ad0"/>
+        <card number="4" name="Howling Mine" setShortName="M10" collectorNumber="212" uuid="b87c9191-1408-4aca-9061-bfb5b101c3ad"/>
+        <card number="4" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="286" uuid="5885738f-a51d-418c-b194-0ba8ef6af556"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="287" uuid="24ffadeb-cf20-4da9-a140-1fdcc7484c7a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="288" uuid="d714d196-8cbc-4b53-8219-21044a017bce"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="289" uuid="a35d9548-f495-43ef-af66-e13a84c1f12a"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="286" uuid="98d84005-faac-4e02-9fea-40757b43cf03"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="287" uuid="9ae96b4b-7568-4463-b26c-a567e4a418d7"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="288" uuid="196a004a-ec08-4e1b-8eeb-2ad766fccd25"/>
+        <card number="3" name="Mystic Gate" setShortName="SHM" collectorNumber="277" uuid="3dfa866b-93e2-4365-91b0-f12d1f7c5395"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="282" uuid="b8e41010-a7d2-4e78-8f7b-502347f8c47d"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="283" uuid="6e5db4d0-61f4-4cc6-89c4-02a2060b556d"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="284" uuid="6e6d4bb5-9da7-4d21-9cdc-1732ea61121a"/>
+        <card number="1" name="Swamp" setShortName="LRW" collectorNumber="290" uuid="4f799604-bbbf-4d57-83c8-13a0eafa974e"/>
+        <card number="1" name="Swamp" setShortName="LRW" collectorNumber="291" uuid="8f9dc477-a3e4-4fc0-af62-c8b8eb68d360"/>
+        <card number="1" name="Swamp" setShortName="LRW" collectorNumber="292" uuid="1e4ad69e-843c-4f33-be2f-711568f8aac7"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Ethersworn Canonist" setShortName="ALA" collectorNumber="10" uuid="2aebe7a8-b982-4be4-83ca-3594e8f606b4"/>
+        <card number="4" name="Flashfreeze" setShortName="M10" collectorNumber="53" uuid="34fa49b9-4bd3-4d2e-9378-3df209680a2c"/>
+        <card number="4" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="3" name="Angelsong" setShortName="ALA" collectorNumber="4" uuid="0832e87f-afef-41a5-ba36-3eaf65551576"/>
+    </zone>
+</cockatrice_deck>
