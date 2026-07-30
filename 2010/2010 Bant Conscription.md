@@ -13,6 +13,8 @@ Format
 
 Note
 - 2010 United States National Championship winning deck by Josh Utter-Leyton
+- Pairs [**Sovereigns of Lost Alara**] with [**Eldrazi Conscription**], attacking with a single creature tutors [**Eldrazi Conscription**] directly from your library onto that creature, giving it +10/+10, Trample, and Annihilator 2 to swing for instant game-ending damage
+- [**Knight of the Reliquary**] can search for [**Sejiri Steppe**] mid-combat to grant protection from a chosen color, forcing the creature through blockers or dodging spot removal
 
 Deck
 - 4 Jace, the Mind Sculptor
