@@ -1,4 +1,5 @@
 ## 2010
+- https://web.archive.org/web/20160529073240/http://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93amsterdam-top-8-extended-decks-2010-09-03
 - https://web.archive.org/web/20160526172528/http://magic.wizards.com/en/events/coverage/usnat10
 - https://web.archive.org/web/20110915151853mp_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gernat10/welcome#1
 - https://web.archive.org/web/20110916192119mp_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat10/welcome#2
