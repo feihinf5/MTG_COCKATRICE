@@ -2,7 +2,14 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2010_China_National_Championship_winning_deck_by_Lu_Chao.png
 
 Format
-- CARD_SET
+- M11
+- ROE
+- WWK
+- ZEN
+- M10
+- ARB
+- CON
+- ALA
 
 Note
 - 2010 China National Championship winning deck by Lu Chao
