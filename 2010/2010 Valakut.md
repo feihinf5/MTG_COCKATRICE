@@ -12,7 +12,11 @@ Format
 - ALA
 
 Note
-- 2010 Germany National Championship winning deck by Dennis Johannsen 
+- 2010 Germany National Championship winning deck by Dennis Johannsen
+- [**Primeval Titan**] entering the battlefield or attacking lets you search for any two lands—grabbing two [**Valakut**] (or [**Valakut**] + [**Mountains**]) instantly fires off massive direct-damage triggers that usually kill the opponent in a single turn
+- Running 9 fetch/budget fetch lands ([**Evolving Wilds**], [**Terramorphic Expanse**], [**Verdant Catacombs**])
+- Running [**Summoning Trap**] punishes blue control decks
+- [**Avenger of Zendikar**] serves as an alternate win condition, it floods the board with Plant tokens, which continuously grow larger with every fetchland and land-ramp spell you cast
 
 Deck
 - 4 Evolving Wilds
