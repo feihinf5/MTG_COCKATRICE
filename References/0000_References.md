@@ -1,4 +1,5 @@
 ## 2010
+- https://web.archive.org/web/20110915151853mp_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gernat10/welcome#1
 - https://web.archive.org/web/20110916192119mp_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat10/welcome#2
 - https://web.archive.org/web/20160117194531/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/chnat10/welcome
 - https://web.archive.org/web/20100926115156/http://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/feature/104b
