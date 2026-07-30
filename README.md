@@ -181,4 +181,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Standard World Championships 2010 Guillaume Matignon （青黒コントロール）https://web.archive.org/web/20160927121011/http://magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-top-8-standard-deck-lists
 - Extended Pro Tour Amsterdam 2010 Paul Rietzl（白ウィニー）https://web.archive.org/web/20160529073240/http://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93amsterdam-top-8-extended-decks-2010-09-03
 - Standard 2010 United States National Championship Josh Utter-Leyton （徴兵バント）https://web.archive.org/web/20160526172528/http://magic.wizards.com/en/events/coverage/usnat10
-- Standard 2010 Germany National Championship Dennis Johannsen （赤緑ヴァラクート）https://mtgdecks.net/Standard/valakut-ramp-decklist-by-dennis-johannsen-558
