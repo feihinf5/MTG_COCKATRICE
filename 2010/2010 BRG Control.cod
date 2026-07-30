@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 BRG Control</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour-San Juan 2010 winning deck by Paulo Vitor Damo da Rosa</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Jace, the Mind Sculptor" setShortName="WWK" collectorNumber="31" uuid="0e606072-a3aa-4300-ba90-ec92a721fa76"/>
+        <card number="4" name="Explore" setShortName="WWK" collectorNumber="99" uuid="d8f81e8a-e309-4bac-81de-326756cd8901"/>
+        <card number="2" name="Flame Slash" setShortName="ROE" collectorNumber="145" uuid="006d2bf1-20f7-4b09-8d98-8233d91682bd"/>
+        <card number="4" name="Burst Lightning" setShortName="ZEN" collectorNumber="119" uuid="2dc16614-5cf8-444d-a5ae-cac25018af68"/>
+        <card number="2" name="Comet Storm" setShortName="WWK" collectorNumber="76" uuid="58d8b2c8-7afe-4299-b59b-8cd2cdc8d4cb"/>
+        <card number="2" name="Deprive" setShortName="ROE" collectorNumber="59" uuid="2efecdd9-bd3a-4b79-92da-6485589d5bde"/>
+        <card number="2" name="Avenger of Zendikar" setShortName="WWK" collectorNumber="96" uuid="dde073e0-f329-4ab0-8e31-a48929e017ce"/>
+        <card number="3" name="Goblin Ruinblaster" setShortName="ZEN" collectorNumber="127" uuid="0d95d1f3-7ec1-4279-ade7-3f339f2f33da"/>
+        <card number="4" name="Lotus Cobra" setShortName="ZNR" collectorNumber="193" uuid="a4b759f0-901f-4be3-93fa-224609b08d48"/>
+        <card number="3" name="Oracle of Mul Daya" setShortName="ZEN" collectorNumber="172" uuid="7f89a173-0b2f-4a6a-b706-9aed8dbcabec"/>
+        <card number="2" name="Sphinx of Lost Truths" setShortName="ZEN" collectorNumber="69" uuid="d97b61b6-bf80-4326-a646-a1985e0b50d7"/>
+        <card number="1" name="Evolving Wilds" setShortName="ROE" collectorNumber="228" uuid="bc7e0407-fea1-43ef-8580-82271e440bb3"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="246a" uuid="c6d6876e-7d83-44bd-b721-5070f4087325"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="247a" uuid="3cfbcefd-8b2d-4b9e-a11a-18274c3a8dd2"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="248a" uuid="1908f8d2-95df-44e3-8943-568c596cd8aa"/>
+        <card number="3" name="Halimar Depths" setShortName="WWK" collectorNumber="137" uuid="c5651e5e-2314-4e3d-a2c8-2579239314e1"/>
+        <card number="1" name="Island" setShortName="ZEN" collectorNumber="234a" uuid="c4ec37bf-80bd-4f51-a79e-9c20e4048a00"/>
+        <card number="1" name="Island" setShortName="ZEN" collectorNumber="235a" uuid="f8a3c4a0-892d-4e74-bb21-00786705766e"/>
+        <card number="1" name="Island" setShortName="ZEN" collectorNumber="236a" uuid="68a50ced-f89d-4636-a681-8c1de18ee712"/>
+        <card number="1" name="Island" setShortName="ZEN" collectorNumber="237a" uuid="aa9f8662-8294-4924-a4c0-e26b709ea4a6"/>
+        <card number="2" name="Kazandu Refuge" setShortName="ZEN" collectorNumber="217" uuid="8af66f9c-c90b-45e0-a54c-a76e7e1b9dff"/>
+        <card number="4" name="Misty Rainforest" setShortName="ZEN" collectorNumber="220" uuid="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787"/>
+        <card number="1" name="Mountain" setShortName="ZEN" collectorNumber="242a" uuid="4f570888-effb-44ff-a250-a7726a0b01f4"/>
+        <card number="1" name="Mountain" setShortName="ZEN" collectorNumber="243a" uuid="45651533-0c76-476a-bfaf-1b5ec74427cd"/>
+        <card number="1" name="Mountain" setShortName="ZEN" collectorNumber="244a" uuid="e0571374-26b4-403c-b6da-4fd8b930cda6"/>
+        <card number="4" name="Raging Ravine" setShortName="WWK" collectorNumber="141" uuid="cb7b6fb5-4d38-4734-b46f-923322cff24e"/>
+        <card number="4" name="Scalding Tarn" setShortName="ZEN" collectorNumber="223" uuid="327cf118-cc92-4073-85d0-94d2a0a6989a"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Vapor Snare" setShortName="WWK" collectorNumber="44" uuid="bf09358e-099a-4115-807e-48ceb024d186"/>
+        <card number="2" name="Flame Slash" setShortName="ROE" collectorNumber="145" uuid="006d2bf1-20f7-4b09-8d98-8233d91682bd"/>
+        <card number="2" name="Searing Blaze" setShortName="WWK" collectorNumber="90" uuid="301f13dd-39b8-4a93-9c05-3dc4fa1f1c75"/>
+        <card number="2" name="Spell Pierce" setShortName="ZEN" collectorNumber="67" uuid="cb3d3901-e4a6-45ab-a7b5-c65d91e1875e"/>
+        <card number="1" name="Goblin Ruinblaster" setShortName="ZEN" collectorNumber="127" uuid="0d95d1f3-7ec1-4279-ade7-3f339f2f33da"/>
+        <card number="1" name="Hellkite Charger" setShortName="ZEN" collectorNumber="131" uuid="e70c645d-d170-4a91-a6bb-0175ec900e93"/>
+        <card number="1" name="Mold Shambler" setShortName="ZEN" collectorNumber="169" uuid="903cb570-d769-4d7f-afbe-90ebad96657c"/>
+        <card number="1" name="Rampaging Baloths" setShortName="FDN" collectorNumber="645" uuid="c25ee47b-d099-4788-9c2b-73d151bf56fb"/>
+        <card number="1" name="Forked Bolt" setShortName="ROE" collectorNumber="146" uuid="06127297-fdaa-45bf-a82e-4fc61315e0e2"/>
+        <card number="1" name="Deprive" setShortName="ROE" collectorNumber="59" uuid="2efecdd9-bd3a-4b79-92da-6485589d5bde"/>
+        <card number="1" name="Cunning Sparkmage" setShortName="WWK" collectorNumber="79" uuid="699842c1-6507-48ee-b98b-3774d1f07c76"/>
+    </zone>
+</cockatrice_deck>
