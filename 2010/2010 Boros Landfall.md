@@ -13,6 +13,8 @@ Format
 
 Note
 - 2010 China National Championship winning deck by Lu Chao
+- Hyper-aggressive Landfall synergy with [**Steppe Lynx**] and [**Plated Geopede**] when combined with fetchlands or [**Terramorphic Expanse**]
+- Features [**Stoneforge Mystic**] to tutor [**Adventuring Gear**] or [**Basilisk Collar**]
 
 Deck
 - 4 Arid Mesa
