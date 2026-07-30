@@ -13,6 +13,9 @@ Format
 
 Note
 - 2010 Great Britain National Championship winning deck by Joseph Jackson
+- Uses [**Fauna Shaman**] to pitch creatures (like [**Vengevine**]) into the graveyard to tutor specific answers then casting two creatures to trigger [**Vengevine**]'s recursion to return to the battlefield with Haste
+- [**Stoneforge Mystic**] tutors [**Basilisk Collar**], which equips to [**Cunning Sparkmage**] (haste pinger) with Deathtouch + Haste pinging creates a repeatable, instant-speed removal engine that kills any opposing creature each turn for free
+- [**Fauna Shaman**] acts as a tutor for singletons tailored to any matchup, [**Realm Razer**] to exile all lands upon entering, acting as a complete mana-lockout against ramp/control decks, [**Linvala, Keeper of Silence**] to shut down activated abilities of opposing creatures (shutting down mirror matches), [**Obstinate Baloth**] or [**Baneslayer Angel**] or [**Sun Titan**] for high-impact threats for stabilization, value or game-ending lifegain
 
 Deck
 - 4 Arid Mesa
