@@ -13,7 +13,28 @@ Note
 - Pro Tour Amsterdam 2010 winning deck by Paul Rietzl
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Student of Warfare
+- 4 Steppe Lynx
+- 4 Figure of Destiny
+- 4 Knight of the White Orchid
+- 4 Ethersworn Canonist
+- 2 Ranger of Eos
+- 4 Spectral Procession
+- 4 Brave the Elements
+- 2 Mana Tithe
+- 1 Path to Exile
+- 4 Honor of the Pure
+- 4 Marsh Flats
+- 4 Arid Mesa
+- 4 Flagstones of Trokair
+- 1 Horizon Canopy
+- 10 Plains 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 3 Path to Exile
+- 4 Relic of Progenitus
+- 3 Burrenton Forge-Tender
+- 2 Rule of Law
+- 1 Celestial Purge
+- 1 Lapse of Certainty
+- 1 Angel's Grace 
