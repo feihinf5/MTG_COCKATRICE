@@ -13,8 +13,8 @@ Format
 
 Note
 - 2010 United States National Championship winning deck by Josh Utter-Leyton
-- Pairs [**Sovereigns of Lost Alara**] with [**Eldrazi Conscription**], attacking with a single creature tutors [**Eldrazi Conscription**] directly from your library onto that creature, giving it +10/+10, Trample, and Annihilator 2 to swing for instant game-ending damage
-- [**Knight of the Reliquary**] can search for [**Sejiri Steppe**] mid-combat to grant protection from a chosen color, forcing the creature through blockers or dodging spot removal
+- Pairs [**Sovereigns of Lost Alara**](https://api.scryfall.com/cards/2d2a9e7e-649f-457b-aba7-9c74c2704adf?format=image) with [**Eldrazi Conscription**](https://api.scryfall.com/cards/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a?format=image), attacking with a single creature tutors [**Eldrazi Conscription**](https://api.scryfall.com/cards/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a?format=image) directly from your library onto that creature, giving it +10/+10, Trample, and Annihilator 2 to swing for instant game-ending damage
+- [**Knight of the Reliquary**](https://api.scryfall.com/cards/ad8b8518-c09e-4cb7-95b2-08e4e370d89c?format=image) can search for [**Sejiri Steppe**](https://api.scryfall.com/cards/668f5732-da88-4d42-9186-70cfef81f689?format=image) mid-combat to grant protection from a chosen color, forcing the creature through blockers or dodging spot removal
 
 Deck
 - 4 Jace, the Mind Sculptor
