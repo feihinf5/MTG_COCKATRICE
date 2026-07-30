@@ -11,8 +11,8 @@ Format
 
 Note
 - Pro Tour Amsterdam 2010 winning deck by Paul Rietzl
-- [**Brave the Elements**] gives all your white creatures protection from a chosen color
-- [**Ethersworn Canonist**] to severely punish storm, cascade and spell-heavy combo decks by limiting players to one non-artifact spell per turn
+- [**Brave the Elements**](https://api.scryfall.com/cards/c14c492d-3fd7-4b2a-910e-bfcb33752eba?format=image) gives all your white creatures protection from a chosen color
+- [**Ethersworn Canonist**](https://api.scryfall.com/cards/2aebe7a8-b982-4be4-83ca-3594e8f606b4?format=image) to severely punish storm, cascade and spell-heavy combo decks by limiting players to one non-artifact spell per turn
 
 Deck
 - 4 Student of Warfare
