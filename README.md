@@ -173,4 +173,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 
 ## To Do
 - Standard The Finals10 優勝 仙波恒太郎 （白単アーマー）https://web.archive.org/web/20110612025638mp_/http://archive.mtg-jp.com/eventc/finals10/article/010367/
-- Vintage 2010 Japan Vintage Championship 斉藤悠（Oath Tezzeret）https://web.archive.org/web/20110320111700/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/worlds10/1210vin
