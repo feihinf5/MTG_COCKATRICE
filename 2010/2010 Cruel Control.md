@@ -10,8 +10,8 @@ Format
 
 Note
 - World Championships 2010 Extended format top deck by Luis Scott-Vargas
-- Uses [**Vivid Creek**], [**Vivid Meadow**], [**Vivid Marsh**] combined with [**Reflecting Pool**] and filter lands ([**Mystic Gate**], [**Cascade Bluffs**], [**Sunken Ruins**]) to seamlessly fix mana across all five colors
-- [**Cruel Ultimatum**] drains life, forces discards/sacrifices and returns a creature (like [**Wurmcoil Engine**]) from your graveyard
+- Uses [**Vivid Creek**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Vivid Meadow**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Vivid Marsh**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) combined with [**Reflecting Pool**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) and filter lands ([**Mystic Gate**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Cascade Bluffs**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image), [**Sunken Ruins**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)) to seamlessly fix mana across all five colors
+- [**Cruel Ultimatum**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image) drains life, forces discards/sacrifices and returns a creature (like [**Wurmcoil Engine**](https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image)) from your graveyard
 
 Deck
 - 3 Jace, the Mind Sculptor
