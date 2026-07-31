@@ -10,6 +10,11 @@ Format
 
 Note
 - World Championships 2010 Extended format top deck by Pascal Maynard
+- [**Tempered Steel**] alongside [**Master of Etherium**] and [**Steel Overseer**], allowing 0-cost creatures to instantly become massive threats
+- Combines 0-mana artifacts ([**Memnite**], [**Ornithopter**]) with [**Mox Opal**] and [**Springleaf Drum**] to generate immediate mana velocity and turn 1–2 board presence
+- [**Thoughtseize**] and [**Tidehollow Sculler**] (an artifact creature itself) to strip key board wipes or combo pieces from the opponent before swinging in
+- [**Ranger of Eos**] to tutor up 0-cost and 1-cost creatures ([**Memnite**], [**Ornithopter**], [**Court Homunculus**]), instantly refueling the hand and board late in the game
+- Thopter Foundry as an alternative win condition and life-gain engine, sacrificing redundant artifacts to build an evasive flying army.
 
 Deck
 - 4 Master of Etherium
