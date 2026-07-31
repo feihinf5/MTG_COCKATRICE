@@ -10,6 +10,11 @@ Format
 
 Note
 - 2010 Magic Online World Championships 4-0 Extended format deck
+- Target low-cost tokens with [**Polymorph**] to instantly tutor and cheat out [**Emrakul, the Aeons Torn**] directly onto the battlefield
+- Runs zero actual creature cards so that every [**Polymorph**] resolve is guaranteed to hit [**Emrakul, the Aeons Torn**]
+- Uses non-creature permanents to make target tokens, [**Bitterblossom**], [**Khalni Garden**] and [**Mutavault**]
+- Runs 1 copy of [**Murmuring Bosk**] solely so blue fetchlands like [**Misty Rainforest**] can fetch a green source to guarantee casting [**Khalni Garden**] for an instant token
+- [**Jace, the Mind Sculptor**] to shuffle [**Emrakul, the Aeons Torn**] back into the library if drawn, keeping the combo intact
 
 Deck
 - 3 Jace, the Mind Sculptor
