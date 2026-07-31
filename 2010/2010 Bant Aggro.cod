@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 Bant Aggro</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Sendai 2010 winning deck by Brian Kibler</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Oblivion Ring" setShortName="ALA" collectorNumber="20" uuid="895c270d-84d8-4c7f-9df3-5a595e113dd7"/>
+        <card number="2" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="3" name="Elspeth, Knight-Errant" setShortName="ALA" collectorNumber="9" uuid="44c52e52-2b1c-4ca8-ab6d-20d97a342704"/>
+        <card number="1" name="Gideon Jura" setShortName="ROE" collectorNumber="21" uuid="e0440668-1b0e-437c-9e42-7166dd14dfe5"/>
+        <card number="3" name="Jace, the Mind Sculptor" setShortName="WWK" collectorNumber="31" uuid="0e606072-a3aa-4300-ba90-ec92a721fa76"/>
+        <card number="1" name="Bant Charm" setShortName="ALA" collectorNumber="155" uuid="65b65c87-b084-44aa-b841-411a3c73e234"/>
+        <card number="2" name="Birds of Paradise" setShortName="M10" collectorNumber="168" uuid="4f94309b-1049-4ab4-b7f0-745938c87b3f"/>
+        <card number="1" name="Borderland Ranger" setShortName="M10" collectorNumber="169" uuid="bdd0f8c8-1a1f-4d9b-a6e1-3654f3995012"/>
+        <card number="4" name="Noble Hierarch" setShortName="CON_" collectorNumber="87" uuid="6adfe928-1305-444d-b709-1e714544daaf"/>
+        <card number="2" name="Ranger of Eos" setShortName="ALA" collectorNumber="21" uuid="1a30ee26-5f78-4ac2-9105-1baa9ece8a21"/>
+        <card number="1" name="Scute Mob" setShortName="ZEN" collectorNumber="182" uuid="43e2fcc6-96d3-45f5-b4dd-e049d9ec6cec"/>
+        <card number="4" name="Sea Gate Oracle" setShortName="ROE" collectorNumber="85" uuid="fd056c91-5026-41ea-bc9e-68078d78ca82"/>
+        <card number="2" name="Sphinx of Lost Truths" setShortName="ZEN" collectorNumber="69" uuid="d97b61b6-bf80-4326-a646-a1985e0b50d7"/>
+        <card number="4" name="Vengevine" setShortName="ROE" collectorNumber="212" uuid="51eb9f05-9d5a-4196-9329-626ce4793c42"/>
+        <card number="4" name="Wall of Omens" setShortName="ROE" collectorNumber="53" uuid="6e3510f5-e450-400b-98ea-341dbf212054"/>
+        <card number="4" name="Celestial Colonnade" setShortName="WWK" collectorNumber="133" uuid="f6929259-2903-4f6f-9b06-42048fd55c6a"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="246" uuid="12495cfa-ab19-4e9e-a49e-a94499f664a2"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="247" uuid="af8a605e-73a6-4666-ae08-ec6e9845e629"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="248" uuid="368be73f-24d2-44db-a55e-d04176db3142"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="249" uuid="2a0bc8e3-b106-43bb-acf6-885328d24a65"/>
+        <card number="1" name="Forest" setShortName="M10" collectorNumber="246" uuid="3394d804-c0e5-4901-a8ff-c1a765cc1e21"/>
+        <card number="1" name="Island" setShortName="ALA" collectorNumber="234" uuid="2fdcf679-4269-4ed9-84f1-1ac7a513f475"/>
+        <card number="1" name="Island" setShortName="ALA" collectorNumber="235" uuid="7e659905-5f87-4181-8fc8-59ab2138b7fc"/>
+        <card number="4" name="Misty Rainforest" setShortName="ZEN" collectorNumber="220" uuid="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="230" uuid="e94e2710-7b95-46d0-8261-0afa6b192e70"/>
+        <card number="4" name="Seaside Citadel" setShortName="ALA" collectorNumber="229" uuid="c1995d2a-4550-4c84-ad44-183b06579e98"/>
+        <card number="1" name="Stirring Wildwood" setShortName="WWK" collectorNumber="144" uuid="d556d10b-83cc-4736-b269-4ce65aae2837"/>
+        <card number="3" name="Sunpetal Grove" setShortName="M10" collectorNumber="228" uuid="9f4e8ead-8c82-4258-bc59-551f7a74e042"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Oblivion Ring" setShortName="ALA" collectorNumber="20" uuid="895c270d-84d8-4c7f-9df3-5a595e113dd7"/>
+        <card number="1" name="Sphinx of Jwar Isle" setShortName="ZEN" collectorNumber="68" uuid="a0d13a9c-8757-46f4-be83-eb9917a5bbe3"/>
+        <card number="2" name="Oust" setShortName="ROE" collectorNumber="40" uuid="07313dd3-d0dc-40ca-98a3-fa4d39e5bcae"/>
+        <card number="1" name="Mold Shambler" setShortName="ZEN" collectorNumber="169" uuid="903cb570-d769-4d7f-afbe-90ebad96657c"/>
+        <card number="1" name="Martial Coup" setShortName="CON_" collectorNumber="11" uuid="4201385f-6f74-4e3d-aafb-0eff82cb24c1"/>
+        <card number="1" name="Gideon Jura" setShortName="ROE" collectorNumber="21" uuid="e0440668-1b0e-437c-9e42-7166dd14dfe5"/>
+        <card number="1" name="Bant Charm" setShortName="ALA" collectorNumber="155" uuid="65b65c87-b084-44aa-b841-411a3c73e234"/>
+        <card number="2" name="Negate" setShortName="M10" collectorNumber="65" uuid="3877d196-332c-4266-aac8-a35754d74297"/>
+        <card number="2" name="Celestial Purge" setShortName="CON_" collectorNumber="5" uuid="31c404e8-1241-4675-b259-fbbf1dba15c4"/>
+        <card number="1" name="Celestial Purge" setShortName="M10" collectorNumber="7" uuid="f693c3db-a9e3-418c-afdd-e2e245461e71"/>
+        <card number="2" name="Deprive" setShortName="ROE" collectorNumber="59" uuid="2efecdd9-bd3a-4b79-92da-6485589d5bde"/>
+    </zone>
+</cockatrice_deck>
