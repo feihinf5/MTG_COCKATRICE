@@ -6,6 +6,9 @@ Format
 
 Note
 - 2010 Japan Vintage Championship winning deck by Saitou Yuu
+- Uses [**Oath of Druids**] combined with [**Forbidden Orchard**] (which gives the opponent a 1/1 Spirit token) to automatically trigger [**Oath of Druids**] on upkeep and cheat massive threats directly from the deck onto the battlefield for free, [**Emrakul, the Aeons Torn**] (15/15 Annihilator) or [**Tidespout Tyrant**] (infinite bounce engine with zero-cost artifact mana)
+- Combines [**Time Vault**] + [**Voltaic Key**] (or [**Tezzeret the Seeker**]) to take infinite consecutive turns
+- [**Yawgmoth's Will**] to re-cast the entire graveyard
 
 Deck
 - 4 Forbidden Orchard
