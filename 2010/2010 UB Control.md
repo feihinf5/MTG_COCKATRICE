@@ -10,6 +10,8 @@ Format
 
 Note
 - World Championships 2010 winning deck by Guillaume Matignon
+- Old "Planeswalker Rule" Tech, that under the older rules, playing a 3-mana [**Jace Beleren**] acted as a direct kill spell against an opponent's existing [**Jace, the Mind Sculptor**]
+- [**Spreading Seas**] and [**Tectonic Edge**] to lock down greedy mana bases and disable key utility lands
 
 Deck
 - 2 Jace Beleren
