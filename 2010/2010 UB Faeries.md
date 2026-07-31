@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2010_World_Championships_Extended_format_top_deck_by_Jonathan_Randle.png
 
 Format
 - CARD_SET
