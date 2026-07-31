@@ -2,13 +2,42 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2010_Magic_Online_World_Championships_4-0_Extended_format_deck.png
 
 Format
-- CARD_SET
+- SOM
+- M11
+- ROE / WWK / ZEN
+- M10
+- ARB / CON / ALA / EVE / SHM / MOR / LRW
 
 Note
 - 2010 Magic Online World Championships 4-0 Extended format deck
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 3 Jace, the Mind Sculptor
+- 2 Emrakul, the Aeons Torn
+- 4 Polymorph
+- 3 Ponder
+- 4 Preordain
+- 4 Thoughtseize
+- 4 Cryptic Command
+- 4 Mana Leak
+- 2 Spell Pierce
+- 4 Bitterblossom
+- 3 Creeping Tar Pit
+- 4 Darkslick Shores
+- 2 Drowned Catacomb
+- 4 Island
+- 2 Khalni Garden
+- 4 Misty Rainforest
+- 1 Murmuring Bosk
+- 4 Mutavault
+- 2 Sunken Ruins 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 2 Abyssal Persecutor
+- 1 Doom Blade
+- 3 Duress
+- 1 Grave Titan
+- 3 Infest
+- 1 Ratchet Bomb
+- 2 Smother
+- 2 Wurmcoil Engine 
