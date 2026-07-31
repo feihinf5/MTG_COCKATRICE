@@ -172,4 +172,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
-- Standard The Finals10 優勝 仙波恒太郎 （白単アーマー）https://web.archive.org/web/20110612025638mp_/http://archive.mtg-jp.com/eventc/finals10/article/010367/
