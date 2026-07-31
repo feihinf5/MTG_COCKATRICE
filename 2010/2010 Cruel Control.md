@@ -10,6 +10,8 @@ Format
 
 Note
 - World Championships 2010 Extended format top deck by Luis Scott-Vargas
+- Uses [**Vivid Creek**], [**Vivid Meadow**], [**Vivid Marsh**] combined with [**Reflecting Pool**] and filter lands ([**Mystic Gate**], [**Cascade Bluffs**], [**Sunken Ruins**]) to seamlessly fix mana across all five colors
+- [**Cruel Ultimatum**] drains life, forces discards/sacrifices and returns a creature (like [**Wurmcoil Engine**]) from your graveyard
 
 Deck
 - 3 Jace, the Mind Sculptor
