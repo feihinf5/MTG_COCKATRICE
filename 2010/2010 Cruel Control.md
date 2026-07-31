@@ -2,7 +2,11 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2010_World_Championships_Extended_format_top_deck_by_Luis_Scott-Vargas.png
 
 Format
-- CARD_SET
+- SOM
+- M11
+- ROE / WWK / ZEN
+- M10
+- ARB / CON / ALA / EVE / SHM / MOR / LRW
 
 Note
 - World Championships 2010 Extended format top deck by Luis Scott-Vargas
