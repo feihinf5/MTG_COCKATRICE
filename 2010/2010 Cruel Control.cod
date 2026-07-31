@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 Cruel Control</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2010 Extended format top deck by Luis Scott-Vargas</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Cascade Bluffs" setShortName="EVE" collectorNumber="175" uuid="c3eede44-270a-481d-850b-b4862b9685ea"/>
+        <card number="2" name="Creeping Tar Pit" setShortName="WWK" collectorNumber="134" uuid="0f427f0b-034c-4821-8758-e395c0042d8a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="286" uuid="5885738f-a51d-418c-b194-0ba8ef6af556"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="287" uuid="24ffadeb-cf20-4da9-a140-1fdcc7484c7a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="288" uuid="d714d196-8cbc-4b53-8219-21044a017bce"/>
+        <card number="1" name="Mountain" setShortName="LRW" collectorNumber="294" uuid="83beeef7-2bb5-4c3a-9be4-79a968696d65"/>
+        <card number="2" name="Mystic Gate" setShortName="SHM" collectorNumber="277" uuid="3dfa866b-93e2-4365-91b0-f12d1f7c5395"/>
+        <card number="4" name="Reflecting Pool" setShortName="SHM" collectorNumber="278" uuid="3d03dc37-03fb-47b2-aa25-60a85d0d94dd"/>
+        <card number="2" name="Scalding Tarn" setShortName="ZEN" collectorNumber="223" uuid="327cf118-cc92-4073-85d0-94d2a0a6989a"/>
+        <card number="2" name="Sunken Ruins" setShortName="SHM" collectorNumber="280" uuid="9d91a31c-b70a-45bd-a8dd-48d49b277f24"/>
+        <card number="4" name="Vivid Creek" setShortName="LRW" collectorNumber="276" uuid="2e3c2935-84ee-446d-b247-2f574ea84a8f"/>
+        <card number="2" name="Vivid Marsh" setShortName="LRW" collectorNumber="278" uuid="31f806c7-0063-4270-b37c-5363c41a7621"/>
+        <card number="3" name="Vivid Meadow" setShortName="LRW" collectorNumber="279" uuid="a535790b-d416-4807-bca0-acf6b192101c"/>
+        <card number="4" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="4" name="Esper Charm" setShortName="ALA" collectorNumber="167" uuid="a3d70a07-8d91-462c-aa96-901cc9a81531"/>
+        <card number="4" name="Lightning Bolt" setShortName="M11" collectorNumber="149" uuid="e768c957-3a1f-42f5-853a-96942f645df5"/>
+        <card number="4" name="Mana Leak" setShortName="M11" collectorNumber="62" uuid="a7c7757d-8036-4b33-a1cb-07795d392588"/>
+        <card number="1" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="2" name="Volcanic Fallout" setShortName="CON_" collectorNumber="74" uuid="65536d12-e75c-42b5-b592-a3ad4f550a71"/>
+        <card number="2" name="Cruel Ultimatum" setShortName="ALA" collectorNumber="164" uuid="0d267804-23de-4521-ae64-4dd5cd836c6c"/>
+        <card number="1" name="Day of Judgment" setShortName="ZEN" collectorNumber="9" uuid="2aa98fca-972b-46c2-bdec-6ace35c988d5"/>
+        <card number="4" name="Preordain" setShortName="M11" collectorNumber="70" uuid="e3868c3d-4fcd-444b-866f-0f8e50ce7b67"/>
+        <card number="3" name="Wall of Omens" setShortName="ROE" collectorNumber="53" uuid="6e3510f5-e450-400b-98ea-341dbf212054"/>
+        <card number="2" name="Wurmcoil Engine" setShortName="SOM" collectorNumber="223" uuid="33672990-4860-4aa6-ac1b-f9da66f5da59"/>
+        <card number="3" name="Jace, the Mind Sculptor" setShortName="WWK" collectorNumber="31" uuid="0e606072-a3aa-4300-ba90-ec92a721fa76"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Jace Beleren" setShortName="LRW" collectorNumber="71" uuid="cdffb058-1af0-41bb-956a-ae10e092c389"/>
+        <card number="1" name="Celestial Purge" setShortName="CON_" collectorNumber="5" uuid="31c404e8-1241-4675-b259-fbbf1dba15c4"/>
+        <card number="1" name="Negate" setShortName="MOR" collectorNumber="43" uuid="5a501252-e722-4ebf-bcf7-f53a42745fa7"/>
+        <card number="2" name="Vendilion Clique" setShortName="MOR" collectorNumber="55" uuid="f53d8540-fb6d-4d4c-b467-ebfbfa53c880"/>
+        <card number="2" name="Condemn" setShortName="M11" collectorNumber="11" uuid="cfae21b5-aff2-4191-aa42-d756209beaaa"/>
+        <card number="2" name="Runed Halo" setShortName="SHM" collectorNumber="21" uuid="92b45f79-f23e-4eef-8cac-91780dc2a044"/>
+        <card number="1" name="Day of Judgment" setShortName="ZEN" collectorNumber="9" uuid="2aa98fca-972b-46c2-bdec-6ace35c988d5"/>
+        <card number="1" name="Identity Crisis" setShortName="ARB" collectorNumber="81" uuid="930d0de1-39af-4b08-81a3-2cca8aae5d40"/>
+        <card number="3" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="1" name="Volcanic Fallout" setShortName="CON_" collectorNumber="74" uuid="65536d12-e75c-42b5-b592-a3ad4f550a71"/>
+    </zone>
+</cockatrice_deck>
