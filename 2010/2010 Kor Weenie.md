@@ -10,6 +10,11 @@ Format
 
 Note
 - The Finals10 winning deck by Senba Koutarou
+- Built around putting 5 quest counters on [**Quest for the Holy Relic**] to search for [**Argentum Armor**]
+- Uses 0-mana creature drops ([**Memnite**], [**Ornithopter**]) to rapidly trigger [**Quest for the Holy Relic**] on turns 1 and 2
+- Leverages [**Glint Hawk**] and [**Kor Skyfisher**] to bounce 0-mana artifacts or [**Squadron Hawk**] back to hand, replaying them to generate multiple Quest counters in a single turn
+- [**Stoneforge Mystic**], tutors out backup equipment ([**Sword of Body and Mind**] or [**Argentum Armor**])
+- [**Kor Outfitter**], automatically attaches heavy equipment directly onto a creature from the battlefield
 
 Deck
 - 20 Plains
