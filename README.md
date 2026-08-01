@@ -172,7 +172,7 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
-- 2011 Australia National Championship Aaron Nicoll （青赤緑欠片の双子）
+- 2011 Australia National Championship Aaron Nicoll （青赤緑欠片の双子）https://web.archive.org/web/20140524163736/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/aunat11/welcome#1
 - 2011 Japan Legacy Championship 安田真幸 （緑青黒ランドスティル）https://web.archive.org/web/20160807124834/http://coverage.mtg-jp.com/jpnats11/decklist/000438/ 
 - 2011 Japan National Championship 石田龍一郎 （白単鍛えられた鋼）https://web.archive.org/web/20160924014732/http://magic.wizards.com/en/events/coverage/jpnat11#00
 - 2011 China National Championship 陳荘/Zhuang Chen （青黒コントロール） https://web.archive.org/web/20160924015844/http://magic.wizards.com/en/events/coverage/chnat11#2
