@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 Jund</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand-Prix Brussels 2010 winning deck by Emanuele Giusti</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Lightning Bolt" setShortName="M10" collectorNumber="146" uuid="435589bb-27c6-4a6d-9d63-394d5092b9d8"/>
+        <card number="2" name="Terminate" setShortName="ARB" collectorNumber="46" uuid="dc8acab8-4469-4baa-af2f-a3f49b841a55"/>
+        <card number="3" name="Maelstrom Pulse" setShortName="ARB" collectorNumber="92" uuid="eb651c3a-cb27-4b73-8eb6-b87d65211097"/>
+        <card number="2" name="Garruk Wildspeaker" setShortName="M10" collectorNumber="183" uuid="799315b8-19ab-474e-bbe2-f928d4969daf"/>
+        <card number="4" name="Blightning" setShortName="ALA" collectorNumber="156" uuid="3c05e8a2-b7d0-4f24-b2ae-8e4db30e5842"/>
+        <card number="4" name="Bloodbraid Elf" setShortName="ARB" collectorNumber="50" uuid="7ef67487-c8e5-49bb-b0f7-e073ff2e31f1"/>
+        <card number="3" name="Broodmate Dragon" setShortName="ALA" collectorNumber="160" uuid="aea1360e-7c6b-400c-893a-82d93e53101e"/>
+        <card number="4" name="Putrid Leech" setShortName="ARB" collectorNumber="95" uuid="aaa47568-5668-4a9f-ad1c-9a13010ffc2b"/>
+        <card number="3" name="Siege-Gang Commander" setShortName="M10" collectorNumber="157" uuid="9f5128dd-54dd-42a8-b126-f821f87ad069"/>
+        <card number="4" name="Sprouting Thrinax" setShortName="ALA" collectorNumber="197" uuid="8950df86-1e27-4b6b-8b5c-25298a3bda85"/>
+        <card number="2" name="Dragonskull Summit" setShortName="M10" collectorNumber="223" uuid="2d4998db-13c0-412f-b02c-9f041cc45c7e"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="246" uuid="12495cfa-ab19-4e9e-a49e-a94499f664a2"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="247" uuid="af8a605e-73a6-4666-ae08-ec6e9845e629"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="248" uuid="368be73f-24d2-44db-a55e-d04176db3142"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="249" uuid="2a0bc8e3-b106-43bb-acf6-885328d24a65"/>
+        <card number="2" name="Lavaclaw Reaches" setShortName="WWK" collectorNumber="139" uuid="c7066095-f05a-4f2e-ab9c-47c498608ccb"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="242" uuid="7c2cc19c-84ce-4c0b-b56f-7a2b3878a26e"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="243" uuid="fcfb1db3-c0ea-4f8d-8208-5f8895ff686d"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="244" uuid="969d5979-8ae8-4442-a3a5-3412ffeb5af8"/>
+        <card number="4" name="Raging Ravine" setShortName="WWK" collectorNumber="141" uuid="cb7b6fb5-4d38-4734-b46f-923322cff24e"/>
+        <card number="1" name="Rootbound Crag" setShortName="M10" collectorNumber="227" uuid="5433b11b-efe9-4d94-8f71-6bf7c403494d"/>
+        <card number="4" name="Savage Lands" setShortName="ALA" collectorNumber="228" uuid="f6bcded3-6eea-4533-a855-e03d4c4620d6"/>
+        <card number="1" name="Swamp" setShortName="ALA" collectorNumber="238" uuid="45cbe554-ffdc-4de6-bf27-57790b71effb"/>
+        <card number="1" name="Swamp" setShortName="ALA" collectorNumber="239" uuid="e809db1f-12d7-4556-bdd2-db832f991cd0"/>
+        <card number="1" name="Swamp" setShortName="ALA" collectorNumber="240" uuid="bc6ec4ca-ab4c-4d5f-98df-aa166b60bb1d"/>
+        <card number="4" name="Verdant Catacombs" setShortName="ZEN" collectorNumber="229" uuid="7abd2723-2851-4f1a-b2d0-dfcb526472c3"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Jund Charm" setShortName="ALA" collectorNumber="175" uuid="7a0ddf00-926c-4283-a8b2-daa02fa99b8b"/>
+        <card number="1" name="Terminate" setShortName="ARB" collectorNumber="46" uuid="dc8acab8-4469-4baa-af2f-a3f49b841a55"/>
+        <card number="1" name="Thought Hemorrhage" setShortName="ARB" collectorNumber="47" uuid="b2b38a7e-d7c4-40c2-ba54-ae5649589cc9"/>
+        <card number="1" name="Mind Rot" setShortName="M10" collectorNumber="105" uuid="95ae0d9d-170b-4c96-8fa2-68b81eaa13c9"/>
+        <card number="4" name="Deathmark" setShortName="M10" collectorNumber="90" uuid="61268362-f2ba-469d-8e5a-0b8da96e54a5"/>
+        <card number="4" name="Goblin Ruinblaster" setShortName="ZEN" collectorNumber="127" uuid="0d95d1f3-7ec1-4279-ade7-3f339f2f33da"/>
+        <card number="2" name="Anathemancer" setShortName="ARB" collectorNumber="33" uuid="ab106855-bd85-4c00-b596-c46d34f8cdd0"/>
+    </zone>
+</cockatrice_deck>
