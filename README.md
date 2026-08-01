@@ -172,6 +172,7 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- 2011 United States National Championship Ali Aintrazi （青黒コントロール）
 - 2011 Legacy Championship Jared Kohler （マーフォーク）https://web.archive.org/web/20121113011930/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/usnat11/day2#17a
 - 2011 Vintage Championship Mark Hornung （ドレッジ）https://web.archive.org/web/20120726051237/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/usnat11/day1#13a
 - 2011 Austrian National Championship Stefan Heigerer （スライ）https://www.spielraum.co.at/de/decklist/magic/alle/alle/austrian-nationals-2011
