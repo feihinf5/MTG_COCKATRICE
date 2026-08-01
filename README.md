@@ -172,5 +172,7 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- Grand Prix-Dallas/Fort Worth 2011 David Shiels （Caw-Blade）https://www.mtgtop8.com/event?e=1416&d=211343&f=ST
+- Grand Prix-Barcelona 2011 Martin Scheinin （青黒コントロール）https://web.archive.org/web/20170802165831/http://magic.wizards.com/en/events/coverage/gpbar11
 - Pro Tour Paris 2011 Ben Stark （Caw-Blade）https://web.archive.org/web/20171029101811/https://magic.wizards.com/en/articles/archive/event-coverage/top-8-decklists-2011-02-11-0 
 - Grand Prix-Atlanta 2011 Jason Ford （オーメン・ヴァラクート）https://web.archive.org/web/20110611014449mp_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpatl11/welcome#2 
