@@ -172,6 +172,7 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- Grand Prix-Providence 2011 James Rynkiewicz （No-Force Bant）https://web.archive.org/web/20110530045400/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppro11/welcome#0
 - Grand Prix-Kobe 2011 八十岡翔太（青黒フェアリー）https://web.archive.org/web/20191015212206mp_/https://mtg-jp.com/coverage/gpkob11/decklist/0000192/
 - Grand Prix-Dallas/Fort Worth 2011 David Shiels （Caw-Blade）https://www.mtgtop8.com/event?e=1416&d=211343&f=ST
 - Grand Prix-Barcelona 2011 Martin Scheinin （青黒コントロール）https://web.archive.org/web/20170802165831/http://magic.wizards.com/en/events/coverage/gpbar11
