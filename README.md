@@ -173,4 +173,4 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 
 ## To Do
 - Pro Tour Paris 2011 Ben Stark （Caw-Blade） 
-- Grand Prix-Atlanta 2011 Jason Ford （オーメン・ヴァラクート） 
+- Grand Prix-Atlanta 2011 Jason Ford （オーメン・ヴァラクート）https://web.archive.org/web/20110611014449mp_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpatl11/welcome#2 
