@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 Eldrazi</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2010 Block Constructed Championship winning deck by Matt Severa</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Eldrazi Monument" setShortName="ZEN" collectorNumber="199" uuid="aa9f4169-8c49-41f4-9e01-20de06ca4ad9"/>
+        <card number="4" name="Beastmaster Ascension" setShortName="ZEN" collectorNumber="159" uuid="02d7ea78-d539-4c34-8bb3-941353e3da46"/>
+        <card number="4" name="Arbor Elf" setShortName="WWK" collectorNumber="95" uuid="6d32a4ed-6b43-4473-91ec-08cd5414f2f0"/>
+        <card number="4" name="Joraga Treespeaker" setShortName="ROE" collectorNumber="190" uuid="1132218d-56cd-441e-9006-df3c50344491"/>
+        <card number="4" name="Kozilek's Predator" setShortName="ROE" collectorNumber="193" uuid="4ab37d0e-5542-4ae0-a48e-d0a4e6bf48e7"/>
+        <card number="4" name="Lotus Cobra" setShortName="ZNR" collectorNumber="193" uuid="a4b759f0-901f-4be3-93fa-224609b08d48"/>
+        <card number="4" name="Nest Invader" setShortName="ROE" collectorNumber="201" uuid="24517d9c-6cde-41e8-9e82-ee73f069379a"/>
+        <card number="2" name="River Boa" setShortName="ZEN" collectorNumber="180" uuid="4a81be06-b685-461b-80a8-2f23139106e7"/>
+        <card number="4" name="Vengevine" setShortName="ROE" collectorNumber="212" uuid="51eb9f05-9d5a-4196-9329-626ce4793c42"/>
+        <card number="4" name="Wolfbriar Elemental" setShortName="WWK" collectorNumber="118" uuid="35ffbd5e-113a-4f24-baa1-b65a5082d893"/>
+        <card number="1" name="Dread Statuary" setShortName="WWK" collectorNumber="135" uuid="6814d15f-e7a5-4a73-9adc-88a1a4dec6cc"/>
+        <card number="3" name="Forest" setShortName="ZEN" collectorNumber="246a" uuid="c6d6876e-7d83-44bd-b721-5070f4087325"/>
+        <card number="4" name="Forest" setShortName="ZEN" collectorNumber="247a" uuid="3cfbcefd-8b2d-4b9e-a11a-18274c3a8dd2"/>
+        <card number="3" name="Forest" setShortName="ZEN" collectorNumber="248a" uuid="1908f8d2-95df-44e3-8943-568c596cd8aa"/>
+        <card number="3" name="Forest" setShortName="ZEN" collectorNumber="249a" uuid="f30f54e8-eba3-4412-a805-3a834922c260"/>
+        <card number="4" name="Khalni Garden" setShortName="WWK" collectorNumber="138" uuid="1cc6a5e6-0b73-4488-8954-4b168ce7106d"/>
+        <card number="3" name="Misty Rainforest" setShortName="ZEN" collectorNumber="220" uuid="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787"/>
+        <card number="3" name="Verdant Catacombs" setShortName="ZEN" collectorNumber="229" uuid="7abd2723-2851-4f1a-b2d0-dfcb526472c3"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Naturalize" setShortName="ROE" collectorNumber="199" uuid="c02618f5-ae78-47a9-855a-65a3408fcba4"/>
+        <card number="1" name="River Boa" setShortName="ZEN" collectorNumber="180" uuid="4a81be06-b685-461b-80a8-2f23139106e7"/>
+        <card number="3" name="Tajuru Preserver" setShortName="ROE" collectorNumber="211" uuid="c8d03346-0802-4058-b89e-1b6076963c8e"/>
+        <card number="4" name="Leatherback Baloth" setShortName="WWK" collectorNumber="107" uuid="55f97b4c-42c7-4986-a150-0b8de11f0537"/>
+        <card number="2" name="Gigantiform" setShortName="ZEN" collectorNumber="162" uuid="aa476306-9d6b-45ed-9e6c-fd4aee6592e7"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="246a" uuid="c6d6876e-7d83-44bd-b721-5070f4087325"/>
+        <card number="2" name="Eldrazi Monument" setShortName="ZEN" collectorNumber="199" uuid="aa9f4169-8c49-41f4-9e01-20de06ca4ad9"/>
+    </zone>
+</cockatrice_deck>
