@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 Goblins</deckname>
+    <format>legacy</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2010 Legacy Championship winning deck by Ryan Messick</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Warren Weirding" setShortName="MOR" collectorNumber="82" uuid="b0c1288b-5515-497f-b15d-520a29322f5b"/>
+        <card number="4" name="Aether Vial" setShortName="DST" collectorNumber="91" uuid="741c479b-5e92-4837-9673-9bc72aa11d26"/>
+        <card number="2" name="Gempalm Incinerator" setShortName="LGN" collectorNumber="94" uuid="2687c311-fd0c-4fe0-bce8-e3f412216796"/>
+        <card number="2" name="Goblin Chieftain" setShortName="M10" collectorNumber="139" uuid="f5c8a4a4-1611-4188-9c59-8aefb016b5ad"/>
+        <card number="1" name="Goblin Chieftain" setShortName="M11" collectorNumber="141" uuid="78563012-b724-4b6e-94e9-8504d3f76d59"/>
+        <card number="4" name="Goblin Lackey" setShortName="USG" collectorNumber="190" uuid="9b848caa-aad8-4060-8f86-304a8556de2d"/>
+        <card number="2" name="Goblin Matron" setShortName="USG" collectorNumber="191" uuid="9e9e2e5d-ad06-4378-9afb-ffb174e6a5b4"/>
+        <card number="2" name="Goblin Matron" setShortName="7ED" collectorNumber="191" uuid="862409e1-33e0-474c-8627-b03d25b654b9"/>
+        <card number="4" name="Goblin Piledriver" setShortName="ONS" collectorNumber="205" uuid="f6c4df1f-f148-42ec-8e22-e7114216927d"/>
+        <card number="4" name="Goblin Ringleader" setShortName="APC" collectorNumber="62" uuid="b6b2cd77-9552-48b1-80cb-26966323c1ea"/>
+        <card number="4" name="Goblin Warchief" setShortName="SCG" collectorNumber="97" uuid="66864a4b-8924-40ef-a337-15b12413a158"/>
+        <card number="1" name="Kiki-Jiki, Mirror Breaker" setShortName="CHK" collectorNumber="175" uuid="162018eb-5483-4fa2-9c5a-abb639eecf91"/>
+        <card number="1" name="Siege-Gang Commander" setShortName="SCG" collectorNumber="103" uuid="92e78cec-aaf9-4fe8-887b-b7e356d63315"/>
+        <card number="1" name="Siege-Gang Commander" setShortName="10E" collectorNumber="234" uuid="9b8a232d-7289-48c2-9160-54c1c4154721"/>
+        <card number="1" name="Stingscourger" setShortName="PLC" collectorNumber="107" uuid="4b10d6b3-2cd9-4628-a079-6ac803b6f3c3"/>
+        <card number="2" name="Warren Instigator" setShortName="ZEN" collectorNumber="154" uuid="98637219-40d8-414c-939d-e2c90b909725"/>
+        <card number="1" name="Wort, Boggart Auntie" setShortName="LRW" collectorNumber="252" uuid="a08a1377-dede-47c8-8447-c9df125f3b14"/>
+        <card number="1" name="Arid Mesa" setShortName="ZEN" collectorNumber="211" uuid="16c8d2fa-54a7-46e8-980c-905258497c90"/>
+        <card number="4" name="Auntie's Hovel" setShortName="LRW" collectorNumber="267" uuid="098685c9-cd85-4279-a3b5-b495485bba35"/>
+        <card number="1" name="Badlands" setShortName="LEA" collectorNumber="277" uuid="717f6d10-9144-4ade-9ac6-a481cc66b875"/>
+        <card number="1" name="Badlands" setShortName="LEB" collectorNumber="278" uuid="a3393436-3426-4903-8f41-7abcbf6c18c2"/>
+        <card number="1" name="Badlands" setShortName="2ED" collectorNumber="278" uuid="5804dcd3-d41d-4cbd-9f8f-9736f2d37a64"/>
+        <card number="1" name="Badlands" setShortName="3ED" collectorNumber="282" uuid="56058359-3c0b-49db-a0ce-9ded4c3f4372"/>
+        <card number="2" name="Barbarian Ring" setShortName="ODY" collectorNumber="313" uuid="1809361e-ae1a-4c47-8464-e6496e94d962"/>
+        <card number="1" name="Bloodstained Mire" setShortName="ONS" collectorNumber="313" uuid="68c72226-6f52-4322-8b14-18737293dfa0"/>
+        <card number="1" name="Mountain" setShortName="LEA" collectorNumber="292" uuid="eace2c85-976c-425e-9800-5a6ccbd91b56"/>
+        <card number="1" name="Mountain" setShortName="LEA" collectorNumber="293" uuid="1a96315d-edc6-4d68-a260-d14f61281dc1"/>
+        <card number="1" name="Mountain" setShortName="LEB" collectorNumber="297" uuid="7af9c715-8d72-4eae-b412-fc89138ff588"/>
+        <card number="1" name="Mountain" setShortName="LEB" collectorNumber="298" uuid="7cb88a03-7092-4d31-a9f1-4f16e39bc537"/>
+        <card number="1" name="Scalding Tarn" setShortName="ZEN" collectorNumber="223" uuid="327cf118-cc92-4073-85d0-94d2a0a6989a"/>
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Warren Weirding" setShortName="MOR" collectorNumber="82" uuid="b0c1288b-5515-497f-b15d-520a29322f5b"/>
+        <card number="1" name="Relic of Progenitus" setShortName="ALA" collectorNumber="218" uuid="90c41192-64ef-43aa-9af0-75f0d3f56688"/>
+        <card number="1" name="Tormod's Crypt" setShortName="DRK" collectorNumber="112" uuid="0f9668ba-d26d-4484-b4b8-6fb91fbfb617"/>
+        <card number="1" name="Tormod's Crypt" setShortName="CHR" collectorNumber="109" uuid="55709270-74b2-4a3f-947d-29ac7c309b0f"/>
+        <card number="1" name="Tormod's Crypt" setShortName="TSB" collectorNumber="115" uuid="901c4e55-d578-4c20-95fe-26985145de57"/>
+        <card number="1" name="Lightning Bolt" setShortName="LEA" collectorNumber="161" uuid="d573ef03-4730-45aa-93dd-e45ac1dbaf4a"/>
+        <card number="4" name="Mindbreak Trap" setShortName="ZEN" collectorNumber="57" uuid="4f51140b-6254-431a-8810-94307bfdfbbe"/>
+        <card number="3" name="Pyrokinesis" setShortName="ALL" collectorNumber="78" uuid="db2a5e85-6cbc-43c1-9362-4056ad017ef0"/>
+        <card number="1" name="Goblin King" setShortName="LEA" collectorNumber="154" uuid="5873672d-37ea-4c0f-97f3-12b74fde112d"/>
+        <card number="1" name="Goblin Sharpshooter" setShortName="ONS" collectorNumber="207" uuid="7e689df7-b85d-4346-bee8-5e978b5cbbbc"/>
+    </zone>
+</cockatrice_deck>
