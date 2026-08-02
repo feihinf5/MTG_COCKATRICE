@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 Kor Weenie</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>The Finals10 winning deck by Senba Koutarou</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Argentum Armor" setShortName="SOM" collectorNumber="137" uuid="1283c05a-905b-421a-9096-e86b9c807aaf"/>
+        <card number="2" name="Sword of Body and Mind" setShortName="SOM" collectorNumber="208" uuid="03cc5caf-b2d7-4211-a1a4-f0ad6e70e3f4"/>
+        <card number="4" name="Quest for the Holy Relic" setShortName="ZEN" collectorNumber="33" uuid="00d6b8bb-ec11-4ded-a7fc-fa4ea0bb96cc"/>
+        <card number="4" name="Glint Hawk" setShortName="SOM" collectorNumber="10" uuid="284c4710-4183-4743-9c8b-515cc98cbbb8"/>
+        <card number="4" name="Kor Outfitter" setShortName="ZEN" collectorNumber="21" uuid="00006596-1166-4a79-8443-ca9f82e6db4e"/>
+        <card number="4" name="Kor Skyfisher" setShortName="ZEN" collectorNumber="23" uuid="bb2e9465-f5ba-4c7b-9f03-d40dc8394acd"/>
+        <card number="4" name="Memnite" setShortName="SOM" collectorNumber="174" uuid="469cc4e0-49c0-4009-97ea-28e44addec69"/>
+        <card number="4" name="Ornithopter" setShortName="M11" collectorNumber="211" uuid="331a0a01-0c12-4999-9bd7-f26991e4dad5"/>
+        <card number="4" name="Squadron Hawk" setShortName="M11" collectorNumber="33" uuid="beddd409-0154-45a5-a20d-833cf1b5e1f4"/>
+        <card number="4" name="Stoneforge Mystic" setShortName="WWK" collectorNumber="20" uuid="19557351-b65f-4b04-b971-66abdc07000a"/>
+        <card number="4" name="Student of Warfare" setShortName="ROE" collectorNumber="47" uuid="9f4df9be-324b-458a-9379-ab4aa437a6d2"/>
+        <card number="2" name="Plains" setShortName="ZEN" collectorNumber="230a" uuid="51afc6cd-1a39-4160-a265-d92610db1d44"/>
+        <card number="2" name="Plains" setShortName="ZEN" collectorNumber="231a" uuid="87e53e2e-0703-45d3-ab91-78f5241c32bb"/>
+        <card number="2" name="Plains" setShortName="ZEN" collectorNumber="232a" uuid="b4da90d5-d793-4412-acc3-e0c2a5c10e18"/>
+        <card number="2" name="Plains" setShortName="ZEN" collectorNumber="233a" uuid="10a087d3-54b1-4000-89d1-0c428659158c"/>
+        <card number="2" name="Plains" setShortName="M11" collectorNumber="230" uuid="67a2ff8c-ac4a-425e-afd0-a9010bf87c1c"/>
+        <card number="2" name="Plains" setShortName="M11" collectorNumber="231" uuid="0b18bbfc-d624-44c5-b3bb-1e9a0fd1f784"/>
+        <card number="2" name="Plains" setShortName="M11" collectorNumber="232" uuid="4d968b76-8787-40de-821f-46bd2754fa8a"/>
+        <card number="2" name="Plains" setShortName="M11" collectorNumber="233" uuid="46198629-2099-463d-ad5a-c919ae64cded"/>
+        <card number="1" name="Plains" setShortName="SOM" collectorNumber="230" uuid="a410e95b-afd0-4ac4-beb5-96163b411fe2"/>
+        <card number="1" name="Plains" setShortName="SOM" collectorNumber="231" uuid="440680d3-1eea-442a-b58e-96db09bc279e"/>
+        <card number="1" name="Plains" setShortName="SOM" collectorNumber="232" uuid="4315d5ea-eb76-4378-a3da-5d5cdad809b8"/>
+        <card number="1" name="Plains" setShortName="SOM" collectorNumber="233" uuid="e4f48ac3-f0cb-4e5c-8ea6-e423aa92ce11"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Devout Lightcaster" setShortName="ZEN" collectorNumber="10" uuid="16e31e43-84d3-429e-9e81-60b325989c93"/>
+        <card number="4" name="Kor Firewalker" setShortName="WWK" collectorNumber="11" uuid="bc3b88ad-9d65-4873-8527-8f420570aad3"/>
+        <card number="3" name="White Knight" setShortName="M11" collectorNumber="39" uuid="a07a02b6-2c33-40d8-ad97-39b192d7e82d"/>
+        <card number="4" name="Journey to Nowhere" setShortName="ZEN" collectorNumber="14" uuid="09cfe585-8a55-4b27-89e0-dfb6946fe1f3"/>
+    </zone>
+</cockatrice_deck>
