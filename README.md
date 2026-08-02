@@ -172,14 +172,13 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
-- 2011 United States National Championship Ali Aintrazi （青黒コントロール）
+- 2011 United States National Championship Ali Aintrazi （青黒コントロール）https://web.archive.org/web/20160819033613/http://magic.wizards.com/en/events/coverage/usnat11
 - 2011 Legacy Championship Jared Kohler （マーフォーク）https://web.archive.org/web/20121113011930/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/usnat11/day2#17a
 - 2011 Vintage Championship Mark Hornung （ドレッジ）https://web.archive.org/web/20120726051237/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/usnat11/day1#13a
 - 2011 Austrian National Championship Stefan Heigerer （スライ）https://www.spielraum.co.at/de/decklist/magic/alle/alle/austrian-nationals-2011
 - 2011 Australia National Championship Aaron Nicoll （青赤緑欠片の双子）https://web.archive.org/web/20140524163736/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/aunat11/welcome#1
 - 2011 Japan Legacy Championship 安田真幸 （緑青黒ランドスティル）https://web.archive.org/web/20160807124834/http://coverage.mtg-jp.com/jpnats11/decklist/000438/ 
 - 2011 Japan National Championship 石田龍一郎 （白単鍛えられた鋼）https://web.archive.org/web/20160924014732/http://magic.wizards.com/en/events/coverage/jpnat11#00
-- 2011 China National Championship 陳荘/Zhuang Chen （青黒コントロール） https://web.archive.org/web/20160924015844/http://magic.wizards.com/en/events/coverage/chnat11#2
 - Pro Tour Nagoya 2011 David Sharfman（白ウィニー/赤青 https://web.archive.org/web/20160826040437/http://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-block-constructed-lists-top-8-competitors-2011-06-11-0 
 - Grand Prix-Singapore 2011 Paulo Vitor Damo da Rosa （Caw-Blade）https://web.archive.org/web/20140622170236/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsin11/welcome#1
 - Grand Prix-Providence 2011 James Rynkiewicz （No-Force Bant）https://web.archive.org/web/20110530045400/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppro11/welcome#0
