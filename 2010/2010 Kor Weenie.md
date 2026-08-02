@@ -34,4 +34,4 @@ Sideboard
 - 4 Journey to Nowhere
 - 4 Kor Firewalker
 - 3 White Knight
-- 4 Loyal Cathar
+- 4 Devout Lightcaster
