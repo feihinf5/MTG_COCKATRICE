@@ -10,7 +10,7 @@ Format
 
 Note
 - Grand Prix-Atlanta 2011 winning deck by Jason Ford
-- [**Prismatic Omen**] makes all lands count as every land type, when [**Scapeshift**] resolves and fetches 6+ lands (including [**Valakut, the Molten Pinnacle**]), every single land enters as a [**Mountain**] alongside [**Valakut, the Molten Pinnacle**], triggering [**Valakut, the Molten Pinnacle**] 6+ times for 18+ direct damage in one turn
+- [**Prismatic Omen**](https://api.scryfall.com/cards/e75594cc-de47-49f2-9a8b-ba76c576368e?format=image) makes all lands count as every land type, when [**Scapeshift**](https://api.scryfall.com/cards/84829605-50eb-455d-a236-ebfa11e883c5?format=image) resolves and fetches 6+ lands (including [**Valakut, the Molten Pinnacle**](https://api.scryfall.com/cards/37bce60d-2cb0-4772-9f5c-122a7ed426a0?format=image)), every single land enters as a [**Mountain**](https://api.scryfall.com/cards/0497551e-eb90-48db-90e9-0f917da41d9e?format=image) alongside [**Valakut, the Molten Pinnacle**](https://api.scryfall.com/cards/37bce60d-2cb0-4772-9f5c-122a7ed426a0?format=image), triggering [**Valakut, the Molten Pinnacle**](https://api.scryfall.com/cards/37bce60d-2cb0-4772-9f5c-122a7ed426a0?format=image) 6+ times for 18+ direct damage in one turn
 
 Deck
 - 4 Flooded Grove
