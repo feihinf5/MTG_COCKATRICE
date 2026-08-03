@@ -1,4 +1,5 @@
 ## 2011
+- https://web.archive.org/web/20191015212206mp_/https://mtg-jp.com/coverage/gpkob11/decklist/0000192/
 - https://web.archive.org/web/20110611014449mp_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpatl11/welcome#2
 ## 2010
 - https://web.archive.org/web/20110612025638mp_/http://archive.mtg-jp.com/eventc/finals10/article/010367/
