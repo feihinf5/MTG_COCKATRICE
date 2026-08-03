@@ -8,6 +8,8 @@ Note
 - Grand Prix-Providence 2011 winning deck by James Rynkiewicz
 - [**Green Sun's Zenith**] as a versatile utility engine to tutor for ramp ([**Birds of Paradise**], [**Noble Hierarch**]), turn-1 land ramp ([**Dryad Arbor**] for X=0), artifact removal ([**Qasali Pridemage**]), beaters ([**Tarmogoyf**]) or game-ending threats ([**Knight of the Reliquary**])
 - [**Mental Misstep**], placing this list precisely in the 2011 Legacy meta (before its ban) to counter opposing 1-drops for zero mana
+- [**Knight of the Reliquary**], a tutor for situational utility lands like [**Wasteland**] (mana denial), [**Karakas**] (bouncing legendary threats) and [**Maze of Ith**] (reusable combat protection)
+- Integrates a compact [**Stoneforge Mystic**] with [**Sword of Feast and Famine**] or [**Umezawa's Jitte**]
 
 Deck
 - 1 Dryad Arbor
