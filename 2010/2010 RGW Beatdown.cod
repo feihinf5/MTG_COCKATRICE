@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 RGW Beatdown</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2010 Great Britain National Championship winning deck by Joseph Jackson</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Basilisk Collar" setShortName="WWK" collectorNumber="122" uuid="55cdba1b-7a80-435f-9cff-b9365f62e311"/>
+        <card number="1" name="Baneslayer Angel" setShortName="M10" collectorNumber="4" uuid="6764ea7b-ccb3-4f39-b8ba-654a186210b9"/>
+        <card number="2" name="Birds of Paradise" setShortName="M10" collectorNumber="168" uuid="4f94309b-1049-4ab4-b7f0-745938c87b3f"/>
+        <card number="4" name="Bloodbraid Elf" setShortName="ARB" collectorNumber="50" uuid="7ef67487-c8e5-49bb-b0f7-e073ff2e31f1"/>
+        <card number="3" name="Cunning Sparkmage" setShortName="WWK" collectorNumber="79" uuid="699842c1-6507-48ee-b98b-3774d1f07c76"/>
+        <card number="4" name="Fauna Shaman" setShortName="M11" collectorNumber="172" uuid="c685e4c3-eb7b-4b9e-9676-395d69d80974"/>
+        <card number="4" name="Knight of the Reliquary" setShortName="CON_" collectorNumber="113" uuid="ad8b8518-c09e-4cb7-95b2-08e4e370d89c"/>
+        <card number="1" name="Linvala, Keeper of Silence" setShortName="ROE" collectorNumber="33" uuid="82b80a09-7e75-4091-a60e-04aff79339a3"/>
+        <card number="4" name="Noble Hierarch" setShortName="CON_" collectorNumber="87" uuid="6adfe928-1305-444d-b709-1e714544daaf"/>
+        <card number="1" name="Obstinate Baloth" setShortName="M11" collectorNumber="188" uuid="6694496c-45b9-4ddf-bfcd-b632441b8811"/>
+        <card number="2" name="Qasali Pridemage" setShortName="ARB" collectorNumber="75" uuid="75256550-bbe0-499d-909e-af10691749c2"/>
+        <card number="1" name="Realm Razer" setShortName="ALA" collectorNumber="187" uuid="da3ecfc6-1f9e-443e-a445-51df518025a5"/>
+        <card number="1" name="Stoneforge Mystic" setShortName="WWK" collectorNumber="20" uuid="19557351-b65f-4b04-b971-66abdc07000a"/>
+        <card number="1" name="Sun Titan" setShortName="M11" collectorNumber="35" uuid="d8db2b8e-dce9-49b7-833f-381ee55288cb"/>
+        <card number="1" name="Sylvan Ranger" setShortName="M11" collectorNumber="198" uuid="5f73ea30-c6d2-4224-ae54-f6b89e006cf4"/>
+        <card number="4" name="Vengevine" setShortName="ROE" collectorNumber="212" uuid="51eb9f05-9d5a-4196-9329-626ce4793c42"/>
+        <card number="4" name="Arid Mesa" setShortName="ZEN" collectorNumber="211" uuid="16c8d2fa-54a7-46e8-980c-905258497c90"/>
+        <card number="1" name="Evolving Wilds" setShortName="ROE" collectorNumber="228" uuid="bc7e0407-fea1-43ef-8580-82271e440bb3"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="246" uuid="12495cfa-ab19-4e9e-a49e-a94499f664a2"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="247" uuid="af8a605e-73a6-4666-ae08-ec6e9845e629"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="248" uuid="368be73f-24d2-44db-a55e-d04176db3142"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="249" uuid="2a0bc8e3-b106-43bb-acf6-885328d24a65"/>
+        <card number="1" name="Forest" setShortName="M10" collectorNumber="246" uuid="3394d804-c0e5-4901-a8ff-c1a765cc1e21"/>
+        <card number="3" name="Misty Rainforest" setShortName="ZEN" collectorNumber="220" uuid="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="242" uuid="7c2cc19c-84ce-4c0b-b56f-7a2b3878a26e"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="243" uuid="fcfb1db3-c0ea-4f8d-8208-5f8895ff686d"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="230" uuid="e94e2710-7b95-46d0-8261-0afa6b192e70"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="231" uuid="2ef285a1-dbd0-4e41-9f04-a9120a0421f7"/>
+        <card number="2" name="Raging Ravine" setShortName="WWK" collectorNumber="141" uuid="cb7b6fb5-4d38-4734-b46f-923322cff24e"/>
+        <card number="2" name="Sejiri Steppe" setShortName="WWK" collectorNumber="142" uuid="668f5732-da88-4d42-9186-70cfef81f689"/>
+        <card number="2" name="Stirring Wildwood" setShortName="WWK" collectorNumber="144" uuid="d556d10b-83cc-4736-b269-4ce65aae2837"/>
+        <card number="1" name="Sunpetal Grove" setShortName="M10" collectorNumber="228" uuid="9f4e8ead-8c82-4258-bc59-551f7a74e042"/>
+        <card number="1" name="Tectonic Edge" setShortName="WWK" collectorNumber="145" uuid="fdcf5c0f-9d18-406d-a930-c179a781264f"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Manabarbs" setShortName="M10" collectorNumber="149" uuid="7499cb21-a8ec-4938-884b-7085946af8f8"/>
+        <card number="2" name="Oblivion Ring" setShortName="ALA" collectorNumber="20" uuid="895c270d-84d8-4c7f-9df3-5a595e113dd7"/>
+        <card number="2" name="Obstinate Baloth" setShortName="M11" collectorNumber="188" uuid="6694496c-45b9-4ddf-bfcd-b632441b8811"/>
+        <card number="1" name="Qasali Pridemage" setShortName="ARB" collectorNumber="75" uuid="75256550-bbe0-499d-909e-af10691749c2"/>
+        <card number="1" name="Realm Razer" setShortName="ALA" collectorNumber="187" uuid="da3ecfc6-1f9e-443e-a445-51df518025a5"/>
+        <card number="1" name="Gideon Jura" setShortName="ROE" collectorNumber="21" uuid="e0440668-1b0e-437c-9e42-7166dd14dfe5"/>
+        <card number="1" name="Linvala, Keeper of Silence" setShortName="ROE" collectorNumber="33" uuid="82b80a09-7e75-4091-a60e-04aff79339a3"/>
+        <card number="1" name="Cunning Sparkmage" setShortName="WWK" collectorNumber="79" uuid="699842c1-6507-48ee-b98b-3774d1f07c76"/>
+        <card number="1" name="Celestial Purge" setShortName="CON_" collectorNumber="5" uuid="31c404e8-1241-4675-b259-fbbf1dba15c4"/>
+        <card number="1" name="Celestial Purge" setShortName="M10" collectorNumber="7" uuid="f693c3db-a9e3-418c-afdd-e2e245461e71"/>
+        <card number="1" name="Celestial Purge" setShortName="M11" collectorNumber="9" uuid="c69ffb67-0454-48b1-8043-e7f8fb12bb54"/>
+        <card number="1" name="Basilisk Collar" setShortName="WWK" collectorNumber="122" uuid="55cdba1b-7a80-435f-9cff-b9365f62e311"/>
+    </zone>
+</cockatrice_deck>
