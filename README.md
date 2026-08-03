@@ -193,4 +193,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - 2011 Japan National Championship 石田龍一郎 （白単鍛えられた鋼）https://web.archive.org/web/20160924014732/http://magic.wizards.com/en/events/coverage/jpnat11#00
 - Pro Tour Nagoya 2011 David Sharfman（白ウィニー/赤青 https://web.archive.org/web/20160826040437/http://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-block-constructed-lists-top-8-competitors-2011-06-11-0 
 - Grand Prix-Singapore 2011 Paulo Vitor Damo da Rosa （Caw-Blade）https://web.archive.org/web/20140622170236/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsin11/welcome#1
-- Grand Prix-Providence 2011 James Rynkiewicz （No-Force Bant）https://web.archive.org/web/20110530045400/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppro11/welcome#0
