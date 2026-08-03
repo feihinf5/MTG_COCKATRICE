@@ -5,7 +5,9 @@ Format
 - LEA <--> NPH
 
 Note
-- Grand Prix-Providence 2011 winning deck by James Rynkiewicz 
+- Grand Prix-Providence 2011 winning deck by James Rynkiewicz
+- [**Green Sun's Zenith**] as a versatile utility engine to tutor for ramp ([**Birds of Paradise**], [**Noble Hierarch**]), turn-1 land ramp ([**Dryad Arbor**] for X=0), artifact removal ([**Qasali Pridemage**]), beaters ([**Tarmogoyf**]) or game-ending threats ([**Knight of the Reliquary**])
+- [**Mental Misstep**], placing this list precisely in the 2011 Legacy meta (before its ban) to counter opposing 1-drops for zero mana
 
 Deck
 - 1 Dryad Arbor
