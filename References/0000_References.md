@@ -1,4 +1,5 @@
 ## 2011
+- https://web.archive.org/web/20110530045400/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppro11/welcome#0
 - https://web.archive.org/web/20191015212206mp_/https://mtg-jp.com/coverage/gpkob11/decklist/0000192/
 - https://web.archive.org/web/20110611014449mp_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpatl11/welcome#2
 ## 2010
