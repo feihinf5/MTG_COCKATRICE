@@ -1,8 +1,8 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_Grand_Prix_Providence_winning_deck_by_James_Rynkiewicz.png
 
 Format
-- CARD_SET
+- LEA <--> NPH
 
 Note
 - Grand Prix-Providence 2011 winning deck by James Rynkiewicz 
