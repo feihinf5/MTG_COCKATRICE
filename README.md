@@ -194,4 +194,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Pro Tour Nagoya 2011 David Sharfman（白ウィニー/赤青 https://web.archive.org/web/20160826040437/http://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-block-constructed-lists-top-8-competitors-2011-06-11-0 
 - Grand Prix-Singapore 2011 Paulo Vitor Damo da Rosa （Caw-Blade）https://web.archive.org/web/20140622170236/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpsin11/welcome#1
 - Grand Prix-Providence 2011 James Rynkiewicz （No-Force Bant）https://web.archive.org/web/20110530045400/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppro11/welcome#0
-- Grand Prix-Kobe 2011 八十岡翔太（青黒フェアリー）https://web.archive.org/web/20191015212206mp_/https://mtg-jp.com/coverage/gpkob11/decklist/0000192/
