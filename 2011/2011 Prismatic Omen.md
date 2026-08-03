@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_Grand_Prix_Atlanta_winning_deck_by_Jason_Ford.png
 
 Format
 - CARD_SET
