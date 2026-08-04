@@ -2,7 +2,9 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_Pro_Tour_Nagoya_winning_deck_by_David_Sharfman.png
 
 Format
-- CARD_SET
+- NPH
+- MBS
+- SOM
 
 Note
 - Pro Tour Nagoya 2011 winning deck by David Sharfman
