@@ -1,4 +1,5 @@
 ## 2011
+- https://web.archive.org/web/20121113011930/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/usnat11/day2#17a
 - https://web.archive.org/web/20120726051237/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/usnat11/day1#13a
 - https://web.archive.org/web/20160807124834/http://coverage.mtg-jp.com/jpnats11/decklist/000438/
 - https://web.archive.org/web/20160924014732/http://magic.wizards.com/en/events/coverage/jpnat11#00
