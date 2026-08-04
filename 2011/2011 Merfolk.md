@@ -6,6 +6,10 @@ Format
 
 Note
 - 2011 Legacy Championship winning deck by Jared Kohler
+- [**Aether Vial**] bypasses countermagic, casts creatures at instant speed, and effectively doubles available mana, allowing you to hold up counterspells while developing the board
+- [**Mental Misstep**] enables 0-mana disruption against fast combo or early removal
+- [**Sower of Temptation**] steals the opponent’s largest threat
+- [**Umezawa's Jitte**] dominates creature matchups with modular counters for removal, stat pumps or life gain
 
 Deck
 - 13 Island
