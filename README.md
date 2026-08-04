@@ -185,4 +185,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - Grand Prix-Amsterdam 2011 Pierre Sommen （石鍛冶バント）https://web.archive.org/web/20120625154826/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpams11/welcome#0
 - Grand Prix-Brisbane 2011 Jeremy Neeman （青黒コントロール）https://mtgtop8.com/event?e=2090&d=214584&f=ST
 - Grand Prix-Pittsburgh 2011 Samuele Estratti （欠片の双子）https://web.archive.org/web/20130521063141/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptphi11/top8decklists
-- 2011 British National Championship 優勝 Daniel Royde （緑単エルドラージ・ランプ）https://web.archive.org/web/20160117195122/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat11/welcome#1
