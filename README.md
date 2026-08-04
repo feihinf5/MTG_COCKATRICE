@@ -191,4 +191,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - 2011 Vintage Championship Mark Hornung （ドレッジ）https://web.archive.org/web/20120726051237/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/usnat11/day1#13a
 - 2011 Japan Legacy Championship 安田真幸 （緑青黒ランドスティル）https://web.archive.org/web/20160807124834/http://coverage.mtg-jp.com/jpnats11/decklist/000438/ 
 - 2011 Japan National Championship 石田龍一郎 （白単鍛えられた鋼）https://web.archive.org/web/20160924014732/http://magic.wizards.com/en/events/coverage/jpnat11#00
-- Pro Tour Nagoya 2011 David Sharfman（白ウィニー/赤青 https://web.archive.org/web/20160826040437/http://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-block-constructed-lists-top-8-competitors-2011-06-11-0 
