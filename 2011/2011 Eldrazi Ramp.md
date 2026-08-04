@@ -13,6 +13,15 @@ Format
 
 Note
 - 2011 British National Championship winning deck by Daniel Royde
+- [**Joraga Treespeaker**] & [**Overgrown Battlement**], early mana dorks that generate massive early mana, [**Overgrown Battlement**] scales exponentially with extra Defenders like copies of itself or [**Spellskite**]
+- [**Garruk Wildspeaker**], untaps lands ([**Eldrazi Temple**] / [**Eye of Ugin**]) to double mana production or generate 3/3 Beast blockers
+- [**Green Sun's Zenith**] provides unmatched consistency—tutors
+- [**Fauna Shaman**] discards excess mana dorks or high-cost Titans to fetch situational silver-bullets
+- [**Primeval Titan**], the central engine of the deck, on entry and attack, fetches key utility lands
+- [**Emrakul, the Aeons Torn**], the ultimate finisher, takes an extra turn on cast and annihilates the opponent's entire board upon attacking
+- [**Ulamog, the Infinite Gyre**] & [**Artisan of Kozilek**], destroys permanents on cast and reanimates creatures from the graveyard
+- [**Terastodon**], destroys 3 non-creature permanents (planeswalkers, opposing equipment, or lands) instantly upon entry
+- [**Beast Within**], instant-speed target removal for any problem permanent, including Planeswalkers
 
 Deck
 - 4 Eldrazi Temple
