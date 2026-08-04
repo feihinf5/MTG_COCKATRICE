@@ -6,6 +6,12 @@ Format
 
 Note
 - 2011 Japan Legacy Championship winning deck by Yasuda Masayuki
+- [**Standstill**] placed on the board when you have superior positioning or active [**Mishra's Factory**], force the opponent to cast a spell (giving you 3 fresh cards) or slowly die to creature-land attacks
+- [**Life from the Loam**] recovers lands from the graveyard, creating an engine with [**Wasteland**] to repeatedly destroy opposing non-basic lands and recur destroyed [**Mishra's Factory**]
+- [**Mental Misstep**] counters crucial 1-drops for 0 mana
+- [**Pernicious Deed**] wipe-all board cleaner that destroys low-cost nonland permanents while leaving your lands intact
+- [**Jace, the Mind Sculptor**] dominates the mid-to-late game via card advantage, fate-sealing, or ultimate exile win
+- [**Vedalken Shackles**] & [**Repeal**], steals or resets opposing threats that slipped past the counter-cards
 
 Deck
 - 2 Island
