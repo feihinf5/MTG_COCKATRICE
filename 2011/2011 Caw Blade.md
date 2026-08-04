@@ -12,6 +12,10 @@ Format
 
 Note
 - Grand Prix-Singapore 2011 winning deck by Paulo Vitor Damo da Rosa
+- [**Squadron Hawk**] tutors up to 3 extra copies on enter-the-battlefield, refilling your hand with cheap flying evasive bodies
+- [**Stoneforge Mystic**] tutors and cheats out game-winning Equipment ([**Batterskull**], [**Sword of Feast and Famine**], [**Sword of War and Peace**])
+- [**Jace, the Mind Sculptor**] provides repeatable card filter, bounce protection and a game-ending ultimate threat
+- [**Jace, the Mind Sculptor**] and [**Stoneforge Mystic**] were banned in Standard format during July 2011 
 
 Deck
 - 4 Celestial Colonnade
