@@ -188,4 +188,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - 2011 British National Championship 優勝 Daniel Royde （緑単エルドラージ・ランプ）https://web.archive.org/web/20160117195122/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat11/welcome#1
 - 2011 Germany National Championship Helge Nelson （赤単）https://www.mtgtop8.com/event?e=1914&f=ST
 - 2011 Legacy Championship Jared Kohler （マーフォーク）https://web.archive.org/web/20121113011930/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/usnat11/day2#17a
-- 2011 Vintage Championship Mark Hornung （ドレッジ）https://web.archive.org/web/20120726051237/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/usnat11/day1#13a
