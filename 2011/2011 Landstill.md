@@ -12,6 +12,7 @@ Note
 - [**Pernicious Deed**](https://api.scryfall.com/cards/ae4cbb33-4947-49f0-b612-a92141fbfaa6?format=image) wipe-all board cleaner that destroys low-cost non-land permanents while leaving your lands intact
 - [**Jace, the Mind Sculptor**](https://api.scryfall.com/cards/0e606072-a3aa-4300-ba90-ec92a721fa76?format=image) dominates the mid-to-late game via card advantage, fate-sealing, or ultimate exile win
 - [**Vedalken Shackles**](https://api.scryfall.com/cards/cef06f56-a7a8-4c0f-8755-56b46d2aa82c?format=image) & [**Repeal**](https://api.scryfall.com/cards/9e7dd929-4bba-46a6-86c9-b8ed853eb721?format=image), steals or resets opposing threats that slipped past the counter-cards
+- [**Mental Misstep**](https://api.scryfall.com/cards/61e9c6df-1c84-4eab-9076-a4feb6347c10?format=image) was banned in Legacy format from October 2011 https://web.archive.org/web/20151227074829/http://magic.wizards.com/en/articles/archive/feature/september-20-2011-dci-banned-restricted-list-announcement-2011-09-20
 
 Deck
 - 2 Island
