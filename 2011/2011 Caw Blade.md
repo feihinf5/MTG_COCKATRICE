@@ -15,7 +15,7 @@ Note
 - [**Squadron Hawk**] tutors up to 3 extra copies on enter-the-battlefield, refilling your hand with cheap flying evasive bodies
 - [**Stoneforge Mystic**] tutors and cheats out game-winning Equipment ([**Batterskull**], [**Sword of Feast and Famine**], [**Sword of War and Peace**])
 - [**Jace, the Mind Sculptor**] provides repeatable card filter, bounce protection and a game-ending ultimate threat
-- [**Jace, the Mind Sculptor**] and [**Stoneforge Mystic**] were banned in Standard format during July 2011 
+- [**Jace, the Mind Sculptor**] and [**Stoneforge Mystic**] were banned in Standard format during July 2011 https://web.archive.org/web/20140622170236/https://magic.wizards.com/en/articles/archive/feature/standard-bannings-explained-2011-06-20 
 
 Deck
 - 4 Celestial Colonnade
