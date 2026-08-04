@@ -6,10 +6,10 @@ Format
 
 Note
 - 2011 Legacy Championship winning deck by Jared Kohler
-- [**Aether Vial**] bypasses countermagic, casts creatures at instant speed, and effectively doubles available mana, allowing you to hold up counterspells while developing the board
-- [**Mental Misstep**] enables 0-mana disruption against fast combo or early removal
-- [**Sower of Temptation**] steals the opponent’s largest threat
-- [**Umezawa's Jitte**] dominates creature matchups with modular counters for removal, stat pumps or life gain
+- [**Aether Vial**](https://api.scryfall.com/cards/741c479b-5e92-4837-9673-9bc72aa11d26?format=image) bypasses countermagic, casts creatures at instant speed, and effectively doubles available mana, allowing you to hold up counterspells while developing the board
+- [**Mental Misstep**](https://api.scryfall.com/cards/61e9c6df-1c84-4eab-9076-a4feb6347c10?format=image) enables 0-mana disruption against fast combo or early removal
+- [**Sower of Temptation**](https://api.scryfall.com/cards/2f5320da-7214-4348-84d8-74bf951c9f2f?format=image) steals the opponent’s largest threat
+- [**Umezawa's Jitte**](https://api.scryfall.com/cards/3b6e5956-f795-451b-bb24-56462d1ced27?format=image) dominates creature matchups with modular counters for removal, stat pumps or life gain
 
 Deck
 - 13 Island
