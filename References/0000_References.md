@@ -1,4 +1,5 @@
 ## 2011
+- https://web.archive.org/web/20120726051237/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/usnat11/day1#13a
 - https://web.archive.org/web/20160807124834/http://coverage.mtg-jp.com/jpnats11/decklist/000438/
 - https://web.archive.org/web/20160924014732/http://magic.wizards.com/en/events/coverage/jpnat11#00
 - https://web.archive.org/web/20160826040437/http://magic.wizards.com/en/articles/archive/event-coverage/deck-lists-block-constructed-lists-top-8-competitors-2011-06-11-0
