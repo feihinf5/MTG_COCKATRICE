@@ -2,7 +2,7 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_Japan_National_Championship_winning_deck_by_Ishida_Ryuuichiro.png
 
 Format
-- M12 2011年7月
+- M12
 - NPH
 - MBS
 - SOM
