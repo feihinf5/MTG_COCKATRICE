@@ -8,7 +8,36 @@ Note
 - 2011 Japan Legacy Championship winning deck by Yasuda Masayuki
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 2 Island
+- 1 Swamp
+- 1 Forest
+- 4 Underground Sea
+- 2 Tropical Island
+- 4 Polluted Delta
+- 2 Misty Rainforest
+- 4 Mishra's Factory
+- 4 Wasteland
+- 4 Mental Misstep
+- 4 Brainstorm
+- 3 Spell Snare
+- 1 Innocent Blood
+- 4 Standstill
+- 1 Counterspell
+- 2 Life from the Loam
+- 2 Go for the Throat
+- 2 Dismember
+- 1 Vedalken Shackles
+- 3 Pernicious Deed
+- 4 Force of Will
+- 1 Repeal
+- 4 Jace, the Mind Sculptor
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 3 Vendilion Clique
+- 3 Llawan, Cephalid Empress
+- 2 Surgical Extraction
+- 1 Blue Elemental Blast
+- 3 Thoughtseize
+- 1 Diabolic Edict
+- 1 Repeal
+- 1 Batterskull
