@@ -1,8 +1,8 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_Japan_Legacy_Championship_winning_deck_by_Yasuda_Masayuki.png
 
 Format
-- CARD_SET
+- LEA <--> M12
 
 Note
 - 2011 Japan Legacy Championship winning deck by Yasuda Masayuki
