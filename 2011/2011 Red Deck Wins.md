@@ -2,7 +2,14 @@ Reference
 - https://www.mtgtop8.com/event?e=1914&f=ST
 
 Format
-- CARD_SET
+- M12
+- NPH
+- MBS
+- SOM
+- M11
+- ROE
+- WWK
+- ZEN
 
 Note
 - 2011 Germany National Championship winning deck by Helge Nelson
