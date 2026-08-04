@@ -2,7 +2,14 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_British_National_Championship_winning_deck_by_Daniel_Royde.png
 
 Format
-- CARD_SET
+- M12
+- NPH
+- MBS
+- SOM
+- M11
+- ROE
+- WWK
+- ZEN
 
 Note
 - 2011 British National Championship winning deck by Daniel Royde
