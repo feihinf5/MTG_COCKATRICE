@@ -6,6 +6,8 @@ Format
 
 Note
 - Grand Prix-Amsterdam 2011 winning deck by Pierre Sommen
+- Combines the [**Stoneforge Mystic**] equipment package ([**Batterskull**], [**Umezawa's Jitte**], [**Sword of Feast and Famine**]) for aggression with [**Knight of the Reliquary**] for land utility and mid-game scaling
+- [**Knight of the Reliquary**] tutored lands directly onto the battlefield at instant speed, enabling [**Karakas**] (bounces Legendary threats), [**Maze of Ith**] (combat prevention) or [**Wasteland**] (denial/lockout)
 
 Deck
 - 1 Forest
