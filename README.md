@@ -183,4 +183,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - World Championships 2011 Kuo Tzu-Ching (赤単親和) https://web.archive.org/web/20171029061246/https://magic.wizards.com/en/articles/archive/event-coverage/modern-deck-lists-4-2-record-or-better-2011-11-20-0
 - Grand Prix-Hiroshima 2011 Martin Juza （緑白トークン）https://web.archive.org/web/20160303194013/http://magic.wizards.com/en/events/coverage/gphir11
 - Grand Prix-Amsterdam 2011 Pierre Sommen （石鍛冶バント）https://web.archive.org/web/20120625154826/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpams11/welcome#0
-- Grand Prix-Brisbane 2011 Jeremy Neeman （青黒コントロール）https://mtgtop8.com/event?e=2090&d=214584&f=ST
