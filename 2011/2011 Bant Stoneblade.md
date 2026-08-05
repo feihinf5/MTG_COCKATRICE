@@ -6,8 +6,8 @@ Format
 
 Note
 - Grand Prix-Amsterdam 2011 winning deck by Pierre Sommen
-- Combines the [**Stoneforge Mystic**] equipment package ([**Batterskull**], [**Umezawa's Jitte**], [**Sword of Feast and Famine**]) for aggression with [**Knight of the Reliquary**] for land utility and mid-game scaling
-- [**Knight of the Reliquary**] tutored lands directly onto the battlefield at instant speed, enabling [**Karakas**] (bounces Legendary threats), [**Maze of Ith**] (combat prevention) or [**Wasteland**] (denial/lockout)
+- Combines the [**Stoneforge Mystic**](https://api.scryfall.com/cards/19557351-b65f-4b04-b971-66abdc07000a?format=image) equipment package ([**Batterskull**](https://api.scryfall.com/cards/cd114ec3-d286-4c70-a122-3043bc53cc88?format=image), [**Umezawa's Jitte**](https://api.scryfall.com/cards/3b6e5956-f795-451b-bb24-56462d1ced27?format=image), [**Sword of Feast and Famine**](https://api.scryfall.com/cards/580b4818-2a01-46ad-b4d9-7d895a625bb3?format=image)) for aggression with [**Knight of the Reliquary**](https://api.scryfall.com/cards/ad8b8518-c09e-4cb7-95b2-08e4e370d89c?format=image) for land utility and mid-game scaling
+- [**Knight of the Reliquary**](https://api.scryfall.com/cards/ad8b8518-c09e-4cb7-95b2-08e4e370d89c?format=image) tutored lands directly onto the battlefield at instant speed, enabling [**Karakas**](https://api.scryfall.com/cards/31d2422a-bb7d-4cdd-9aac-e5a936a4be3b?format=image) (bounces Legendary threats), [**Maze of Ith**](https://api.scryfall.com/cards/42dcceee-2a47-4eaa-a6a3-2931b3d50244?format=image) (combat prevention) or [**Wasteland**](https://api.scryfall.com/cards/99ff731b-8399-40c8-b539-ba6ba5783771?format=image) (denial/lockout)
 
 Deck
 - 1 Forest
