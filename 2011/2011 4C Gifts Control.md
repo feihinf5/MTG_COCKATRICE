@@ -6,6 +6,12 @@ Format
 
 Note
 - World Championships 2011 Modern format undefeated deck by Nakamura Shuuhei
+- Uses [**Gifts Ungiven**] as a multi-card tutor rather than a combo enabler, tt sets up un-losable 4-card piles where every option leads to recurring threats or answers
+- Recursive Value Pile, [**Life from the Loam**], [**Raven's Crime**], [**Eternal Witness**] and [**Tectonic Edge**] (enabling land lock / hand disruption)
+- Multi-Color Regrowth Pile, [**All Suns' Dawn**], [**Eternal Witness**], [**Snapcaster Mage**] plus a key spell to ensure you get back whatever you need across 4 colors
+- [**Grove of the Burnwillows**] and [**Punishing Fire**] to provide repeatable creature removal and direct damage
+- [**Rude Awakening**] as a Gifts target to untap all lands and animate them into 2/2 creatures for an out-of-nowhere lethal attack late in the game
+- Combines early discard ([**Inquisition of Kozilek**], [**Duress**]), planeswalker control ([**Liliana of the Veil**]), and mass sweepers ([**Damnation**], [**Engineered Explosives**]) to drag games into top-deck wars where your recursive engines dominate
 
 Deck
 - 3 Liliana of the Veil
