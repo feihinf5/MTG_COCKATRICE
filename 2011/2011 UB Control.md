@@ -10,6 +10,9 @@ Format
 
 Note
 - Grand Prix-Brisbane 2011 winning deck by Jeremy Neeman
+- Relies on [**Nephalia Drownyard**] to repeatedly mill the opponent out late in the game while leaving up counterspells and removal on their turn
+- Backed up by heavy game-ending creatures, [**Consecrated Sphinx**] (overwhelming card advantage), [**Grave Titan**] (token generator/clock), and [**Wurmcoil Engine**] (life gain against aggro)
+- Features [**Ghost Quarter**] to eliminate opposing creature lands without sacrificing color consistency
 
 Deck
 - 4 Darkslick Shores
