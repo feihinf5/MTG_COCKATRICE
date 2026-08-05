@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 WU Control</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2010 France National Championship winning deck by Julien Parez</comments>
+    <tags/>
+    <zone name="main">
+        <card number="2" name="Oblivion Ring" setShortName="ALA" collectorNumber="20" uuid="895c270d-84d8-4c7f-9df3-5a595e113dd7"/>
+        <card number="3" name="Elspeth, Knight-Errant" setShortName="ALA" collectorNumber="9" uuid="44c52e52-2b1c-4ca8-ab6d-20d97a342704"/>
+        <card number="4" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="4" name="Mana Leak" setShortName="M11" collectorNumber="62" uuid="a7c7757d-8036-4b33-a1cb-07795d392588"/>
+        <card number="1" name="Martial Coup" setShortName="CON_" collectorNumber="11" uuid="4201385f-6f74-4e3d-aafb-0eff82cb24c1"/>
+        <card number="2" name="Mind Spring" setShortName="M10" collectorNumber="64" uuid="72bea6b5-005c-48c8-9f2b-0dfb18039429"/>
+        <card number="1" name="Jace Beleren" setShortName="M11" collectorNumber="58" uuid="441af393-2f70-4765-ae95-730c1e1d864f"/>
+        <card number="3" name="Jace, the Mind Sculptor" setShortName="WWK" collectorNumber="31" uuid="0e606072-a3aa-4300-ba90-ec92a721fa76"/>
+        <card number="2" name="Deprive" setShortName="ROE" collectorNumber="59" uuid="2efecdd9-bd3a-4b79-92da-6485589d5bde"/>
+        <card number="2" name="Day of Judgment" setShortName="ZEN" collectorNumber="9" uuid="2aa98fca-972b-46c2-bdec-6ace35c988d5"/>
+        <card number="1" name="Day of Judgment" setShortName="M11" collectorNumber="12" uuid="03f6b25f-d11c-483a-a3e9-6b801d333482"/>
+        <card number="3" name="Sea Gate Oracle" setShortName="ROE" collectorNumber="85" uuid="fd056c91-5026-41ea-bc9e-68078d78ca82"/>
+        <card number="2" name="Sun Titan" setShortName="M11" collectorNumber="35" uuid="d8db2b8e-dce9-49b7-833f-381ee55288cb"/>
+        <card number="4" name="Wall of Omens" setShortName="ROE" collectorNumber="53" uuid="6e3510f5-e450-400b-98ea-341dbf212054"/>
+        <card number="1" name="Arid Mesa" setShortName="ZEN" collectorNumber="211" uuid="16c8d2fa-54a7-46e8-980c-905258497c90"/>
+        <card number="4" name="Celestial Colonnade" setShortName="WWK" collectorNumber="133" uuid="f6929259-2903-4f6f-9b06-42048fd55c6a"/>
+        <card number="2" name="Glacial Fortress" setShortName="M10" collectorNumber="226" uuid="ee834e27-595d-4d12-8e69-e94e84ef337a"/>
+        <card number="2" name="Glacial Fortress" setShortName="M11" collectorNumber="225" uuid="b9d18532-2247-4e33-a760-bc42a727e9f5"/>
+        <card number="1" name="Island" setShortName="ALA" collectorNumber="234" uuid="2fdcf679-4269-4ed9-84f1-1ac7a513f475"/>
+        <card number="1" name="Island" setShortName="ALA" collectorNumber="235" uuid="7e659905-5f87-4181-8fc8-59ab2138b7fc"/>
+        <card number="1" name="Island" setShortName="ALA" collectorNumber="236" uuid="2bf6f14a-99d1-4abd-b36f-a5819718a43f"/>
+        <card number="1" name="Island" setShortName="ALA" collectorNumber="237" uuid="afb31304-eff0-44f9-b240-b7fa631ea4ce"/>
+        <card number="1" name="Island" setShortName="M10" collectorNumber="234" uuid="172bb1b6-08c3-4ffd-b26d-b1c77dba06c3"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="230" uuid="e94e2710-7b95-46d0-8261-0afa6b192e70"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="231" uuid="2ef285a1-dbd0-4e41-9f04-a9120a0421f7"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="232" uuid="bcdd1595-d94d-46b1-b87f-b910ae35fa3a"/>
+        <card number="1" name="Plains" setShortName="ALA" collectorNumber="233" uuid="20aec487-ac03-4912-969b-f537864902ce"/>
+        <card number="1" name="Plains" setShortName="M10" collectorNumber="230" uuid="cc084e24-22fe-4326-b894-54d79fbeba2f"/>
+        <card number="1" name="Scalding Tarn" setShortName="ZEN" collectorNumber="223" uuid="327cf118-cc92-4073-85d0-94d2a0a6989a"/>
+        <card number="3" name="Sejiri Refuge" setShortName="ZEN" collectorNumber="224" uuid="1fd8cb0d-d651-44e7-ae14-4035b0f1aa77"/>
+        <card number="3" name="Tectonic Edge" setShortName="WWK" collectorNumber="145" uuid="fdcf5c0f-9d18-406d-a930-c179a781264f"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Jace Beleren" setShortName="M11" collectorNumber="58" uuid="441af393-2f70-4765-ae95-730c1e1d864f"/>
+        <card number="2" name="Condemn" setShortName="M11" collectorNumber="11" uuid="cfae21b5-aff2-4191-aa42-d756209beaaa"/>
+        <card number="4" name="Kor Firewalker" setShortName="WWK" collectorNumber="11" uuid="bc3b88ad-9d65-4873-8527-8f420570aad3"/>
+        <card number="1" name="Negate" setShortName="M11" collectorNumber="68" uuid="ae89bd67-3c72-449f-be72-d04bb7cca916"/>
+        <card number="1" name="Negate" setShortName="M10" collectorNumber="65" uuid="3877d196-332c-4266-aac8-a35754d74297"/>
+        <card number="2" name="Flashfreeze" setShortName="M10" collectorNumber="53" uuid="34fa49b9-4bd3-4d2e-9378-3df209680a2c"/>
+        <card number="2" name="Flashfreeze" setShortName="M11" collectorNumber="53" uuid="4dc68a06-9d79-4be8-b4ce-ecd4d0e4ce29"/>
+        <card number="1" name="Baneslayer Angel" setShortName="M10" collectorNumber="4" uuid="6764ea7b-ccb3-4f39-b8ba-654a186210b9"/>
+        <card number="1" name="Baneslayer Angel" setShortName="M11" collectorNumber="7" uuid="ff70c4ff-a241-4333-bd8f-9f0ed5a0333b"/>
+    </zone>
+</cockatrice_deck>
