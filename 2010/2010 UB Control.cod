@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Jun 11 20:59:28 2026</lastLoadedTimestamp>
+    <deckname>2010 UB Control</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2010 winning deck by Guillaume Matignon</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Spreading Seas" setShortName="ZEN" collectorNumber="70" uuid="37454c1c-4098-4ac2-884e-3f65f1384bdb"/>
+        <card number="2" name="Jace Beleren" setShortName="M11" collectorNumber="58" uuid="441af393-2f70-4765-ae95-730c1e1d864f"/>
+        <card number="4" name="Jace, the Mind Sculptor" setShortName="WWK" collectorNumber="31" uuid="0e606072-a3aa-4300-ba90-ec92a721fa76"/>
+        <card number="4" name="Preordain" setShortName="M11" collectorNumber="70" uuid="e3868c3d-4fcd-444b-866f-0f8e50ce7b67"/>
+        <card number="1" name="Duress" setShortName="M11" collectorNumber="96" uuid="7e1445d6-ae16-492c-a378-d3aa5746c610"/>
+        <card number="3" name="Inquisition of Kozilek" setShortName="ROE" collectorNumber="115" uuid="6a3ff5c3-0fdb-4d54-b4e5-ce7bad9953f0"/>
+        <card number="4" name="Mana Leak" setShortName="M11" collectorNumber="62" uuid="a7c7757d-8036-4b33-a1cb-07795d392588"/>
+        <card number="1" name="Cancel" setShortName="M11" collectorNumber="48" uuid="6a6932af-c7e7-49e9-963e-97e680a53da5"/>
+        <card number="2" name="Consume the Meek" setShortName="ROE" collectorNumber="100" uuid="921ebea0-48bf-4338-9e84-2cd06ffe6f4b"/>
+        <card number="2" name="Disfigure" setShortName="ZEN" collectorNumber="87" uuid="b3842ad2-a449-4963-8c96-276554125757"/>
+        <card number="2" name="Doom Blade" setShortName="M11" collectorNumber="95" uuid="685a74bb-f158-4d0e-b840-222ecbf107d4"/>
+        <card number="3" name="Grave Titan" setShortName="M11" collectorNumber="97" uuid="5fa6d385-6b8e-45ad-83dc-b477799c05a5"/>
+        <card number="2" name="Sea Gate Oracle" setShortName="ROE" collectorNumber="85" uuid="fd056c91-5026-41ea-bc9e-68078d78ca82"/>
+        <card number="4" name="Creeping Tar Pit" setShortName="WWK" collectorNumber="134" uuid="0f427f0b-034c-4821-8758-e395c0042d8a"/>
+        <card number="4" name="Darkslick Shores" setShortName="SOM" collectorNumber="226" uuid="e530388b-eb19-4211-abd8-8a4c3c38c3af"/>
+        <card number="4" name="Drowned Catacomb" setShortName="M11" collectorNumber="224" uuid="ddb09397-c3cc-4ecc-aef7-bee4dfa6957f"/>
+        <card number="2" name="Island" setShortName="ZEN" collectorNumber="234" uuid="efd86f2a-bd28-4731-838d-78e67be8b49e"/>
+        <card number="1" name="Island" setShortName="ZEN" collectorNumber="237" uuid="4dc3a90f-23c4-4c54-8825-32cb17977b48"/>
+        <card number="1" name="Island" setShortName="ZEN" collectorNumber="236" uuid="551f905b-4ce0-4071-a721-7e51be14d114"/>
+        <card number="1" name="Island" setShortName="ZEN" collectorNumber="235" uuid="20b4cbcc-c394-4be3-8072-8893b48c866d"/>
+        <card number="1" name="Misty Rainforest" setShortName="ZEN" collectorNumber="220" uuid="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787"/>
+        <card number="1" name="Swamp" setShortName="ZEN" collectorNumber="241" uuid="bc9e2d99-a3ad-4bfb-a781-a8a9454085c9"/>
+        <card number="1" name="Swamp" setShortName="ZEN" collectorNumber="240" uuid="a095fed4-0a2a-4092-b923-8f46c8ea22d8"/>
+        <card number="1" name="Swamp" setShortName="ZEN" collectorNumber="238" uuid="7cd6becc-f06a-4fd3-8305-70604b92a187"/>
+        <card number="4" name="Tectonic Edge" setShortName="WWK" collectorNumber="145" uuid="fdcf5c0f-9d18-406d-a930-c179a781264f"/>
+        <card number="1" name="Verdant Catacombs" setShortName="ZEN" collectorNumber="229" uuid="7abd2723-2851-4f1a-b2d0-dfcb526472c3"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sorin Markov" setShortName="ZEN" collectorNumber="111" uuid="29606aca-f23f-4dfe-b685-2065193109c8"/>
+        <card number="3" name="Ratchet Bomb" setShortName="SOM" collectorNumber="196" uuid="c3db7645-20b9-4884-849b-a7d4b6d3aa00"/>
+        <card number="2" name="Duress" setShortName="M11" collectorNumber="96" uuid="7e1445d6-ae16-492c-a378-d3aa5746c610"/>
+        <card number="2" name="Flashfreeze" setShortName="M11" collectorNumber="53" uuid="4dc68a06-9d79-4be8-b4ce-ecd4d0e4ce29"/>
+        <card number="3" name="Memoricide" setShortName="SOM" collectorNumber="69" uuid="acc5b944-a9fe-4a64-bf11-51817a26f22b"/>
+        <card number="1" name="Deprive" setShortName="ROE" collectorNumber="59" uuid="2efecdd9-bd3a-4b79-92da-6485589d5bde"/>
+        <card number="2" name="Disfigure" setShortName="ZEN" collectorNumber="87" uuid="b3842ad2-a449-4963-8c96-276554125757"/>
+        <card number="1" name="Doom Blade" setShortName="M11" collectorNumber="95" uuid="685a74bb-f158-4d0e-b840-222ecbf107d4"/>
+    </zone>
+</cockatrice_deck>
