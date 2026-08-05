@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_Grand_Prix_Hiroshima_winning_deck_by_Martin_Juza.png
 
 Format
 - CARD_SET
