@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 Zoo</deckname>
+    <format>legacy</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Japan Legacy Championship 2010 winning deck by Nakatani Shinji</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Sylvan Library" setShortName="LEG" collectorNumber="207" uuid="f486df00-7c4a-4ff0-bb0b-c8b5432ac742"/>
+        <card number="1" name="Basilisk Collar" setShortName="WWK" collectorNumber="122" uuid="55cdba1b-7a80-435f-9cff-b9365f62e311"/>
+        <card number="1" name="Sword of Light and Shadow" setShortName="DST" collectorNumber="149" uuid="61d08a91-665e-458c-9b8f-4ebd5f54a0d6"/>
+        <card number="2" name="Elspeth, Knight-Errant" setShortName="ALA" collectorNumber="9" uuid="44c52e52-2b1c-4ca8-ab6d-20d97a342704"/>
+        <card number="1" name="Lightning Bolt" setShortName="LEA" collectorNumber="161" uuid="d573ef03-4730-45aa-93dd-e45ac1dbaf4a"/>
+        <card number="1" name="Lightning Bolt" setShortName="LEB" collectorNumber="162" uuid="b5d3dcab-2260-479d-9ef6-dfb92d4f6061"/>
+        <card number="1" name="Lightning Bolt" setShortName="2ED" collectorNumber="162" uuid="ff1b8fc5-604a-4449-a73d-861e53642a70"/>
+        <card number="1" name="Lightning Bolt" setShortName="3ED" collectorNumber="162" uuid="cb9b9a9d-ae4c-4e04-bf9d-cae48f01292c"/>
+        <card number="2" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="1" name="Swords to Plowshares" setShortName="LEA" collectorNumber="40" uuid="386ea9eb-abc1-4862-aa2d-8fb808d79490"/>
+        <card number="1" name="Swords to Plowshares" setShortName="LEB" collectorNumber="41" uuid="255099be-c64e-4f6a-8463-4fc058d6908d"/>
+        <card number="1" name="Swords to Plowshares" setShortName="2ED" collectorNumber="41" uuid="50fc5b10-6215-48a9-8993-b61681f61186"/>
+        <card number="1" name="Swords to Plowshares" setShortName="3ED" collectorNumber="41" uuid="057d2410-30d3-4b7a-9dc3-f2512c1cf31c"/>
+        <card number="3" name="Grim Lavamancer" setShortName="TOR" collectorNumber="100" uuid="5dd72697-24be-42c7-a6d9-a837bdbd4662"/>
+        <card number="4" name="Knight of the Reliquary" setShortName="CON_" collectorNumber="113" uuid="ad8b8518-c09e-4cb7-95b2-08e4e370d89c"/>
+        <card number="4" name="Noble Hierarch" setShortName="CON_" collectorNumber="87" uuid="6adfe928-1305-444d-b709-1e714544daaf"/>
+        <card number="3" name="Qasali Pridemage" setShortName="ARB" collectorNumber="75" uuid="75256550-bbe0-499d-909e-af10691749c2"/>
+        <card number="1" name="Stoneforge Mystic" setShortName="WWK" collectorNumber="20" uuid="19557351-b65f-4b04-b971-66abdc07000a"/>
+        <card number="4" name="Tarmogoyf" setShortName="FUT" collectorNumber="153" uuid="b6876d9e-0908-43ac-8542-09c7aa02b5ba"/>
+        <card number="4" name="Wild Nacatl" setShortName="ALA" collectorNumber="152" uuid="5eb18038-eb6a-4d27-ba52-52a1cee6b512"/>
+        <card number="2" name="Arid Mesa" setShortName="ZEN" collectorNumber="211" uuid="16c8d2fa-54a7-46e8-980c-905258497c90"/>
+        <card number="1" name="Forest" setShortName="LEA" collectorNumber="294" uuid="6f1c8cb0-38eb-408b-94e8-16db83999b3b"/>
+        <card number="2" name="Horizon Canopy" setShortName="FUT" collectorNumber="177" uuid="d5dfc25d-a17b-4ead-9484-e8a18b8fa176"/>
+        <card number="1" name="Plains" setShortName="LEA" collectorNumber="286" uuid="b1623d57-4729-4796-b3f7-f1837a05c6ed"/>
+        <card number="1" name="Plateau" setShortName="LEA" collectorNumber="279" uuid="6eafa00b-c628-40f6-86eb-88e1361fc7a0"/>
+        <card number="1" name="Plateau" setShortName="LEB" collectorNumber="280" uuid="fad0bbc4-f760-47a2-aab6-0dbb66ee3a95"/>
+        <card number="1" name="Savannah" setShortName="LEA" collectorNumber="280" uuid="94f7e24c-2546-41b6-81ad-5e920b07e64e"/>
+        <card number="1" name="Savannah" setShortName="LEB" collectorNumber="281" uuid="0e9aeaa8-9a75-4719-992f-cbb316f72175"/>
+        <card number="1" name="Taiga" setShortName="LEA" collectorNumber="282" uuid="60df6592-0b3b-4b87-aeb2-8fa94b4fb7be"/>
+        <card number="1" name="Taiga" setShortName="LEB" collectorNumber="283" uuid="30ce1bf0-7561-418f-a217-3ce10f28be82"/>
+        <card number="2" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+        <card number="4" name="Windswept Heath" setShortName="ONS" collectorNumber="328" uuid="7a7c5941-9c8a-4a40-9efb-a84f05c58e53"/>
+        <card number="4" name="Wooded Foothills" setShortName="ONS" collectorNumber="330" uuid="cdad38f7-9dfa-4f1b-9fac-41ab2b253f53"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Pyroclasm" setShortName="ICE" collectorNumber="214" uuid="88040748-ad76-4b9a-bd4e-87e5980e9816"/>
+        <card number="2" name="Krosan Grip" setShortName="TSP" collectorNumber="202" uuid="59b524bb-5a18-4dda-9c45-26ce9ff0f0c1"/>
+        <card number="1" name="Bojuka Bog" setShortName="WWK" collectorNumber="132" uuid="529c38b3-7397-4dac-9859-acd9cd451c32"/>
+        <card number="2" name="Pyroblast" setShortName="ICE" collectorNumber="213" uuid="c342cac5-08ae-4428-9c2c-f6c5904e54d2"/>
+        <card number="1" name="Pyroblast" setShortName="5ED" collectorNumber="262" uuid="15d2d7cd-d29d-4f19-8490-88bd526ff1c5"/>
+        <card number="1" name="Tormod's Crypt" setShortName="DRK" collectorNumber="112" uuid="0f9668ba-d26d-4484-b4b8-6fb91fbfb617"/>
+        <card number="1" name="Tormod's Crypt" setShortName="CHR" collectorNumber="109" uuid="55709270-74b2-4a3f-947d-29ac7c309b0f"/>
+        <card number="1" name="Tormod's Crypt" setShortName="TSB" collectorNumber="115" uuid="901c4e55-d578-4c20-95fe-26985145de57"/>
+        <card number="3" name="Gaddock Teeg" setShortName="LRW" collectorNumber="248" uuid="32c16e1b-f4ce-409f-928a-42c666adac9d"/>
+        <card number="2" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+    </zone>
+</cockatrice_deck>
