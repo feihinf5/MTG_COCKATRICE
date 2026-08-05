@@ -2,7 +2,7 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_World_Championships_Modern_format_undefeated_deck_by_Nakamura_Shuuhei.png
 
 Format
-- CARD_SET
+- LEA <--> ISD
 
 Note
 - World Championships 2011 Modern format undefeated deck by Nakamura Shuuhei
