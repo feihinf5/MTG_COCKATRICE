@@ -12,6 +12,7 @@ Note
 - [**Grove of the Burnwillows**](https://api.scryfall.com/cards/e0b4d4b1-6e25-4c4b-a21a-1b7b1c1d6452?format=image) and [**Punishing Fire**](https://api.scryfall.com/cards/56e76f1c-5a07-455a-a3df-4c45b5b25b82?format=image) to provide repeatable creature removal and direct damage
 - [**Rude Awakening**](https://api.scryfall.com/cards/0164e2ed-b722-4a7d-a4fb-5401af008cbf?format=image) as a Gifts target to untap all lands and animate them into 2/2 creatures for an out-of-nowhere lethal attack late in the game
 - Combines early discard ([**Inquisition of Kozilek**](https://api.scryfall.com/cards/6a3ff5c3-0fdb-4d54-b4e5-ce7bad9953f0?format=image), [**Duress**](https://api.scryfall.com/cards/ca367f49-0f4a-4b7f-8104-851893fbcd8a?format=image)), planeswalker control ([**Liliana of the Veil**](https://api.scryfall.com/cards/ac506c17-adc8-49c6-9d8d-43db7cb1ec9d?format=image)), and mass sweepers ([**Damnation**](https://api.scryfall.com/cards/26c68473-70ca-40ba-b5c6-71ec30f88a2c?format=image), [**Engineered Explosives**](https://api.scryfall.com/cards/8492a272-e595-4f94-a6eb-08d29f211fd6?format=image)) to drag games into top-deck wars where your recursive engines dominate
+- [**Punishing Fire**](https://api.scryfall.com/cards/56e76f1c-5a07-455a-a3df-4c45b5b25b82?format=image) was banned in Modern format during December 2011
 
 Deck
 - 3 Liliana of the Veil
