@@ -12,6 +12,7 @@ Note
 - Runs [**Spellskite**] to absorb targeted removal or aggressive spells directed at the combo pieces
 - [**Ponder**], [**Preordain**], [**Sleight of Hand**], to dig rapidly for missing combo pieces or protection
 - [**Firespout**] wipes aggressive creature boards while keeping 1/4 [**Deceiver Exarch**] alive
+- [**Ponder**] and [**Preordain**] were banned in Modern format since September 2011 https://web.archive.org/web/20221202053322/https://magic.wizards.com/en/news/feature/explanation-september-2011-br-changes-2011-09-20-0
 
 Deck
 - 1 Breeding Pool
