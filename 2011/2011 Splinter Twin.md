@@ -2,7 +2,7 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_Pro_Tour_Philadelphia_winning_deck_by_Samuele_Estratti.png
 
 Format
-- CARD_SET
+- 8ED <--> M12
 
 Note
 - Pro Tour Philadelphia 2011 winning deck by Samuele Estratti
