@@ -5,7 +5,7 @@ Format
 - CARD_SET
 
 Note
-- INFO
+- Pro Tour Philadelphia 2011 winning deck by Samuele Estratti
 
 Deck
 - 1 Breeding Pool
