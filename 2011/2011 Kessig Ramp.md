@@ -9,7 +9,9 @@ Format
 - SOM
 
 Note
-- World Championships 2011 winning deck by Iyanaga Junya 
+- World Championships 2011 winning deck by Iyanaga Junya
+- [**Primeval Titan**] tutoring [**Inkmoth Nexus**] and [**Kessig Wolf Run**], pumping [**Inkmoth Nexus**] with [**Kessig Wolf Run**]'s ability allows for a lethal 10-damage Infect kill in a single attack
+- Beatdown with [**Inferno Titan**] or [**Thrun, the Last Troll**], backed by massive X-burn from [**Devil's Play**] (which doubles as a late-game finisher via Flashback)
 
 Deck
 - 1 Birds of Paradise
