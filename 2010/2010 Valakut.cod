@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 Valakut</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2010 Germany National Championship winning deck by Dennis Johannsen</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Khalni Heart Expedition" setShortName="ZEN" collectorNumber="167" uuid="797d8cd6-fc6b-4560-9c6f-1a867dfce85a"/>
+        <card number="3" name="Summoning Trap" setShortName="ZEN" collectorNumber="184" uuid="72ce4a96-9cb2-4032-9291-7fa0849aeab9"/>
+        <card number="4" name="Harrow" setShortName="ZEN" collectorNumber="165" uuid="e309c1fc-3a7c-4624-8b48-9b152c2590ae"/>
+        <card number="4" name="Rampant Growth" setShortName="M10" collectorNumber="201" uuid="78472540-b085-4ee1-848c-de4631274919"/>
+        <card number="4" name="Cultivate" setShortName="M11" collectorNumber="168" uuid="2ef3dbe4-5c03-4be4-ab48-45b6689b6712"/>
+        <card number="4" name="Explore" setShortName="WWK" collectorNumber="99" uuid="d8f81e8a-e309-4bac-81de-326756cd8901"/>
+        <card number="4" name="Avenger of Zendikar" setShortName="WWK" collectorNumber="96" uuid="dde073e0-f329-4ab0-8e31-a48929e017ce"/>
+        <card number="4" name="Primeval Titan" setShortName="M11" collectorNumber="192" uuid="feee9327-b937-46ba-a2aa-6c015ab6cdd5"/>
+        <card number="1" name="Rampaging Baloths" setShortName="ZEN" collectorNumber="178" uuid="66ae703d-b133-4749-9d38-216abe6c6647"/>
+        <card number="4" name="Evolving Wilds" setShortName="ROE" collectorNumber="228" uuid="bc7e0407-fea1-43ef-8580-82271e440bb3"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="246" uuid="12495cfa-ab19-4e9e-a49e-a94499f664a2"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="247" uuid="af8a605e-73a6-4666-ae08-ec6e9845e629"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="248" uuid="368be73f-24d2-44db-a55e-d04176db3142"/>
+        <card number="1" name="Forest" setShortName="ALA" collectorNumber="249" uuid="2a0bc8e3-b106-43bb-acf6-885328d24a65"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="242" uuid="7c2cc19c-84ce-4c0b-b56f-7a2b3878a26e"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="243" uuid="fcfb1db3-c0ea-4f8d-8208-5f8895ff686d"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="244" uuid="969d5979-8ae8-4442-a3a5-3412ffeb5af8"/>
+        <card number="1" name="Mountain" setShortName="ALA" collectorNumber="245" uuid="b64e4622-e905-49da-948f-aeba1ba674ce"/>
+        <card number="1" name="Mountain" setShortName="M10" collectorNumber="242" uuid="ed783a0c-ba7c-48f4-aac6-ad93a02bce6b"/>
+        <card number="1" name="Mountain" setShortName="M10" collectorNumber="243" uuid="64729d4b-991f-45d0-aaef-4ab26746c57e"/>
+        <card number="1" name="Mountain" setShortName="M10" collectorNumber="244" uuid="98fcd666-7724-4c55-975e-20cfa759bba7"/>
+        <card number="1" name="Mountain" setShortName="M10" collectorNumber="245" uuid="e21f4c3f-60f2-4f68-92e1-88fee822bb9a"/>
+        <card number="1" name="Mountain" setShortName="ZEN" collectorNumber="242a" uuid="4f570888-effb-44ff-a250-a7726a0b01f4"/>
+        <card number="1" name="Mountain" setShortName="ZEN" collectorNumber="243a" uuid="45651533-0c76-476a-bfaf-1b5ec74427cd"/>
+        <card number="1" name="Mountain" setShortName="ZEN" collectorNumber="244a" uuid="e0571374-26b4-403c-b6da-4fd8b930cda6"/>
+        <card number="4" name="Terramorphic Expanse" setShortName="M10" collectorNumber="229" uuid="61902bad-c322-406d-aa4d-039efd4aa84f"/>
+        <card number="4" name="Valakut, the Molten Pinnacle" setShortName="ZEN" collectorNumber="228" uuid="37bce60d-2cb0-4772-9f5c-122a7ed426a0"/>
+        <card number="1" name="Verdant Catacombs" setShortName="ZEN" collectorNumber="229" uuid="7abd2723-2851-4f1a-b2d0-dfcb526472c3"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Swamp" setShortName="ALA" collectorNumber="238" uuid="45cbe554-ffdc-4de6-bf27-57790b71effb"/>
+        <card number="2" name="Pyroclasm" setShortName="M11" collectorNumber="154" uuid="ea518d8f-568e-4f4a-b729-fdf4c770b9d0"/>
+        <card number="3" name="Thought Hemorrhage" setShortName="ARB" collectorNumber="47" uuid="b2b38a7e-d7c4-40c2-ba54-ae5649589cc9"/>
+        <card number="2" name="Pyroclasm" setShortName="M10" collectorNumber="152" uuid="2df4f214-5db5-41ea-8e06-e8f0aaeac05d"/>
+        <card number="3" name="Gaea's Revenge" setShortName="M11" collectorNumber="174" uuid="68f610a9-73b0-4ef8-b725-f3eee1b78fad"/>
+        <card number="4" name="Obstinate Baloth" setShortName="M11" collectorNumber="188" uuid="6694496c-45b9-4ddf-bfcd-b632441b8811"/>
+    </zone>
+</cockatrice_deck>
