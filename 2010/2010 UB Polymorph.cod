@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 UB Polymorph</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2010 Magic Online World Championships 4-0 Extended format deck</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Creeping Tar Pit" setShortName="WWK" collectorNumber="134" uuid="0f427f0b-034c-4821-8758-e395c0042d8a"/>
+        <card number="4" name="Darkslick Shores" setShortName="SOM" collectorNumber="226" uuid="e530388b-eb19-4211-abd8-8a4c3c38c3af"/>
+        <card number="1" name="Drowned Catacomb" setShortName="M10" collectorNumber="224" uuid="bdc6e950-38dd-46da-a1c3-58dc7495a9f9"/>
+        <card number="1" name="Drowned Catacomb" setShortName="M11" collectorNumber="224" uuid="ddb09397-c3cc-4ecc-aef7-bee4dfa6957f"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="286" uuid="5885738f-a51d-418c-b194-0ba8ef6af556"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="287" uuid="24ffadeb-cf20-4da9-a140-1fdcc7484c7a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="288" uuid="d714d196-8cbc-4b53-8219-21044a017bce"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="289" uuid="a35d9548-f495-43ef-af66-e13a84c1f12a"/>
+        <card number="2" name="Khalni Garden" setShortName="WWK" collectorNumber="138" uuid="1cc6a5e6-0b73-4488-8954-4b168ce7106d"/>
+        <card number="4" name="Misty Rainforest" setShortName="ZEN" collectorNumber="220" uuid="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787"/>
+        <card number="1" name="Murmuring Bosk" setShortName="MOR" collectorNumber="147" uuid="7d4f8cc7-3d02-4cf2-920f-2cc32b58f397"/>
+        <card number="4" name="Mutavault" setShortName="MOR" collectorNumber="148" uuid="8ca3c48b-f104-4292-9a4e-2ce87a65893c"/>
+        <card number="2" name="Sunken Ruins" setShortName="SHM" collectorNumber="280" uuid="9d91a31c-b70a-45bd-a8dd-48d49b277f24"/>
+        <card number="4" name="Bitterblossom" setShortName="MOR" collectorNumber="58" uuid="8145fed6-6b51-420a-84cf-4ea5e0aa1883"/>
+        <card number="4" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="4" name="Mana Leak" setShortName="M11" collectorNumber="62" uuid="a7c7757d-8036-4b33-a1cb-07795d392588"/>
+        <card number="2" name="Spell Pierce" setShortName="ZEN" collectorNumber="67" uuid="cb3d3901-e4a6-45ab-a7b5-c65d91e1875e"/>
+        <card number="4" name="Polymorph" setShortName="M10" collectorNumber="67" uuid="83d274f4-452b-4ff2-b026-83667e9ba98f"/>
+        <card number="1" name="Ponder" setShortName="M10" collectorNumber="68" uuid="3c02b8ee-84cb-44cb-ba14-9e725a9d03ee"/>
+        <card number="2" name="Ponder" setShortName="LRW" collectorNumber="79" uuid="ba6b6fc5-5077-4812-b8e9-906783dbaf67"/>
+        <card number="4" name="Preordain" setShortName="M11" collectorNumber="70" uuid="e3868c3d-4fcd-444b-866f-0f8e50ce7b67"/>
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="2" name="Emrakul, the Aeons Torn" setShortName="ROE" collectorNumber="4" uuid="67600383-bbb8-411c-b8e6-2296650bc747"/>
+        <card number="3" name="Jace, the Mind Sculptor" setShortName="WWK" collectorNumber="31" uuid="0e606072-a3aa-4300-ba90-ec92a721fa76"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Ratchet Bomb" setShortName="SOM" collectorNumber="196" uuid="c3db7645-20b9-4884-849b-a7d4b6d3aa00"/>
+        <card number="2" name="Smother" setShortName="WWK" collectorNumber="68" uuid="09b4deea-c077-46ab-898f-41b3907ecf33"/>
+        <card number="2" name="Wurmcoil Engine" setShortName="SOM" collectorNumber="223" uuid="33672990-4860-4aa6-ac1b-f9da66f5da59"/>
+        <card number="2" name="Duress" setShortName="M10" collectorNumber="96" uuid="d759602b-38c9-42fe-902a-0e696ccbdf13"/>
+        <card number="1" name="Grave Titan" setShortName="M11" collectorNumber="97" uuid="5fa6d385-6b8e-45ad-83dc-b477799c05a5"/>
+        <card number="3" name="Infest" setShortName="ALA" collectorNumber="80" uuid="fb9dd080-5e13-4334-8614-8eec41ae89c2"/>
+        <card number="1" name="Duress" setShortName="M11" collectorNumber="96" uuid="7e1445d6-ae16-492c-a378-d3aa5746c610"/>
+        <card number="1" name="Doom Blade" setShortName="M10" collectorNumber="93" uuid="6e19acff-f3dd-417a-a9ab-ea3e36c1ba61"/>
+        <card number="2" name="Abyssal Persecutor" setShortName="WWK" collectorNumber="47" uuid="aee68b52-6377-419b-b772-2af1e57cbe5d"/>
+    </zone>
+</cockatrice_deck>
