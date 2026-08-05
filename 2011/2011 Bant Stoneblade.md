@@ -1,8 +1,8 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_Grand_Prix_Amsterdam_winning_deck_by_Pierre_Sommen.png
 
 Format
-- CARD_SET
+- LEA <--> ISD
 
 Note
 - Grand Prix-Amsterdam 2011 winning deck by Pierre Sommen
