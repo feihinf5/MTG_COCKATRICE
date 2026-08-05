@@ -10,8 +10,8 @@ Format
 
 Note
 - World Championships 2011 winning deck by Iyanaga Junya
-- [**Primeval Titan**] tutoring [**Inkmoth Nexus**] and [**Kessig Wolf Run**], pumping [**Inkmoth Nexus**] with [**Kessig Wolf Run**]'s ability allows for a lethal 10-damage Infect kill in a single attack
-- Beatdown with [**Inferno Titan**] or [**Thrun, the Last Troll**], backed by massive X-burn from [**Devil's Play**] (which doubles as a late-game finisher via Flashback)
+- [**Primeval Titan**](https://api.scryfall.com/cards/feee9327-b937-46ba-a2aa-6c015ab6cdd5?format=image) tutoring [**Inkmoth Nexus**](https://api.scryfall.com/cards/ec50c1c3-885e-47d3-ada7-cc0edbf09df1?format=image) and [**Kessig Wolf Run**](https://api.scryfall.com/cards/4a8447fe-7368-470a-911a-1083ec6cc831?format=image), pumping [**Inkmoth Nexus**](https://api.scryfall.com/cards/ec50c1c3-885e-47d3-ada7-cc0edbf09df1?format=image) with [**Kessig Wolf Run**](https://api.scryfall.com/cards/4a8447fe-7368-470a-911a-1083ec6cc831?format=image)'s ability allows for a lethal 10-damage Infect kill in a single attack
+- Beatdown with [**Inferno Titan**](https://api.scryfall.com/cards/f1e4a028-6462-4373-9864-a8adfc78d52b?format=image) or [**Thrun, the Last Troll**](https://api.scryfall.com/cards/5d393da0-4cb6-4ae8-b747-8e6d0fa7f55a?format=image), backed by massive X-burn from [**Devil's Play**](https://api.scryfall.com/cards/c80596a4-b464-4b9e-8186-94a1c44838eb?format=image) (which doubles as a late-game finisher via Flashback)
 
 Deck
 - 1 Birds of Paradise
