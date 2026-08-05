@@ -10,9 +10,9 @@ Format
 
 Note
 - Grand Prix-Brisbane 2011 winning deck by Jeremy Neeman
-- Relies on [**Nephalia Drownyard**] to repeatedly mill the opponent out late in the game while leaving up counterspells and removal on their turn
-- Backed up by heavy game-ending creatures, [**Consecrated Sphinx**] (overwhelming card advantage), [**Grave Titan**] (token generator/clock), and [**Wurmcoil Engine**] (life gain against aggro)
-- Features [**Ghost Quarter**] to eliminate opposing creature lands without sacrificing color consistency
+- Relies on [**Nephalia Drownyard**](https://api.scryfall.com/cards/ef058312-6926-49f8-ae72-a8d60fedbf6c?format=image) to repeatedly mill the opponent out late in the game while leaving up counter spells and removal on their turn
+- Backed up by heavy game-ending creatures, [**Consecrated Sphinx**](https://api.scryfall.com/cards/b7f6b20c-9871-433c-8557-44493447e914?format=image) (overwhelming card advantage), [**Grave Titan**](https://api.scryfall.com/cards/5fa6d385-6b8e-45ad-83dc-b477799c05a5?format=image) (token generator/clock), and [**Wurmcoil Engine**](https://api.scryfall.com/cards/b9bdfa34-f608-40d4-b634-b260ad620f18?format=image) (life gain against aggro)
+- Features [**Ghost Quarter**](https://api.scryfall.com/cards/1c6456ed-0ffb-4d22-b252-5775076030ce?format=image) to eliminate opposing creature lands without sacrificing color consistency
 
 Deck
 - 4 Darkslick Shores
