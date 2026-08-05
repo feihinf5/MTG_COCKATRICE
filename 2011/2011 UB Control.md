@@ -8,7 +8,32 @@ Note
 - Grand Prix-Brisbane 2011 winning deck by Jeremy Neeman
 
 Deck
-- NUMBER_OF_CARD MAINBOARD_DECK_LIST
+- 4 Darkslick Shores
+- 4 Drowned Catacomb
+- 2 Ghost Quarter
+- 9 Island
+- 2 Nephalia Drownyard
+- 6 Swamp
+- 3 Consecrated Sphinx
+- 1 Grave Titan
+- 4 Snapcaster Mage
+- 1 Wurmcoil Engine
+- 1 Black Sun's Zenith
+- 4 Dissipate
+- 4 Doom Blade
+- 3 Forbidden Alchemy
+- 1 Geth's Verdict
+- 4 Mana Leak
+- 1 Negate
+- 4 Think Twice
+- 2 Wring Flesh 
 
 Sideboard
-- NUMBER_OF_CARD SIDEBOARD_DECK_LIST
+- 1 Black Sun's Zenith
+- 1 Negate
+- 2 Nephalia Drownyard
+- 1 Nihil Spellbomb
+- 3 Phantasmal Image
+- 3 Ratchet Bomb
+- 3 Spellskite
+- 1 Wring Flesh 
