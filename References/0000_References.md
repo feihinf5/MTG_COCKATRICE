@@ -1,4 +1,5 @@
 ## 2011
+- https://web.archive.org/web/20171029062257/https://magic.wizards.com/en/articles/archive/event-coverage/top-8-decklists-2011-11-19-0
 - https://web.archive.org/web/20171029061246/https://magic.wizards.com/en/articles/archive/event-coverage/modern-deck-lists-4-2-record-or-better-2011-11-20-0
 - https://web.archive.org/web/20160303194013/http://magic.wizards.com/en/events/coverage/gphir11
 - https://web.archive.org/web/20120625154826/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpams11/welcome#0
