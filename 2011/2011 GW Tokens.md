@@ -10,6 +10,10 @@ Format
 
 Note
 - Grand Prix-Hiroshima 2011 winning deck by Martin Juza
+- Generates large token boards using [**Garruk Relentless**] (Wolf tokens), [**Elspeth Tirel**] (1/1 Soldier tokens), Hero of Bladehold (attacking Soldier tokens), and Geist-Honored Monk (Spirit tokens)
+- Closes out games out of nowhere with [**Overrun**] (giving +3/+3 and trample to a wide token board) or by steadily pumping the entire team using [**Gavony Township**] and [**Mikaeus, the Lunarch**]
+- Uses 8 mana dorks ([**Birds of Paradise**], [**Avacyn's Pilgrim**]) to regularly cast high-impact 3-drops on Turn 2, most notably [**Mirran Crusader**] or [**Blade Splicer**]
+- [**Mortarpod**] turns extra 1/1 tokens or Wolf tokens into repeatable pingers to remove small creatures or finish off low-life opponents, while [**Oblivion Ring**] provides flexible catch-all removal
 
 Deck
 - 3 Garruk Relentless
