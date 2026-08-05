@@ -1,5 +1,5 @@
 Reference 
-- URL_LINKS
+- https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_World_Championships_Modern_format_undefeated_deck_by_Nakamura_Shuuhei.png
 
 Format
 - CARD_SET
