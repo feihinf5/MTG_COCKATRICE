@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 White Weenie.cod</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Pro Tour Amsterdam 2010 winning deck by Paul Rietzl</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Arid Mesa" setShortName="ZEN" collectorNumber="211" uuid="16c8d2fa-54a7-46e8-980c-905258497c90"/>
+        <card number="4" name="Flagstones of Trokair" setShortName="TSP" collectorNumber="272" uuid="ad23cd0e-6871-4ba6-b5bf-cfd14f8f71b2"/>
+        <card number="1" name="Horizon Canopy" setShortName="FUT" collectorNumber="177" uuid="d5dfc25d-a17b-4ead-9484-e8a18b8fa176"/>
+        <card number="4" name="Marsh Flats" setShortName="ZEN" collectorNumber="219" uuid="45026d57-0324-4312-8b86-2e7d4f581ee9"/>
+        <card number="1" name="Plains" setShortName="TSP" collectorNumber="282" uuid="cd9a8337-e4ca-458d-8fcd-672d8d6f1c0d"/>
+        <card number="1" name="Plains" setShortName="TSP" collectorNumber="283" uuid="97e0aaf3-eba0-445e-b560-f889b800e6b7"/>
+        <card number="1" name="Plains" setShortName="TSP" collectorNumber="284" uuid="d056a94a-a07d-4494-a75c-b3f6f59457b3"/>
+        <card number="1" name="Plains" setShortName="TSP" collectorNumber="285" uuid="fa21cca2-59cb-4223-b67b-1a8fc54aadd8"/>
+        <card number="1" name="Plains" setShortName="10E" collectorNumber="364" uuid="7cfd53b2-3991-4a57-81b5-46618aecce4a"/>
+        <card number="1" name="Plains" setShortName="10E" collectorNumber="365" uuid="c95e9696-6e9d-462a-a40e-117df77e3909"/>
+        <card number="1" name="Plains" setShortName="10E" collectorNumber="366" uuid="7f2db9b8-648f-4c7f-bd58-1069a1417a22"/>
+        <card number="1" name="Plains" setShortName="10E" collectorNumber="367" uuid="f0b68c00-59ed-410f-87fe-b411f07662e3"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="282" uuid="b8e41010-a7d2-4e78-8f7b-502347f8c47d"/>
+        <card number="1" name="Plains" setShortName="LRW" collectorNumber="283" uuid="6e5db4d0-61f4-4cc6-89c4-02a2060b556d"/>
+        <card number="4" name="Honor of the Pure" setShortName="M10" collectorNumber="16" uuid="35a40f09-d16a-43c7-b4fd-244f45883a47"/>
+        <card number="4" name="Brave the Elements" setShortName="ZEN" collectorNumber="4" uuid="c14c492d-3fd7-4b2a-910e-bfcb33752eba"/>
+        <card number="2" name="Mana Tithe" setShortName="PLC" collectorNumber="25" uuid="7d48d622-f397-4f31-b1a5-0c23f60aa71c"/>
+        <card number="1" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="4" name="Spectral Procession" setShortName="SHM" collectorNumber="23" uuid="5e26bd0c-5ec7-4653-8e63-747157c20af1"/>
+        <card number="4" name="Ethersworn Canonist" setShortName="ALA" collectorNumber="10" uuid="2aebe7a8-b982-4be4-83ca-3594e8f606b4"/>
+        <card number="4" name="Figure of Destiny" setShortName="EVE" collectorNumber="139" uuid="0da69523-cece-425a-b08a-fb27fac29374"/>
+        <card number="4" name="Knight of the White Orchid" setShortName="ALA" collectorNumber="16" uuid="642c6354-4dab-45c9-a1a6-57bd16f16e30"/>
+        <card number="2" name="Ranger of Eos" setShortName="ALA" collectorNumber="21" uuid="1a30ee26-5f78-4ac2-9105-1baa9ece8a21"/>
+        <card number="4" name="Steppe Lynx" setShortName="ZEN" collectorNumber="36" uuid="b0aaec1c-8084-4468-82e7-2e4cc5ebe244"/>
+        <card number="4" name="Student of Warfare" setShortName="ROE" collectorNumber="47" uuid="9f4df9be-324b-458a-9379-ab4aa437a6d2"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Angel's Grace" setShortName="TSP" collectorNumber="3" uuid="580cb5be-fa59-4eb9-8808-7d2943fb6413"/>
+        <card number="1" name="Celestial Purge" setShortName="CON_" collectorNumber="5" uuid="31c404e8-1241-4675-b259-fbbf1dba15c4"/>
+        <card number="1" name="Lapse of Certainty" setShortName="CON_" collectorNumber="9" uuid="ec609036-dfbf-47de-9a3a-762aea4196d4"/>
+        <card number="2" name="Rule of Law" setShortName="10E" collectorNumber="37" uuid="1529ebe9-c809-4c84-9096-1fa05388b660"/>
+        <card number="3" name="Burrenton Forge-Tender" setShortName="LRW" collectorNumber="7" uuid="c000c3e4-d71a-43c8-8ded-f3da54bc088d"/>
+        <card number="4" name="Relic of Progenitus" setShortName="ALA" collectorNumber="218" uuid="90c41192-64ef-43aa-9af0-75f0d3f56688"/>
+        <card number="3" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+    </zone>
+</cockatrice_deck>
