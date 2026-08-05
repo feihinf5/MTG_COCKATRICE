@@ -180,4 +180,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - World Championships 2011 Andrew Roistan（BloodyZoo https://web.archive.org/web/20171029061246/https://magic.wizards.com/en/articles/archive/event-coverage/modern-deck-lists-4-2-record-or-better-2011-11-20-0
 - World Championships 2011 Scott Richards (青赤緑Delver) https://web.archive.org/web/20171029061246/https://magic.wizards.com/en/articles/archive/event-coverage/modern-deck-lists-4-2-record-or-better-2011-11-20-0
 - World Championships 2011 中村修平 (ヤソコン) https://web.archive.org/web/20171029061246/https://magic.wizards.com/en/articles/archive/event-coverage/modern-deck-lists-4-2-record-or-better-2011-11-20-0
-- World Championships 2011 Kuo Tzu-Ching (赤単親和) https://web.archive.org/web/20171029061246/https://magic.wizards.com/en/articles/archive/event-coverage/modern-deck-lists-4-2-record-or-better-2011-11-20-0
