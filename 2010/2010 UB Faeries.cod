@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2010 UB Faeries</deckname>
+    <format></format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2010 Extended format top deck by Jonathan Randle</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Creeping Tar Pit" setShortName="WWK" collectorNumber="134" uuid="0f427f0b-034c-4821-8758-e395c0042d8a"/>
+        <card number="4" name="Darkslick Shores" setShortName="SOM" collectorNumber="226" uuid="e530388b-eb19-4211-abd8-8a4c3c38c3af"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="286" uuid="5885738f-a51d-418c-b194-0ba8ef6af556"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="287" uuid="24ffadeb-cf20-4da9-a140-1fdcc7484c7a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="288" uuid="d714d196-8cbc-4b53-8219-21044a017bce"/>
+        <card number="4" name="Mutavault" setShortName="MOR" collectorNumber="148" uuid="8ca3c48b-f104-4292-9a4e-2ce87a65893c"/>
+        <card number="4" name="Secluded Glen" setShortName="LRW" collectorNumber="271" uuid="9e4afa65-7933-4a64-b50f-a9a9f832b112"/>
+        <card number="3" name="Sunken Ruins" setShortName="SHM" collectorNumber="280" uuid="9d91a31c-b70a-45bd-a8dd-48d49b277f24"/>
+        <card number="1" name="Swamp" setShortName="LRW" collectorNumber="290" uuid="4f799604-bbbf-4d57-83c8-13a0eafa974e"/>
+        <card number="1" name="Swamp" setShortName="LRW" collectorNumber="291" uuid="8f9dc477-a3e4-4fc0-af62-c8b8eb68d360"/>
+        <card number="1" name="Swamp" setShortName="LRW" collectorNumber="292" uuid="1e4ad69e-843c-4f33-be2f-711568f8aac7"/>
+        <card number="1" name="Tectonic Edge" setShortName="WWK" collectorNumber="145" uuid="fdcf5c0f-9d18-406d-a930-c179a781264f"/>
+        <card number="4" name="Bitterblossom" setShortName="MOR" collectorNumber="58" uuid="8145fed6-6b51-420a-84cf-4ea5e0aa1883"/>
+        <card number="3" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="3" name="Disfigure" setShortName="ZEN" collectorNumber="87" uuid="b3842ad2-a449-4963-8c96-276554125757"/>
+        <card number="1" name="Doom Blade" setShortName="M10" collectorNumber="93" uuid="6e19acff-f3dd-417a-a9ab-ea3e36c1ba61"/>
+        <card number="4" name="Mana Leak" setShortName="M11" collectorNumber="62" uuid="a7c7757d-8036-4b33-a1cb-07795d392588"/>
+        <card number="2" name="Smother" setShortName="WWK" collectorNumber="68" uuid="09b4deea-c077-46ab-898f-41b3907ecf33"/>
+        <card number="1" name="Inquisition of Kozilek" setShortName="ROE" collectorNumber="115" uuid="6a3ff5c3-0fdb-4d54-b4e5-ce7bad9953f0"/>
+        <card number="4" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+        <card number="4" name="Mistbind Clique" setShortName="LRW" collectorNumber="75" uuid="cfc421e2-0dd4-4bdf-b5f5-a60c4b0df63b"/>
+        <card number="4" name="Spellstutter Sprite" setShortName="LRW" collectorNumber="89" uuid="4e5ba4a9-a282-4d4b-b25a-179e05e458f4"/>
+        <card number="3" name="Vendilion Clique" setShortName="MOR" collectorNumber="55" uuid="f53d8540-fb6d-4d4c-b467-ebfbfa53c880"/>
+        <card number="2" name="Jace, the Mind Sculptor" setShortName="WWK" collectorNumber="31" uuid="0e606072-a3aa-4300-ba90-ec92a721fa76"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Infest" setShortName="ALA" collectorNumber="80" uuid="fb9dd080-5e13-4334-8614-8eec41ae89c2"/>
+        <card number="1" name="Jace Beleren" setShortName="LRW" collectorNumber="71" uuid="cdffb058-1af0-41bb-956a-ae10e092c389"/>
+        <card number="1" name="Jace Beleren" setShortName="M11" collectorNumber="58" uuid="441af393-2f70-4765-ae95-730c1e1d864f"/>
+        <card number="2" name="Glen Elendra Archmage" setShortName="EVE" collectorNumber="22" uuid="09516d3d-e6c2-4359-af2a-a4aa244ca033"/>
+        <card number="2" name="Ratchet Bomb" setShortName="SOM" collectorNumber="196" uuid="c3db7645-20b9-4884-849b-a7d4b6d3aa00"/>
+        <card number="2" name="Wurmcoil Engine" setShortName="SOM" collectorNumber="223" uuid="33672990-4860-4aa6-ac1b-f9da66f5da59"/>
+        <card number="3" name="Wall of Tanglecord" setShortName="SOM" collectorNumber="222" uuid="792e2aed-ce6e-4fa1-a31c-a4574e5cf1f5"/>
+        <card number="1" name="Disfigure" setShortName="ZEN" collectorNumber="87" uuid="b3842ad2-a449-4963-8c96-276554125757"/>
+        <card number="1" name="Tectonic Edge" setShortName="WWK" collectorNumber="145" uuid="fdcf5c0f-9d18-406d-a930-c179a781264f"/>
+    </zone>
+</cockatrice_deck>
