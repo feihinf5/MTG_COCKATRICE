@@ -177,4 +177,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - The Finals11 Masuno, Ryosuke Bant Hexproof https://web.archive.org/web/20160807234201/http://coverage.mtg-jp.com/finals11/decklist/000991/
 - The Finals11 岡田尚也 （青黒感染 https://web.archive.org/web/20160807131437/http://coverage.mtg-jp.com/finals11/decklist/000973/
 - World Championships 2011 彌永淳也（赤緑ケッシグ/神秘の指導コントロール）https://web.archive.org/web/20171029062257/https://magic.wizards.com/en/articles/archive/event-coverage/top-8-decklists-2011-11-19-0
-- World Championships 2011 Andrew Roistan（BloodyZoo https://web.archive.org/web/20171029061246/https://magic.wizards.com/en/articles/archive/event-coverage/modern-deck-lists-4-2-record-or-better-2011-11-20-0
