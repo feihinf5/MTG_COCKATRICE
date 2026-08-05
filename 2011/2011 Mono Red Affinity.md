@@ -6,6 +6,13 @@ Format
 
 Note
 - World Championships 2011 undefeated Modern deck by Tzu-ching Kuo
+- eatures Cranial Plating, which equips to evasive flyers (Vault Skirge, Blinkmoth Nexus, Inkmoth Nexus, Signal Pest) to deal massive damage based on total artifact count.
+
+Dual Fling/Sacrifice Combo Finishers:
+
+    Atog and Arcbound Ravager feed on spare artifacts to instantly grow to lethal size.
+
+    Combines with Shrapnel Blast (5 damage to the face) or Galvanic Blast (4 damage for 1 mana with Metalcraft) to burn the opponent out from high life totals.
 
 Deck
 - 3 Vault Skirge
