@@ -2,7 +2,7 @@ Reference
 - https://github.com/feihinf5/MTG_COCKATRICE/blob/main/References/2011_World_Championships_undefeated_Modern_deck_by_Tzu-ching_Kuo.png
 
 Format
-- LEA <--> ISD
+- 8ED <--> ISD
 
 Note
 - World Championships 2011 undefeated Modern deck by Tzu-ching Kuo
