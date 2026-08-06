@@ -1,4 +1,5 @@
 ## 2011
+- https://web.archive.org/web/20160807131437/http://coverage.mtg-jp.com/finals11/decklist/000973/
 - https://web.archive.org/web/20171029062257/https://magic.wizards.com/en/articles/archive/event-coverage/top-8-decklists-2011-11-19-0
 - https://web.archive.org/web/20171029061246/https://magic.wizards.com/en/articles/archive/event-coverage/modern-deck-lists-4-2-record-or-better-2011-11-20-0
 - https://web.archive.org/web/20160303194013/http://magic.wizards.com/en/events/coverage/gphir11
