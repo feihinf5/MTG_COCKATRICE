@@ -10,6 +10,9 @@ Format
 
 Note
 - The Finals11 winning deck by Okada Naoya
+- Uses cantrips ([**Ponder**], [**Gitaxian Probe**]) and self-mill ([**Forbidden Alchemy**]) to rapidly stock the graveyard with instants and sorceries
+- Equipping [**Runechanter's Pike**] onto an unblockable [**Blighted Agent**] or a resilient [**Phyrexian Crusader**] instantly turns small infect threats into one or two-shot lethal attackers
+- Features [**Corrupted Conscience**] to steal an opponent's high-power threat and grant it Infect for a surprise turnabout kill
 
 Deck
 - 6 Island
