@@ -172,4 +172,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
-- The Finals11 Imai, Satoshi Jund https://web.archive.org/web/20160807234201/http://coverage.mtg-jp.com/finals11/decklist/000991/
