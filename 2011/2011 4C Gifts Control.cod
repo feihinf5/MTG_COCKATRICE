@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2011 4C Gifts Control</deckname>
+    <format>modern</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>World Championships 2011 Modern format undefeated deck by Nakamura Shuuhei</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Blood Crypt" setShortName="DIS" collectorNumber="171" uuid="f281e16f-0fe1-4095-bd63-0a4479f75c11"/>
+        <card number="1" name="Breeding Pool" setShortName="DIS" collectorNumber="172" uuid="b98b2a35-ec2b-47fe-903d-dd292e469a3c"/>
+        <card number="1" name="Darkslick Shores" setShortName="SOM" collectorNumber="226" uuid="e530388b-eb19-4211-abd8-8a4c3c38c3af"/>
+        <card number="1" name="Forest" setShortName="8ED" collectorNumber="347" uuid="ac82d07b-f8f2-4cdd-b799-98d4dc228e5c"/>
+        <card number="1" name="Graven Cairns" setShortName="SHM" collectorNumber="272" uuid="c355bf63-f456-43ad-a6df-6c2a17511f43"/>
+        <card number="1" name="Graven Cairns" setShortName="FUT" collectorNumber="175" uuid="81e7d329-ef6a-45f3-82b6-37a3606c00bc"/>
+        <card number="4" name="Grove of the Burnwillows" setShortName="FUT" collectorNumber="176" uuid="e0b4d4b1-6e25-4c4b-a21a-1b7b1c1d6452"/>
+        <card number="1" name="Island" setShortName="8ED" collectorNumber="335" uuid="4146a316-c409-4121-931f-1d3b5ae63675"/>
+        <card number="2" name="Misty Rainforest" setShortName="ZEN" collectorNumber="220" uuid="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787"/>
+        <card number="1" name="Overgrown Tomb" setShortName="RAV" collectorNumber="279" uuid="fce07335-cc78-4683-b2f0-9c98a06ea1d8"/>
+        <card number="1" name="Stomping Ground" setShortName="GPT" collectorNumber="165" uuid="a2773d8f-f906-475d-aaff-b7ca3b01f188"/>
+        <card number="1" name="Swamp" setShortName="8ED" collectorNumber="339" uuid="066b5162-8724-4df3-a3d5-274036d0049d"/>
+        <card number="1" name="Swamp" setShortName="8ED" collectorNumber="340" uuid="22687920-e310-4122-a01d-2aff720d2071"/>
+        <card number="1" name="Tectonic Edge" setShortName="WWK" collectorNumber="145" uuid="fdcf5c0f-9d18-406d-a930-c179a781264f"/>
+        <card number="2" name="Twilight Mire" setShortName="EVE" collectorNumber="180" uuid="ff619a09-4fe5-4341-9077-88a0a9f4fbf9"/>
+        <card number="3" name="Verdant Catacombs" setShortName="ZEN" collectorNumber="229" uuid="7abd2723-2851-4f1a-b2d0-dfcb526472c3"/>
+        <card number="1" name="Watery Grave" setShortName="RAV" collectorNumber="286" uuid="139b90cd-8272-457a-be32-1298145345be"/>
+        <card number="2" name="Engineered Explosives" setShortName="5DN" collectorNumber="118" uuid="8492a272-e595-4f94-a6eb-08d29f211fd6"/>
+        <card number="1" name="Doom Blade" setShortName="M10" collectorNumber="93" uuid="6e19acff-f3dd-417a-a9ab-ea3e36c1ba61"/>
+        <card number="4" name="Gifts Ungiven" setShortName="CHK" collectorNumber="62" uuid="32b91eb5-ea53-4a21-a2e5-9c545a42fa30"/>
+        <card number="1" name="Go for the Throat" setShortName="MBS" collectorNumber="43" uuid="1c665cfc-7e9a-444b-96b5-e8e4ef57a98a"/>
+        <card number="3" name="Punishing Fire" setShortName="ZEN" collectorNumber="142" uuid="56e76f1c-5a07-455a-a3df-4c45b5b25b82"/>
+        <card number="1" name="Smother" setShortName="WWK" collectorNumber="68" uuid="09b4deea-c077-46ab-898f-41b3907ecf33"/>
+        <card number="2" name="Thirst for Knowledge" setShortName="MRD" collectorNumber="53" uuid="0ff1f608-203e-4413-8753-37fc49731c87"/>
+        <card number="1" name="All Suns' Dawn" setShortName="5DN" collectorNumber="81" uuid="cefabea5-b6f0-46f4-a1a5-037c2482b979"/>
+        <card number="1" name="Consuming Vapors" setShortName="ROE" collectorNumber="101" uuid="008de17e-aa79-4d4c-ab66-d516eca49e42"/>
+        <card number="2" name="Damnation" setShortName="PLC" collectorNumber="85" uuid="26c68473-70ca-40ba-b5c6-71ec30f88a2c"/>
+        <card number="1" name="Duress" setShortName="M10" collectorNumber="96" uuid="d759602b-38c9-42fe-902a-0e696ccbdf13"/>
+        <card number="2" name="Inquisition of Kozilek" setShortName="ROE" collectorNumber="115" uuid="6a3ff5c3-0fdb-4d54-b4e5-ce7bad9953f0"/>
+        <card number="1" name="Life from the Loam" setShortName="RAV" collectorNumber="172" uuid="7ac16d09-8bc7-407c-a757-666f4707bc90"/>
+        <card number="1" name="Raven's Crime" setShortName="EVE" collectorNumber="41" uuid="7ced5797-5de0-43ca-9dc9-e48912333a70"/>
+        <card number="1" name="Rude Awakening" setShortName="5DN" collectorNumber="92" uuid="0164e2ed-b722-4a7d-a4fb-5401af008cbf"/>
+        <card number="2" name="Eternal Witness" setShortName="5DN" collectorNumber="86" uuid="c7e10ca7-1e5d-4224-82cf-798a4d436d72"/>
+        <card number="2" name="Kitchen Finks" setShortName="SHM" collectorNumber="229" uuid="7d203208-8a21-4c68-afa2-4efd8726f026"/>
+        <card number="4" name="Sakura-Tribe Elder" setShortName="CHK" collectorNumber="239" uuid="91c7707a-bae0-4196-bf26-d276f57b7369"/>
+        <card number="1" name="Snapcaster Mage" setShortName="ISD" collectorNumber="78" uuid="9e5b279e-4670-4a1e-87d0-3cab7e4f9e58"/>
+        <card number="3" name="Liliana of the Veil" setShortName="ISD" collectorNumber="105" uuid="ac506c17-adc8-49c6-9d8d-43db7cb1ec9d"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Obstinate Baloth" setShortName="M11" collectorNumber="188" uuid="6694496c-45b9-4ddf-bfcd-b632441b8811"/>
+        <card number="4" name="Tarmogoyf" setShortName="FUT" collectorNumber="153" uuid="b6876d9e-0908-43ac-8542-09c7aa02b5ba"/>
+        <card number="2" name="Seal of Primordium" setShortName="PLC" collectorNumber="153" uuid="b2ba91ee-1f8e-47db-bb2d-bbb62039db17"/>
+        <card number="2" name="Combust" setShortName="M11" collectorNumber="130" uuid="cf23a422-25a7-4c8a-9cff-24563ec20ea7"/>
+        <card number="1" name="Ancient Grudge" setShortName="ISD" collectorNumber="127" uuid="e5e7b966-7c5b-44e6-a6df-4bd7af4edaa9"/>
+        <card number="1" name="Ancient Grudge" setShortName="TSP" collectorNumber="143" uuid="89cbad1f-4f16-4d5f-a485-5bf950565216"/>
+        <card number="1" name="Extirpate" setShortName="PLC" collectorNumber="71" uuid="2608b5fc-3b58-4b02-aef1-35d885b16b01"/>
+        <card number="3" name="Thoughtseize" setShortName="LRW" collectorNumber="145" uuid="3df8c148-e87d-4043-9d8b-ec72bf8b6d5d"/>
+    </zone>
+</cockatrice_deck>
