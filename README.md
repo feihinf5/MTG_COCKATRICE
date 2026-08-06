@@ -175,4 +175,3 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - The Finals11 Imai, Satoshi Jund https://web.archive.org/web/20160807234201/http://coverage.mtg-jp.com/finals11/decklist/000991/
 - The Finals11 Ueda, Katsuya Naya Punishing Zoo https://web.archive.org/web/20160807234201/http://coverage.mtg-jp.com/finals11/decklist/000991/
 - The Finals11 Masuno, Ryosuke Bant Hexproof https://web.archive.org/web/20160807234201/http://coverage.mtg-jp.com/finals11/decklist/000991/
-- The Finals11 岡田尚也 （青黒感染 https://web.archive.org/web/20160807131437/http://coverage.mtg-jp.com/finals11/decklist/000973/
