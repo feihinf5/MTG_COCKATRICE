@@ -5,7 +5,7 @@ Format
 - CARD_SET
 
 Note
-- The Finals11 4-0 Modern format deck by Masuno Ryosuke
+- The Finals11 Modern format 4-0 deck by Masuno Ryosuke
 
 Deck
 - NUMBER_OF_CARD MAINBOARD_DECK_LIST
