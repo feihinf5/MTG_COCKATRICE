@@ -6,6 +6,9 @@ Format
 
 Note
 - The Finals11 Modern format 4-0 deck by Masuno Ryosuke
+- Core threats like [**Geist of Saint Traft**], [**Troll Ascetic**] and [**Thrun, the Last Troll**] feature Hexproof, rendering single-target removal spells like completely useless against them
+- Stacks powerful Auras ([**Angelic Destiny**]) and Planeswalkers ([**Elspeth, Knight-Errant**]) onto untargetable threats, quickly creating flying, high-power attackers that opponents cannot easily interact with
+- Uses [**Worship**] combined with hard-to-kill hexproof/regenerating creatures creates an instant soft-lock where your life total cannot drop below 1
 
 Deck
 - 1 Forest
