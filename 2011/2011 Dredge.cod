@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2011 Dredge</deckname>
+    <format>vintage</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2011 Vintage Championship winning deck by Mark Hornung</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Cabal Therapy" setShortName="JUD" collectorNumber="62" uuid="0a5df970-c6ba-4824-b8ba-67244aec2b82"/>
+        <card number="1" name="Lion's Eye Diamond" setShortName="MIR" collectorNumber="307" uuid="63bacc32-d6ba-420c-9b49-299c08e5fb39"/>
+        <card number="1" name="Lotus Petal" setShortName="TMP" collectorNumber="294" uuid="6c877da3-68fa-41d0-8a24-8c79fcd8ecc1"/>
+        <card number="1" name="Mox Sapphire" setShortName="LEA" collectorNumber="265" uuid="82da0972-b17b-4600-9efd-e9430a0db04b"/>
+        <card number="4" name="Serum Powder" setShortName="DST" collectorNumber="138" uuid="8330afd6-f43a-4955-a704-8f2b963cd0c6"/>
+        <card number="3" name="Dread Return" setShortName="TSP" collectorNumber="104" uuid="d7e304fc-0ace-459e-8d2f-376f1899639c"/>
+        <card number="4" name="Bridge from Below" setShortName="FUT" collectorNumber="81" uuid="52c44610-6d4b-4c14-839f-2c085badec90"/>
+        <card number="1" name="Black Lotus" setShortName="LEA" collectorNumber="232" uuid="b0faa7f2-b547-42c4-a810-839da50dadfe"/>
+        <card number="1" name="Ancestral Recall" setShortName="LEA" collectorNumber="47" uuid="70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b"/>
+        <card number="4" name="Bloodghast" setShortName="ZEN" collectorNumber="83" uuid="63870c81-63bf-4a9a-aeb5-74c6eaded9f1"/>
+        <card number="3" name="Fatestitcher" setShortName="ALA" collectorNumber="43" uuid="7e4becff-8280-4e29-a370-bf82fb6734d5"/>
+        <card number="1" name="Flame-Kin Zealot" setShortName="RAV" collectorNumber="206" uuid="aec53f16-5bf7-4ef5-b83e-9e36463d1640"/>
+        <card number="4" name="Golgari Grave-Troll" setShortName="RAV" collectorNumber="167" uuid="f61b50e6-2166-435d-bf48-c4a0cff9999c"/>
+        <card number="2" name="Golgari Thug" setShortName="RAV" collectorNumber="87" uuid="87c39e21-3e2f-4cbf-9f99-69e977924a73"/>
+        <card number="2" name="Ichorid" setShortName="TOR" collectorNumber="65" uuid="97431dca-54ca-47ef-ab00-943140e8e758"/>
+        <card number="4" name="Narcomoeba" setShortName="FUT" collectorNumber="54" uuid="f76b3746-2e2c-4560-a2d2-e7b5b92833b2"/>
+        <card number="4" name="Stinkweed Imp" setShortName="RAV" collectorNumber="107" uuid="628903a0-6695-4643-80f3-9a6efc4d6a27"/>
+        <card number="2" name="Sun Titan" setShortName="M11" collectorNumber="35" uuid="d8db2b8e-dce9-49b7-833f-381ee55288cb"/>
+        <card number="1" name="Sun Titan" setShortName="M12" collectorNumber="39" uuid="ea3e77ed-9015-4407-b78c-494e46b67b07"/>
+        <card number="4" name="Bazaar of Baghdad" setShortName="ARN" collectorNumber="70" uuid="ff37b863-f8c4-4584-8cc2-ac0e096e583f"/>
+        <card number="1" name="City of Brass" setShortName="ARN" collectorNumber="71" uuid="f4e32327-380d-471e-813b-4c27477787ce"/>
+        <card number="1" name="City of Brass" setShortName="CHR" collectorNumber="112" uuid="61e9c770-f05b-40df-a01f-82b734db1733"/>
+        <card number="1" name="City of Brass" setShortName="5ED" collectorNumber="413" uuid="56816a2d-4faa-4fbd-bf1a-35fa3e90ccf6"/>
+        <card number="2" name="Dakmor Salvage" setShortName="FUT" collectorNumber="169" uuid="8f7f06e8-d8ee-435c-965c-8e1302a8ec10"/>
+        <card number="4" name="Undiscovered Paradise" setShortName="VIS" collectorNumber="167" uuid="5f6e8830-5e62-4945-8b73-60f0628d38e7"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Elesh Norn, Grand Cenobite" setShortName="NPH" collectorNumber="9" uuid="b66390d6-1649-4bfa-92d3-77664650d552"/>
+        <card number="1" name="Ancient Grudge" setShortName="ISD" collectorNumber="127" uuid="e5e7b966-7c5b-44e6-a6df-4bd7af4edaa9"/>
+        <card number="1" name="Ancient Grudge" setShortName="TSP" collectorNumber="143" uuid="89cbad1f-4f16-4d5f-a485-5bf950565216"/>
+        <card number="4" name="Chain of Vapor" setShortName="ONS" collectorNumber="73" uuid="30f6b4a2-5780-46e9-b239-459d2cf37743"/>
+        <card number="2" name="Firestorm" setShortName="WTH" collectorNumber="101" uuid="e674aa8a-668a-4345-95ee-73a0b87bbcb1"/>
+        <card number="4" name="Nature's Claim" setShortName="WWK" collectorNumber="108" uuid="64ae5a91-ac54-4222-832e-d7a740a3f7cb"/>
+        <card number="2" name="Darkblast" setShortName="RAV" collectorNumber="82" uuid="0dcaba91-06d3-4492-9e07-36a1b858ca47"/>
+    </zone>
+</cockatrice_deck>
