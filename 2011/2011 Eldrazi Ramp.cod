@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2011 Eldrazi Ramp</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2011 British National Championship winning deck by Daniel Royde</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Green Sun's Zenith" setShortName="MBS" collectorNumber="81" uuid="02335747-54e3-4827-ae19-4e362863da9b"/>
+        <card number="2" name="Summoning Trap" setShortName="ZEN" collectorNumber="184" uuid="72ce4a96-9cb2-4032-9291-7fa0849aeab9"/>
+        <card number="2" name="Garruk Wildspeaker" setShortName="M11" collectorNumber="175" uuid="0135ada3-e5ae-4382-a717-872839bf1d5a"/>
+        <card number="1" name="Beast Within" setShortName="NPH" collectorNumber="103" uuid="ce5b6d19-22e3-4f57-8f4d-a17e982286c7"/>
+        <card number="1" name="Artisan of Kozilek" setShortName="ROE" collectorNumber="2" uuid="3ac80eb8-321d-476a-87e7-d25bdac6a91c"/>
+        <card number="1" name="Obstinate Baloth" setShortName="BRO" collectorNumber="187" uuid="e1b7809f-f3a3-439e-8bae-c083842de1bf"/>
+        <card number="1" name="Emrakul, the Aeons Torn" setShortName="ROE" collectorNumber="4" uuid="67600383-bbb8-411c-b8e6-2296650bc747"/>
+        <card number="3" name="Fauna Shaman" setShortName="M11" collectorNumber="172" uuid="c685e4c3-eb7b-4b9e-9676-395d69d80974"/>
+        <card number="4" name="Joraga Treespeaker" setShortName="ROE" collectorNumber="190" uuid="1132218d-56cd-441e-9006-df3c50344491"/>
+        <card number="4" name="Overgrown Battlement" setShortName="ROE" collectorNumber="203" uuid="f2e3d197-e978-4ec6-ab69-3c5fd8ac3fc1"/>
+        <card number="2" name="Primeval Titan" setShortName="M12" collectorNumber="188" uuid="fd6ddbca-b943-49d6-b341-509bb72dd5a6"/>
+        <card number="2" name="Primeval Titan" setShortName="M11" collectorNumber="192" uuid="feee9327-b937-46ba-a2aa-6c015ab6cdd5"/>
+        <card number="2" name="Spellskite" setShortName="NPH" collectorNumber="159" uuid="1a84bada-ed6a-4e97-8a0c-05b7cb32d66f"/>
+        <card number="1" name="Terastodon" setShortName="WWK" collectorNumber="115" uuid="e66d2f62-8a4a-4e8d-93e1-5dc802684106"/>
+        <card number="1" name="Ulamog, the Infinite Gyre" setShortName="ROE" collectorNumber="12" uuid="225e3cc6-34d0-4f81-9f49-162d97e2ea59"/>
+        <card number="1" name="Viridian Corrupter" setShortName="MBS" collectorNumber="94" uuid="0cc13aee-5a74-4dab-a6af-7dc31255981d"/>
+        <card number="4" name="Eldrazi Temple" setShortName="ROE" collectorNumber="227" uuid="315924c9-77e3-405b-9bbf-852ed563c6e3"/>
+        <card number="1" name="Eye of Ugin" setShortName="WWK" collectorNumber="136" uuid="c3b21941-1b7d-4fde-8b1d-7edbd5e5b796"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="246a" uuid="c6d6876e-7d83-44bd-b721-5070f4087325"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="247a" uuid="3cfbcefd-8b2d-4b9e-a11a-18274c3a8dd2"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="248a" uuid="1908f8d2-95df-44e3-8943-568c596cd8aa"/>
+        <card number="1" name="Forest" setShortName="ZEN" collectorNumber="249a" uuid="f30f54e8-eba3-4412-a805-3a834922c260"/>
+        <card number="1" name="Forest" setShortName="M11" collectorNumber="246" uuid="e36b8794-c117-4d3d-bcde-39a3ae436f1e"/>
+        <card number="1" name="Forest" setShortName="M11" collectorNumber="247" uuid="0301f00e-481d-4dbc-8fda-528d9d4ba848"/>
+        <card number="1" name="Forest" setShortName="M11" collectorNumber="248" uuid="dee4121a-cd1f-4124-8242-f0eae8ef6580"/>
+        <card number="1" name="Forest" setShortName="M11" collectorNumber="249" uuid="83caa371-9c1d-46c7-a7c9-abcaa71ebc57"/>
+        <card number="1" name="Forest" setShortName="SOM" collectorNumber="246" uuid="34cc6a36-b551-40c7-b081-53beffbca235"/>
+        <card number="1" name="Forest" setShortName="SOM" collectorNumber="247" uuid="46c661a6-322a-4460-9d75-a2c95d1a49de"/>
+        <card number="1" name="Forest" setShortName="SOM" collectorNumber="248" uuid="798b4f41-1e33-4da6-99c1-de926297c073"/>
+        <card number="1" name="Forest" setShortName="SOM" collectorNumber="249" uuid="edb2bf35-efe6-4ad4-bf6e-55848ba71dfe"/>
+        <card number="1" name="Forest" setShortName="M12" collectorNumber="246" uuid="f6302ae7-0947-4a8d-ace4-5e6741aea9ba"/>
+        <card number="1" name="Forest" setShortName="M12" collectorNumber="247" uuid="5ac2dbbc-8bf4-45fd-a5c1-7597c885fc6b"/>
+        <card number="1" name="Forest" setShortName="M12" collectorNumber="248" uuid="e84c1369-68a2-4e67-979f-64decb6133a1"/>
+        <card number="1" name="Forest" setShortName="M12" collectorNumber="249" uuid="a793d3b8-aa7a-4679-ae28-e0ca2f265b1f"/>
+        <card number="2" name="Khalni Garden" setShortName="WWK" collectorNumber="138" uuid="1cc6a5e6-0b73-4488-8954-4b168ce7106d"/>
+        <card number="1" name="Mystifying Maze" setShortName="M11" collectorNumber="226" uuid="16e92409-d301-49f5-a8a9-acd531a928d4"/>
+        <card number="4" name="Tectonic Edge" setShortName="WWK" collectorNumber="145" uuid="fdcf5c0f-9d18-406d-a930-c179a781264f"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Obstinate Baloth" setShortName="M11" collectorNumber="188" uuid="6694496c-45b9-4ddf-bfcd-b632441b8811"/>
+        <card number="1" name="Phyrexian Revoker" setShortName="MBS" collectorNumber="122" uuid="7c7bec21-61b0-4e72-848b-82f38e1910e0"/>
+        <card number="1" name="Summoning Trap" setShortName="ZEN" collectorNumber="184" uuid="72ce4a96-9cb2-4032-9291-7fa0849aeab9"/>
+        <card number="2" name="Spellskite" setShortName="NPH" collectorNumber="159" uuid="1a84bada-ed6a-4e97-8a0c-05b7cb32d66f"/>
+        <card number="1" name="Stingerfling Spider" setShortName="M12" collectorNumber="197" uuid="3b781626-f4ce-4d00-aa7c-0e07f58f688f"/>
+        <card number="2" name="Karn Liberated" setShortName="NPH" collectorNumber="1" uuid="f9287151-95df-4f5a-b32a-4b0aea825452"/>
+        <card number="3" name="Beast Within" setShortName="NPH" collectorNumber="103" uuid="ce5b6d19-22e3-4f57-8f4d-a17e982286c7"/>
+        <card number="2" name="Dismember" setShortName="NPH" collectorNumber="57" uuid="064dfdeb-485f-473e-9fa0-8fdb7638cdc6"/>
+    </zone>
+</cockatrice_deck>
