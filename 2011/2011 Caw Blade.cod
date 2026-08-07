@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp>Thu Jun 11 21:54:43 2026</lastLoadedTimestamp>
+    <deckname>2011 Caw Blade</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Singapore 2011 winning deck by Paulo Vitor Damo da Rosa</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Jace Beleren" setShortName="M11" collectorNumber="58" uuid="441af393-2f70-4765-ae95-730c1e1d864f"/>
+        <card number="4" name="Jace, the Mind Sculptor" setShortName="WWK" collectorNumber="31" uuid="0e606072-a3aa-4300-ba90-ec92a721fa76"/>
+        <card number="1" name="Batterskull" setShortName="NPH" collectorNumber="130" uuid="cd114ec3-d286-4c70-a122-3043bc53cc88"/>
+        <card number="1" name="Sword of Feast and Famine" setShortName="MBS" collectorNumber="138" uuid="580b4818-2a01-46ad-b4d9-7d895a625bb3"/>
+        <card number="1" name="Sword of War and Peace" setShortName="NPH" collectorNumber="161" uuid="fab5bc6c-8943-4078-866a-5d02f9be0eef"/>
+        <card number="3" name="Dismember" setShortName="NPH" collectorNumber="57" uuid="064dfdeb-485f-473e-9fa0-8fdb7638cdc6"/>
+        <card number="1" name="Divine Offering" setShortName="MBS" collectorNumber="5" uuid="fe7c7a65-5a96-4986-877b-b34583092bb6"/>
+        <card number="2" name="Into the Roil" setShortName="ZEN" collectorNumber="48" uuid="5dba9972-dd8b-407b-9374-a8f0ed1a96db"/>
+        <card number="4" name="Mana Leak" setShortName="M11" collectorNumber="62" uuid="a7c7757d-8036-4b33-a1cb-07795d392588"/>
+        <card number="3" name="Spell Pierce" setShortName="ZEN" collectorNumber="67" uuid="cb3d3901-e4a6-45ab-a7b5-c65d91e1875e"/>
+        <card number="4" name="Preordain" setShortName="M11" collectorNumber="70" uuid="e3868c3d-4fcd-444b-866f-0f8e50ce7b67"/>
+        <card number="1" name="Consecrated Sphinx" setShortName="MBS" collectorNumber="21" uuid="b7f6b20c-9871-433c-8557-44493447e914"/>
+        <card number="4" name="Squadron Hawk" setShortName="M11" collectorNumber="33" uuid="beddd409-0154-45a5-a20d-833cf1b5e1f4"/>
+        <card number="4" name="Stoneforge Mystic" setShortName="WWK" collectorNumber="20" uuid="19557351-b65f-4b04-b971-66abdc07000a"/>
+        <card number="4" name="Celestial Colonnade" setShortName="WWK" collectorNumber="133" uuid="f6929259-2903-4f6f-9b06-42048fd55c6a"/>
+        <card number="3" name="Glacial Fortress" setShortName="M11" collectorNumber="225" uuid="b9d18532-2247-4e33-a760-bc42a727e9f5"/>
+        <card number="2" name="Inkmoth Nexus" setShortName="MBS" collectorNumber="145" uuid="ec50c1c3-885e-47d3-ada7-cc0edbf09df1"/>
+        <card number="1" name="Island" setShortName="ZEN" collectorNumber="237" uuid="4dc3a90f-23c4-4c54-8825-32cb17977b48"/>
+        <card number="2" name="Island" setShortName="ZEN" collectorNumber="236" uuid="551f905b-4ce0-4071-a721-7e51be14d114"/>
+        <card number="1" name="Island" setShortName="ZEN" collectorNumber="235" uuid="20b4cbcc-c394-4be3-8072-8893b48c866d"/>
+        <card number="1" name="Island" setShortName="ZEN" collectorNumber="234" uuid="efd86f2a-bd28-4731-838d-78e67be8b49e"/>
+        <card number="1" name="Plains" setShortName="ZEN" collectorNumber="233" uuid="e9646663-ba93-446b-ad83-71503924e7f8"/>
+        <card number="1" name="Plains" setShortName="ZEN" collectorNumber="232" uuid="36446ad6-8bf0-4e4e-bbab-379c22dbf4f6"/>
+        <card number="1" name="Plains" setShortName="ZEN" collectorNumber="231" uuid="6b362e9b-8d25-405e-b70e-f3c9533627a7"/>
+        <card number="1" name="Plains" setShortName="ZEN" collectorNumber="230" uuid="bc4f4b6d-ff35-4b1f-974b-f39569e6b3c7"/>
+        <card number="4" name="Seachrome Coast" setShortName="SOM" collectorNumber="229" uuid="99939b90-e88c-4c2f-ba78-56d455611703"/>
+        <card number="4" name="Tectonic Edge" setShortName="WWK" collectorNumber="145" uuid="fdcf5c0f-9d18-406d-a930-c179a781264f"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Batterskull" setShortName="NPH" collectorNumber="130" uuid="cd114ec3-d286-4c70-a122-3043bc53cc88"/>
+        <card number="1" name="Day of Judgment" setShortName="ZEN" collectorNumber="9" uuid="2aa98fca-972b-46c2-bdec-6ace35c988d5"/>
+        <card number="1" name="Celestial Purge" setShortName="M11" collectorNumber="9" uuid="c69ffb67-0454-48b1-8043-e7f8fb12bb54"/>
+        <card number="2" name="Condemn" setShortName="M11" collectorNumber="11" uuid="cfae21b5-aff2-4191-aa42-d756209beaaa"/>
+        <card number="1" name="Deprive" setShortName="ROE" collectorNumber="59" uuid="2efecdd9-bd3a-4b79-92da-6485589d5bde"/>
+        <card number="1" name="Dismember" setShortName="NPH" collectorNumber="57" uuid="064dfdeb-485f-473e-9fa0-8fdb7638cdc6"/>
+        <card number="2" name="Divine Offering" setShortName="MBS" collectorNumber="5" uuid="fe7c7a65-5a96-4986-877b-b34583092bb6"/>
+        <card number="2" name="Flashfreeze" setShortName="M11" collectorNumber="53" uuid="4dc68a06-9d79-4be8-b4ce-ecd4d0e4ce29"/>
+        <card number="3" name="Oust" setShortName="ROE" collectorNumber="40" uuid="07313dd3-d0dc-40ca-98a3-fa4d39e5bcae"/>
+        <card number="1" name="Sun Titan" setShortName="M11" collectorNumber="35" uuid="d8db2b8e-dce9-49b7-833f-381ee55288cb"/>
+    </zone>
+</cockatrice_deck>
