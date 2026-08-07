@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2011 Merfolk</deckname>
+    <format>legacy</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>2011 Legacy Championship winning deck by Jared Kohler</comments>
+    <tags/>
+    <zone name="main">
+        <card number="3" name="Daze" setShortName="NEM" collectorNumber="30" uuid="d03bff25-0d5e-4dcf-8d75-6df846afea3b"/>
+        <card number="1" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="4" name="Force of Will" setShortName="ALL" collectorNumber="28" uuid="9a879b60-4381-447d-8a5a-8e0b6a1d49ca"/>
+        <card number="4" name="Mental Misstep" setShortName="NPH" collectorNumber="38" uuid="61e9c6df-1c84-4eab-9076-a4feb6347c10"/>
+        <card number="4" name="Aether Vial" setShortName="DST" collectorNumber="91" uuid="741c479b-5e92-4837-9673-9bc72aa11d26"/>
+        <card number="4" name="Coralhelm Commander" setShortName="ROE" collectorNumber="57" uuid="4f8d1bea-58cd-4483-a70a-0330ad5ab4a1"/>
+        <card number="4" name="Cursecatcher" setShortName="SHM" collectorNumber="34" uuid="20f2bfa5-bc30-46a4-b114-9d8c5b62e197"/>
+        <card number="1" name="Lord of Atlantis" setShortName="LEA" collectorNumber="62" uuid="210c4a90-fc7a-4c76-aeaa-20a005e45386"/>
+        <card number="1" name="Lord of Atlantis" setShortName="LEB" collectorNumber="63" uuid="27d7ac1f-2243-4c70-95a4-2b7343c8d92d"/>
+        <card number="1" name="Lord of Atlantis" setShortName="2ED" collectorNumber="63" uuid="fa161987-2dd1-4efe-b934-acbd93653169"/>
+        <card number="1" name="Lord of Atlantis" setShortName="3ED" collectorNumber="64" uuid="45066539-6bc2-467f-acfb-00938ba837ef"/>
+        <card number="4" name="Merrow Reejerey" setShortName="LRW" collectorNumber="74" uuid="b57434d9-6fa5-43a6-98b9-044d2259d699"/>
+        <card number="4" name="Silvergill Adept" setShortName="LRW" collectorNumber="86" uuid="9e07a38a-2d88-4b01-9634-f24cbc8d96d6"/>
+        <card number="2" name="Sower of Temptation" setShortName="LRW" collectorNumber="88" uuid="2f5320da-7214-4348-84d8-74bf951c9f2f"/>
+        <card number="1" name="Island" setShortName="LEA" collectorNumber="288" uuid="90a57c0e-fa61-45ef-955d-d296403967d5"/>
+        <card number="1" name="Island" setShortName="LEA" collectorNumber="289" uuid="bc6ea08d-7991-4a57-a1e3-abd508426970"/>
+        <card number="1" name="Island" setShortName="LEB" collectorNumber="291" uuid="bff33e91-8e52-43f2-b8ae-603b456b08fc"/>
+        <card number="1" name="Island" setShortName="LEB" collectorNumber="292" uuid="d0c5cf64-9844-4b5b-8e6b-b97c50cce053"/>
+        <card number="1" name="Island" setShortName="LEB" collectorNumber="293" uuid="c0a612c4-b4ac-4dd2-a06e-92516599fafd"/>
+        <card number="1" name="Island" setShortName="2ED" collectorNumber="291" uuid="68271f76-eaf9-44cc-bb3d-5c56f36e9af9"/>
+        <card number="1" name="Island" setShortName="2ED" collectorNumber="292" uuid="069b4d6c-7542-4a42-8822-031f02131033"/>
+        <card number="1" name="Island" setShortName="2ED" collectorNumber="293" uuid="712dc7d6-5543-49fd-bafa-5ffb6c2bb0ce"/>
+        <card number="1" name="Island" setShortName="3ED" collectorNumber="295" uuid="22f6e971-349d-498b-ae01-ab81ce21772c"/>
+        <card number="1" name="Island" setShortName="3ED" collectorNumber="296" uuid="a000777b-e8fe-4fd6-a455-01bc9056a873"/>
+        <card number="1" name="Island" setShortName="3ED" collectorNumber="297" uuid="bec8018f-a12c-4adf-9735-c2093298062d"/>
+        <card number="1" name="Island" setShortName="4ED" collectorNumber="367" uuid="b06bbd6e-eb0d-45fc-88ef-0e085d6505ef"/>
+        <card number="1" name="Island" setShortName="4ED" collectorNumber="368" uuid="6e5e3819-3d75-40d4-9a93-1147834dfd69"/>
+        <card number="1" name="Mishra's Factory" setShortName="ATQ" collectorNumber="80a" uuid="a696c5b6-f216-454d-8029-74e84bbd1428"/>
+        <card number="4" name="Mutavault" setShortName="MOR" collectorNumber="148" uuid="8ca3c48b-f104-4292-9a4e-2ce87a65893c"/>
+        <card number="4" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Pithing Needle" setShortName="SOK" collectorNumber="158" uuid="78eb9e1d-113e-45ff-8435-32ee42fa5631"/>
+        <card number="1" name="Spell Pierce" setShortName="ZEN" collectorNumber="67" uuid="cb3d3901-e4a6-45ab-a7b5-c65d91e1875e"/>
+        <card number="1" name="Tormod's Crypt" setShortName="DRK" collectorNumber="112" uuid="0f9668ba-d26d-4484-b4b8-6fb91fbfb617"/>
+        <card number="3" name="Submerge" setShortName="NEM" collectorNumber="48" uuid="d2741fe4-37fe-427f-ae85-5107991d4eee"/>
+        <card number="2" name="Relic of Progenitus" setShortName="ALA" collectorNumber="218" uuid="90c41192-64ef-43aa-9af0-75f0d3f56688"/>
+        <card number="2" name="Llawan, Cephalid Empress" setShortName="TOR" collectorNumber="42" uuid="a9821970-a5da-4045-93d8-f58c9e5797c1"/>
+        <card number="1" name="Dismember" setShortName="NPH" collectorNumber="57" uuid="064dfdeb-485f-473e-9fa0-8fdb7638cdc6"/>
+        <card number="1" name="Energy Flux" setShortName="ATQ" collectorNumber="9" uuid="bd1f624b-e8f2-462f-838a-7cb9e8fda988"/>
+        <card number="1" name="Energy Flux" setShortName="3ED" collectorNumber="57" uuid="9c4e6d03-68d5-4275-a76c-078d0a9a2b54"/>
+        <card number="2" name="Back to Basics" setShortName="USG" collectorNumber="62" uuid="fab4cd7e-b56f-4408-a0e9-c07e040cc38f"/>
+    </zone>
+</cockatrice_deck>
