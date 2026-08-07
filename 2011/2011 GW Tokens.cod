@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2011 GW Tokens</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Hiroshima 2011 winning deck by Martin Juza</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Forest" setShortName="SOM" collectorNumber="246" uuid="34cc6a36-b551-40c7-b081-53beffbca235"/>
+        <card number="1" name="Forest" setShortName="SOM" collectorNumber="247" uuid="46c661a6-322a-4460-9d75-a2c95d1a49de"/>
+        <card number="1" name="Forest" setShortName="SOM" collectorNumber="248" uuid="798b4f41-1e33-4da6-99c1-de926297c073"/>
+        <card number="1" name="Forest" setShortName="SOM" collectorNumber="249" uuid="edb2bf35-efe6-4ad4-bf6e-55848ba71dfe"/>
+        <card number="1" name="Forest" setShortName="M12" collectorNumber="246" uuid="f6302ae7-0947-4a8d-ace4-5e6741aea9ba"/>
+        <card number="1" name="Forest" setShortName="M12" collectorNumber="247" uuid="5ac2dbbc-8bf4-45fd-a5c1-7597c885fc6b"/>
+        <card number="1" name="Forest" setShortName="M12" collectorNumber="248" uuid="e84c1369-68a2-4e67-979f-64decb6133a1"/>
+        <card number="1" name="Forest" setShortName="M12" collectorNumber="249" uuid="a793d3b8-aa7a-4679-ae28-e0ca2f265b1f"/>
+        <card number="4" name="Gavony Township" setShortName="ISD" collectorNumber="239" uuid="b5f73443-2fe8-424f-8e71-fc7ce1f3a3eb"/>
+        <card number="1" name="Plains" setShortName="HOB" collectorNumber="189" uuid="7b7c408b-8660-4db5-9a16-5003c11b4ac1"/>
+        <card number="1" name="Plains" setShortName="SOM" collectorNumber="230" uuid="a410e95b-afd0-4ac4-beb5-96163b411fe2"/>
+        <card number="1" name="Plains" setShortName="SOM" collectorNumber="231" uuid="440680d3-1eea-442a-b58e-96db09bc279e"/>
+        <card number="1" name="Plains" setShortName="SOM" collectorNumber="232" uuid="4315d5ea-eb76-4378-a3da-5d5cdad809b8"/>
+        <card number="1" name="Plains" setShortName="SOM" collectorNumber="233" uuid="e4f48ac3-f0cb-4e5c-8ea6-e423aa92ce11"/>
+        <card number="4" name="Razorverge Thicket" setShortName="SOM" collectorNumber="228" uuid="345e053a-3178-485c-8602-1624bbf2f064"/>
+        <card number="4" name="Sunpetal Grove" setShortName="M12" collectorNumber="229" uuid="0c0e02be-e41f-49b4-8393-c4cd2992e380"/>
+        <card number="2" name="Oblivion Ring" setShortName="M12" collectorNumber="27" uuid="9efc5a2a-eb76-410d-98e6-1455108faa52"/>
+        <card number="2" name="Mortarpod" setShortName="MBS" collectorNumber="115" uuid="fbd23da5-421f-41d0-bb60-59560da7dece"/>
+        <card number="3" name="Overrun" setShortName="M12" collectorNumber="186" uuid="ae0559d4-0015-44e4-8ec4-08bb1c54eec5"/>
+        <card number="4" name="Avacyn's Pilgrim" setShortName="ISD" collectorNumber="170" uuid="7eb39e97-53c2-4df0-9fb3-a3d6a24ec41f"/>
+        <card number="4" name="Birds of Paradise" setShortName="M12" collectorNumber="165" uuid="307d4236-1e54-43e3-83f1-063d49d16dda"/>
+        <card number="2" name="Blade Splicer" setShortName="NPH" collectorNumber="4" uuid="b8e56a28-713b-4a13-a601-1128cf117539"/>
+        <card number="2" name="Geist-Honored Monk" setShortName="ISD" collectorNumber="17" uuid="5d51355e-55fa-43bb-a5de-fc55ac7b6446"/>
+        <card number="4" name="Hero of Bladehold" setShortName="MBS" collectorNumber="8" uuid="8a3853ec-e307-46e0-96d7-0706b5c45c5e"/>
+        <card number="2" name="Mikaeus, the Lunarch" setShortName="ISD" collectorNumber="23" uuid="c22dc283-ea54-4344-b1ca-fd6cc05080d9"/>
+        <card number="4" name="Mirran Crusader" setShortName="MBS" collectorNumber="14" uuid="aaf7a821-3587-4aad-8411-fca5c96ab5c4"/>
+        <card number="3" name="Elspeth Tirel" setShortName="SOM" collectorNumber="6" uuid="ebe9116e-7b04-4f2a-aa67-89a42c6e1801"/>
+        <card number="3" name="Garruk Relentless" setShortName="ISD" collectorNumber="181" uuid="b4160322-ff40-41a4-887a-73cd6b85ae45"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Celestial Purge" setShortName="M12" collectorNumber="11" uuid="75f75e85-9454-4008-aa51-a1d5965752d6"/>
+        <card number="1" name="Garruk, Primal Hunter" setShortName="M12" collectorNumber="174" uuid="82d586bf-bed3-4390-b81d-d101c2ae524c"/>
+        <card number="1" name="Naturalize" setShortName="M12" collectorNumber="185" uuid="4bf9c75f-0319-416c-904a-49358f2f943c"/>
+        <card number="1" name="Naturalize" setShortName="ISD" collectorNumber="197" uuid="236f1a8c-13ab-4ab3-b11f-082054d297e5"/>
+        <card number="2" name="Sword of Feast and Famine" setShortName="MBS" collectorNumber="138" uuid="580b4818-2a01-46ad-b4d9-7d895a625bb3"/>
+        <card number="2" name="Sword of War and Peace" setShortName="NPH" collectorNumber="161" uuid="fab5bc6c-8943-4078-866a-5d02f9be0eef"/>
+        <card number="1" name="Elesh Norn, Grand Cenobite" setShortName="NPH" collectorNumber="9" uuid="b66390d6-1649-4bfa-92d3-77664650d552"/>
+        <card number="1" name="Fiend Hunter" setShortName="ISD" collectorNumber="15" uuid="f1e4c7d8-11a5-40fe-962b-7e938bf08616"/>
+        <card number="2" name="Thrun, the Last Troll" setShortName="MBS" collectorNumber="92" uuid="5d393da0-4cb6-4ae8-b747-8e6d0fa7f55a"/>
+        <card number="1" name="Garruk Relentless" setShortName="ISD" collectorNumber="181" uuid="b4160322-ff40-41a4-887a-73cd6b85ae45"/>
+        <card number="1" name="Oblivion Ring" setShortName="M12" collectorNumber="27" uuid="9efc5a2a-eb76-410d-98e6-1455108faa52"/>
+    </zone>
+</cockatrice_deck>
