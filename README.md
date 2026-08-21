@@ -172,3 +172,11 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- Pro Tour Avacyn Restored Alexander Hayne （青白奇跡コントロール）https://mtgtop8.com/event?e=2720&d=217552&f=BL
+- Grand Prix-Turin 2012 Antonino De Rosa （青赤緑Delver-Go）https://www.mtgtop8.com/event?e=2641&d=217151&f=MO
+- Grand Prix-Salt Lake City 2012 Shahar Shenhar （Delver-Blade）https://web.archive.org/web/20201112035304/https://magic.wizards.com/en/events/coverage/gpslc12
+- Grand Prix-Indianapolis 2012 Tom Martell （青白黒石鍛冶）https://www.mtgtop8.com/event?e=2589&f=LE
+- Grand Prix-Lille 2012 Richard Parker （青黒ゾンビ）https://web.archive.org/web/20181201130045/https://magic.wizards.com/en/events/coverage/gplil12#0
+- Grand Prix-Lincoln 2012 Bronson Magnan （アグロローム）https://www.mtgtop8.com/event?e=2525&d=216408&f=MO
+- Pro Tour Dark Ascention Brian Kibler （赤緑ケッシグ）https://web.archive.org/web/20161225002351/http://magic.wizards.com/en/articles/archive/event-coverage/pro-tour-dark-ascension-top-8-decks-2012-02-10
+- Grand Prix-Orlando 2012 Conley Woods （黒緑ケッシグ）https://web.archive.org/web/20130702081052/https://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/td/180
