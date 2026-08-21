@@ -172,6 +172,7 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- 2012 Legacy Championship Chris Bergeson （スニーク・ショー）https://web.archive.org/web/20140327121821/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gencon12/welcome#13
 - 2012 Vintage Championship Marc Lanigra(インビテーショナルテゼレット) https://web.archive.org/web/20140327121821/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gencon12/welcome#8
 - Grand Prix-Columbus 2012 Jacob Maynard （親和）https://web.archive.org/web/20140723074915/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpcol12/welcome#0
 - Grand Prix-Ghent 2012 Timo Schünemann （アド・ストーム）https://mtgtop8.com/event?e=2802&f=LE
