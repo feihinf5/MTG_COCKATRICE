@@ -172,6 +172,7 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- 2012 World Magic Cup
 - Innistrad Block Championship Ben Rasmussen Bant Hexproof https://web.archive.org/web/20140327121821/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gencon12/welcome#1
 - Standard Champion, 2012 Friday Night Magic Championship CJ Steele Infect https://web.archive.org/web/20140327121821/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gencon12/welcome#4
 - 2012 Legacy Championship Chris Bergeson （スニーク・ショー）https://web.archive.org/web/20140327121821/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gencon12/welcome#13
