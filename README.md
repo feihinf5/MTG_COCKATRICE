@@ -172,8 +172,8 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- Grand Prix-Manila 2012 渡辺雄也 （青白Delver-Blade）https://web.archive.org/web/20151017031720/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpmla12/welcome#0a
 - Grand Prix-Anaheim 2012 Marc Lalague （ステロイド）https://web.archive.org/web/20150906065510/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpana12/welcome#0
-- Grand Prix-Minneapolis 2012 Christian Calcano （青赤Delver-Blade）https://www.mtgtop8.com/event?e=2732&d=217662&f=ST
 - Pro Tour Avacyn Restored Alexander Hayne （青白奇跡コントロール）https://mtgtop8.com/event?e=2720&d=217552&f=BL
 - Grand Prix-Indianapolis 2012 Tom Martell （青白黒石鍛冶）https://www.mtgtop8.com/event?e=2589&f=LE
 - Grand Prix-Lille 2012 Richard Parker （青黒ゾンビ）https://web.archive.org/web/20181201130045/https://magic.wizards.com/en/events/coverage/gplil12#0
