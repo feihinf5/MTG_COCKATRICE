@@ -172,6 +172,7 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- Grand Prix-Yokohama 2012 宮島淳一 （白黒トークン）
 - Grand Prix-Manila 2012 渡辺雄也 （青白Delver-Blade）https://web.archive.org/web/20151017031720/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpmla12/welcome#0a
 - Grand Prix-Anaheim 2012 Marc Lalague （ステロイド）https://web.archive.org/web/20150906065510/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpana12/welcome#0
 - Pro Tour Avacyn Restored Alexander Hayne （青白奇跡コントロール）https://mtgtop8.com/event?e=2720&d=217552&f=BL
