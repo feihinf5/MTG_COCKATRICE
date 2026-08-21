@@ -172,6 +172,7 @@ https://api.scryfall.com/cards/REPLACE_WITH_APPROPRIATE_UUID?format=image
 - https://www.youtube.com/watch?v=qJnW4IgNsCU
 
 ## To Do
+- Grand Prix-Columbus 2012 Jacob Maynard （親和）https://web.archive.org/web/20140723074915/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpcol12/welcome#0
 - Grand Prix-Ghent 2012 Timo Schünemann （アド・ストーム）https://mtgtop8.com/event?e=2802&f=LE
 - Grand Prix-Atlanta 2012 Gaudenis Vidugiris （Canadian Threshold）https://web.archive.org/web/20150906062805/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpatl12/welcome
 - Grand Prix-Yokohama 2012 宮島淳一 （白黒トークン）https://web.archive.org/web/20150829054518/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpyok12/welcome
