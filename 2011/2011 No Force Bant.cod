@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2011 No Force Bant</deckname>
+    <format>legacy</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Providence 2011 winning deck by James Rynkiewicz</comments>
+    <tags/>
+    <zone name="main">
+        <card number="1" name="Sylvan Library" setShortName="LEG" collectorNumber="207" uuid="f486df00-7c4a-4ff0-bb0b-c8b5432ac742"/>
+        <card number="1" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="1" name="Sylvan Library" setShortName="4ED" collectorNumber="273" uuid="b1a9682c-ecca-4caa-9e5a-17874167082b"/>
+        <card number="1" name="Sword of Feast and Famine" setShortName="MBS" collectorNumber="138" uuid="580b4818-2a01-46ad-b4d9-7d895a625bb3"/>
+        <card number="2" name="Jace, the Mind Sculptor" setShortName="WWK" collectorNumber="31" uuid="0e606072-a3aa-4300-ba90-ec92a721fa76"/>
+        <card number="4" name="Green Sun's Zenith" setShortName="MBS" collectorNumber="81" uuid="02335747-54e3-4827-ae19-4e362863da9b"/>
+        <card number="1" name="Brainstorm" setShortName="MMQ" collectorNumber="61" uuid="9ff71d13-c4b7-4125-ab10-db4abbb7a074"/>
+        <card number="2" name="Brainstorm" setShortName="ICE" collectorNumber="61" uuid="8d42d7aa-7f53-4cfc-842a-086aab2448d1"/>
+        <card number="1" name="Swords to Plowshares" setShortName="LEA" collectorNumber="40" uuid="386ea9eb-abc1-4862-aa2d-8fb808d79490"/>
+        <card number="1" name="Swords to Plowshares" setShortName="LEB" collectorNumber="41" uuid="255099be-c64e-4f6a-8463-4fc058d6908d"/>
+        <card number="1" name="Swords to Plowshares" setShortName="2ED" collectorNumber="41" uuid="50fc5b10-6215-48a9-8993-b61681f61186"/>
+        <card number="1" name="Swords to Plowshares" setShortName="3ED" collectorNumber="41" uuid="057d2410-30d3-4b7a-9dc3-f2512c1cf31c"/>
+        <card number="3" name="Mental Misstep" setShortName="NPH" collectorNumber="38" uuid="61e9c6df-1c84-4eab-9076-a4feb6347c10"/>
+        <card number="1" name="Brainstorm" setShortName="5ED" collectorNumber="76" uuid="1d6603e3-0680-4ba3-951b-cd9919eefd4f"/>
+        <card number="3" name="Daze" setShortName="NEM" collectorNumber="30" uuid="d03bff25-0d5e-4dcf-8d75-6df846afea3b"/>
+        <card number="1" name="Birds of Paradise" setShortName="LEA" collectorNumber="186" uuid="55fe6449-1f23-43dc-adee-d144cd505b5c"/>
+        <card number="1" name="Forest" setShortName="LEA" collectorNumber="294" uuid="6f1c8cb0-38eb-408b-94e8-16db83999b3b"/>
+        <card number="3" name="Knight of the Reliquary" setShortName="CON_" collectorNumber="113" uuid="ad8b8518-c09e-4cb7-95b2-08e4e370d89c"/>
+        <card number="3" name="Noble Hierarch" setShortName="CON_" collectorNumber="87" uuid="6adfe928-1305-444d-b709-1e714544daaf"/>
+        <card number="2" name="Qasali Pridemage" setShortName="ARB" collectorNumber="75" uuid="75256550-bbe0-499d-909e-af10691749c2"/>
+        <card number="2" name="Stoneforge Mystic" setShortName="WWK" collectorNumber="20" uuid="19557351-b65f-4b04-b971-66abdc07000a"/>
+        <card number="1" name="Tarmogoyf" setShortName="FUT" collectorNumber="153" uuid="b6876d9e-0908-43ac-8542-09c7aa02b5ba"/>
+        <card number="2" name="Vendilion Clique" setShortName="MOR" collectorNumber="55" uuid="f53d8540-fb6d-4d4c-b467-ebfbfa53c880"/>
+        <card number="1" name="Karakas" setShortName="LEG" collectorNumber="303" uuid="31d2422a-bb7d-4cdd-9aac-e5a936a4be3b"/>
+        <card number="1" name="Maze of Ith" setShortName="DRK" collectorNumber="117" uuid="42dcceee-2a47-4eaa-a6a3-2931b3d50244"/>
+        <card number="4" name="Misty Rainforest" setShortName="ZEN" collectorNumber="220" uuid="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787"/>
+        <card number="1" name="Savannah" setShortName="LEA" collectorNumber="280" uuid="94f7e24c-2546-41b6-81ad-5e920b07e64e"/>
+        <card number="1" name="Savannah" setShortName="LEB" collectorNumber="281" uuid="0e9aeaa8-9a75-4719-992f-cbb316f72175"/>
+        <card number="1" name="Tropical Island" setShortName="LEA" collectorNumber="283" uuid="a9c6c759-aabf-44e7-ba8c-33c5df232b56"/>
+        <card number="1" name="Tropical Island" setShortName="LEB" collectorNumber="284" uuid="ac19c5a1-ca13-4443-920b-83b567167ed4"/>
+        <card number="1" name="Tropical Island" setShortName="2ED" collectorNumber="284" uuid="856bf0ba-e5a5-47eb-9a6a-111935088c31"/>
+        <card number="1" name="Tundra" setShortName="LEA" collectorNumber="284" uuid="a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb"/>
+        <card number="1" name="Tundra" setShortName="LEB" collectorNumber="285" uuid="1b93ce48-219c-49ea-9ad0-b7357bea4606"/>
+        <card number="3" name="Wasteland" setShortName="TMP" collectorNumber="330" uuid="99ff731b-8399-40c8-b539-ba6ba5783771"/>
+        <card number="4" name="Windswept Heath" setShortName="ONS" collectorNumber="328" uuid="7a7c5941-9c8a-4a40-9efb-a84f05c58e53"/>
+        <card number="1" name="Dryad Arbor" setShortName="FUT" collectorNumber="174" uuid="8cee476d-42e1-4997-87af-73e18f542167"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Umezawa's Jitte" setShortName="BOK" collectorNumber="163" uuid="3b6e5956-f795-451b-bb24-56462d1ced27"/>
+        <card number="1" name="Gaddock Teeg" setShortName="LRW" collectorNumber="248" uuid="32c16e1b-f4ce-409f-928a-42c666adac9d"/>
+        <card number="2" name="Rhox War Monk" setShortName="ALA" collectorNumber="188" uuid="19fb67e1-b791-4246-aebc-49fcf0f92c6c"/>
+        <card number="1" name="Sylvan Safekeeper" setShortName="JUD" collectorNumber="133" uuid="f1b8413f-c9fc-4cea-b416-a1fcf651b009"/>
+        <card number="1" name="Thrun, the Last Troll" setShortName="MBS" collectorNumber="92" uuid="5d393da0-4cb6-4ae8-b747-8e6d0fa7f55a"/>
+        <card number="2" name="Krosan Grip" setShortName="TSP" collectorNumber="202" uuid="59b524bb-5a18-4dda-9c45-26ce9ff0f0c1"/>
+        <card number="1" name="Mental Misstep" setShortName="NPH" collectorNumber="38" uuid="61e9c6df-1c84-4eab-9076-a4feb6347c10"/>
+        <card number="3" name="Spell Pierce" setShortName="ZEN" collectorNumber="67" uuid="cb3d3901-e4a6-45ab-a7b5-c65d91e1875e"/>
+        <card number="1" name="Path to Exile" setShortName="CON_" collectorNumber="15" uuid="29b7a8b1-b98e-483a-87a4-73bd831c03d4"/>
+        <card number="1" name="Dispel" setShortName="WWK" collectorNumber="26" uuid="f178d0cc-5dd1-41ab-a2e8-218ece6f2a86"/>
+        <card number="1" name="Bojuka Bog" setShortName="WWK" collectorNumber="132" uuid="529c38b3-7397-4dac-9859-acd9cd451c32"/>
+    </zone>
+</cockatrice_deck>
