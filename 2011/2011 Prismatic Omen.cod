@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <lastLoadedTimestamp></lastLoadedTimestamp>
+    <deckname>2011 Prismatic Omen</deckname>
+    <format>standard</format>
+    <bannerCard providerId=""></bannerCard>
+    <comments>Grand Prix-Atlanta 2011 winning deck by Jason Ford</comments>
+    <tags/>
+    <zone name="main">
+        <card number="4" name="Prismatic Omen" setShortName="SHM" collectorNumber="126" uuid="e75594cc-de47-49f2-9a8b-ba76c576368e"/>
+        <card number="1" name="Jace, the Mind Sculptor" setShortName="WWK" collectorNumber="31" uuid="0e606072-a3aa-4300-ba90-ec92a721fa76"/>
+        <card number="2" name="Mana Leak" setShortName="M11" collectorNumber="62" uuid="a7c7757d-8036-4b33-a1cb-07795d392588"/>
+        <card number="2" name="Ponder" setShortName="LRW" collectorNumber="79" uuid="ba6b6fc5-5077-4812-b8e9-906783dbaf67"/>
+        <card number="1" name="Ponder" setShortName="M10" collectorNumber="68" uuid="3c02b8ee-84cb-44cb-ba14-9e725a9d03ee"/>
+        <card number="4" name="Rampant Growth" setShortName="M10" collectorNumber="201" uuid="78472540-b085-4ee1-848c-de4631274919"/>
+        <card number="3" name="Scapeshift" setShortName="MOR" collectorNumber="136" uuid="84829605-50eb-455d-a236-ebfa11e883c5"/>
+        <card number="4" name="Preordain" setShortName="M11" collectorNumber="70" uuid="e3868c3d-4fcd-444b-866f-0f8e50ce7b67"/>
+        <card number="4" name="Explore" setShortName="WWK" collectorNumber="99" uuid="d8f81e8a-e309-4bac-81de-326756cd8901"/>
+        <card number="1" name="Firespout" setShortName="SHM" collectorNumber="205" uuid="13454f69-1458-4c03-ab02-bd697a32eb17"/>
+        <card number="4" name="Cryptic Command" setShortName="LRW" collectorNumber="56" uuid="829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba"/>
+        <card number="3" name="Oracle of Mul Daya" setShortName="ZEN" collectorNumber="172" uuid="7f89a173-0b2f-4a6a-b706-9aed8dbcabec"/>
+        <card number="4" name="Flooded Grove" setShortName="EVE" collectorNumber="177" uuid="4e45d16b-8320-4a9b-ad15-9687dfb52bed"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="298" uuid="6d3a661e-d890-4211-bc9c-8266001ebfba"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="299" uuid="081c1f03-3251-42dc-b356-3454ebdabc2e"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="301" uuid="7104a533-42df-4430-87dc-e0adeb7f2320"/>
+        <card number="1" name="Forest" setShortName="LRW" collectorNumber="300" uuid="5f608a10-6bd4-4579-a08a-f7e2da383794"/>
+        <card number="3" name="Halimar Depths" setShortName="WWK" collectorNumber="137" uuid="c5651e5e-2314-4e3d-a2c8-2579239314e1"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="286" uuid="5885738f-a51d-418c-b194-0ba8ef6af556"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="287" uuid="24ffadeb-cf20-4da9-a140-1fdcc7484c7a"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="288" uuid="d714d196-8cbc-4b53-8219-21044a017bce"/>
+        <card number="1" name="Island" setShortName="LRW" collectorNumber="289" uuid="a35d9548-f495-43ef-af66-e13a84c1f12a"/>
+        <card number="1" name="Island" setShortName="SHM" collectorNumber="286" uuid="98d84005-faac-4e02-9fea-40757b43cf03"/>
+        <card number="4" name="Misty Rainforest" setShortName="ZEN" collectorNumber="220" uuid="24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787"/>
+        <card number="1" name="Mountain" setShortName="LRW" collectorNumber="294" uuid="83beeef7-2bb5-4c3a-9be4-79a968696d65"/>
+        <card number="1" name="Scalding Tarn" setShortName="ZEN" collectorNumber="223" uuid="327cf118-cc92-4073-85d0-94d2a0a6989a"/>
+        <card number="1" name="Tectonic Edge" setShortName="WWK" collectorNumber="145" uuid="fdcf5c0f-9d18-406d-a930-c179a781264f"/>
+        <card number="4" name="Valakut, the Molten Pinnacle" setShortName="ZEN" collectorNumber="228" uuid="37bce60d-2cb0-4772-9f5c-122a7ed426a0"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Tectonic Edge" setShortName="WWK" collectorNumber="145" uuid="fdcf5c0f-9d18-406d-a930-c179a781264f"/>
+        <card number="2" name="Kitchen Finks" setShortName="SHM" collectorNumber="229" uuid="7d203208-8a21-4c68-afa2-4efd8726f026"/>
+        <card number="2" name="Vendilion Clique" setShortName="MOR" collectorNumber="55" uuid="f53d8540-fb6d-4d4c-b467-ebfbfa53c880"/>
+        <card number="1" name="Wurmcoil Engine" setShortName="SOM" collectorNumber="223" uuid="33672990-4860-4aa6-ac1b-f9da66f5da59"/>
+        <card number="2" name="Primal Command" setShortName="LRW" collectorNumber="233" uuid="40d2c5b9-cef9-4763-8e65-e3b1418c0ad3"/>
+        <card number="1" name="Obstinate Baloth" setShortName="M11" collectorNumber="188" uuid="6694496c-45b9-4ddf-bfcd-b632441b8811"/>
+        <card number="1" name="Spell Pierce" setShortName="ZEN" collectorNumber="67" uuid="cb3d3901-e4a6-45ab-a7b5-c65d91e1875e"/>
+        <card number="2" name="Firespout" setShortName="SHM" collectorNumber="205" uuid="13454f69-1458-4c03-ab02-bd697a32eb17"/>
+        <card number="1" name="Mana Leak" setShortName="M11" collectorNumber="62" uuid="a7c7757d-8036-4b33-a1cb-07795d392588"/>
+        <card number="1" name="Into the Roil" setShortName="ZEN" collectorNumber="48" uuid="5dba9972-dd8b-407b-9374-a8f0ed1a96db"/>
+        <card number="1" name="Dispel" setShortName="WWK" collectorNumber="26" uuid="f178d0cc-5dd1-41ab-a2e8-218ece6f2a86"/>
+    </zone>
+</cockatrice_deck>
